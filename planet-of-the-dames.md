@@ -1070,6 +1070,36 @@ Calamity: Suey, is that you? What time do you call this. Did you take the trash 
 
 # SONGS
 
+## Tragedy
+
+Here we are, in a lost and lonely galaxy
+Sisterhood, destroyed by her duplicity
+Layabout, she's guilty that's beyond all doubt
+And it's really got us feeling blue, feeling blue
+What do we do?
+
+Tragedy, when the make up's gone and we can't go on
+It's a tragedy, with naked eyes turning into guys
+It's hard to bear, with no blue eyeshadow, a total nightmare
+Tragedy, wigs are not enough and we're looking rough
+It's a tragedy, our stubble's grown testosterone
+It's hard to bear, with no blue eyeshadow, a total nightmare
+
+Now she's gone, we need some kind of strategy
+A masterplan, to save us from this misery
+We're superdames, we only need to use our brains
+To show the world that we are queens, we are queens, in ultramarine
+We are supreme!
+
+Tragedy, when the make up's gone and we can't go on
+It's a tragedy, with naked eyes turning into guys
+It's hard to bear, with no blue eyeshadow, a total nightmare
+Tragedy, wigs are not enough and we're looking rough
+It's a tragedy, our stubble's grown testosterone
+It's hard to bear, with no blue eyeshadow, a total nightmare
+
+## Space Oddity
+
 Ground Control to Major Tom
 Dorothy to husband Ken
 
