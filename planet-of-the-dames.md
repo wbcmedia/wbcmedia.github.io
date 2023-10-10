@@ -4,6 +4,8 @@
 
 [On the Planet of the Dames]
 
+Damebots march up aisle and then FOC "We are the Dame-Bots"
+
 Dan Lothario: {rummaging through a suitcase full of black-market stuff, pauses for a moment as he realises he's not alone, sees audience, slams case shut} I say, you frightened the life out of me. Which planet did you all come from? {maybe audience participation/banter Earth??? Never heard of it etc? Then re-opens the suitcase}. Perhaps I could interest you in some bottles of gin I've, erm, "managed to acquire". No, maybe some disposable vapes, I've got watermelon or rhubarb and beef. No, how about some genuine fake Rolex watches? No? Ah well, suit yourselves. Oh, where ARE my manners, allow me to introduce my very good self. I am Captain Dan Lothario, I'm an intergalactic business man, I deal in a bit of this, a bit of that... a bit of the other, if you understand my meaning ladies??? Oh yes, I'm very well respected across many of the most sophisticated planets around here. I've been to, oh, what's the one with the rings round it? That's right, Suttern. And that poxy little one down there... Macc-ury. Oh, and I've just come back from Uranus. I'm here to sell some of my extra special cosmetics to some exquisite ladies... Oh... here they come... wish me luck... Showtime!!! {he clicks his fingers, freezes and the lights switch to 2 Dames who enter, loudly bantering with each other, arguing over which is the most beautiful}
 
 D1: Look, I'm not being funny...
@@ -239,9 +241,9 @@ Princess Layabout: I dunno why yer all so cruel to me, you've never liked me, ne
 
 {more gasps of outrage}
 
-D3: Silence in court! I have heard the evidence and it is most damning. You are a lazy, bad-mannered, insolent young lady. And following this disgraceful crime you appear to show no remorse. I find you guilty in the eyes of this court... Take her away.
+D3: Silence in court! I have heard the evidence and it is most damning. You are a lazy, bad-mannered, insolent young lady. And following this disgraceful crime you appear to show no remorse. I find you guilty in the eyes of this court and sentence you, to life imprisonment... Take her away.
 
-{Damebots march her offstage while she screams abuse back, Igor follows}
+{Damebots march her offstage, Igor buggers off while she screams abuse back, Igor follows}
 
 D3: Ooooooh, that felt good didn't it? I felt like a proper judge and everything.
 
@@ -343,7 +345,7 @@ OWBB: An intergalactic war is on the horizon and you are our only hope.
 
 Suey: Well let's go get em, whoever they are.
 
-OWBB: Patience, Mr Suey... One young Jedi will not be enough to overcome the dark powers of this evil coven... but there is another from your family.
+OWBB: Patience, Mr Suey... One young Jedi will not be enough to overcome the dark powers of this evil coven... there is another from your family that we must find.
 
 Suey: Wow, you mean I've got a brother???
 
@@ -485,7 +487,9 @@ Ken: It'll be that Spaniard, I told you they can't be trusted, now look here son
 
 Bearass: Madam, please don't spray perfume in here, it can damage the rock formations...
 
-Dorothy: I didn't spray anything... {sniffs} oh, what's that smell? It smells like Febreze! {lights back on, two Damebots have appeared behind them at the back of the stage looking "warlike"}
+Ken: Oooooh, you're right, it smells like a cat's been turned inside out... in our downstairs loo.
+
+Dorothy: I didn't spray anything... {sniffs} oh, It smells like Febreze! {lights back on, two Damebots have appeared behind them at the back of the stage looking "warlike"}
 
 Bearass: Well, I don't see anyone else here... can you?
 
@@ -895,7 +899,7 @@ P: Oh, thank you Mr Big Bogie, it would be an honour Mr Big Bogie... {P leaves}
 
 Suey: I can't believe this, I've come half way across the universe in a battered old spaceship, I've drilled through this prison wall, I've found a long lost sister I never knew I had, and she doesn't even want to talk to me... {looks sad, ahhhh, I'm sadder than that!}
 
-P: {returns with light sabres in duffel bag} I've got them Mr Bogie, just like you asked
+P: {returns with light sabres in duffel bag} I've got them Mr Bogie, just like you asked... Why does your spaceship smell of dog poo...
 
 OWBB: Well come on man, get on with it {P attempts to inflate the first light sabre without success, repeats with the second, before DL steps in and inflates both with ease, impressing Layabout even more}.
 
@@ -923,7 +927,7 @@ Everyone: Sorry... What???
 
 Layabout: Strictly Come Dancing, they're mad for it. As soon as it comes on they're in a different world, you can't get a word out of them... that's their achilles heel!
 
-OWBB: Interesting {The curtains close}
+OWBB: Interesting . [Words to effect of "we must get back to earth"] {The curtains close}
 
 8 mins (with song)
 
