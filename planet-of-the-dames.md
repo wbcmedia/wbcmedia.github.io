@@ -135,41 +135,35 @@ _More Dames enter loudly, some only partially made up, arguing_
 
 **Amelia:** How dare you, I was in the ballet.
 
-**Gertrude:** Which one was it... Swan CAKE???? Ha, ha, ha, eughhhh, what IS that smell?
+**Gertrude:** Which one was it... Swan CAKE???? Ha, ha, ha, eughhhh, what IS that smell... It smells like a badger's exploded
 
-**Amelia:** It smells like a badger's exploded
-
-**Gertrude:** It's burning my eyes.
+**Amelia:** It's burning my eyes.
 
 **Florence:** What do you think girls, how do you like our new, perfume?
 
 **Beatrice:** It's called Faybrehhzzzz.
 
-**Gertrude:** It's awful
+**Gertrude:** It stinks
 
-**Amelia:** It stinks
-
-**Gertrude:** It's still burning my eyes
+**Amelia:** It's still burning my eyes
 
 **Florence:** Oh you're just jealous cos we smell divine, and you don't
 
 **Beatrice:** We'll have men falling at our feet
 
-**Gertrude:** I wouldn't be at all surprised. You'll poison them with THEM fumes!
-
-**Amelia:** Where DID you get that noxious abomination from?
+**Gertrude:** I wouldn't be at all surprised. You'll poison them with THEM fumes! Where DID you get that noxious abomination from?
 
 **Florence:** A very tasty gentleman, Captain Dan Lothario sold it to us. I think he quite fancied me.
 
 **Beatrice:** He says the ladies on Langley are mad for this stuff, and you know how cosmopolitan they are!
 
-**Gertrude:** Langley, you say?
+**Amelia:** Langley, you say?
 
-**Amelia:** Give us some of that!
+**Gertrude:** Give us some of that!
 
-**Gertrude:** _eyes screwed shut_ Spray it on my face!!!
+**Amelia:** _eyes screwed shut_ Spray it on my face!!!
 
-**Florence:** _begins to spray, but then notices D3 has a 5-o-clock shadow_ Are you starting to grow... A BEARD??? _everyone else gathers round to look and agrees that seems to be the case_
+**Florence:** _begins to spray, but then notices Amelia has a 5-o-clock shadow_ Are you starting to grow... A BEARD??? _everyone else gathers round to look and agrees that seems to be the case_
 
 **Amelia:** Well, YOUR voice seems to be getting a lot deeper!
 
@@ -181,7 +175,7 @@ _More Dames enter loudly, some only partially made up, arguing_
 
 **Florence:** well we know what keeps us looking gorgeous and ladylike...
 
-Everyone: BLUE EYESHADOW!
+**Other Dames (Together):** BLUE EYESHADOW!
 
 **Florence:** Exactly, Igor!!! _a servant shuffles on_. Go to the makeup warehouse and bring us some more blue eyeshadow. _he shuffles off_
 
@@ -197,9 +191,9 @@ Everyone: BLUE EYESHADOW!
 
 **Beatrice:** That Layabout!
 
-**Gertrude:** Oh that's TYPICAL of her
+**Amelia:** Oh that's TYPICAL of her
 
-**Amelia:** Why did we ever agree to take her in when she was a baby?
+**Gertrude:** Why did we ever agree to take her in when she was a baby?
 
 **Beatrice:** She's nothing but trouble
 
@@ -213,15 +207,15 @@ _the Dames all look angrily at each other. Two Damebots drag Princess Layabout o
 
 **Gertrude:** By the authority vested in me by the sisterhood of Dames, I, Jackie Weaver, declare the commencement of this court hearing.
 
-Princess **Layabout:** You have no authority here Jackie Weaver!
+**Layabout:** You have no authority here Jackie Weaver!
 
-**Gertrude:** Silence in court! Princess Denise Layabout, you stand accused of stealing blue eyeshadow with a market value of 7 million lunabucks(???). How do you plead?
+**Gertrude:** Silence in court! Princess Denise Layabout, you stand accused of stealing blue eyeshadow with a market value of 7 million lunabucks. How do you plead?
 
-Princess **Layabout:** Why would I steal yer eyeshadow, I don't need eyeshadow, I don't need ANY makeup, I'm just naturally attractive, unlike you freaks _gasps of horror from the other Dames_
+**Layabout:** Why would I steal yer eyeshadow, I don't need eyeshadow, I don't need ANY makeup, I'm just naturally attractive, unlike you freaks _gasps of horror from the other Dames_
 
 **Beatrice:** _to the audience_ I hardly need any makeup either, just a little foundation and my blue eyeshadow and I look fabulous
 
-Princess **Layabout:** do me a favour, you've got a cement mixer in your room, you trowel it on...
+**Layabout:** do me a favour, you've got a cement mixer in your room, you trowel it on...
 
 **Gertrude:** Silence! I call the first witness for the prosecution.
 
@@ -239,7 +233,7 @@ Princess **Layabout:** do me a favour, you've got a cement mixer in your room, y
 
 **Beatrice:** Get on with it, Strictly's on in ten minutes!!!
 
-Princess **Layabout:** I dunno why yer all so cruel to me, you've never liked me, never paid me any attention, never brought me up proper... you're the worst step-parents a girl could ever have... And you all... LOOK LIKE MEN!!!!
+**Layabout:** I dunno why yer all so cruel to me, you've never liked me, never paid me any attention, never brought me up proper... you're the worst step-parents a girl could ever have... And you all... LOOK LIKE MEN!!!!
 
 _more gasps of outrage_
 
@@ -271,25 +265,25 @@ _Other Dames screw up their noses, knowing what Farton smells like_
 
 TRAGEDY
 
-**Florence:** _addressing one of the Damebots_ Damebot... how do you make blue eyeshadow?
+**Florence:** _addressing the Damebots_ Damebots... how do you make blue eyeshadow?
 
-Damebot: It is made from Derbyshire Spar, commonly known as Blue John
+**Damebot 1**: It is made from Derbyshire Spar, commonly known as Blue John
 
 **Beatrice:** Ooooh, Blue John, I'd like to meet him!
 
 **Gertrude:** Quiet, Beatrice... Where do we find Blue John?
 
-Damebot: It is only found in the Blue John Cavern
+**Damebot 2**: It is only found in the Blue John Cavern
 
 **Amelia:** And where's that
 
-Damebot: Eaaaarth
+**Damebots:** Eaaaarth
 
-All Dames: Eaaaaaaarthhhhh?
+**All Dames:** Eaaaaaaarthhhhh?
 
 **Beatrice:** Eugh, that sounds horrible. Right well, order us some more from Eaaaaarth...
 
-Damebot: This is impossible. Earth has recently left the Common Galactic Trading Federation and they can no longer export their goods.
+**Damebot 1:** This is impossible. Earth has recently left the Common Galactic Trading Federation and they can no longer export their goods.
 
 _Dames all look at each other in disbelief_
 
