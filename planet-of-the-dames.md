@@ -2,7 +2,7 @@
 
 # Planet Of The Dames
 
-> Act 1 Scene 1
+## Act 1 Scene 1
 
 [On the Planet of the Dames]
 
@@ -307,7 +307,7 @@ _they bow to each other and both leave through curtain_
 
 25 mins?
 
-> Act 1 Scene 2
+## Act 1 Scene 2
 
 [Suey and Calamity's living room]
 
@@ -375,7 +375,7 @@ _curtains close as they leave_
 
 4 mins
 
-> Act 1 Scene 3
+## Act 1 Scene 3
 
 Dorothy: Oh I'm looking forward to this Ken, I've never been in a cave before.
 
@@ -531,7 +531,7 @@ _lights out curtains close_
 
 8 mins
 
-> Act 1 Scene 4
+## Act 1 Scene 4
 
 Courtney: Welcome aboard this scheduled flight to the remote space outpost Flash _ahhhhhh, everyone looks to see where that's coming from_. Before we take off I need you to pay attention to this short safety briefing. Your seatbelts are fastened like this _demonstrates_. In the unlikely event that we land on water your lifejackets are _opens a crate it's empty except for a rubber chicken_ oh... Well the emergency exits are... erm... I'm not actually sure, just go back the way you came in I suppose. In a few moments we'll begin the onboard refreshment service, in the meantime, please sit back and enjoy your.. _OWBB Interrupts_
 
@@ -585,7 +585,7 @@ _Curtains close_
 
 4 mins
 
-> Act 1 Scene 5
+## Act 1 Scene 5
 
 Pete: Oh, hello, you're new here, there hasn't been another inmate on the prison planet Farton for, oh, as long as I've been here. Nice to have a bit of company. What's your name.
 
@@ -633,7 +633,7 @@ Layabout: No, yer alright! _she goes back to reading Onesie Weekly, Pete stares 
 
 3.5 mins
 
-> Act 1 Scene 6
+## Act 1 Scene 6
 
 Dorothy: Oh Ken, I can't take much more of this, I'm exhausted.
 
@@ -671,7 +671,7 @@ Ken: We were called The Hinges!
 
 Dorothy: They supported The Doors!
 
-SONG>Space Oddity
+SONG##Space Oddity
 
 _During the song Dorothy signals to Bearass who turns on the Wasbinator, there is a crackling noise and a flash. The Damebots fall to the ground convulsing, then are still_
 
@@ -694,7 +694,7 @@ INTERVAL
 Radio ad
 Have you been travelling for light years, need fuel, or pasties. Why not stop at "Flash Star Stores", just off junction 47 of Galactiway 66.
 
-> Act 2 Scene 1
+## Act 2 Scene 1
 
 [The interior of the petrol station at Flash Star Stores]
 
@@ -769,7 +769,7 @@ WD40: _as they all leave stage_ who is he calling a "little droid", these humans
 
 7 mins
 
-> Act 2 Scene 2
+## Act 2 Scene 2
 
 [Back in the Blue John Cavern]
 
@@ -849,7 +849,7 @@ _lights out, curtains close_
 
 3.5 mins
 
-> Act 2 Scene 3
+## Act 2 Scene 3
 
 [Prison cell on Farton]
 
@@ -933,7 +933,7 @@ OWBB: Interesting . [Words to effect of "we must get back to earth"] _The curtai
 
 8 mins (with song)
 
-> Act 2 Scene 4
+## Act 2 Scene 4
 
 [back in the Blue John Mine]
 
