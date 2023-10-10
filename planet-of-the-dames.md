@@ -6,7 +6,7 @@
 
 [On the Planet of the Dames]
 
-Damebots march up aisle and then FOC "We are the Dame-Bots"
+_Damebots march up aisle and then FOC "We are the Dame-Bots"_
 
 **Dan Lothario:** _rummaging through a suitcase full of black-market stuff, pauses for a moment as he realises he's not alone, sees audience, slams case shut_ I say, you frightened the life out of me. Which planet did you all come from? _maybe audience participation/banter Earth??? Never heard of it etc? Then re-opens the suitcase_. Perhaps I could interest you in some bottles of gin I've, erm, "managed to acquire". No, maybe some disposable vapes, I've got watermelon or rhubarb and beef. No, how about some genuine fake Rolex watches? No? Ah well, suit yourselves. Oh, where ARE my manners, allow me to introduce my very good self. I am Captain Dan Lothario, I'm an intergalactic business man, I deal in a bit of this, a bit of that... a bit of the other, if you understand my meaning ladies??? Oh yes, I'm very well respected across many of the most sophisticated planets around here. I've been to, oh, what's the one with the rings round it? That's right, Suttern. And that poxy little one down there... Macc-ury. Oh, and I've just come back from Uranus. I'm here to sell some of my extra special cosmetics to some exquisite ladies... Oh... here they come... wish me luck... Showtime!!! _he clicks his fingers, freezes and the lights switch to 2 Dames who enter, loudly bantering with each other, arguing over which is the most beautiful_
 
@@ -131,45 +131,45 @@ _More simpering from Dames_
 
 _More Dames enter loudly, some only partially made up, arguing_
 
-**Gertrude:** Cultured... you??? I've seen more culture in a tub of yogurt!
+**Jackie:** Cultured... you??? I've seen more culture in a tub of yogurt!
 
-**Amelia:** How dare you, I was in the ballet.
+**Gertrude:** How dare you, I was in the ballet.
 
-**Gertrude:** Which one was it... Swan CAKE???? Ha, ha, ha, eughhhh, what IS that smell... It smells like a badger's exploded
+**Jackie:** Which one was it... Swan CAKE???? Ha, ha, ha, eughhhh, what IS that smell... It smells like a badger's exploded
 
-**Amelia:** It's burning my eyes.
+**Gertrude:** It's burning my eyes.
 
 **Florence:** What do you think girls, how do you like our new, perfume?
 
 **Beatrice:** It's called Faybrehhzzzz.
 
-**Gertrude:** It stinks
+**Jackie:** It stinks
 
-**Amelia:** It's still burning my eyes
+**Gertrude:** It's still burning my eyes
 
 **Florence:** Oh you're just jealous cos we smell divine, and you don't
 
 **Beatrice:** We'll have men falling at our feet
 
-**Gertrude:** I wouldn't be at all surprised. You'll poison them with THEM fumes! Where DID you get that noxious abomination from?
+**Jackie:** I wouldn't be at all surprised. You'll poison them with THEM fumes! Where DID you get that noxious abomination from?
 
 **Florence:** A very tasty gentleman, Captain Dan Lothario sold it to us. I think he quite fancied me.
 
 **Beatrice:** He says the ladies on Langley are mad for this stuff, and you know how cosmopolitan they are!
 
-**Amelia:** Langley, you say?
+**Gertrude:** Langley, you say?
 
-**Gertrude:** Give us some of that!
+**Jackie:** Give us some of that!
 
-**Amelia:** _eyes screwed shut_ Spray it on my face!!!
+**Gertrude:** _eyes screwed shut_ Spray it on my face!!!
 
-**Florence:** _begins to spray, but then notices Amelia has a 5-o-clock shadow_ Are you starting to grow... A BEARD??? _everyone else gathers round to look and agrees that seems to be the case_
+**Florence:** _begins to spray, but then notices Gertrude has a 5-o-clock shadow_ Are you starting to grow... A BEARD??? _everyone else gathers round to look and agrees that seems to be the case_
 
-**Amelia:** Well, YOUR voice seems to be getting a lot deeper!
+**Gertrude:** Well, YOUR voice seems to be getting a lot deeper!
 
 **Beatrice:** I must admit, I seem to be struggling to keep up with my leg-shaving recently
 
-**Gertrude:** Oh, it's YOU who pinched my Black And Decker Strimmer is it... I was wondering why I couldn't find it
+**Jackie:** Oh, it's YOU who pinched my Black And Decker Strimmer is it... I was wondering why I couldn't find it
 
 **Beatrice:** Well what's going on? Why are we becoming less...feminine?
 
@@ -181,9 +181,9 @@ _More Dames enter loudly, some only partially made up, arguing_
 
 **Beatrice:** Good thinking Florence, I've completely run out of it
 
-**Gertrude:** Me too
+**Jackie:** Me too
 
-**Amelia:** and me
+**Gertrude:** and me
 
 **Igor:** _returning_ My Queen, I'm sorry to have to tell you this, but there is no blue eyeshadow left. _da da daaaaaa_
 
@@ -191,45 +191,45 @@ _More Dames enter loudly, some only partially made up, arguing_
 
 **Beatrice:** That Layabout!
 
-**Amelia:** Oh that's TYPICAL of her
+**Gertrude:** Oh that's TYPICAL of her
 
-**Gertrude:** Why did we ever agree to take her in when she was a baby?
+**Jackie:** Why did we ever agree to take her in when she was a baby?
 
 **Beatrice:** She's nothing but trouble
 
-**Gertrude:** selfish
+**Jackie:** selfish
 
-**Amelia:** and lazy!
+**Gertrude:** and lazy!
 
 **Florence:** well this is the final straw, _shouting offstage_ Damebots... bring that Layabout out here.
 
 _the Dames all look angrily at each other. Two Damebots drag Princess Layabout on stage. One of the Dames takes the towel off her head and replaces it with a badly made judge's wig_
 
-**Gertrude:** By the authority vested in me by the sisterhood of Dames, I, Jackie Weaver, declare the commencement of this court hearing.
+**Jackie:** By the authority vested in me by the sisterhood of Dames, I, Jackie Weaver, declare the opening of this trial.
 
 **Layabout:** You have no authority here Jackie Weaver!
 
-**Gertrude:** Silence in court! Princess Denise Layabout, you stand accused of stealing blue eyeshadow with a market value of 7 million lunabucks. How do you plead?
+**Jackie:** Silence in court! Princess Denise Layabout, you stand accused of stealing blue eyeshadow with a market value of 7 million lunabucks. How do you plead?
 
-**Layabout:** Why would I steal yer eyeshadow, I don't need eyeshadow, I don't need ANY makeup, I'm just naturally attractive, unlike you freaks _gasps of horror from the other Dames_
+**Layabout:** Why would I steal yer eyeshadow, I don't need eyeshadow, I don't need ANY makeup. I'm just naturally attractive, unlike you freaks! _gasps of horror from the other Dames_
 
 **Beatrice:** _to the audience_ I hardly need any makeup either, just a little foundation and my blue eyeshadow and I look fabulous
 
 **Layabout:** do me a favour, you've got a cement mixer in your room, you trowel it on...
 
-**Gertrude:** Silence! I call the first witness for the prosecution.
+**Jackie:** Silence! I call the first witness for the prosecution.
 
 **Florence:** Thankyou m'lady. Calling Gertrude Scuttle. _Gertrude steps forward_ You are Gertrude Matilda Scuttle.
 
-**Amelia:** I am.
+**Gertrude:** I am.
 
 **Florence:** And when did you last see your blue eyeshadow.
 
-**Amelia:** Well, I left it out on the side just before SHE came in, and when she left... it was GONE! _gasps, tuts etc from Dames_
+**Gertrude:** Well, I left it out on the side just before SHE came in, and when she left... it was GONE! _gasps, tuts etc from Dames_
 
 **Florence:** No further questions your honour
 
-**Gertrude:** Any words for the defence _Layabout looks around and realises she has no legal counsel_
+**Jackie:** Any words for the defence _Layabout looks around and realises she has no legal counsel_
 
 **Beatrice:** Get on with it, Strictly's on in ten minutes!!!
 
@@ -237,11 +237,11 @@ _the Dames all look angrily at each other. Two Damebots drag Princess Layabout o
 
 _more gasps of outrage_
 
-**Gertrude:** Silence in court! I have heard the evidence and it is most damning. You are a lazy, bad-mannered, insolent young lady. And following this disgraceful crime you appear to show no remorse. I find you guilty in the eyes of this court and sentence you, to life imprisonment... Take her away.
+**Jackie:** Silence in court! I have heard the evidence and it is most damning. You are a lazy, bad-mannered, insolent young lady. And following this disgraceful crime you appear to show no remorse. I find you guilty in the eyes of this court and sentence you, to life imprisonment... Take her away.
 
 _Damebots march her offstage, Igor buggers off while she screams abuse back, Igor follows_
 
-**Gertrude:** Ooooooh, that felt good didn't it? I felt like a proper judge and everything.
+**Jackie:** Ooooooh, that felt good didn't it? I felt like a proper judge and everything.
 
 **Florence:** You were very stern Jackie, I loved the "Silence in court" bit.
 
@@ -249,15 +249,15 @@ _Damebots march her offstage, Igor buggers off while she screams abuse back, Igo
 
 **Florence:** D'ya think so? I wasn't sure if it was a bit much...
 
-**Amelia:** So what do we do with her?
+**Gertrude:** So what do we do with her?
 
 **Florence:** Send her to prison
 
 **Beatrice:** A really horrible prison
 
-**Amelia:** You don't mean
+**Gertrude:** You don't mean
 
-**Gertrude:** Yes, I sentence her to life on the prison planet... Farton
+**Jackie:** Yes, I sentence her to life on the prison planet... Farton
 
 _Other Dames screw up their noses, knowing what Farton smells like_
 
@@ -271,11 +271,11 @@ TRAGEDY
 
 **Beatrice:** Ooooh, Blue John, I'd like to meet him!
 
-**Gertrude:** Quiet, Beatrice... Where do we find Blue John?
+**Jackie:** Quiet, Beatrice... Where do we find Blue John?
 
 **Damebot 2**: It is only found in the Blue John Cavern
 
-**Amelia:** And where's that
+**Gertrude:** And where's that
 
 **Damebots:** Eaaaarth
 
@@ -509,13 +509,13 @@ _audience participation - behind you etc_
 
 **Ken:** What are these??? These won't work. They don't have the necessary torque to deal with stone this dense. I should know, I was in charge of the Channel Tunnel project. Allow me to educate you about the geological manifestation of this particular area, you see...
 
-**Gertrude:** Silence! You will begin digging
+**Jackie:** Silence! You will begin digging
 
 **Ken:** I can't do digging, It's my back you see... I've got a blue badge!
 
 **Dorothy:** Oh be quiet Ken... He only got it so he could park nearer the library.
 
-**Amelia:** This is your final warning. You will do as we command, or... _points at a convulsing Bearass who is still on the floor_
+**Gertrude:** This is your final warning. You will do as we command, or... _points at a convulsing Bearass who is still on the floor_
 
 **Dorothy:** I think we should do what they say Ken, look what they did to that lovely Bearass.
 
@@ -783,15 +783,15 @@ _Dames enter - one has a beard... One is drinking a can of Stella. Another is sc
 
 **Ken:** Oooooh 'eck they're starting to look quite tough!
 
-**Gertrude:** What time does the footie kick off?
+**Jackie:** What time does the footie kick off?
 
-**Amelia:** BURP!!!!
+**Gertrude:** BURP!!!!
 
 **Florence:** So, you think you can outwit The Dames with your silly little Wasbinator do you?
 
 **Beatrice:** You cannot defeat the mighty Dame species, we are invincible.
 
-**Gertrude:** But we need to know how you created such a large power surge. We will steal this technology and become even more invincible.
+**Jackie:** But we need to know how you created such a large power surge. We will steal this technology and become even more invincible.
 
 **Ken:** strictly speaking, I don't think you can become MORE invincible. You see it's from the Latin, invincibilis which means... _he is interrupted_
 
@@ -815,7 +815,7 @@ _Dames enter - one has a beard... One is drinking a can of Stella. Another is sc
 
 **Ken:** Aaaaaghhhh... no stop it, please.
 
-**Gertrude:** Go on Florence, throw some shade, diss him some more.
+**Jackie:** Go on Florence, throw some shade, diss him some more.
 
 **Ken:** No, please, I can't take it...
 
@@ -823,7 +823,7 @@ _Dames enter - one has a beard... One is drinking a can of Stella. Another is sc
 
 **Ken:** Aaaaaghhhh!
 
-**Gertrude:** Hey girls, it wouldn't cost much to send that package
+**Jackie:** Hey girls, it wouldn't cost much to send that package
 
 **Ken:** Aaaaaghhhh!
 
@@ -945,21 +945,21 @@ _The Damebots are alerted by the outburst and turn to face the Jedi. A battle en
 
 **Beatrice:** And who's this, _sarcastically_ he looks like Iron Man!
 
-**Gertrude:** That's good, I've got a big pile of bloomers. _holding up a big basket of brightly coloured knickers_ These need ironing!
+**Jackie:** That's good, I've got a big pile of bloomers. _holding up a big basket of brightly coloured knickers_ These need ironing!
 
-**Amelia:** Ooooh, he'll definitely need The Force to get through them. _The Dames all laugh at Suey_
+**Gertrude:** Ooooh, he'll definitely need The Force to get through them. _The Dames all laugh at Suey_
 
 **Florence:** And you _pointing at Layabout_, aren't you supposed to be in prison?
 
 **Beatrice:** I wouldn't rely on this one, she's so lazy that ????
 
-**Gertrude:** Yeah, she's lazier than a ????
+**Jackie:** Yeah, she's lazier than a ????
 
-**Amelia:** Yeah ????
+**Gertrude:** Yeah ????
 
 **Layabout:** I've changed, I've met people who believe in me, a family, and friends, who... Love Me!
 
-Dames: _Mocking_ Ooooooh... they LOOOOOVE Me!
+**Dames**: _Mocking_ Ooooooh... they LOOOOOVE Me!
 
 **Florence:** Well you're no match for our Damely one-liners. Get her Beatrice
 
@@ -982,9 +982,9 @@ _Ken and Dorothy waltz on and do a dance? Dames shout encouragement/critique, di
 
 **Beatrice:** Orange?
 
-**Gertrude:** What's orange?
+**Jackie:** What's orange?
 
-**Amelia:** Orange?
+**Gertrude:** Orange?
 
 **Florence:** We don't understand, what is this Orange of which you speak?
 
@@ -994,9 +994,9 @@ _Ken and Dorothy waltz on and do a dance? Dames shout encouragement/critique, di
 
 **Beatrice:** Oooh, I see what you mean, I feel womanly, but without the catty-ness!
 
-**Gertrude:** Oh, I agree. I feel very chilled out!
+**Jackie:** Oh, I agree. I feel very chilled out!
 
-**Amelia:** Does anyone fancy a bit of yoga?
+**Gertrude:** Does anyone fancy a bit of yoga?
 
 **Dorothy:** You see... it's all natural and MUCH better for your mental health. You can find the recipe on my Instagram page.
 
@@ -1004,9 +1004,9 @@ _Ken and Dorothy waltz on and do a dance? Dames shout encouragement/critique, di
 
 **Beatrice:** I suppose we were all just a bit stressed?
 
-**Gertrude:** Yes, sorry for torturing you Ken, it was nothing personal.
+**Jackie:** Yes, sorry for torturing you Ken, it was nothing personal.
 
-**Amelia:** Does anyone else have a craving for tofu?
+**Gertrude:** Does anyone else have a craving for tofu?
 
 **Dorothy:** _unties the dames_ well, no real harm done, I think Ken's a bit traumatised, but he's had worse.
 
