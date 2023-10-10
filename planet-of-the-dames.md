@@ -8,7 +8,7 @@
 
 Damebots march up aisle and then FOC "We are the Dame-Bots"
 
-Dan Lothario: _rummaging through a suitcase full of black-market stuff, pauses for a moment as he realises he's not alone, sees audience, slams case shut_ I say, you frightened the life out of me. Which planet did you all come from? _maybe audience participation/banter Earth??? Never heard of it etc? Then re-opens the suitcase_. Perhaps I could interest you in some bottles of gin I've, erm, "managed to acquire". No, maybe some disposable vapes, I've got watermelon or rhubarb and beef. No, how about some genuine fake Rolex watches? No? Ah well, suit yourselves. Oh, where ARE my manners, allow me to introduce my very good self. I am Captain Dan Lothario, I'm an intergalactic business man, I deal in a bit of this, a bit of that... a bit of the other, if you understand my meaning ladies??? Oh yes, I'm very well respected across many of the most sophisticated planets around here. I've been to, oh, what's the one with the rings round it? That's right, Suttern. And that poxy little one down there... Macc-ury. Oh, and I've just come back from Uranus. I'm here to sell some of my extra special cosmetics to some exquisite ladies... Oh... here they come... wish me luck... Showtime!!! _he clicks his fingers, freezes and the lights switch to 2 Dames who enter, loudly bantering with each other, arguing over which is the most beautiful_
+**Dan Lothario:** _rummaging through a suitcase full of black-market stuff, pauses for a moment as he realises he's not alone, sees audience, slams case shut_ I say, you frightened the life out of me. Which planet did you all come from? _maybe audience participation/banter Earth??? Never heard of it etc? Then re-opens the suitcase_. Perhaps I could interest you in some bottles of gin I've, erm, "managed to acquire". No, maybe some disposable vapes, I've got watermelon or rhubarb and beef. No, how about some genuine fake Rolex watches? No? Ah well, suit yourselves. Oh, where ARE my manners, allow me to introduce my very good self. I am Captain Dan Lothario, I'm an intergalactic business man, I deal in a bit of this, a bit of that... a bit of the other, if you understand my meaning ladies??? Oh yes, I'm very well respected across many of the most sophisticated planets around here. I've been to, oh, what's the one with the rings round it? That's right, Suttern. And that poxy little one down there... Macc-ury. Oh, and I've just come back from Uranus. I'm here to sell some of my extra special cosmetics to some exquisite ladies... Oh... here they come... wish me luck... Showtime!!! _he clicks his fingers, freezes and the lights switch to 2 Dames who enter, loudly bantering with each other, arguing over which is the most beautiful_
 
 Florence: Look, I'm not being funny...
 
@@ -38,12 +38,12 @@ Beatrice: You don't mean
 
 Florence: Yes... we've got ourselves a Flirt-off! _Cue flirting, simpering, crotch-thrusting, whatever... towards Dan Lothario who snaps back to life_
 
-Dan Lothario: _once the flirting has finished_ My my, aren't you the most enchanting maidens I've had the good fortune to lay my eyes upon?
+**Dan Lothario:** _once the flirting has finished_ My my, aren't you the most enchanting maidens I've had the good fortune to lay my eyes upon?
 _giggling from Dames, followed by violent agreement over how beautiful they both are, but then turning into argument over who is MOST beautiful. Florence decides to take the initiative..._
 
 Florence: I don't believe we've had the pleasure.
 
-Dan Lothario: _to the audience_ That doesn't surprise me.
+**Dan Lothario:** _to the audience_ That doesn't surprise me.
 
 Beatrice: _pushing Florence out of the way_ But I'd like to...
 
@@ -51,57 +51,57 @@ Florence: _pushing Beatrice back out of the way_ Allow me to ingratiate (interro
 
 Beatrice: Woah, woah, woah there droopy drawers, i'm Beatrice, I'M in charge, and _looking pointedly at Florence_ I'm the prettiest.
 
-Dan Lothario: Well, I'm Captain Dan Lothario, and it's an absolute delight to meet you both. And may I say you both look absolutely smashing in your outfits, they certainly, flatter your, ample figures. I honestly don't think I could choose between either of you _grimaces at audience_.
+**Dan Lothario:** Well, I'm Captain Dan Lothario, and it's an absolute delight to meet you both. And may I say you both look absolutely smashing in your outfits, they certainly, flatter your, ample figures. I honestly don't think I could choose between either of you _grimaces at audience_.
 
 _More simpering from Dames_
 
-Dan Lothario: But hold on... _sniffs the air around them_ What IS that smell? _Dames sniff their own armpits, each other etc_
+**Dan Lothario:** But hold on... _sniffs the air around them_ What IS that smell? _Dames sniff their own armpits, each other etc_
 
 Beatrice: _puzzled_ I can't smell 'owt
 
 Florence: Me neither.
 
-Dan Lothario: Well THAT'S the problem. Two fabulous looking ladies like yourselves deserve a certain Je ne sais quoi
+**Dan Lothario:** Well THAT'S the problem. Two fabulous looking ladies like yourselves deserve a certain Je ne sais quoi
 
 Florence: A Gin and say whatsit?
 
 Beatrice: Ohhh, I like the sound of that, 2 pints of Gin and a packet of cheesy Wotsits please!
 
-Dan Lothario: _spelling it out for them_ Je... Ne... Sais... Quoi...
+**Dan Lothario:** _spelling it out for them_ Je... Ne... Sais... Quoi...
 
 Florence: I think it's German
 
 Beatrice: Which planet's that?
 
-Dan Lothario: You need an eau-de-toillette.
+**Dan Lothario:** You need an eau-de-toillette.
 
 Florence: No thanks, I went before I came on stage.
 
 Beatrice: She did... _to the audience, screwing up her face_ I heard...
 
-Dan Lothario: Oh good lord, have you not heard of cologne?
+**Dan Lothario:** Oh good lord, have you not heard of cologne?
 
 Florence: Oh that's definitely in Germany
 
 Beatrice: Oooooh, you're SO good on geology!
 
-Dan Lothario: May I enquire where do you fine ladies purchase olfactory delights?
+**Dan Lothario:** May I enquire where do you fine ladies purchase olfactory delights?
 
 Florence: _looking puzzled_ Well, Ethel down the street runs the butchers, if that's what you mean?
 
-Dan Lothario: I mean who satisfies your perfumery requirements.
+**Dan Lothario:** I mean who satisfies your perfumery requirements.
 
 Beatrice: _to Florence_ He's making no scents!
 
 Florence: _to the audience_... making no scents!!! Get it... scents... no? Oh, you're in for a long night!
 
-Dan Lothario: well this is your lucky day ladies. Amongst other things, I happen to be the exclusive representative for one of the most sought after perfume brands in the universe. Just a small spray of my product will have the gentlemen flocking round.
+**Dan Lothario:** well this is your lucky day ladies. Amongst other things, I happen to be the exclusive representative for one of the most sought after perfume brands in the universe. Just a small spray of my product will have the gentlemen flocking round.
 
 Beatrice: _to Florence, looking a little concerned_ what did he say Florence?
 
 Florence: Flocking Beatrice... flocking!
 
-Dan Lothario: Now this IS extremely exclusive, so it's rather pricey... but you seem like the kind of classy ladies who don't worry about that sort of thing.
+**Dan Lothario:** Now this IS extremely exclusive, so it's rather pricey... but you seem like the kind of classy ladies who don't worry about that sort of thing.
 
 Florence: _putting on posh voices_ Oh no, we're very upmarket... I once knew someone from the Wilmslow galaxy.
 
@@ -109,21 +109,21 @@ Beatrice: _trying to be even posher_ And I've been to Leek.
 
 Florence: _looking down at Beatrice's feet_ what, just now... could you not have waited until the end of this scene? _realising her mistake_ oh, I see, Leek, sorry.
 
-Dan Lothario: Allow me to introduce you to Faybrehze pour Femme. _takes out a large squirty bottle labelled Febreeze and proceeds to squirt them both. They're both taken aback, don't seem to appreciate the smell, and start imploring him to stop. He takes another sniff in their general direction_. Oh, MUCH better, my I'm getting URGES just inhaling your aroma.
+**Dan Lothario:** Allow me to introduce you to Faybrehze pour Femme. _takes out a large squirty bottle labelled Febreeze and proceeds to squirt them both. They're both taken aback, don't seem to appreciate the smell, and start imploring him to stop. He takes another sniff in their general direction_. Oh, MUCH better, my I'm getting URGES just inhaling your aroma.
 
 Florence: Well let those urges spring forth Danny Boy, let em out.
 
-Dan Lothario: If I wasn't such a gentleman...
+**Dan Lothario:** If I wasn't such a gentleman...
 
 Beatrice: well WE won't tell anyone, will we Florence?
 
-Dan Lothario: Sadly I have other appointments in the Langley Constellation, and you know how stylish the ladies are there. I'd hate them to have all of this Faybreaze to themselves... shall I put you down for, say... 23 gallons?
+**Dan Lothario:** Sadly I have other appointments in the Langley Constellation, and you know how stylish the ladies are there. I'd hate them to have all of this Faybreaze to themselves... shall I put you down for, say... 23 gallons?
 
 Florence: _to Beatrice_ do you think that'll be enough?
 
 Beatrice: make it 25 gallons and give us a couple of bottles of that "Ginney Says Quaz" stuff you drink.
 
-Dan Lothario: excellent, it's cash only, I'm afraid _handing them an invoice. They both look shocked, and splutter about it being a bit steep etc, but then, aware that they've made out how posh they are, scrape around in their pockets and manage to pull together the requisite cash, which they hand over, slightly reluctantly_. A pleasure doing business with you absolute babes. Au revoir, as they say... _shrugging at the audience_ in Germany. _he exits_
+**Dan Lothario:** excellent, it's cash only, I'm afraid _handing them an invoice. They both look shocked, and splutter about it being a bit steep etc, but then, aware that they've made out how posh they are, scrape around in their pockets and manage to pull together the requisite cash, which they hand over, slightly reluctantly_. A pleasure doing business with you absolute babes. Au revoir, as they say... _shrugging at the audience_ in Germany. _he exits_
 
 Florence: Well, he was a bit of alright
 
@@ -747,19 +747,19 @@ OWBB: Sometimes it is necessary to make great sacrifices in order to keep the un
 
 Suey: How did you know which one to...
 
-Dan Lothario: Excuse me, but I couldn't help overhearing your conversation with the, er, "thing", over there. It sounds very much like I may be able to help you. Allow me to introduce myself... I am Captain Dan Lothario, legend of the stars, defender of the weak, greatly appreciated by the ladies, Ding Dong, Fwah! I think you may be looking for _whispers_ and I happen to know their whereabouts. They are currently incarcerated on the prison planet Farton, a place I'm afraid I spent a brief spell myself, over a ridiculous misunderstanding with a short-tempered wine merchant.. and his good lady wife...
+**Dan Lothario:** Excuse me, but I couldn't help overhearing your conversation with the, er, "thing", over there. It sounds very much like I may be able to help you. Allow me to introduce myself... I am Captain Dan Lothario, legend of the stars, defender of the weak, greatly appreciated by the ladies, Ding Dong, Fwah! I think you may be looking for _whispers_ and I happen to know their whereabouts. They are currently incarcerated on the prison planet Farton, a place I'm afraid I spent a brief spell myself, over a ridiculous misunderstanding with a short-tempered wine merchant.. and his good lady wife...
 
 OWBB: Can you take us there?
 
-Dan Lothario: Well, my Space Jag is parked outside, but she's a bit of an eyecatcher, might attract too much attention... especially female attention if you know what I mean, wooof!
+**Dan Lothario:** Well, my Space Jag is parked outside, but she's a bit of an eyecatcher, might attract too much attention... especially female attention if you know what I mean, wooof!
 
 Courtney: _enters, covered in oil and dirt_ It's no use, I can't fix it, the engine won't start, the stereo's only playing Radio 4, and the toilet's completely...
 
-Dan Lothario: _interrupting_ it would appear that you have two problems old chap. You require a guide to take you to Farton, AND you need someone, _looking at Courtney and rolling his eyes_ who knows what they're doing, to repair your spacecraft. Allow me to introduce my companion. _WD40 rolls on stage_ This is WD40. He can repair any kind of mechanical problem you may have, he can lubricate gears and chains... and he's quite good at getting stains out of expensive upholstery.
+**Dan Lothario:** _interrupting_ it would appear that you have two problems old chap. You require a guide to take you to Farton, AND you need someone, _looking at Courtney and rolling his eyes_ who knows what they're doing, to repair your spacecraft. Allow me to introduce my companion. _WD40 rolls on stage_ This is WD40. He can repair any kind of mechanical problem you may have, he can lubricate gears and chains... and he's quite good at getting stains out of expensive upholstery.
 
 WD40: Your engine has been thrashed... what kind of incompetent _bleep_ has been flying that clapped out piece of _bleeeep_? _Courtney looks downcast_
 
-Dan Lothario: Ha, forgive WD40's bedside manner, he's not very good at the whole social chit chat thing, likes to speak his mind... but he will be able to fix your problem and then we can all blow off to Farton, so to speak... As long as our terms are acceptable?
+**Dan Lothario:** Ha, forgive WD40's bedside manner, he's not very good at the whole social chit chat thing, likes to speak his mind... but he will be able to fix your problem and then we can all blow off to Farton, so to speak... As long as our terms are acceptable?
 
 OWBB: You will receive everything you deserve, do not worry about that. But your little droid must get to work immediately, I can feel a worrying disturbance in The Force.
 
@@ -877,7 +877,7 @@ Layabout: _totally uninterested_ Yeah, what-ever... I doubt we'll get on, you're
 
 _Then Dan Lothario comes through the tunnel complaining that his suit is covered in dust_.
 
-Dan Lothario: This place hasn't changed a bit, still smelly and dusty and... oh hello... _spotting Layabout_ who's this? You weren't here last time... nice onesie!
+**Dan Lothario:** This place hasn't changed a bit, still smelly and dusty and... oh hello... _spotting Layabout_ who's this? You weren't here last time... nice onesie!
 
 Layabout: _Clearly in lurve at first sight_ Oh.....
 
@@ -907,7 +907,7 @@ OWBB: Well come on man, get on with it _P attempts to inflate the first light sa
 
 Layabout: What's that for???
 
-Dan Lothario: My darling, I have travelled across galaxies with these people and I know that their quest is true, and that they need your help. You're the most wonderful woman I've met this week, and I know you are capable of great deeds.
+**Dan Lothario:** My darling, I have travelled across galaxies with these people and I know that their quest is true, and that they need your help. You're the most wonderful woman I've met this week, and I know you are capable of great deeds.
 
 [Starship Trooper]
 
