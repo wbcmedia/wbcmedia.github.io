@@ -10,46 +10,46 @@ Damebots march up aisle and then FOC "We are the Dame-Bots"
 
 Dan Lothario: _rummaging through a suitcase full of black-market stuff, pauses for a moment as he realises he's not alone, sees audience, slams case shut_ I say, you frightened the life out of me. Which planet did you all come from? _maybe audience participation/banter Earth??? Never heard of it etc? Then re-opens the suitcase_. Perhaps I could interest you in some bottles of gin I've, erm, "managed to acquire". No, maybe some disposable vapes, I've got watermelon or rhubarb and beef. No, how about some genuine fake Rolex watches? No? Ah well, suit yourselves. Oh, where ARE my manners, allow me to introduce my very good self. I am Captain Dan Lothario, I'm an intergalactic business man, I deal in a bit of this, a bit of that... a bit of the other, if you understand my meaning ladies??? Oh yes, I'm very well respected across many of the most sophisticated planets around here. I've been to, oh, what's the one with the rings round it? That's right, Suttern. And that poxy little one down there... Macc-ury. Oh, and I've just come back from Uranus. I'm here to sell some of my extra special cosmetics to some exquisite ladies... Oh... here they come... wish me luck... Showtime!!! _he clicks his fingers, freezes and the lights switch to 2 Dames who enter, loudly bantering with each other, arguing over which is the most beautiful_
 
-D1: Look, I'm not being funny...
+Florence: Look, I'm not being funny...
 
-D2: No change there then!!!
+Beatrice: No change there then!!!
 
-D1: ...I'm NOT BEING FUNNY, but it's obvious that I'm the prettiest Dame on this planet.
+Florence: ...I'm NOT BEING FUNNY, but it's obvious that I'm the prettiest Dame on this planet.
 
-D2: I think you'll find that I'm FAR prettier than you, all the men round here agree.
+Beatrice: I think you'll find that I'm FAR prettier than you, all the men round here agree.
 
-D1: Men? What men? There ARE no men on this planet... just us ladies... _simpers, flutters eyelashes etc_
+Florence: Men? What men? There ARE no men on this planet... just us ladies... _simpers, flutters eyelashes etc_
 
-D2: Well then what's HE doing here _points to DL, who immediately unfreezes_
+Beatrice: Well then what's HE doing here _points to Dan Lothario, who immediately unfreezes_
 
-D1: Oh my goodness... it's a man, and a pretty good looking one at that. Where did he come from?
+Florence: Oh my goodness... it's a man, and a pretty good looking one at that. Where did he come from?
 
-D2: Never mind where he came from, he's mine, I'll seduce him with my womanly ways...
+Beatrice: Never mind where he came from, he's mine, I'll seduce him with my womanly ways...
 
-D1: No, no, no, no, no, that's NOT what's going to happen. I saw him first, he's mine. And besides, as I was just pointing out, I'M the prettiest Dame on this planet. I took first place at the Alpha Centurai beauty contest.
+Florence: No, no, no, no, no, that's NOT what's going to happen. I saw him first, he's mine. And besides, as I was just pointing out, I'M the prettiest Dame on this planet. I took first place at the Alpha Centurai beauty contest.
 
-D2: That wasn't a beauty contest, it was an agriculture show. _To the audience_ She won the Aberdeen Angus category!
+Beatrice: That wasn't a beauty contest, it was an agriculture show. _To the audience_ She won the Aberdeen Angus category!
 
 _cue slapping and arguing_
 
-D1: Well, there's only one way to settle this...
+Florence: Well, there's only one way to settle this...
 
-D2: You don't mean
+Beatrice: You don't mean
 
-D1: Yes... we've got ourselves a Flirt-off! _Cue flirting, simpering, crotch-thrusting, whatever... towards DL who snaps back to life_
+Florence: Yes... we've got ourselves a Flirt-off! _Cue flirting, simpering, crotch-thrusting, whatever... towards Dan Lothario who snaps back to life_
 
 Dan Lothario: _once the flirting has finished_ My my, aren't you the most enchanting maidens I've had the good fortune to lay my eyes upon?
-_giggling from Dames, followed by violent agreement over how beautiful they both are, but then turning into argument over who is MOST beautiful. D1 decides to take the initiative..._
+_giggling from Dames, followed by violent agreement over how beautiful they both are, but then turning into argument over who is MOST beautiful. Florence decides to take the initiative..._
 
-D1: I don't believe we've had the pleasure.
+Florence: I don't believe we've had the pleasure.
 
 Dan Lothario: _to the audience_ That doesn't surprise me.
 
-D2: _pushing D1 out of the way_ But I'd like to...
+Beatrice: _pushing Florence out of the way_ But I'd like to...
 
-D1: _pushing D2 back out of the way_ Allow me to ingratiate (interrogate) myself with yourself. I'm Florence and, as well as being the prettiest Dame on this planet, I'm also in charge of things.
+Florence: _pushing Beatrice back out of the way_ Allow me to ingratiate (interrogate) myself with yourself. I'm Florence and, as well as being the prettiest Dame on this planet, I'm also in charge of things.
 
-D2: Woah, woah, woah there droopy drawers, i'm Beatrice, I'M in charge, and _looking pointedly at D1_ I'm the prettiest.
+Beatrice: Woah, woah, woah there droopy drawers, i'm Beatrice, I'M in charge, and _looking pointedly at Florence_ I'm the prettiest.
 
 Dan Lothario: Well, I'm Captain Dan Lothario, and it's an absolute delight to meet you both. And may I say you both look absolutely smashing in your outfits, they certainly, flatter your, ample figures. I honestly don't think I could choose between either of you _grimaces at audience_.
 
@@ -57,77 +57,77 @@ _More simpering from Dames_
 
 Dan Lothario: But hold on... _sniffs the air around them_ What IS that smell? _Dames sniff their own armpits, each other etc_
 
-D2: _puzzled_ I can't smell 'owt
+Beatrice: _puzzled_ I can't smell 'owt
 
-D1: Me neither.
+Florence: Me neither.
 
 Dan Lothario: Well THAT'S the problem. Two fabulous looking ladies like yourselves deserve a certain Je ne sais quoi
 
-D1: A Gin and say whatsit?
+Florence: A Gin and say whatsit?
 
-D2: Ohhh, I like the sound of that, 2 pints of Gin and a packet of cheesy Wotsits please!
+Beatrice: Ohhh, I like the sound of that, 2 pints of Gin and a packet of cheesy Wotsits please!
 
 Dan Lothario: _spelling it out for them_ Je... Ne... Sais... Quoi...
 
-D1: I think it's German
+Florence: I think it's German
 
-D2: Which planet's that?
+Beatrice: Which planet's that?
 
 Dan Lothario: You need an eau-de-toillette.
 
-D1: No thanks, I went before I came on stage.
+Florence: No thanks, I went before I came on stage.
 
-D2: She did... _to the audience, screwing up her face_ I heard...
+Beatrice: She did... _to the audience, screwing up her face_ I heard...
 
 Dan Lothario: Oh good lord, have you not heard of cologne?
 
-D1: Oh that's definitely in Germany
+Florence: Oh that's definitely in Germany
 
-D2: Oooooh, you're SO good on geology!
+Beatrice: Oooooh, you're SO good on geology!
 
 Dan Lothario: May I enquire where do you fine ladies purchase olfactory delights?
 
-D1: _looking puzzled_ Well, Ethel down the street runs the butchers, if that's what you mean?
+Florence: _looking puzzled_ Well, Ethel down the street runs the butchers, if that's what you mean?
 
 Dan Lothario: I mean who satisfies your perfumery requirements.
 
-D2: _to D1_ He's making no scents!
+Beatrice: _to Florence_ He's making no scents!
 
-D1: _to the audience_... making no scents!!! Get it... scents... no? Oh, you're in for a long night!
+Florence: _to the audience_... making no scents!!! Get it... scents... no? Oh, you're in for a long night!
 
 Dan Lothario: well this is your lucky day ladies. Amongst other things, I happen to be the exclusive representative for one of the most sought after perfume brands in the universe. Just a small spray of my product will have the gentlemen flocking round.
 
-D2: _to D1, looking a little concerned_ what did he say Florence?
+Beatrice: _to Florence, looking a little concerned_ what did he say Florence?
 
-D1: Flocking Beatrice... flocking!
+Florence: Flocking Beatrice... flocking!
 
 Dan Lothario: Now this IS extremely exclusive, so it's rather pricey... but you seem like the kind of classy ladies who don't worry about that sort of thing.
 
-D1: _putting on posh voices_ Oh no, we're very upmarket... I once knew someone from the Wilmslow galaxy.
+Florence: _putting on posh voices_ Oh no, we're very upmarket... I once knew someone from the Wilmslow galaxy.
 
-D2: _trying to be even posher_ And I've been to Leek.
+Beatrice: _trying to be even posher_ And I've been to Leek.
 
-D1: _looking down at D2's feet_ what, just now... could you not have waited until the end of this scene? _realising her mistake_ oh, I see, Leek, sorry.
+Florence: _looking down at Beatrice's feet_ what, just now... could you not have waited until the end of this scene? _realising her mistake_ oh, I see, Leek, sorry.
 
 Dan Lothario: Allow me to introduce you to Faybrehze pour Femme. _takes out a large squirty bottle labelled Febreeze and proceeds to squirt them both. They're both taken aback, don't seem to appreciate the smell, and start imploring him to stop. He takes another sniff in their general direction_. Oh, MUCH better, my I'm getting URGES just inhaling your aroma.
 
-D1: Well let those urges spring forth Danny Boy, let em out.
+Florence: Well let those urges spring forth Danny Boy, let em out.
 
 Dan Lothario: If I wasn't such a gentleman...
 
-D2: well WE won't tell anyone, will we Florence?
+Beatrice: well WE won't tell anyone, will we Florence?
 
 Dan Lothario: Sadly I have other appointments in the Langley Constellation, and you know how stylish the ladies are there. I'd hate them to have all of this Faybreaze to themselves... shall I put you down for, say... 23 gallons?
 
-D1: _to D2_ do you think that'll be enough?
+Florence: _to Beatrice_ do you think that'll be enough?
 
-D2: make it 25 gallons and give us a couple of bottles of that GeNeSaysQuaz stuff you drink.
+Beatrice: make it 25 gallons and give us a couple of bottles of that "Ginney Says Quaz" stuff you drink.
 
 Dan Lothario: excellent, it's cash only, I'm afraid _handing them an invoice. They both look shocked, and splutter about it being a bit steep etc, but then, aware that they've made out how posh they are, scrape around in their pockets and manage to pull together the requisite cash, which they hand over, slightly reluctantly_. A pleasure doing business with you absolute babes. Au revoir, as they say... _shrugging at the audience_ in Germany. _he exits_
 
-D1: Well, he was a bit of alright
+Florence: Well, he was a bit of alright
 
-D2: What a charmer, he definitely fancied me...
+Beatrice: What a charmer, he definitely fancied me...
 
 _More Dames enter loudly, some only partially made up, arguing_
 
@@ -141,9 +141,9 @@ D4: It smells like a badger's exploded
 
 D3: It's burning my eyes.
 
-D1: What do you think girls, how do you like our new, perfume?
+Florence: What do you think girls, how do you like our new, perfume?
 
-D2: It's called Faybrehhzzzz.
+Beatrice: It's called Faybrehhzzzz.
 
 D3: It's awful
 
@@ -151,17 +151,17 @@ D4: It stinks
 
 D3: It's still burning my eyes
 
-D1: Oh you're just jealous cos we smell divine, and you don't
+Florence: Oh you're just jealous cos we smell divine, and you don't
 
-D2: We'll have men falling at our feet
+Beatrice: We'll have men falling at our feet
 
 D3: I wouldn't be at all surprised. You'll poison them with THEM fumes!
 
 D4: Where DID you get that noxious abomination from?
 
-D1: A very tasty gentleman, Captain Dan Lothario sold it to us. I think he quite fancied me.
+Florence: A very tasty gentleman, Captain Dan Lothario sold it to us. I think he quite fancied me.
 
-D2: He says the ladies on Langley are mad for this stuff, and you know how cosmopolitan they are!
+Beatrice: He says the ladies on Langley are mad for this stuff, and you know how cosmopolitan they are!
 
 D3: Langley, you say?
 
@@ -169,23 +169,23 @@ D4: Give us some of that!
 
 D3: _eyes screwed shut_ Spray it on my face!!!
 
-D1: _begins to spray, but then notices D3 has a 5-o-clock shadow_ Are you starting to grow... A BEARD??? _everyone else gathers round to look and agrees that seems to be the case_
+Florence: _begins to spray, but then notices D3 has a 5-o-clock shadow_ Are you starting to grow... A BEARD??? _everyone else gathers round to look and agrees that seems to be the case_
 
 D4: Well, YOUR voice seems to be getting a lot deeper!
 
-D2: I must admit, I seem to be struggling to keep up with my leg-shaving recently
+Beatrice: I must admit, I seem to be struggling to keep up with my leg-shaving recently
 
 D3: Oh, it's YOU who pinched my Black And Decker Strimmer is it... I was wondering why I couldn't find it
 
-D2: Well what's going on? Why are we becoming less...feminine?
+Beatrice: Well what's going on? Why are we becoming less...feminine?
 
-D1: well we know what keeps us looking gorgeous and ladylike...
+Florence: well we know what keeps us looking gorgeous and ladylike...
 
 Everyone: BLUE EYESHADOW!
 
-D1: Exactly, Igor!!! _a servant shuffles on_. Go to the makeup warehouse and bring us some more blue eyeshadow. _he shuffles off_
+Florence: Exactly, Igor!!! _a servant shuffles on_. Go to the makeup warehouse and bring us some more blue eyeshadow. _he shuffles off_
 
-D2: Good thinking Florence, I've completely run out of it
+Beatrice: Good thinking Florence, I've completely run out of it
 
 D3: Me too
 
@@ -193,21 +193,21 @@ D4: and me
 
 Igor: _returning_ My Queen, I'm sorry to have to tell you this, but there is no blue eyeshadow left. _da da daaaaaa_
 
-D1: I bet SHE's used it all
+Florence: I bet SHE's used it all
 
-D2: That Layabout!
+Beatrice: That Layabout!
 
 D3: Oh that's TYPICAL of her
 
 D4: Why did we ever agree to take her in when she was a baby?
 
-D2: She's nothing but trouble
+Beatrice: She's nothing but trouble
 
 D3: selfish
 
 D4: and lazy!
 
-D1: well this is the final straw, _shouting offstage_ Damebots... bring that Layabout out here.
+Florence: well this is the final straw, _shouting offstage_ Damebots... bring that Layabout out here.
 
 _the Dames all look angrily at each other. Two Damebots drag Princess Layabout on stage. One of the Dames takes the towel off her head and replaces it with a badly made judge's wig_
 
@@ -219,25 +219,25 @@ D3: Silence in court! Princess Denise Layabout, you stand accused of stealing bl
 
 Princess Layabout: Why would I steal yer eyeshadow, I don't need eyeshadow, I don't need ANY makeup, I'm just naturally attractive, unlike you freaks _gasps of horror from the other Dames_
 
-D2: _to the audience_ I hardly need any makeup either, just a little foundation and my blue eyeshadow and I look fabulous
+Beatrice: _to the audience_ I hardly need any makeup either, just a little foundation and my blue eyeshadow and I look fabulous
 
 Princess Layabout: do me a favour, you've got a cement mixer in your room, you trowel it on...
 
 D3: Silence! I call the first witness for the prosecution.
 
-D1: Thankyou m'lady. Calling Gertrude Scuttle. _Gertrude steps forward_ You are Gertrude Matilda Scuttle.
+Florence: Thankyou m'lady. Calling Gertrude Scuttle. _Gertrude steps forward_ You are Gertrude Matilda Scuttle.
 
 D4: I am.
 
-D1: And when did you last see your blue eyeshadow.
+Florence: And when did you last see your blue eyeshadow.
 
 D4: Well, I left it out on the side just before SHE came in, and when she left... it was GONE! _gasps, tuts etc from Dames_
 
-D1: No further questions your honour
+Florence: No further questions your honour
 
 D3: Any words for the defence _Layabout looks around and realises she has no legal counsel_
 
-D2: Get on with it, Strictly's on in ten minutes!!!
+Beatrice: Get on with it, Strictly's on in ten minutes!!!
 
 Princess Layabout: I dunno why yer all so cruel to me, you've never liked me, never paid me any attention, never brought me up proper... you're the worst step-parents a girl could ever have... And you all... LOOK LIKE MEN!!!!
 
@@ -249,17 +249,17 @@ _Damebots march her offstage, Igor buggers off while she screams abuse back, Igo
 
 D3: Ooooooh, that felt good didn't it? I felt like a proper judge and everything.
 
-D1: You were very stern Jackie, I loved the "Silence in court" bit.
+Florence: You were very stern Jackie, I loved the "Silence in court" bit.
 
-D2: _to D1_ well your prosecuting skills were very impressive...
+Beatrice: _to Florence_ well your prosecuting skills were very impressive...
 
-D1: D'ya think so? I wasn't sure if it was a bit much...
+Florence: D'ya think so? I wasn't sure if it was a bit much...
 
 D4: So what do we do with her?
 
-D1: Send her to prison
+Florence: Send her to prison
 
-D2: A really horrible prison
+Beatrice: A really horrible prison
 
 D4: You don't mean
 
@@ -267,15 +267,15 @@ D3: Yes, I sentence her to life on the prison planet... Farton
 
 _Other Dames screw up their noses, knowing what Farton smells like_
 
-D2: this is all well and good, but without blue shadow, we're all going to turn into men.
+Beatrice: this is all well and good, but without blue shadow, we're all going to turn into men.
 
 TRAGEDY
 
-D1: _addressing one of the Damebots_ Damebot... how do you make blue eyeshadow?
+Florence: _addressing one of the Damebots_ Damebot... how do you make blue eyeshadow?
 
 Damebot: It is made from Derbyshire Spar, commonly known as Blue John
 
-D2: Ooooh, Blue John, I'd like to meet him!
+Beatrice: Ooooh, Blue John, I'd like to meet him!
 
 D3: Quiet, Beatrice... Where do we find Blue John?
 
@@ -287,13 +287,13 @@ Damebot: Eaaaarth
 
 All Dames: Eaaaaaaarthhhhh?
 
-D2: Eugh, that sounds horrible. Right well, order us some more from Eaaaaarth...
+Beatrice: Eugh, that sounds horrible. Right well, order us some more from Eaaaaarth...
 
 Damebot: This is impossible. Earth has recently left the Common Galactic Trading Federation and they can no longer export their goods.
 
 _Dames all look at each other in disbelief_
 
-D1: Right then, there's only one thing for it, no one will stand in our way, we will destroy everything in our path. We will... invade Eaaaaaarth! _Big sound effect/music/Darth Vader march_
+Florence: Right then, there's only one thing for it, no one will stand in our way, we will destroy everything in our path. We will... invade Eaaaaaarth! _Big sound effect/music/Darth Vader march_
 
 _Curtains close, Front of Curtain we see Obi Wan Big Bogie and Igor. OWBB is partially shrouded in a hooded cape_
 
@@ -509,9 +509,9 @@ Ken: Dorothy, it's blokes dressed as women
 
 Dorothy: Ken!! you can't say that sort of thing anymore _to one of the Dames_ I'm sorry love, he's a bit behind the times.
 
-D1: Silence! We are not men, we are The Dames, and we are now in control of this eyeshadow production facility.
+Florence: Silence! We are not men, we are The Dames, and we are now in control of this eyeshadow production facility.
 
-D2: You will begin mining immediately _they give Ken and Dorothy small tools_
+Beatrice: You will begin mining immediately _they give Ken and Dorothy small tools_
 
 Ken: What are these??? These won't work. They don't have the necessary torque to deal with stone this dense. I should know, I was in charge of the Channel Tunnel project. Allow me to educate you about the geological manifestation of this particular area, you see...
 
@@ -795,17 +795,17 @@ D3: What time does the footie kick off?
 
 D4: BURP!!!!
 
-D1: So, you think you can outwit The Dames with your silly little Wasbinator do you?
+Florence: So, you think you can outwit The Dames with your silly little Wasbinator do you?
 
-D2: You cannot defeat the mighty Dame species, we are invincible.
+Beatrice: You cannot defeat the mighty Dame species, we are invincible.
 
 D3: But we need to know how you created such a large power surge. We will steal this technology and become even more invincible.
 
 Ken: strictly speaking, I don't think you can become MORE invincible. You see it's from the Latin, invincibilis which means... _he is interrupted_
 
-D1: Quiet. You will explain your amplification system.
+Florence: Quiet. You will explain your amplification system.
 
-D2: Or we will MAKE you
+Beatrice: Or we will MAKE you
 
 Bearass _from off stage_ Don't tell him Ken, if they get their hands on the Wasbinator, then heaven help us.
 
@@ -815,11 +815,11 @@ Ken: don't worry Dorothy, they won't break me, _to the Dames_ I was in 'Nam you 
 
 Dorothy: You were in Chelt'nam Ken, he worked on the checkout (stacked shelves) at Kwiksave.
 
-D1: Begin... the dissing...
+Florence: Begin... the dissing...
 
 Ken: The... what... oh, no, no, not that, anything but that!
 
-D2: Look at his legs, I've seen bigger drumsticks in the freezer section on the planet Aldi.
+Beatrice: Look at his legs, I've seen bigger drumsticks in the freezer section on the planet Aldi.
 
 Ken: Aaaaaghhhh... no stop it, please.
 
@@ -827,7 +827,7 @@ D3: Go on Florence, throw some shade, diss him some more.
 
 Ken: No, please, I can't take it...
 
-D2: Look at his nose, you could dig for truffles with that!
+Beatrice: Look at his nose, you could dig for truffles with that!
 
 Ken: Aaaaaghhhh!
 
@@ -837,11 +837,11 @@ Ken: Aaaaaghhhh!
 
 Damebot: _enters stage carrying a container of blue eyeshadow_ The digging has been a success. The first batch is prepared.
 
-D1: _grabbing the container_ Give me some of that, where's the mirror _strides purposefully off stage, sounds of her smearing it over her eyes, werewolf-type transformation SFX, maybe bright blue light flickers from offstage, she returns wearing a huge blue wig... she has become a super Dame_. I've never felt so feminine, I have become... Super Dame!
+Florence: _grabbing the container_ Give me some of that, where's the mirror _strides purposefully off stage, sounds of her smearing it over her eyes, werewolf-type transformation SFX, maybe bright blue light flickers from offstage, she returns wearing a huge blue wig... she has become a super Dame_. I've never felt so feminine, I have become... Super Dame!
 
-_the other Dames all run offstage, shouting, give me some of that eyeshadow, I'm first etc as D1 stands triumphant and Ken looks terrified_
+_the other Dames all run offstage, shouting, give me some of that eyeshadow, I'm first etc as Florence stands triumphant and Ken looks terrified_
 
-D1: As Super Dames, conquering one planet is just the beginning, we shall take the whole universe!
+Florence: As Super Dames, conquering one planet is just the beginning, we shall take the whole universe!
 
 Ken: Ohhhhh eck!!!
 
@@ -875,7 +875,7 @@ Suey: Oh wow, I've got a sister, hiya...
 
 Layabout: _totally uninterested_ Yeah, what-ever... I doubt we'll get on, you're nothing like me.
 
-_Then DL comes through the tunnel complaining that his suit is covered in dust_.
+_Then Dan Lothario comes through the tunnel complaining that his suit is covered in dust_.
 
 Dan Lothario: This place hasn't changed a bit, still smelly and dusty and... oh hello... _spotting Layabout_ who's this? You weren't here last time... nice onesie!
 
@@ -897,17 +897,17 @@ OWBB: _Interrupting_ I don't NEED to know your name, I NEED to train these young
 
 P: Oh, thank you Mr Big Bogie, it would be an honour Mr Big Bogie... _P leaves_
 
-_Layabout and DL are on one side of the stage flirting, whilst Suey is tries to get her attention, but she keeps pushing him away and trying to ignore him. He begins complaining to the audience_
+_Layabout and Dan Lothario are on one side of the stage flirting, whilst Suey is tries to get her attention, but she keeps pushing him away and trying to ignore him. He begins complaining to the audience_
 
 Suey: I can't believe this, I've come half way across the universe in a battered old spaceship, I've drilled through this prison wall, I've found a long lost sister I never knew I had, and she doesn't even want to talk to me... _looks sad, ahhhh, I'm sadder than that!_
 
 P: _returns with light sabres in duffel bag_ I've got them Mr Bogie, just like you asked... Why does your spaceship smell of dog poo...
 
-OWBB: Well come on man, get on with it _P attempts to inflate the first light sabre without success, repeats with the second, before DL steps in and inflates both with ease, impressing Layabout even more_.
+OWBB: Well come on man, get on with it _P attempts to inflate the first light sabre without success, repeats with the second, before Dan Lothario steps in and inflates both with ease, impressing Layabout even more_.
 
 Layabout: What's that for???
 
-DL: My darling, I have travelled across galaxies with these people and I know that their quest is true, and that they need your help. You're the most wonderful woman I've met this week, and I know you are capable of great deeds.
+Dan Lothario: My darling, I have travelled across galaxies with these people and I know that their quest is true, and that they need your help. You're the most wonderful woman I've met this week, and I know you are capable of great deeds.
 
 [Starship Trooper]
 
@@ -949,17 +949,17 @@ Suey and Layabout: MINT, Let's get em!
 
 _The Damebots are alerted by the outburst and turn to face the Jedi. A battle ensues, with lots of banter between Suey and Layabout, high fiving as they help each other out. Do Ken, Dot and BA scuttle off stage? Eventually the Damebots are defeated. The Dames enter, all wearing blue "superdame" wigs._
 
-D1: Well well well, what do we have here? If it isn't the last of the Jedi, led by
+Florence: Well well well, what do we have here? If it isn't the last of the Jedi, led by
 
-D2: And who's this, he looks like Iron Man!
+Beatrice: And who's this, he looks like Iron Man!
 
 D3: That's good, I've got a pile of bloomers _holding up a big basket of brightly coloured knickers_ that needs ironing!
 
 D4: Ooooh, he'll definitely need The Force to get through them. _The Dames all laugh at Suey_
 
-D1: And you _pointing at Layabout_, aren't you supposed to be in prison?
+Florence: And you _pointing at Layabout_, aren't you supposed to be in prison?
 
-D2: I wouldn't rely on this one, she's so lazy that ????
+Beatrice: I wouldn't rely on this one, she's so lazy that ????
 
 D3: Yeah, she's lazier than a ????
 
@@ -969,38 +969,38 @@ Layabout: I've changed, I've met people who believe in me, a family, and friends
 
 Dames: _Mocking_ Ooooooh... they LOOOOOVE Me!
 
-D1: Well you're no match for our Damely one-liners. Get her D2
+Florence: Well you're no match for our Damely one-liners. Get her Beatrice
 
-D2:
+Beatrice:
 
 OWBB: This is no good, our Jedi powers are strong, but we cannot compete with Panto-Power. _shouting down the aisle_ Courtney... we must play our trump card. _Loud fart sound, OWBB looks exasperated_ No Courtney... unleash the secret weapon. _Courtney has a massive ghetto-blaster on his shoulder, and presses Play. The Strictly theme tune blasts out, and The Dames are all suddenly distracted_
 
-D1: _looking down the aisle_ Is that Anton Du Beke?
+Florence: _looking down the aisle_ Is that Anton Du Beke?
 
-D2: Ooooh Strictly
+Beatrice: Ooooh Strictly
 
 _they all become entranced_
 _Ken and Dorothy waltz on and do a dance? Dames shout encouragement/critique, discuss the merits of the dance between themselves? At the end they all shout SEVEN! Maybe they one by one say their bit like the judges on Strictly?_
 
 Dorothy: I don't understand what all this trouble was in aid of.
 
-D1: We need Blue Eyeshadow, to keep us looking feminine.
+Florence: We need Blue Eyeshadow, to keep us looking feminine.
 
 Dorothy: But Blue Eyeshadow is SO last century. I'm a Tik Tok influencer, all the youngsters follow me, I've got my finger on the pulse of the make-up world, and I've got to tell you... It's all about orange these days!
 
-D2: Orange?
+Beatrice: Orange?
 
 D3: What's orange?
 
 D4: Orange?
 
-D1: We don't understand, what is this Orange of which you speak?
+Florence: We don't understand, what is this Orange of which you speak?
 
 Dorothy: I've got some here. It's completely organic, environmentally friendly, non-hypo-allergenic, easy to find on ALL the fashionable planets and... best of all... _dabbing it onto the Dames_ It looks fabulous!
 
-D1: Ooooh, that feels lovely. Very calming.
+Florence: Ooooh, that feels lovely. Very calming.
 
-D2: Oooh, I see what you mean, I feel womanly, but without the catty-ness!
+Beatrice: Oooh, I see what you mean, I feel womanly, but without the catty-ness!
 
 D3: Oh, I agree. I feel very chilled out!
 
@@ -1008,9 +1008,9 @@ D4: Does anyone fancy a bit of yoga?
 
 Dorothy: You see... it's all natural and MUCH better for your mental health. You can find the recipe on my Instagram page.
 
-D1: Oh, Dorothy, we're so sorry for all that "We are The Dames" nonsense.
+Florence: Oh, Dorothy, we're so sorry for all that "We are The Dames" nonsense.
 
-D2: I suppose we were all just a bit stressed?
+Beatrice: I suppose we were all just a bit stressed?
 
 D3: Yes, sorry for torturing you Ken, it was nothing personal.
 
@@ -1020,7 +1020,7 @@ Dorothy: _unties the dames_ well, no real harm done, I think Ken's a bit traumat
 
 Ken: Oh, I'm fine, it'll take more than a few fat blokes in dresses to bother me. I ??????.
 
-D1: Well, we'd better get back home, come along ladies.
+Florence: Well, we'd better get back home, come along ladies.
 
 Dames: _bye Dorothy, nice to meet you_
 
@@ -1042,7 +1042,7 @@ Layabout: What? You want me to come back with you?
 
 Suey: Well yeah. I've never had a sister before, and now I have, well, that's great innit?. Come on, you need to meet Calamity, she's a bit of an acquired taste like but, you know, that's families for ya!
 
-\*\* DL offers to take layabout for a spin in his Space Jag, and back to Calams' . Chilled bottle of Bolly in the boot. Ding dong etc
+\*\* Dan Lothario offers to take layabout for a spin in his Space Jag, and back to Calams' . Chilled bottle of Bolly in the boot. Ding dong etc
 
 Layabout: Great! _all except Bearass exit_
 
