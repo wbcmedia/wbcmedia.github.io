@@ -131,51 +131,51 @@ Beatrice: What a charmer, he definitely fancied me...
 
 _More Dames enter loudly, some only partially made up, arguing_
 
-D3: Cultured... you??? I've seen more culture in a tub of yogurt!
+Gertrude: Cultured... you??? I've seen more culture in a tub of yogurt!
 
-D4: How dare you, I was in the ballet.
+Amelia: How dare you, I was in the ballet.
 
-D3: Which one was it... Swan CAKE???? Ha, ha, ha, eughhhh, what IS that smell?
+Gertrude: Which one was it... Swan CAKE???? Ha, ha, ha, eughhhh, what IS that smell?
 
-D4: It smells like a badger's exploded
+Amelia: It smells like a badger's exploded
 
-D3: It's burning my eyes.
+Gertrude: It's burning my eyes.
 
 Florence: What do you think girls, how do you like our new, perfume?
 
 Beatrice: It's called Faybrehhzzzz.
 
-D3: It's awful
+Gertrude: It's awful
 
-D4: It stinks
+Amelia: It stinks
 
-D3: It's still burning my eyes
+Gertrude: It's still burning my eyes
 
 Florence: Oh you're just jealous cos we smell divine, and you don't
 
 Beatrice: We'll have men falling at our feet
 
-D3: I wouldn't be at all surprised. You'll poison them with THEM fumes!
+Gertrude: I wouldn't be at all surprised. You'll poison them with THEM fumes!
 
-D4: Where DID you get that noxious abomination from?
+Amelia: Where DID you get that noxious abomination from?
 
 Florence: A very tasty gentleman, Captain Dan Lothario sold it to us. I think he quite fancied me.
 
 Beatrice: He says the ladies on Langley are mad for this stuff, and you know how cosmopolitan they are!
 
-D3: Langley, you say?
+Gertrude: Langley, you say?
 
-D4: Give us some of that!
+Amelia: Give us some of that!
 
-D3: _eyes screwed shut_ Spray it on my face!!!
+Gertrude: _eyes screwed shut_ Spray it on my face!!!
 
 Florence: _begins to spray, but then notices D3 has a 5-o-clock shadow_ Are you starting to grow... A BEARD??? _everyone else gathers round to look and agrees that seems to be the case_
 
-D4: Well, YOUR voice seems to be getting a lot deeper!
+Amelia: Well, YOUR voice seems to be getting a lot deeper!
 
 Beatrice: I must admit, I seem to be struggling to keep up with my leg-shaving recently
 
-D3: Oh, it's YOU who pinched my Black And Decker Strimmer is it... I was wondering why I couldn't find it
+Gertrude: Oh, it's YOU who pinched my Black And Decker Strimmer is it... I was wondering why I couldn't find it
 
 Beatrice: Well what's going on? Why are we becoming less...feminine?
 
@@ -187,9 +187,9 @@ Florence: Exactly, Igor!!! _a servant shuffles on_. Go to the makeup warehouse a
 
 Beatrice: Good thinking Florence, I've completely run out of it
 
-D3: Me too
+Gertrude: Me too
 
-D4: and me
+Amelia: and me
 
 Igor: _returning_ My Queen, I'm sorry to have to tell you this, but there is no blue eyeshadow left. _da da daaaaaa_
 
@@ -197,25 +197,25 @@ Florence: I bet SHE's used it all
 
 Beatrice: That Layabout!
 
-D3: Oh that's TYPICAL of her
+Gertrude: Oh that's TYPICAL of her
 
-D4: Why did we ever agree to take her in when she was a baby?
+Amelia: Why did we ever agree to take her in when she was a baby?
 
 Beatrice: She's nothing but trouble
 
-D3: selfish
+Gertrude: selfish
 
-D4: and lazy!
+Amelia: and lazy!
 
 Florence: well this is the final straw, _shouting offstage_ Damebots... bring that Layabout out here.
 
 _the Dames all look angrily at each other. Two Damebots drag Princess Layabout on stage. One of the Dames takes the towel off her head and replaces it with a badly made judge's wig_
 
-D3: By the authority vested in me by the sisterhood of Dames, I, Jackie Weaver, declare the commencement of this court hearing.
+Gertrude: By the authority vested in me by the sisterhood of Dames, I, Jackie Weaver, declare the commencement of this court hearing.
 
 Princess Layabout: You have no authority here Jackie Weaver!
 
-D3: Silence in court! Princess Denise Layabout, you stand accused of stealing blue eyeshadow with a market value of 7 million lunabucks(???). How do you plead?
+Gertrude: Silence in court! Princess Denise Layabout, you stand accused of stealing blue eyeshadow with a market value of 7 million lunabucks(???). How do you plead?
 
 Princess Layabout: Why would I steal yer eyeshadow, I don't need eyeshadow, I don't need ANY makeup, I'm just naturally attractive, unlike you freaks _gasps of horror from the other Dames_
 
@@ -223,19 +223,19 @@ Beatrice: _to the audience_ I hardly need any makeup either, just a little found
 
 Princess Layabout: do me a favour, you've got a cement mixer in your room, you trowel it on...
 
-D3: Silence! I call the first witness for the prosecution.
+Gertrude: Silence! I call the first witness for the prosecution.
 
 Florence: Thankyou m'lady. Calling Gertrude Scuttle. _Gertrude steps forward_ You are Gertrude Matilda Scuttle.
 
-D4: I am.
+Amelia: I am.
 
 Florence: And when did you last see your blue eyeshadow.
 
-D4: Well, I left it out on the side just before SHE came in, and when she left... it was GONE! _gasps, tuts etc from Dames_
+Amelia: Well, I left it out on the side just before SHE came in, and when she left... it was GONE! _gasps, tuts etc from Dames_
 
 Florence: No further questions your honour
 
-D3: Any words for the defence _Layabout looks around and realises she has no legal counsel_
+Gertrude: Any words for the defence _Layabout looks around and realises she has no legal counsel_
 
 Beatrice: Get on with it, Strictly's on in ten minutes!!!
 
@@ -243,11 +243,11 @@ Princess Layabout: I dunno why yer all so cruel to me, you've never liked me, ne
 
 _more gasps of outrage_
 
-D3: Silence in court! I have heard the evidence and it is most damning. You are a lazy, bad-mannered, insolent young lady. And following this disgraceful crime you appear to show no remorse. I find you guilty in the eyes of this court and sentence you, to life imprisonment... Take her away.
+Gertrude: Silence in court! I have heard the evidence and it is most damning. You are a lazy, bad-mannered, insolent young lady. And following this disgraceful crime you appear to show no remorse. I find you guilty in the eyes of this court and sentence you, to life imprisonment... Take her away.
 
 _Damebots march her offstage, Igor buggers off while she screams abuse back, Igor follows_
 
-D3: Ooooooh, that felt good didn't it? I felt like a proper judge and everything.
+Gertrude: Ooooooh, that felt good didn't it? I felt like a proper judge and everything.
 
 Florence: You were very stern Jackie, I loved the "Silence in court" bit.
 
@@ -255,15 +255,15 @@ Beatrice: _to Florence_ well your prosecuting skills were very impressive...
 
 Florence: D'ya think so? I wasn't sure if it was a bit much...
 
-D4: So what do we do with her?
+Amelia: So what do we do with her?
 
 Florence: Send her to prison
 
 Beatrice: A really horrible prison
 
-D4: You don't mean
+Amelia: You don't mean
 
-D3: Yes, I sentence her to life on the prison planet... Farton
+Gertrude: Yes, I sentence her to life on the prison planet... Farton
 
 _Other Dames screw up their noses, knowing what Farton smells like_
 
@@ -277,11 +277,11 @@ Damebot: It is made from Derbyshire Spar, commonly known as Blue John
 
 Beatrice: Ooooh, Blue John, I'd like to meet him!
 
-D3: Quiet, Beatrice... Where do we find Blue John?
+Gertrude: Quiet, Beatrice... Where do we find Blue John?
 
 Damebot: It is only found in the Blue John Cavern
 
-D4: And where's that
+Amelia: And where's that
 
 Damebot: Eaaaarth
 
@@ -515,13 +515,13 @@ Beatrice: You will begin mining immediately _they give Ken and Dorothy small too
 
 Ken: What are these??? These won't work. They don't have the necessary torque to deal with stone this dense. I should know, I was in charge of the Channel Tunnel project. Allow me to educate you about the geological manifestation of this particular area, you see...
 
-D3: Silence! You will begin digging
+Gertrude: Silence! You will begin digging
 
 Ken: I can't do digging, It's my back you see... I've got a blue badge!
 
 Dorothy: Oh be quiet Ken... He only got it so he could park nearer the library.
 
-D4: This is your final warning. You will do as we command, or... _points at a convulsing Bearass who is still on the floor_
+Amelia: This is your final warning. You will do as we command, or... _points at a convulsing Bearass who is still on the floor_
 
 Dorothy: I think we should do what they say Ken, look what they did to that lovely Bearass.
 
@@ -587,47 +587,47 @@ _Curtains close_
 
 ## Act 1 Scene 5
 
-Pete: Oh, hello, you're new here, there hasn't been another inmate on the prison planet Farton for, oh, as long as I've been here. Nice to have a bit of company. What's your name.
+Petra: Oh, hello, you're new here, there hasn't been another inmate on the prison planet Farton for, oh, as long as I've been here. Nice to have a bit of company. What's your name.
 
 Layabout: Denise
 
-Pete: Oh, lovely to meet you Denise. I'm P.
+Petra: Oh, lovely to meet you Denise. I'm G...
 
-Layabout: Look, I don't want to seem rude, but I'm just not interested in yer small-talk. If it's all the same to you, I'd rather you just kept yourself to yourself.
+Layabout: _interrupting_ Look, I don't want to seem rude, but I'm just not interested in yer small-talk. If it's all the same to you, I'd rather you just kept yourself to yourself.
 
-Pete: Oh, I see, well do you at least mind me asking what you're in for? I mean, I think I at least deserve to know if I've been locked up with a mass murderer... or worse!
+Petra: Oh, I see, well do you at least mind me asking what you're in for? I mean, I think I at least deserve to know if I've been locked up with a mass murderer... or worse!
 
 Layabout: _sighs_ well if you really must know I was sent here by The Dames from their awful planet, just because they hate me, even though I've done nothing wrong.
 
-Pete: Oh my stars, I don't believe it, we've got loads in common. I was sent here by the Dames too. I was leading a peaceful protest against the horrendous way they're destroying our environment, using up all the natural resources for their pointless cosmetics... So I started a movement. You must have heard of us? _hands her a leaflet_ Just Stop Dames! That's me there on the front of the leaflet. So anyway, I'm leading the protest march... I mean I say leading, but there was only me there, but from little acorns etc etc... Anyway, where was I? Oh yes, I'm peacefully protesting, as is my right, and these two nasty little robot things came out, arrested me. I had no legal representation, which is a breach of my human rights, and next thing I know, I'm here, on the planet stench, on my own... until you turned up that is!
+Petra: Oh my stars, I don't believe it, we've got loads in common. I was sent here by the Dames too. I was leading a peaceful protest against the horrendous way they're destroying our environment, using up all the natural resources for their pointless cosmetics... So I started a movement. You must have heard of us? _hands her a leaflet_ Just Stop Dames! That's me there on the front of the leaflet. So anyway, I'm leading the protest march... I mean I say leading, but there was only me there, but from little acorns etc etc... Anyway, where was I? Oh yes, I'm peacefully protesting, as is my right, and these two nasty little robot things came out, arrested me. I had no legal representation, which is a breach of my human rights, and next thing I know, I'm here, on the planet stench, on my own... until you turned up that is!
 
 Layabout: Mmmmm, what a fascinating story!
 
-Pete: I know. Anyway, you can help me, I'm digging a tunnel _shows her a teaspoon_ with this. We're going to escape. Then you can join Just Stop Dames and help in the fight against tyrrany...
+Petra: I know. Anyway, you can help me, I'm digging a tunnel _shows her a teaspoon_ with this. We're going to escape. Then you can join Just Stop Dames and help in the fight against tyrrany...
 
 Layabout: Look, I'm sorry, but it all sounds like a lot of effort, and I'll be honest, I don't mind it here. I get me food dispensed out of that little hatch in the corner, I can do what I like without anyone bossing me about - I like it.
 
-Pete: But what about the future of our Galaxy. They're destroying planets, they're leading us into an environmental catastrophe. What will we tell future generations?
+Petra: But what about the future of our Galaxy. They're destroying planets, they're leading us into an environmental catastrophe. What will we tell future generations?
 
 Layabout: Tell em to stop moping about and whinging!
 
-Pete: We need to go back to The Planet Of The Dames
+Petra: We need to go back to The Planet Of The Dames
 
-Layabout: Why go to something, when you can make it come to you... _she closes her eyes, there is a strange noise and her copy of Onsie Weekly "floats through the air" into her hand_
+Layabout: Why go to something, when you can make it come to you... _she closes her eyes, there is a strange noise and her copy of Onesie Weekly "floats through the air" into her hand_
 
-Pete: What on... how did you do that...
+Petra: What on... how did you do that...
 
 Layabout: Can't everyone do that?
 
-Pete: What? No... oh my... you must be a... Jedi!!!!
+Petra: What? No... oh my... you must be a... Jedi!!!!
 
 Layabout: What's a Jedi?
 
-Pete: What's a Jedi???? What's a J... You don't know about the Jedi. Let me tell you about the Jedi, I'm a massive fan. See him _points at a poster of OWBB looking heroic_, on the wall up there, he's my favourite. Oh now that I know you're a Jedi, you HAVE to help dig us out
+Petra: What's a Jedi???? What's a J... You don't know about the Jedi. Let me tell you about the Jedi, I'm a massive fan. See him _points at a poster of OWBB looking heroic_, on the wall up there, he's my favourite. Oh now that I know you're a Jedi, you HAVE to help dig us out
 
 Layabout: Why bother digging when you could just blow a hole in the wall... with your mind?
 
-Pete: What??? You could do that? Oh my goodness, I'm so excited, we're getting out of here, go on, blow a hole in the wall with your mind.
+Petra: What??? You could do that? Oh my goodness, I'm so excited, we're getting out of here, go on, blow a hole in the wall with your mind.
 
 Layabout: No, yer alright! _she goes back to reading Onesie Weekly, Pete stares at the audience in disbelief, then eventually goes back to digging with his teaspoon, lights go down, curtains close_
 
@@ -671,7 +671,7 @@ Ken: We were called The Hinges!
 
 Dorothy: They supported The Doors!
 
-SONG##Space Oddity
+SONG
 
 _During the song Dorothy signals to Bearass who turns on the Wasbinator, there is a crackling noise and a flash. The Damebots fall to the ground convulsing, then are still_
 
@@ -689,7 +689,7 @@ _one of the Damebots starts to shakily move its arm, then begins to sit up, they
 
 8 mins
 
-INTERVAL
+## INTERVAL
 
 Radio ad
 Have you been travelling for light years, need fuel, or pasties. Why not stop at "Flash Star Stores", just off junction 47 of Galactiway 66.
@@ -787,19 +787,19 @@ Ken: Tell you everything I know. Ha, I've forgotten more than you'll ever learn 
 
 Damebot: All hail The Dames
 
-_Dames enter - one has a beard... One drinking a can of Stella. Another is scratching their arse._
+_Dames enter - one has a beard... One is drinking a can of Stella. Another is scratching their backside!_
 
 Ken: Oooooh 'eck they're starting to look quite tough!
 
-D3: What time does the footie kick off?
+Gertrude: What time does the footie kick off?
 
-D4: BURP!!!!
+Amelia: BURP!!!!
 
 Florence: So, you think you can outwit The Dames with your silly little Wasbinator do you?
 
 Beatrice: You cannot defeat the mighty Dame species, we are invincible.
 
-D3: But we need to know how you created such a large power surge. We will steal this technology and become even more invincible.
+Gertrude: But we need to know how you created such a large power surge. We will steal this technology and become even more invincible.
 
 Ken: strictly speaking, I don't think you can become MORE invincible. You see it's from the Latin, invincibilis which means... _he is interrupted_
 
@@ -823,7 +823,7 @@ Beatrice: Look at his legs, I've seen bigger drumsticks in the freezer section o
 
 Ken: Aaaaaghhhh... no stop it, please.
 
-D3: Go on Florence, throw some shade, diss him some more.
+Gertrude: Go on Florence, throw some shade, diss him some more.
 
 Ken: No, please, I can't take it...
 
@@ -831,7 +831,7 @@ Beatrice: Look at his nose, you could dig for truffles with that!
 
 Ken: Aaaaaghhhh!
 
-D3: Hey girls, it wouldn't cost much to send that package
+Gertrude: Hey girls, it wouldn't cost much to send that package
 
 Ken: Aaaaaghhhh!
 
@@ -953,17 +953,17 @@ Florence: Well well well, what do we have here? If it isn't the last of the Jedi
 
 Beatrice: And who's this, he looks like Iron Man!
 
-D3: That's good, I've got a pile of bloomers _holding up a big basket of brightly coloured knickers_ that needs ironing!
+Gertrude: That's good, I've got a pile of bloomers _holding up a big basket of brightly coloured knickers_ that needs ironing!
 
-D4: Ooooh, he'll definitely need The Force to get through them. _The Dames all laugh at Suey_
+Amelia: Ooooh, he'll definitely need The Force to get through them. _The Dames all laugh at Suey_
 
 Florence: And you _pointing at Layabout_, aren't you supposed to be in prison?
 
 Beatrice: I wouldn't rely on this one, she's so lazy that ????
 
-D3: Yeah, she's lazier than a ????
+Gertrude: Yeah, she's lazier than a ????
 
-D4: Yeah ????
+Amelia: Yeah ????
 
 Layabout: I've changed, I've met people who believe in me, a family, and friends, who... Love Me!
 
@@ -990,9 +990,9 @@ Dorothy: But Blue Eyeshadow is SO last century. I'm a Tik Tok influencer, all th
 
 Beatrice: Orange?
 
-D3: What's orange?
+Gertrude: What's orange?
 
-D4: Orange?
+Amelia: Orange?
 
 Florence: We don't understand, what is this Orange of which you speak?
 
@@ -1002,9 +1002,9 @@ Florence: Ooooh, that feels lovely. Very calming.
 
 Beatrice: Oooh, I see what you mean, I feel womanly, but without the catty-ness!
 
-D3: Oh, I agree. I feel very chilled out!
+Gertrude: Oh, I agree. I feel very chilled out!
 
-D4: Does anyone fancy a bit of yoga?
+Amelia: Does anyone fancy a bit of yoga?
 
 Dorothy: You see... it's all natural and MUCH better for your mental health. You can find the recipe on my Instagram page.
 
@@ -1012,9 +1012,9 @@ Florence: Oh, Dorothy, we're so sorry for all that "We are The Dames" nonsense.
 
 Beatrice: I suppose we were all just a bit stressed?
 
-D3: Yes, sorry for torturing you Ken, it was nothing personal.
+Gertrude: Yes, sorry for torturing you Ken, it was nothing personal.
 
-D4: Does anyone else have a craving for tofu?
+Amelia: Does anyone else have a craving for tofu?
 
 Dorothy: _unties the dames_ well, no real harm done, I think Ken's a bit traumatised, but he's had worse.
 
