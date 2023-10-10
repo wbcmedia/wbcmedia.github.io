@@ -239,7 +239,7 @@ _more gasps of outrage_
 
 **Jackie:** Silence in court! I have heard the evidence and it is most damning. You are a lazy, bad-mannered, insolent young lady. And following this disgraceful crime you appear to show no remorse. I find you guilty in the eyes of this court and sentence you, to life imprisonment... Take her away.
 
-_Damebots march her offstage, Igor buggers off while she screams abuse back, Igor follows_
+_Damebots march her offstage, she screams abuse back at the Dames, Igor follows her offstage_
 
 **Jackie:** Ooooooh, that felt good didn't it? I felt like a proper judge and everything.
 
@@ -263,7 +263,7 @@ _Other Dames screw up their noses, knowing what Farton smells like_
 
 **Beatrice:** this is all well and good, but without blue shadow, we're all going to turn into men.
 
-TRAGEDY
+SONG: Tragedy
 
 **Florence:** _addressing the Damebots_ Damebots... how do you make blue eyeshadow?
 
