@@ -43,13 +43,13 @@ _giggling from Dames, followed by violent agreement over how beautiful they both
 
 **Dan Lothario:** _to the audience_ That doesn't surprise me.
 
-**Beatrice:** _pushing Florence out of the way_ But I'd like to...
+**Beatrice:** _pushing Florence out of the way_ But I'd LIKE to!
 
 **Florence:** _pushing Beatrice back out of the way_ Allow me to interrogate myself with yourself. I'm Florence and, as well as being the prettiest Dame on this planet, I'm also in charge of things.
 
 **Beatrice:** Woah, woah, woah there droopy drawers, i'm Beatrice, I'M in charge, and _looking pointedly at Florence_ I'm the prettiest.
 
-**Dan Lothario:** Well, I'm Captain Dan Lothario, and it's an absolute delight to meet you both. And may I say you both look absolutely smashing in your outfits, they certainly, flatter your, ample figures. I honestly don't think I could choose between either of you _grimaces at audience_.
+**Dan Lothario:** Well, I'm Captain Dan Lothario, and it's an absolute delight to meet you both. And may I say you both look absolutely smashing in your outfits, they certainly, flatter your, "ample figures". I honestly don't think I could choose between either of you _grimaces at audience_.
 
 _More simpering from Dames_
 
@@ -59,7 +59,7 @@ _More simpering from Dames_
 
 **Florence:** Me neither.
 
-**Dan Lothario:** Well THAT'S the problem. Two fabulous looking ladies like yourselves deserve a certain Je ne sais quoi
+**Dan Lothario:** Well THAT'S the problem. Two fabulous looking ladies like yourselves deserve a certain "Je ne sais quoi"
 
 **Florence:** A Gin and say whatsit?
 
@@ -67,25 +67,25 @@ _More simpering from Dames_
 
 **Dan Lothario:** _spelling it out for them_ Je... Ne... Sais... Quoi...
 
-**Florence:** I think it's German
+**Florence:** _to Beatrice_ I think it's German
 
-**Beatrice:** Which planet's that?
+**Beatrice:** _to Florence_ Which planet's that?
 
 **Dan Lothario:** You need an eau-de-toillette.
 
-**Florence:** No thanks, I went before I came on stage.
+**Florence:** No thanks! _proudly_ I went before I came on stage.
 
-**Beatrice:** She did... _to the audience, screwing up her face_ I heard...
+**Beatrice:** She did... _to the audience, screwing up her face_ I heard!
 
-**Dan Lothario:** Oh good lord, have you not heard of cologne?
+**Dan Lothario:** _becoming exasperated_ Oh good lord, have you not heard of cologne?
 
 **Florence:** Oh that's definitely in Germany
 
 **Beatrice:** Oooooh, you're SO good on geology!
 
-**Dan Lothario:** May I enquire where do you fine ladies purchase olfactory delights?
+**Dan Lothario:** May I enquire where do you fine ladies purchase "olfactory delights"?
 
-**Florence:** _looking puzzled_ Well, Ethel down the street runs the butchers, if that's what you mean?
+**Florence:** _looking puzzled - no idea what olfactory means, but guesses it might be something to do with offal_ Well, Ethel down the street runs the butchers, if that's what you mean?
 
 **Dan Lothario:** I mean who satisfies your perfumery requirements.
 
@@ -113,7 +113,7 @@ _More simpering from Dames_
 
 **Dan Lothario:** If I wasn't such a gentleman...
 
-**Beatrice:** well WE won't tell anyone, will we Florence?
+**Beatrice:** Well WE won't tell anyone, will we Florence?
 
 **Dan Lothario:** Sadly I have other appointments in the Langley Constellation, and you know how stylish the ladies are there. I'd hate them to have all of this Faybreaze to themselves... shall I put you down for, say... 23 gallons?
 
@@ -125,7 +125,7 @@ _More simpering from Dames_
 
 **Florence:** Well, he was a bit of alright
 
-**Beatrice:** What a charmer, he definitely fancied me...
+**Beatrice:** What a charmer. He definitely fancied ME.
 
 _More Dames enter loudly, some only partially made up, arguing_
 
@@ -149,7 +149,9 @@ _More Dames enter loudly, some only partially made up, arguing_
 
 **Beatrice:** We'll have men falling at our feet
 
-**Jackie:** I wouldn't be at all surprised. You'll poison them with THEM fumes! Where DID you get that noxious abomination from?
+**Jackie:** I wouldn't be at all surprised. You'll poison'em with THEM fumes!
+
+**Gertrude:** Where DID you get that noxious abomination from?
 
 **Florence:** A very tasty gentleman, Captain Dan Lothario sold it to us. I think he quite fancied me.
 
@@ -167,39 +169,39 @@ _More Dames enter loudly, some only partially made up, arguing_
 
 **Beatrice:** I must admit, I seem to be struggling to keep up with my leg-shaving recently
 
-**Jackie:** Oh, it's YOU who pinched my Black And Decker Strimmer is it... I was wondering why I couldn't find it
+**Jackie:** Oh, it's YOU who pinched my Black And Decker Strimmer is it? I was wondering why I couldn't find it!
 
 **Beatrice:** Well what's going on? Why are we becoming less...feminine?
 
-**Florence:** well we know what keeps us looking gorgeous and ladylike...
+**Florence:** Well we all know what keeps us looking gorgeous and ladylike...
 
 **Other Dames (Together):** BLUE EYESHADOW!
 
-**Florence:** Exactly, Igor!!! _a servant shuffles on_. Go to the makeup warehouse and bring us some more blue eyeshadow. _he shuffles off_
+**Florence:** Exactly. _shouting offstage_ Igor!!! _a servant shuffles on_. Go to the makeup warehouse and bring us some more blue eyeshadow. _he shuffles off_
 
-**Beatrice:** Good thinking Florence, I've completely run out of it
+**Beatrice:** Good thinking Florence, I've completely run out of it.
 
-**Jackie:** Me too
+**Jackie:** Me too.
 
-**Gertrude:** and me
+**Gertrude:** And me.
 
 **Igor:** _returning_ My Queen, I'm sorry to have to tell you this, but there is no blue eyeshadow left. _da da daaaaaa_
 
-**Florence:** I bet SHE's used it all
+**Florence:** I bet SHE's used it all!
 
 **Beatrice:** That Layabout!
 
-**Gertrude:** Oh that's TYPICAL of her
+**Gertrude:** Oh that's TYPICAL of her!
 
 **Jackie:** Why did we ever agree to take her in when she was a baby?
 
-**Beatrice:** She's nothing but trouble
+**Beatrice:** She's nothing but trouble.
 
-**Jackie:** selfish
+**Jackie:** Selfish!
 
-**Gertrude:** and lazy!
+**Gertrude:** And lazy!
 
-**Florence:** well this is the final straw, _shouting offstage_ Damebots... bring that Layabout out here.
+**Florence:** Well - this is the final straw, _shouting offstage_ Damebots... bring that Layabout out here.
 
 _the Dames all look angrily at each other. Two Damebots drag Princess Layabout on stage. Dame Jackie takes the towel off her head and replaces it with a badly made judge's wig_
 
@@ -207,15 +209,15 @@ _the Dames all look angrily at each other. Two Damebots drag Princess Layabout o
 
 **Layabout:** You have no authority here Jackie Weaver!
 
-**Jackie:** Silence in court! Princess Denise Layabout, you stand accused of stealing blue eyeshadow with a market value of 7 million lunabucks. How do you plead?
+**Jackie:** _hammering a gavel_ Silence in court! Princess Denise Layabout, you stand accused of stealing blue eyeshadow with a market value of 7 million lunabucks. How do you plead?
 
 **Layabout:** Why would I steal yer eyeshadow, I don't need eyeshadow, I don't need ANY makeup. I'm just naturally attractive, unlike you freaks! _gasps of horror from the other Dames_
 
 **Beatrice:** _to the audience_ I hardly need any makeup either, just a little foundation and my blue eyeshadow and I look fabulous
 
-**Layabout:** do me a favour, you've got a cement mixer in your room, you trowel it on...
+**Layabout:** do me a favour, you've got a cement mixer in your room, you trowel it on!
 
-**Jackie:** Silence! I call the first witness for the prosecution.
+**Jackie:** _more gavel hammering_ Silence! I call the first witness for the prosecution.
 
 **Florence:** Thankyou m'lady. Calling Gertrude Scuttle. _Gertrude steps forward_ You are Gertrude Matilda Scuttle.
 
