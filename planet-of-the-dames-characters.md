@@ -1,4 +1,4 @@
-# Planet Of The Dames - Characters
+## Characters
 
 **Captain Dan Lothario** Likeable rogue/spiv/scoundrel. A combination of Johnny Depp's character in Pirates of The Caribbean, a bit of Harrison Ford (Han Solo in Star Wars), a bit of Rik Mayal's "Lord Flashheart" from Black Adder, and just a sprinkle of Leslie Phillips (Ding Dong).
 

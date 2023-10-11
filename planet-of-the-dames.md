@@ -1,7 +1,5 @@
 <link rel="stylesheet" href="styles.css">
 
-# Planet Of The Dames
-
 ## Act 1 Scene 1
 
 [On the Planet of the Dames]

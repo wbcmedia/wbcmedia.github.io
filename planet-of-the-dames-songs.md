@@ -1,4 +1,4 @@
-# Planet Of The Dames - Songs
+# Songs
 
 ## Tragedy
 
