@@ -1,5 +1,3 @@
-# WBC Media
-
 <p>
 <a href="/planet-of-the-dames">Planet Of The Dames - Script (WIP)</a>
 </p>
