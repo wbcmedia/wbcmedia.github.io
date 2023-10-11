@@ -47,7 +47,7 @@ _giggling from Dames, followed by violent agreement over how beautiful they both
 
 **Beatrice:** _pushing Florence out of the way_ But I'd like to...
 
-**Florence:** _pushing Beatrice back out of the way_ Allow me to ingratiate (interrogate) myself with yourself. I'm Florence and, as well as being the prettiest Dame on this planet, I'm also in charge of things.
+**Florence:** _pushing Beatrice back out of the way_ Allow me to interrogate myself with yourself. I'm Florence and, as well as being the prettiest Dame on this planet, I'm also in charge of things.
 
 **Beatrice:** Woah, woah, woah there droopy drawers, i'm Beatrice, I'M in charge, and _looking pointedly at Florence_ I'm the prettiest.
 
@@ -95,9 +95,9 @@ _More simpering from Dames_
 
 **Florence:** _to the audience_... making no scents!!! Get it... scents... no? Oh, you're in for a long night!
 
-**Dan Lothario:** well this is your lucky day ladies. Amongst other things, I happen to be the exclusive representative for one of the most sought after perfume brands in the universe. Just a small spray of my product will have the gentlemen flocking round.
+**Dan Lothario:** well this is your lucky day ladies. Amongst other things, I happen to be the exclusive representative for one of the most sought after perfume brands in the universe. Just a small spray of my product will have the gentlemen... flocking round.
 
-**Beatrice:** _to Florence, looking a little concerned_ what did he say Florence?
+**Beatrice:** _to Florence, looking a little concerned that he may have heard something rude_ what did he say Florence?
 
 **Florence:** Flocking Beatrice... flocking!
 
@@ -107,7 +107,7 @@ _More simpering from Dames_
 
 **Beatrice:** _trying to be even posher_ And I've been to Leek.
 
-**Florence:** _looking down at Beatrice's feet_ what, just now... could you not have waited until the end of this scene? _realising her mistake_ oh, I see, Leek, sorry.
+**Florence:** _looking down at Beatrice's feet_ what, just now???! Could you not have waited until the end of this scene? _realising her mistake_ Oh, I see, Leek, sorry.
 
 **Dan Lothario:** Allow me to introduce you to Faybrehze pour Femme. _takes out a large squirty bottle labelled Febreeze and proceeds to squirt them both. They're both taken aback, don't seem to appreciate the smell, and start imploring him to stop. He takes another sniff in their general direction_. Oh, MUCH better, my I'm getting URGES just inhaling your aroma.
 
@@ -203,7 +203,7 @@ _More Dames enter loudly, some only partially made up, arguing_
 
 **Florence:** well this is the final straw, _shouting offstage_ Damebots... bring that Layabout out here.
 
-_the Dames all look angrily at each other. Two Damebots drag Princess Layabout on stage. One of the Dames takes the towel off her head and replaces it with a badly made judge's wig_
+_the Dames all look angrily at each other. Two Damebots drag Princess Layabout on stage. Dame Jackie takes the towel off her head and replaces it with a badly made judge's wig_
 
 **Jackie:** By the authority vested in me by the sisterhood of Dames, I, Jackie Weaver, declare the opening of this trial.
 
@@ -281,7 +281,7 @@ SONG: Tragedy
 
 **All Dames:** Eaaaaaaarthhhhh?
 
-**Beatrice:** Eugh, that sounds horrible. Right well, order us some more from Eaaaaarth...
+**Beatrice:** Eugh, that sounds horrible. Right, well, order us some more from Eaaaaarth...
 
 **Damebot 1:** This is impossible. Earth has recently left the Common Galactic Trading Federation and they can no longer export their goods.
 
