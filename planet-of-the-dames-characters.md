@@ -1,16 +1,16 @@
 # Planet Of The Dames - Characters
 
-**Captain Dan Cassanova** Likeable rogue/spiv/scoundrel. A combination of Johnny Depp's character in Pirates of The Caribbean, a bit of Harrison Ford (Han Solo in Star Wars), a bit of Rik Mayal's "Lord Flashheart" from Black Adder, and just a sprinkle of Leslie Phillips (Ding Dong).
+**Captain Dan Lothario** Likeable rogue/spiv/scoundrel. A combination of Johnny Depp's character in Pirates of The Caribbean, a bit of Harrison Ford (Han Solo in Star Wars), a bit of Rik Mayal's "Lord Flashheart" from Black Adder, and just a sprinkle of Leslie Phillips (Ding Dong).
 
-**Dames x 4** One of them may be one of the kids. Suggested names: Florence, Beatrice, Gertrude, Amelia - each has their own characteristics but essentially, they're all panto-dames
+**Dames x 4** Florence, Beatrice, Gertrude, Jackie - each has their own characteristics but essentially, they're all panto-dames
 
 **Igor** A Servant. Perhaps a kid in hooded cape? Only features in Act 1 Scene 1. Looks after the Dames (e.g. orders make up for them). Is also a Spy for the good-guys (i.e. The Jedi)
 
-**Princess Layabout** Suey's older sister, ridculous hair (like Princess Leia in Star Wars, think danish pastries on each ear), lazy, maybe wears a white onesie, scouse twang.
+**Princess Layabout** Suey's older sister, ridculous hair (like Princess Leia in Star Wars, i.e. danish pastries on each ear), lazy, maybe wears a white onesie, scouse twang.
 
-**Dame Bots** (2 kids) They are part human, part robot. They are the Dame's military wing. Camouflage dresses?? Wigs (maybe blue), guns?
+**Dame Bots** They are part human, part robot. They are the Dame's military wing. Camouflage, Wigs (maybe blue), guns?
 
-**Obi Wan Big Bogie** Looks like Obi One Kenobie (from Star Wars). Alec Guiness (sort of) voice, Jedi-master, wise sage, brown hooded cape.
+**Obi Wan Big Bogie** Looks like Obi One Kenobie (from Star Wars). Jedi-master, wise sage, brown hooded cape.
 
 **Mr Suey** The same character as last year, dressed the same. Has married Calamity. A bit henpecked at the start but maybe changes as he goes on his journey
 
@@ -24,9 +24,9 @@
 
 **Bearass** Bear Grylls type character, wannabe action man, got all the gadgets, thinks he could have been in the SAS but actually is a tour-guide at the Blue John Caverns. Maybe has a lisp. His father was Spanish. Short shorts, ropes etc
 
-**Pete** The only other prisoner on the Planet Farton. An activist, founded Just Stop Dames, the protest group of which he is currently the only member. Idolises the Jedi, particularly Obi Wan Big Bogie. Could be a female part if that works better for available cast.
+**Petra** The only other prisoner on the Planet Farton. An activist, founded "Just Stop Dames", the protest group of which she is currently the only member. Idolises the Jedi, particularly Obi Wan Big Bogie.
 
-**Debra** Pink Octopus!!! (I know). May have an Italian accent, she runs the Flash Star Stores which is probably a front for all sorts of dubious trades and activities.
+**Debra** Pink Octopus!!! May have an Italian accent, she runs the Flash Star Stores which is probably a front for all sorts of dubious trades and activities.
 
 **WD40** Sidekick robot to Dan Cassanova. Like R2D2 from Star Wars. Doesn't suffer fools (i.e. non-robots), can get angry and swears by bleeping.
 

@@ -771,7 +771,7 @@ _Ken has been stripped to his underwear and is tied up ready to be tortured_
 
 **Damebot 1**: You must be punished for your insurrection
 
-**Ken:** _Looking down at his crotch_ I don't know what you're talking about... Oh, you mean our little rebellion, well this is hardly the way to treat a captured enemey combatant (prisoner of war). It's against the Geneva Convention.
+**Ken:** _Looking down at his crotch_ I don't know what you're talking about... Oh, you mean our little rebellion, well this is hardly the way to treat a prisoner of war. It's against the Geneva Convention.
 
 **Damebot 2**: You will be tortured until you tell us everything you know.
 
@@ -805,7 +805,7 @@ _Dames enter - one has a beard... One is drinking a can of Stella. Another is sc
 
 **Ken:** don't worry Dorothy, they won't break me, _to the Dames_ I was in 'Nam you know. I saw things in 'Nam that I wouldn't wish on anyone.
 
-**Dorothy:** You were in Chelt'nam Ken, he worked on the checkout (stacked shelves) at Kwiksave.
+**Dorothy:** You were in Chelt'nam Ken, he worked on the checkout at Kwiksave.
 
 **Florence:** Begin... the dissing...
 
@@ -823,7 +823,7 @@ _Dames enter - one has a beard... One is drinking a can of Stella. Another is sc
 
 **Ken:** Aaaaaghhhh!
 
-**Jackie:** Hey girls, it wouldn't cost much to send that package
+**Jackie:** _pointing towards Ken's crotch_ Hey girls, it wouldn't cost much to send that package
 
 **Ken:** Aaaaaghhhh!
 
@@ -859,9 +859,9 @@ _We hear muffled voices, there's a crumbling noise and the sound of Suey shoutin
 
 **Suey:** I'm Mr Suey, you must be my brother... the other Jedi?
 
-**Petra:** I wish I was, I'm a massive fan of the Jed-I don't believe it... _as OWBB enters, he points at his poster_ It's you!
+**Petra:** Firstly, I'm a woman, although I try not to deal in gender-specific stereotypes and fully respect the rights of anyone to be who they want to be. And secondly, Jedi??? I wish I was, I'm a massive fan of the Jed _OWBB enters and she is stunned to see him. She points at the poster on the wall_ I don't believe it... It's you!
 
-**Obi-Wan:** goodness, that's a very old picture. Mr Suey, allow me to introduce you to your... Sister... Princess Layabout.
+**Obi-Wan:** Goodness, that's a very old picture. Mr Suey, allow me to introduce you to your... Sister... Princess Layabout.
 
 **Suey:** Oh wow, I've got a sister, hiya...
 
@@ -875,7 +875,7 @@ _Then Dan Lothario comes through the tunnel complaining that his suit is covered
 
 _Petra is asking OWBB for his autograph_
 
-**Petra:** if you could just put "To my best mate...", and then I'll spell my name out cos it's quite complicated, it's P...
+**Petra:** if you could just put "To my best mate...", and then I'll spell my name out cos it's quite complicated, it's P~
 
 **Obi-Wan:** _interrupting_ I'll just put "All The Best, Obi-Wan Big Bogie"
 
@@ -883,9 +883,9 @@ _Petra is asking OWBB for his autograph_
 
 **Obi-Wan:** No! _to Jedis_ Your potential is great, but you have much to learn. I shall teach you all that I know. _Petra is trying to take selfies and becoming annoying_. Sorry, I don't know your name...
 
-**Petra:** Oh the name's P..
+**Petra:** Oh the name's P~
 
-**Obi-Wan:** _Interrupting_ I don't NEED to know your name, I NEED to train these young apprentices in the ways of the Jedi, so if you don't mind... _Petra looks very sad, gets sympathy from the audience, OWBB has banter with them "oh don't encourage him etc" until he relents_. Very well, why don't you go outside and bring my Jedi equipment bag... it's in the boot... of the spacecraft...
+**Obi-Wan:** _Interrupting_ I don't NEED to know your name, I NEED to train these young apprentices in the ways of the Jedi, so if you don't mind... _Petra looks very sad, gets sympathy from the audience, OWBB has banter with them "oh don't encourage her etc" until he relents_. Very well, why don't you go outside and bring my Jedi equipment bag... it's in the boot... of the spacecraft...
 
 **Petra:** Oh, thank you Mr Big Bogie, it would be an honour Mr Big Bogie... _she leaves_
 
@@ -893,11 +893,11 @@ _Layabout and Dan Lothario are on one side of the stage flirting, whilst Suey is
 
 **Suey:** I can't believe this, I've come half way across the universe in a battered old spaceship, I've drilled through this prison wall, I've found a long lost sister I never knew I had, and she doesn't even want to talk to me... _looks sad, ahhhh, I'm sadder than that!_
 
-**Petra:** _returns with light sabres in duffel bag_ I've got them Mr Bogie, just like you asked... Why does your spaceship smell of dog poo...
+**Petra:** _returns with light sabres in duffel bag_ I've got them Mr Bogie, just like you asked. Why does your spaceship smell of dog poo?
 
-**Obi-Wan:** Well come on man, get on with it _Petra attempts to inflate the first light sabre without success, repeats with the second, before Dan Lothario steps in and inflates both with ease, impressing Layabout even more_.
+**Obi-Wan:** Well come on then, get on with it _Petra attempts to inflate the first light sabre without success, repeats with the second, before Dan Lothario steps in and inflates both with ease, impressing Layabout even more. He passes an inflated light sabre proudly to Layabout_.
 
-**Layabout:** What's that for???
+**Layabout:** What's this for???
 
 **Dan Lothario:** My darling, I have travelled across galaxies with these people and I know that their quest is true, and that they need your help. You're the most wonderful woman I've met this week, and I know you are capable of great deeds.
 
@@ -913,13 +913,13 @@ _Montage, Light sabres, running on the spot, star jumps, OWBB has a stopwatch, a
 
 **Suey:** That was quick
 
-**Obi-Wan:** We must now plan our mission - The Dames have invaded Earth in order to meet their insatiable desire for blue eyeshadow. They are large in number, and in size, so we must find their achilles heel, some weakness which will help us
+**Obi-Wan:** We must now plan our mission - The Dames have invaded Earth in order to meet their insatiable desire for blue eyeshadow. They are large in number... and in dress size! We must find their achilles heel, some weakness which will help us
 
-**Layabout:** Strictly Come Dancing
+**Layabout:** _confidently_ Strictly Come Dancing
 
 **Everyone**: Sorry... What???
 
-**Layabout:** Strictly Come Dancing, they're mad for it. As soon as it comes on they're in a different world, you can't get a word out of them... that's their achilles heel!
+**Layabout:** _explaining further_ Strictly Come Dancing, they're mad for it. As soon as it comes on they're in a different world, you can't get a word out of them. Strictly Come Dancing is their achilles heel!
 
 **Obi-Wan:** Interesting . [Words to effect of "we must get back to earth"] _The curtains close_
 
@@ -929,19 +929,19 @@ _Montage, Light sabres, running on the spot, star jumps, OWBB has a stopwatch, a
 
 [back in the Blue John Mine]
 
-_Ken, Dorothy and Bearass are hard at work, as the Damebots monitor them with their backs to the audience. The Jedis creep down the aisle, light-sabres at the ready_
+_Ken, Dorothy and Bearass are hard at work, as the Damebots monitor them with their backs to the audience. The Jedis enter from the back, and creep down the aisle, light-sabres at the ready_
 
-**Obi-Wan:** Now, remember your training my young Jedi. Move quickly, but silently, feel the force coursing through your veins, channel that energy like hundreds of your kind have done before...
+**Obi-Wan:** Now, remember your training my young Jedi. Move quickly, but silently, feel the force coursing through your veins. Channel that energy like hundreds of your kind have done before...
 
-**Suey:** and then whack 'em with our light-sabres?
+**Suey:** and then whack 'em with our light-sabres??!??
 
 **Obi-Wan:** _disappointed that his young apprentice doesn't share his love for the poetic..._ Yes, yes... whack them with your light-sabres.
 
-**Suey and Layabout:** MINT!! Let's get em!
+**Suey and Layabout:** _together and excitedly_ MINT!! Let's get em!
 
-_The Damebots are alerted by the outburst and turn to face the Jedi. A battle ensues, with lots of banter between Suey and Layabout, high fiving as they help each other out. Do Ken, Dot and BA scuttle off stage? Eventually the Damebots are defeated. The Dames enter, all wearing blue "superdame" wigs._
+_The Damebots are alerted by the outburst and turn to face the Jedi. A battle ensues, with lots of banter between Suey and Layabout, high fiving as they help each other out. Ken, Dot and Bearass sneak off stage. Eventually the Damebots are defeated. The Dames enter, all wearing blue "superdame" wigs._
 
-**Florence:** Well well well, what do we have here? If it isn't the last of the Jedi
+**Florence:** Well well well, what do we have here? If it isn't the last of the Jedi. You're a bit old to be doing this kind of thing aren't you?
 
 **Beatrice:** And who's this, _sarcastically_ he looks like Iron Man!
 
@@ -951,11 +951,11 @@ _The Damebots are alerted by the outburst and turn to face the Jedi. A battle en
 
 **Florence:** And you _pointing at Layabout_, aren't you supposed to be in prison?
 
-**Beatrice:** I wouldn't rely on this one, she's so lazy that ????
+**Beatrice:** _to Obi-Wan_ I wouldn't rely on this one, she's so lazy she had a snooze-button fitted to the smoke alarm!
 
-**Jackie:** Yeah, she's lazier than a ????
+**Jackie:** Yeah, she's the only person I know with an Energy Saving Mode!
 
-**Gertrude:** Yeah ????
+**Gertrude:** (????)
 
 **Layabout:** I've changed, I've met people who believe in me, a family, and friends, who... Love Me!
 
@@ -963,7 +963,7 @@ _The Damebots are alerted by the outburst and turn to face the Jedi. A battle en
 
 **Florence:** Well you're no match for our Damely one-liners. Get her Beatrice
 
-**Beatrice:**
+**Beatrice:** (One liner ????)
 
 **Obi-Wan:** This is no good, our Jedi powers are strong, but we cannot compete with Panto-Power. _shouting down the aisle_ Courtney... we must play our trump card. _Loud fart sound, OWBB looks exasperated_ No Courtney... unleash the secret weapon. _Courtney has a massive ghetto-blaster on his shoulder, and presses Play. The Strictly theme tune blasts out, and The Dames are all suddenly distracted_
 
@@ -1065,129 +1065,3 @@ _Suey, Layabout, OWBB and Courtney enter Suey and Calamity's front room_
 _Suey looks despairingly at the audience, while everyone else looks sympathetically at Suey. Lights down, curtains close_
 
 1 min
-
-# SONGS
-
-## Tragedy
-
-Here we are, in a lost and lonely galaxy
-Sisterhood, destroyed by her duplicity
-Layabout, she's guilty that's beyond all doubt
-And it's really got us feeling blue, feeling blue
-What do we do?
-
-Tragedy, when the make up's gone and we can't go on
-It's a tragedy, with naked eyes turning into guys
-It's hard to bear, with no blue eyeshadow, a total nightmare
-Tragedy, wigs are not enough and we're looking rough
-It's a tragedy, our stubble's grown testosterone
-It's hard to bear, with no blue eyeshadow, a total nightmare
-
-Now she's gone, we need some kind of strategy
-A masterplan, to save us from this misery
-We're superdames, we only need to use our brains
-To show the world that we are queens, we are queens, in ultramarine
-We are supreme!
-
-Tragedy, when the make up's gone and we can't go on
-It's a tragedy, with naked eyes turning into guys
-It's hard to bear, with no blue eyeshadow, a total nightmare
-Tragedy, wigs are not enough and we're looking rough
-It's a tragedy, our stubble's grown testosterone
-It's hard to bear, with no blue eyeshadow, a total nightmare
-
-## Space Oddity
-
-Ground Control to Major Tom
-Dorothy to husband Ken
-
-Ground Control to Major Tom
-Dorothy to husband Ken
-
-Take your protein pills and put your helmet on
-Take your back-pain pills and put your cardi on
-
-Ground Control to Major Tom
-Husband Ken to Dorothy
-
-Commencing countdown, engines on
-I think I may have sprained 'me knee
-
-Check ignition and may God's love be with you
-'mi shoulder's stiffnin' up and I really need a wee
-
-This is Ground Control to Major Tom
-This is Dot and Ken to anyone...
-
-You've really made the grade
-We think we've been enslaved
-
-And the papers want to know whose shirts you wear
-And we wish we'd spent our weekend break elsewhere
-
-Now it's time to leave the capsule, if you dare
-Now it's time to leave this cavern if we dare
-
-This is Major Tom to Ground Control
-This is Dorothy to Cave Patrol
-
-I'm stepping through the door
-It's time to do your thi-i-i-ing
-
-And I'm floating in a most peculiar way
-
-And the stars look very different today
-
-For here am I sitting in a tin can
-For here we are singing in the darkness
-
-Far above the world
-Far below the world
-
-Planet Earth is blue
-This old cavern's blue
-
-And there's nothing I can do
-And we don't know what to do
-
-Though I'm past one hundred thousand miles
-Though we've asked one hundred thousand times
-
-I'm feeling very still
-They wouldn't let us rest
-
-And I think my spaceship knows which way to go
-And I think our tour-guide knows which way to go
-
-Tell my man I love him very much, he knows
-Tell my wife I love her very much, I know
-
-Ground Control to Major Tom
-Dorothy to husband Ken
-
-Your circuit's dead, there's something wrong
-Your hearing's dead, so I'll ask again
-
-Can you hear me, Major Tom?
-Can you hear me, Husband Ken?
-
-Can you hear me, Major Tom?
-Can you hear me, Husband Ken?
-
-Can you hear me, Major Tom?
-Can you hear me, Husband Ken?
-
-Can you-
-Can you-
-
-For here am I sitting in a tin can
-For here we are singing in the darkness
-
-Far above the world
-Far below the world
-
-Planet Earth is blue
-This old cavern's blue
-
-And there's nothing I can do
-And we don't know what to do
