@@ -859,13 +859,13 @@ _We hear muffled voices, there's a crumbling noise and the sound of Suey shoutin
 
 **Suey:** I'm Mr Suey, you must be my brother... the other Jedi?
 
-**Petra:** Firstly, I'm a woman, although I try not to deal in gender-specific stereotypes and fully respect the rights of anyone to be who they want to be. And secondly, Jedi??? I wish I was, I'm a massive fan of the Jed _OWBB enters and she is stunned to see him. She points at the poster on the wall_ I don't believe it... It's you!
+**Petra:** Firstly, I'm a woman, although I try not to deal in gender-specific stereotypes and fully respect the rights of anyone to be who they want to be. And secondly, Jedi??? I wish I was, I'm a massive fan of the Jed... _OWBB enters_ I don't believe it... _Petra points at the poster on the wall_ It's you!
 
-**Obi-Wan:** Goodness, that's a very old picture. Mr Suey, allow me to introduce you to your... Sister... Princess Layabout.
+**Obi-Wan:** Goodness, that's a very old picture. _He admires his former self and pouts at the audience, before remembering why they are there_. Mr Suey, allow me to introduce you to... your Sister... Princess Layabout.
 
 **Suey:** Oh wow, I've got a sister, hiya...
 
-**Layabout:** _totally uninterested_ Yeah, what-ever... I doubt we'll get on, you're nothing like me.
+**Layabout:** _totally uninterested_ Yeah, what-ever... _Looks him up and down very briefly_ I doubt we'll get on, you're nothing like me.
 
 _Then Dan Lothario comes through the tunnel complaining that his suit is covered in dust_.
 
@@ -881,7 +881,7 @@ _Petra is asking OWBB for his autograph_
 
 **Petra:** Oh _disappointed_, can I have a selfie?
 
-**Obi-Wan:** No! _to Jedis_ Your potential is great, but you have much to learn. I shall teach you all that I know. _Petra is trying to take selfies and becoming annoying_. Sorry, I don't know your name...
+**Obi-Wan:** No! _to Jedis_ My young apprentices... Your potential is great, but you have much to learn. I shall teach you all that I know. _Petra is trying to take selfies and becoming annoying_. Sorry, I don't know your name...
 
 **Petra:** Oh the name's P~
 
@@ -891,23 +891,26 @@ _Petra is asking OWBB for his autograph_
 
 _Layabout and Dan Lothario are on one side of the stage flirting, whilst Suey is tries to get her attention, but she keeps pushing him away and trying to ignore him. He begins complaining to the audience_
 
-**Suey:** I can't believe this, I've come half way across the universe in a battered old spaceship, I've drilled through this prison wall, I've found a long lost sister I never knew I had, and she doesn't even want to talk to me... _looks sad, ahhhh, I'm sadder than that!_
+**Suey:** I can't believe this, I've come half way across the universe in a battered old spaceship, I've drilled through this prison wall, I've found a long lost sister I never knew I had... and she doesn't even want to talk to me... _looks sad, ahhhh, I'm sadder than that!_
 
 **Petra:** _returns with light sabres in duffel bag_ I've got them Mr Bogie, just like you asked. Why does your spaceship smell of dog poo?
 
-**Obi-Wan:** Well come on then, get on with it _Petra attempts to inflate the first light sabre without success, repeats with the second, before Dan Lothario steps in and inflates both with ease, impressing Layabout even more. He passes an inflated light sabre proudly to Layabout_.
-
-**Layabout:** What's this for???
+**Obi-Wan:** _ignores the dog poo question and impatiently points at the bag she has brought in_ Well come on then, get on with it _Petra removes inflatable light sabres from the bag and attempts to inflate the first, without success. Dan Lothario steps in and inflates one with ease, impressing Layabout even more. He passes it romantically to Layabout_.
 
 **Dan Lothario:** My darling, I have travelled across galaxies with these people and I know that their quest is true, and that they need your help. You're the most wonderful woman I've met this week, and I know you are capable of great deeds.
 
 [SONG: Starship Trooper?]
+
+**Layabout:** _Showing her lightsabre to OWBB_ What's this for???
+
+**Obi-Wan:** This is the weapon of a Jedi Knight. Not as clumsy or random as a blaster; an elegant weapon for a more civilized age.
 
 **Layabout:** But I don't know how to fight...
 
 **Obi-Wan:** Allow me to share with both of you the experience of a thousand Jedi warriors...
 
 _Montage, Light sabres, running on the spot, star jumps, OWBB has a stopwatch, and a clipboard, YO-YOs, blindfolds, drop tennis balls on string from above etc etc_
+_Petra finds a mirrorball in OWBB's bag of stuff. She makes it levitate, no-one notices._
 
 **Obi-Wan:** I have taught you everything I know.
 
@@ -921,9 +924,7 @@ _Montage, Light sabres, running on the spot, star jumps, OWBB has a stopwatch, a
 
 **Layabout:** _explaining further_ Strictly Come Dancing, they're mad for it. As soon as it comes on they're in a different world, you can't get a word out of them. Strictly Come Dancing is their achilles heel!
 
-**Obi-Wan:** Interesting . [Words to effect of "we must get back to earth"] _The curtains close_
-
-8 mins (with song)
+**Obi-Wan:** Interesting... _he is clearly deep in thought_ We must get back to earth, the final battle is almost upon us _The curtains close_
 
 ## Act 2 Scene 4
 
@@ -933,7 +934,7 @@ _Ken, Dorothy and Bearass are hard at work, as the Damebots monitor them with th
 
 **Obi-Wan:** Now, remember your training my young Jedi. Move quickly, but silently, feel the force coursing through your veins. Channel that energy like hundreds of your kind have done before...
 
-**Suey:** and then whack 'em with our light-sabres??!??
+**Suey:** _completely missing the mood_ And then whack 'em with our light-sabres?
 
 **Obi-Wan:** _disappointed that his young apprentice doesn't share his love for the poetic..._ Yes, yes... whack them with your light-sabres.
 
@@ -965,13 +966,22 @@ _The Damebots are alerted by the outburst and turn to face the Jedi. A battle en
 
 **Beatrice:** (One liner ????)
 
-**Obi-Wan:** This is no good, our Jedi powers are strong, but we cannot compete with Panto-Power. _shouting down the aisle_ Courtney... we must play our trump card. _Loud fart sound, OWBB looks exasperated_ No Courtney... unleash the secret weapon. _Courtney has a massive ghetto-blaster on his shoulder, and presses Play. The Strictly theme tune blasts out, and The Dames are all suddenly distracted_
+**Obi-Wan:** This is no good, our Jedi powers are strong, but we cannot compete with Panto-Power. _shouting down the aisle_ Courtney... we must play our trump card. _Loud fart sound, OWBB looks exasperated_ No Courtney... unleash the secret weapon. _Courtney has a massive ghetto-blaster on his shoulder, and presses Play. The Strictly theme plays out of his tinny speakers_
 
-**Florence:** _looking down the aisle_ Is that Anton Du Beke?
+**Florence:** _looking down the aisle, sarcastically asks_ Is that Anton Du Beke?
+
+**Beatrice:** More like "Anton Ooooh Eck!!!!"
+
+_The Dames laugh and continue to take the mickey out of the Jedi characters_
+
+**OWBB:** This isn't working, something is missing...
+
+_Petra enters, hold both hands up to the ceiling and with a face full of concentration, uses The Force to lower a mirrorball down from above. The other Jedi look on in awe and the Dames begin to notice._
 
 **Beatrice:** Ooooh Strictly
 
-_they all become entranced_
+_The main lights go off, a single light hits the mirrorball and the full Strictly theme tune plays out in all its glory. The Dames are paralyzed with wonder_
+
 _Ken and Dorothy waltz on and do a dance? Dames shout encouragement/critique, discuss the merits of the dance between themselves? At the end they all shout SEVEN! Maybe they one by one say their bit like the judges on Strictly?_
 
 **Dorothy:** I don't understand what all this trouble was in aid of.
@@ -1000,7 +1010,7 @@ _Ken and Dorothy waltz on and do a dance? Dames shout encouragement/critique, di
 
 **Dorothy:** You see... it's all natural and MUCH better for your mental health. You can find the recipe on my Instagram page.
 
-**Florence:** Oh, Dorothy, we're so sorry for all that "We are The Dames" nonsense.
+**Florence:** Oh, Dorothy, we're so sorry for all that... "We are The Dames" nonsense.
 
 **Beatrice:** I suppose we were all just a bit stressed?
 
@@ -1020,13 +1030,19 @@ _Dames all bid farewell to Dorothy... bye Dorothy, nice to meet you etc..._
 
 **Dorothy:** Oh goodness no, I've got more than enough on my plate what with YouTube and TikTok and Instagram, and Ken. Come on Ken, I think we'd better get home before you get into any more scrapes. _K&D say their farewells and exit_.
 
+**Obi-Wan:** _turning to Petra_ I owe you an apology erm... _he doesn't know her name_
+
+**Petra:** It's Petra!
+
+**Obi-Wan:** Well, Petra, you have proved to be a formidable young Padawan. _handing her a lightsaber_ I bestow upon you the title "Jedi Knight". _Petra is beside herself with glee_
+
 **Suey:** Well I should be getting back home. Calamity will be worried sick... Can I get a lift back Courtney?
 
 **Courtney:** Err, yeah, no problem, if you're not afraid of my driving?
 
 **Suey:** No, I think you did a great job getting us here. I believe in you.
 
-**Obi-Wan:** Come on then Mr Suey, let's get you back
+**Obi-Wan:** Come on then Mr Suey, let's get you home... _OWBB, Petra and Courtney all leave stage_
 
 **Suey:** _noticing that Layabout is looking sad in the corner_ Eh, sis, are you coming?
 
@@ -1038,15 +1054,13 @@ _Maybe Dan Lothario offers to take layabout for a spin in his Space Jag, and bac
 
 **Layabout:** Great! _all except Bearass exit_
 
-**Bearass:** _to the audience_ well ladies and gentlemen, back to the tour. Now the cavern we are currently in is particularly interesting due to the unusual calcium deposits which you can just make out on the ceiling. If I shine my torch up there _the lights go out_ Oh dear, I think the batteries have gone. _curtains close_
-
-8 mins
+**Bearass:** _to the audience_ well ladies and gentlemen, back to the tour. Now the cavern we are currently in is particularly interesting due to the unusual calcium deposits which you can just make out on the ceiling. If I shine my torch up there _the lights go out_ Oh dear... I think the batteries have gone. _curtains close_
 
 ## Act 2 Scene 5
 
 _Suey, Layabout, OWBB and Courtney enter Suey and Calamity's front room_
 
-**Suey:** So this is it, nothing special but, you know, we call it home. _to Layabout_ d'ya fancy a Coke?
+**Suey:** So this is it, nothing special but, you know, we call it home. D'ya fancy a Coke?
 
 **Layabout:** I LOVE Coke
 
@@ -1063,5 +1077,3 @@ _Suey, Layabout, OWBB and Courtney enter Suey and Calamity's front room_
 **Calamity:** Suey, is that you? What time do you call this. Did you take the trash out. Have you fed the cats? Did you get my blue eyeshadow?
 
 _Suey looks despairingly at the audience, while everyone else looks sympathetically at Suey. Lights down, curtains close_
-
-1 min
