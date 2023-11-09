@@ -483,19 +483,21 @@ _they all switch off their lights_
 
 **Bearass:** Madam, please don't spray perfume in here, it can damage the rock formations...
 
-**Ken:** Oooooh, you're right, it smells like a cat's been turned inside out... in our downstairs loo.
+**Dorothy:** I didn't spray anything...
 
-**Dorothy:** I didn't spray anything... _sniffs_ oh, It smells like Febreze! _lights back on, two Damebots have appeared behind them at the back of the stage looking "warlike"_
+**Ken:** Oooooh, it smells like a cat's been turned inside out... in our downstairs loo.
 
-**Bearass:** Well, I don't see anyone else here... can you?
+**Dorothy** _sniffs_ oh you're right, it smells like Febreze! But I didn't spray anything. _lights back on, two Damebots have appeared behind them at the back of the stage looking "warlike"_
+
+**Bearass:** Well, I can't see anyone else here... can you?
 
 **Ken:** I can't see anyone?
 
-**Dorothy:** No, I can't see anyone her either?
+**Dorothy:** No, I can't see anyone here either?
 
 _audience participation - behind you etc_
 
-**Bearass:** Oh, we seem to have some latecomers. Could I see your tickets please?
+**Bearass:** _noticing the Damebots_ Oh, we seem to have some latecomers. Could I see your tickets please?
 
 **Damebots:** We do not need tickets. We are the Damebots. We will annihalate those who demand to see tickets. _there is a flash and Bearass is thrown to the ground by a force which came from the Damebots. The Dames walk on_
 
@@ -702,7 +704,7 @@ Have you been travelling for light years, need fuel, or pasties. Why not stop at
 
 **Suey:** Oh, you'd be surprised, there's a woman who sits at the back and she...
 
-**Obi-Wan:** Be discreet Mr Suey, stay quiet, let me do the talking, and try not to make eye contact. _a 6-eyed alien walks in and stares at Suey, he tries to look away but it keeps staring at him_. Ah... there she is... _a pink space octopus is busy serving customers. She has an Italian accent. Amongst others, the Big Gulp Bunny is standing in the queue, holding a bunch of carrots and looking impatient._
+**Obi-Wan:** _Annoyed_ Be discreet Mr Suey, stay quiet, let me do the talking, and try not to make eye contact. _a 6-eyed alien walks in and stares at Suey, he tries to look away but it keeps staring at him_. Ah... there she is... _a pink space octopus is busy serving customers. She has an Italian accent. Amongst others, the Big Gulp Bunny is standing in the queue, holding a bunch of carrots and looking impatient._
 
 **Debra:** which-a pump-a number you-a been-a to-a my friend-a? _alien mumble_... Numero 5-a, OK, 60000 intastellas... _alien outburst_. Whaddayamean its a twice the price as last time... you know issa difficult to get space-diesel these days? _alien pulls gun, Debra snatches it from him and waves it in his face, grabs his debit card and taps it to pay, then throws it back and shoots a warning shot past the alien's feet_, maybe you go-a somewhere else-a next-a time eh? _alien runs out screaming. Debra spots OBWBB_. Well-a, if it isnt my old-a friend-a, Da Bigga Da Bogie. How you been mi amore? _whispers_ It's a been a long-a time-a since we... you know... _winks (if a space octopus can wink!)_.
 
@@ -982,11 +984,21 @@ _Petra enters, hold both hands up to the ceiling and with a face full of concent
 
 _The main lights go off, a single light hits the mirrorball and the full Strictly theme tune plays out in all its glory. The Dames are paralyzed with wonder_
 
-_Ken and Dorothy waltz on and do a dance? Dames shout encouragement/critique, discuss the merits of the dance between themselves? At the end they all shout SEVEN! Maybe they one by one say their bit like the judges on Strictly?_
+_Ken and Dorothy waltz on and do a dance?_
 
-**Dorothy:** I don't understand what all this trouble was in aid of.
+**Jackie** Your dancing is a little like the economy. Every week it's supposed to be getting better, but nothing happens.
 
-**Florence:** We need Blue Eyeshadow, to keep us looking feminine.
+**Beatrice** Ken, your turns were a dis-aster darliiing, DIS-AAASTER. I'll give them a FIVE because I'm feeling generous!
+
+**Gertrude** Well I disagree, they had energy energy energy. I loved it! NINE!
+
+**Florence** I agree... if those two don't get through to next week's show, I'll pickle my walnuts! SEVEN!!!
+
+**Suey** _To OWBB_ Should we finish them off like?
+
+**Obi-Wan** No Mr Suey. A Jedi's goal is to defend life, not take it. These ladies have been consumed by a dark force, Blue John Eyeshadow destroys everything it meets, The Dames are merely victims.
+
+**Florence:** _Desperately_ But we NEED Blue Eyeshadow, to keep us looking feminine.
 
 **Dorothy:** But Blue Eyeshadow is SO last century. I'm a Tik Tok influencer, all the youngsters follow me, I've got my finger on the pulse of the make-up world, and I've got to tell you... It's all about orange these days!
 
@@ -998,7 +1010,7 @@ _Ken and Dorothy waltz on and do a dance? Dames shout encouragement/critique, di
 
 **Florence:** We don't understand, what is this Orange of which you speak?
 
-**Dorothy:** I've got some here. It's completely organic, environmentally friendly, non-hypo-allergenic, easy to find on ALL the fashionable planets and... best of all... _dabbing it onto the Dames_ It looks fabulous!
+**Dorothy:** I've got some here. It's completely organic, environmentally friendly, hypo-allergenic, easy to find on ALL the fashionable planets and... best of all... _dabbing it onto the Dames_ It looks fabulous!
 
 **Florence:** Ooooh, that feels lovely. Very calming.
 
@@ -1010,17 +1022,17 @@ _Ken and Dorothy waltz on and do a dance? Dames shout encouragement/critique, di
 
 **Dorothy:** You see... it's all natural and MUCH better for your mental health. You can find the recipe on my Instagram page.
 
-**Florence:** Oh, Dorothy, we're so sorry for all that... "We are The Dames" nonsense.
+**Florence:** Oh, Dorothy, we're so sorry for all that "We are The Dames" nonsense.
 
 **Beatrice:** I suppose we were all just a bit stressed?
 
 **Jackie:** Yes, sorry for torturing you Ken, it was nothing personal.
 
-**Gertrude:** Does anyone else have a craving for tofu?
+**Gertrude:** Does anyone fancy some tofu?
 
 **Dorothy:** _unties the dames_ well, no real harm done, I think Ken's a bit traumatised, but he's had worse.
 
-**Ken:** Oh, I'm fine, it'll take more than a few fat blokes in dresses to bother me, no offence...
+**Ken:** Oh, I'm fine, it'll take more than a few fat blokes in dresses to bother me, no offence love...
 
 **Florence:** Well, we'd better get back home, come along ladies.
 
@@ -1054,7 +1066,7 @@ _Maybe Dan Lothario offers to take layabout for a spin in his Space Jag, and bac
 
 **Layabout:** Great! _all except Bearass exit_
 
-**Bearass:** _to the audience_ well ladies and gentlemen, back to the tour. Now the cavern we are currently in is particularly interesting due to the unusual calcium deposits which you can just make out on the ceiling. If I shine my torch up there _the lights go out_ Oh dear... I think the batteries have gone. _curtains close_
+**Bearass:** _to the audience_ well ladies and gentlemen, back to the tour. Now this cavern is particularly interesting due to the unusual calcium deposits which you can just make out on the ceiling. If I shine my torch up there _the lights go out_ Oh dear... I think the batteries have gone. _curtains close_
 
 ## Act 2 Scene 5
 
@@ -1064,13 +1076,13 @@ _Suey, Layabout, OWBB and Courtney enter Suey and Calamity's front room_
 
 **Layabout:** I LOVE Coke
 
-**Suey:** Really??? I LOVE Coke. How about some Dippers Fried Chicken?
+**Suey:** Really??? I LOVE Coke. How about some "Dippers Fried Chicken"?
 
 **Layabout:** I LOVE fried chicken!
 
 **Suey:** I LOVE fried chicken! What about a curly wurly?
 
-**Layabout:** Whats a curly wurly? _Suey gives her a bit of chocolate, she tries it_ I LOVE curly wurly?
+**Layabout:** Whats a curly wurly? _Suey gives her a Curly Wurly, she tries it_ I LOVE curly wurly?
 
 **Suey:** Oh this is great, we've got so much in common apart from all the Jedi stuff of course. Just a minute _shouts offstage towards "Calamity"_ Calam, you're never gonna believe it... I've been into space. I've met a pink octopus. I've trained as a Jedi warrior, we've defeated an army of Dames, and saved the galaxy. Oh, and I've got a sister.
 
