@@ -327,9 +327,13 @@ _the sound of voices offstage_
 
 **Obi-Wan:** Oh Courtney, I really don't know how I manage to keep my patience with you, go and check if you've damaged anything while I deal with our business here _there's a knock at the door, and Suey goes to answer. OWBB strides in_. Good morning Mr Suey, it's a pleasure to finally meet you.
 
-**Suey:** Eh, what, who are you? How do you know my name?
+**Suey:** Eh, what, who are you?
 
-**Obi-Wan:** I know everything about you Mr Suey. I know you were found as a baby on the doorstep of a Chinese Takeaway in Birkenhead. You were raised as a Liverpool supporter. Your favourite chocolate bar is the Curly Whirly. You have an squirrel-shaped birthmark on your left but...
+**Obi-Wan:** My name is Obi Wan Big Bogie.
+
+**Suey:** How do you know MY name?
+
+**Obi-Wan** I know everything about you Mr Suey. I know you were found as a baby on the doorstep of a Chinese Takeaway in Birkenhead. You were raised as a Liverpool supporter. Your favourite chocolate bar is the Curly Whirly. You have a squirrel-shaped birthmark on your left but...
 
 **Suey:** OK, OK, I get it you know all about me. I'm just a scouse ex-henchman who's bad at dusting, so what?
 
