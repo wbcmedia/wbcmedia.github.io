@@ -40,7 +40,7 @@ Dorothy to husband Ken
 
 Am Am/G D/F#
 
-Take your back-pain pills and put your cardi on
+Put your tank-top on and let's get home again
 
 C Em
 
@@ -50,7 +50,7 @@ C Em
 
 I think I may have sprained 'me knee
 
-Am Am/G . D/F#
+Am Am/G D/F#
 
 'mi shoulder's stiffnin' up and I really need a wee
 
@@ -62,13 +62,13 @@ Fmaj7
 
 We think we've been enslaved
 
-F C F
+Fm C F
 
 And we wish we'd spent our weekend break elsewhere
 
-F C F
-
 Now it's time to leave this cavern if we dare
+
+Fmaj7 Em
 
 For here we are singing in the darkness
 
@@ -78,34 +78,52 @@ Bb Am
 
 This old cavern's blue
 
-G . F
+G F
 
 And we don't know what to do
 
+C E7
+
 Though we've asked one hundred thousand times
 
+Fmaj7
+
 They wouldn't let us rest
+
+Fm C F
 
 And I think my poor old back's about to go
 
 Tell my wife I love her very much, I know
 
+G E7
+
 Dorothy to husband Ken
+
+Am C/G
 
 Your hearing's gone, so I'll ask again
 
-Can you hear me, Husband Ken?
+D7/F#
 
 Can you hear me, Husband Ken?
+
+C
+
+Can you hear me, Husband Ken?
+
+G
 
 Can you hear me, Husband Ken?
 
 Can you-
 
-For here we are singing in the darkness
+Fmaj7 Em
+
+Here we are singing in the darkness
 
 Far below the world
 
 This old cavern's blue
 
-And we don't know what to do
+And we know just what to do
