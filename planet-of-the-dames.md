@@ -473,7 +473,7 @@ _curtains close as they leave_
 
 **Ken:** Oh get a grip woman, nothing's going to happen, and even if it did, these nice people would warn us, wouldn't you? Wouldn't you? You see there's nothing to worry about at all.
 
-_they all switch off their lights_
+_they all switch off their lights. As Bearass delivers his line the Damebots walk onstage, brushing into Dorothy, before ending up at the middle back of the stage_
 
 **Bearass:** Observe how the Blue John gives off a marvellous glow
 
@@ -503,7 +503,11 @@ _audience participation - behind you etc_
 
 **Bearass:** _noticing the Damebots_ Oh, we seem to have some latecomers. Could I see your tickets please?
 
-**Damebots:** We do not need tickets. We are the Damebots. We will annihalate those who demand to see tickets. _there is a flash and Bearass is thrown to the ground by a force which came from the Damebots. The Dames walk on_
+**Damebots:** We do not need tickets. _Step forward_ We are the Damebots _Step forward_ We will annihalate those who demand to see tickets. _Damebots turn toward Bearass, there is a flash and Bearass is thrown to the ground by a force which came from the Damebots. The Damebots continue their march down the aisle to the rear of the hall. Ken and Dorothy nervously approach Bearass._
+
+**Damebots:** All hail The Dames
+
+_Dames walk on_
 
 **Ken:** Dorothy, it's blokes dressed as women
 
@@ -528,8 +532,6 @@ _audience participation - behind you etc_
 **Ken:** Oooooh 'eck!
 
 _lights out curtains close_
-
-8 mins
 
 ## Act 1 Scene 4
 
@@ -757,15 +759,17 @@ _Suey and OWBB move across to an impressive looking pick-n-mix stand_
 
 **WD40:** Your engine has been thrashed... what kind of incompetent _bleep_ has been flying that clapped out piece of _bleeeep_? _Courtney looks downcast_
 
-**Dan Lothario:** Ha, forgive WD40's bedside manner, he's not very good at the whole social chit chat thing, likes to speak his mind... but he will be able to fix your problem and then we can all blow off to Farton, so to speak... As long as our terms are acceptable?
+**Dan Lothario:** Ha, forgive WD40's bedside manner, he's not very good at the whole social chit chat thing, likes to speak his mind... but he WILL be able to fix your ship and then we can all blow off to Farton, so to speak... As long as our terms are acceptable?
 
 **Obi-Wan:** You will receive everything you deserve, do not worry about that. But your little droid must get to work immediately, I can feel a worrying disturbance in The Force.
 
 **Courtney:** It's probably that milk you had on your Shreddies, I told you the Falcon's fridge wasn't working properly... it smelt minging!
 
+**OWBB:** Courtney, take our new friend and his little droid to the Melamine Falc.. the Moleskin Fulc... Take them to Betsy!
+
 **WD40:** _as they all leave stage_ who is he calling a "little droid", these humans are so rude, I'll _bleeeping_ _bleep_ his head so far up his _bleeping_ _bleeep_ that he'll think he's fallen into a black hole!
 
-7 mins
+**OWBB:** I think I'll just purchase a few Pick-N-Mix, for the journey. _He smooths his eyebrows, and heads provocatively towards Debra_
 
 ## Act 2 Scene 2
 
@@ -785,7 +789,7 @@ _Ken has been stripped to his underwear and is tied up ready to be tortured_
 
 **Damebots**: All hail The Dames
 
-_Dames enter - one has a beard... One is drinking a can of Stella. Another is scratching their backside!_
+_Dames enter - one has a beard... One is drinking a can of Stella. Another is scratching their backside! Damebots leave the stage_
 
 **Ken:** Oooooh 'eck they're starting to look quite tough!
 
@@ -833,19 +837,21 @@ _Dames enter - one has a beard... One is drinking a can of Stella. Another is sc
 
 **Ken:** Aaaaaghhhh!
 
-**Damebot 1**: _enters stage carrying a container of blue eyeshadow_ The digging has been a success. The first batch is prepared.
+_Damebots both come back on stage. Damebot 2 is holding a container of blue eyeshadow_
+
+**Damebot 1**: The digging has been a success.
+
+**Damebot 2**: _offering up the container_ The first batch is prepared.
 
 **Florence:** _grabbing the container_ Give me some of that, where's the mirror _strides purposefully off stage, sounds of her smearing it over her eyes, werewolf-type transformation SFX, maybe bright blue light flickers from offstage, she returns wearing a huge blue wig... she has become a super Dame_. I've never felt so feminine, I have become... Super Dame!
 
 _the other Dames all run offstage, shouting, give me some of that eyeshadow, I'm first etc as Florence stands triumphant and Ken looks terrified_
 
-**Florence:** As Super Dames, conquering one planet is just the beginning, we shall take the whole universe!
+**Florence:** I am more beautiful than ever. I am a queen. I am YOUR queen. I am queen of everything. You will bow down and worship me. As Super Dames, conquering one planet is just the beginning, we shall take the whole universe! Nothing can stand in our way!!!
 
 **Ken:** Ohhhhh eck!!!
 
 _lights out, curtains close_
-
-3.5 mins
 
 ## Act 2 Scene 3
 
@@ -895,7 +901,7 @@ _Petra is asking OWBB for his autograph_
 
 **Petra:** Oh, thank you Mr Big Bogie, it would be an honour Mr Big Bogie... _she leaves_
 
-_Layabout and Dan Lothario are on one side of the stage flirting, whilst Suey is tries to get her attention, but she keeps pushing him away and trying to ignore him. He begins complaining to the audience_
+_Layabout and Dan Lothario are flirting, Suey keeps trying to speak to her but she keeps ignoring him. He begins complaining to the audience_
 
 **Suey:** I can't believe this, I've come half way across the universe in a battered old spaceship, I've drilled through this prison wall, I've found a long lost sister I never knew I had... and she doesn't even want to talk to me... _looks sad, ahhhh, I'm sadder than that!_
 
@@ -962,15 +968,17 @@ _The Damebots are alerted by the outburst and turn to face the Jedi. A battle en
 
 **Jackie:** Yeah, she's the only person I know with an Energy Saving Mode!
 
-**Gertrude:** (????)
-
 **Layabout:** I've changed, I've met people who believe in me, a family, and friends, who... Love Me!
 
 **Dames**: _Mocking_ Ooooooh... they LOOOOOVE Me!
 
-**Florence:** Well you're no match for our Damely one-liners. Get her Beatrice
+**Florence:** Well you're no match for our Damely put-downs. Get her Beatrice.
 
-**Beatrice:** (One liner ????)
+**Jackie:** Yeah, give her one of your Craig Revell-Hallwood lines!
+
+**Beatrice:** There's only two things stopping you winning Strictly... Your feet!
+
+**Florence:** Ooooh, let me have a go... It's like your toes are all pointing the wrong way... Have you got mixamatosis?
 
 **Obi-Wan:** This is no good, our Jedi powers are strong, but we cannot compete with Panto-Power. _shouting down the aisle_ Courtney... we must play our trump card. _Loud fart sound, OWBB looks exasperated_ No Courtney... unleash the secret weapon. _Courtney has a massive ghetto-blaster on his shoulder, and presses Play. The Strictly theme plays out of his tinny speakers_
 
@@ -988,9 +996,13 @@ _Petra enters, hold both hands up to the ceiling and with a face full of concent
 
 _The main lights go off, a single light hits the mirrorball and the full Strictly theme tune plays out in all its glory. The Dames are paralyzed with wonder_
 
-_Ken and Dorothy waltz on and do a dance?_
+_Ken and Dorothy Tango on stage_
 
-**Jackie** Your dancing is a little like the economy. Every week it's supposed to be getting better, but nothing happens.
+**Voiceover** Ken and Dorothy there with their tango. Let's see what the judges made of it.
+
+_Each Dame delivers their verdict in turn and then stares at the mirrorball in a trance_
+
+**Jackie** A Tango is supposed to be fizzy... and fruity... that was more like a weak orange squash... SIX points
 
 **Beatrice** Ken, your turns were a dis-aster darliiing, DIS-AAASTER. I'll give them a FIVE because I'm feeling generous!
 
@@ -998,13 +1010,15 @@ _Ken and Dorothy waltz on and do a dance?_
 
 **Florence** I agree... if those two don't get through to next week's show, I'll pickle my walnuts! SEVEN!!!
 
+**Layabout** You see... I TOLD you Strictly was their achilles heel.
+
 **Suey** _To OWBB_ Should we finish them off like?
 
-**Obi-Wan** No Mr Suey. A Jedi's goal is to defend life, not take it. These ladies have been consumed by a dark force, Blue John Eyeshadow destroys everything it meets, The Dames are merely victims.
+**Obi-Wan** No Mr Suey. A Jedi's goal is to defend life, not take it. These... "ladies" have been consumed by a dark force, Blue John Eyeshadow destroys everything it meets, The Dames are its victims. We must take it away from them, for their own good, and to restore balance in the universe.
 
-**Florence:** _Desperately_ But we NEED Blue Eyeshadow, to keep us looking feminine.
+**Florence:** _Snapping out of the trance_ But we NEED Blue Eyeshadow, to keep us looking feminine.
 
-**Dorothy:** But Blue Eyeshadow is SO last century. I'm a Tik Tok influencer, all the youngsters follow me, I've got my finger on the pulse of the make-up world, and I've got to tell you... It's all about orange these days!
+**Dorothy:** I hope you don't mind me saying, I'd have mentioned it earlier, but I didn't want to interrupt, you seemed a bit busy, what with all that invading and tortuing and whatnot. Anyway, where was I... oh yes... Blue Eyeshadow... it doesn't really suit your skin tones, and it's SO last century. I've got my finger on the pulse of the make-up world. I'm a Tik Tok influencer, all the youngsters follow me, and I've got to tell you... It's all about orange these days!
 
 **Beatrice:** Orange?
 
@@ -1012,9 +1026,9 @@ _Ken and Dorothy waltz on and do a dance?_
 
 **Gertrude:** Orange?
 
-**Florence:** We don't understand, what is this Orange of which you speak?
+**Florence:** We don't understand, what is this "Orange" of which you speak?
 
-**Dorothy:** I've got some here. It's completely organic, environmentally friendly, hypo-allergenic, easy to find on ALL the fashionable planets and... best of all... _dabbing it onto the Dames_ It looks fabulous!
+**Dorothy:** I've got some here. _dabbing it onto the Dames_ It's completely organic, environmentally friendly, hypo-allergenic, easy to find on ALL the fashionable planets and... best of all... It looks fabulous!
 
 **Florence:** Ooooh, that feels lovely. Very calming.
 
@@ -1050,7 +1064,7 @@ _Dames all bid farewell to Dorothy... bye Dorothy, nice to meet you etc..._
 
 **Petra:** It's Petra!
 
-**Obi-Wan:** Well, Petra, you have proved to be a formidable young Padawan. _handing her a lightsaber_ I bestow upon you the title "Jedi Knight". _Petra is beside herself with glee_
+**Obi-Wan:** Well, Petra, you have proved to be a formidable young Padawan. _knights her with a lightsaber_ I bestow upon you the title "Jedi Knight". _He then hands her the lightsaber. Petra is beside herself with glee, does a few swishes with the lightsaber and runs off stage giggling_
 
 **Suey:** Well I should be getting back home. Calamity will be worried sick... Can I get a lift back Courtney?
 
@@ -1060,13 +1074,15 @@ _Dames all bid farewell to Dorothy... bye Dorothy, nice to meet you etc..._
 
 **Obi-Wan:** Come on then Mr Suey, let's get you home... _OWBB, Petra and Courtney all leave stage_
 
-**Suey:** _noticing that Layabout is looking sad in the corner_ Eh, sis, are you coming?
+**Suey:** _noticing that Layabout is looking sad in the corner_ Eh, sis, what's up?
 
-**Layabout:** What? You want me to come back with you?
+**Layabout:** Captain Dan Lothario promised to pick me up and take me for a ride. I think he's dumped me... I feel like such a fool.
 
-**Suey:** Well yeah. I've never had a sister before, and now I have, well, that's great innit?. Come on, you need to meet Calamity, she's a bit of an acquired taste like but, you know, that's families for ya!
+**Suey:** Oh, err, I think I saw him taking off in his Space Jag with that octopus woman. You're better off without him. Why don't you come back with us?
 
-_Maybe Dan Lothario offers to take layabout for a spin in his Space Jag, and back to Calams' . Chilled bottle of Bolly in the boot. Ding dong etc_
+**Layabout** What? Really?
+
+**Suey** Well yeah. I've never had a sister before, and now I have, well, that's great innit?. Come on, you need to meet Calamity, she's a bit of an acquired taste like but, you know, that's families for ya!
 
 **Layabout:** Great! _all except Bearass exit_
 
@@ -1088,7 +1104,7 @@ _Suey, Layabout, OWBB and Courtney enter Suey and Calamity's front room_
 
 **Layabout:** Whats a curly wurly? _Suey gives her a Curly Wurly, she tries it_ I LOVE curly wurly?
 
-**Suey:** Oh this is great, we've got so much in common apart from all the Jedi stuff of course. Just a minute _shouts offstage towards "Calamity"_ Calam, you're never gonna believe it... I've been into space. I've met a pink octopus. I've trained as a Jedi warrior, we've defeated an army of Dames, and saved the galaxy. Oh, and I've got a sister.
+**Suey:** Oh this is great, we've got so much in common as well as all the Jedi stuff of course. Just a minute _shouts offstage towards "Calamity"_ Calam, you're never gonna believe it... I've been into space. I've met a pink octopus. I've trained as a Jedi warrior, we've defeated an army of Dames, and saved the galaxy. Oh, and I've got a sister.
 
 **Calamity:** Suey, is that you? What time do you call this. Did you take the trash out. Have you fed the cats? Did you get my blue eyeshadow?
 
