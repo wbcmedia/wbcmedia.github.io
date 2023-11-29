@@ -909,10 +909,6 @@ _Layabout and Dan Lothario are flirting, Suey keeps trying to speak to her but s
 
 **Obi-Wan:** _ignores the dog poo question and impatiently points at the bag she has brought in_ Well come on then, get on with it _Petra removes inflatable light sabres from the bag and attempts to inflate the first, without success. Dan Lothario steps in and inflates one with ease, impressing Layabout even more. He passes it romantically to Layabout_.
 
-**Dan Lothario:** My darling, I have travelled across galaxies with these people and I know that their quest is true, and that they need your help. You're the most wonderful woman I've met this week, and I know you are capable of great deeds.
-
-[SONG: Starship Trooper?]
-
 **Layabout:** _Showing her lightsabre to OWBB_ What's this for???
 
 **Obi-Wan:** This is the weapon of a Jedi Knight. Not as clumsy or random as a blaster; an elegant weapon for a more civilized age.
@@ -936,7 +932,19 @@ _Petra finds a mirrorball in OWBB's bag of stuff. She makes it levitate, no-one 
 
 **Layabout:** _explaining further_ Strictly Come Dancing, they're mad for it. As soon as it comes on they're in a different world, you can't get a word out of them. Strictly Come Dancing is their achilles heel!
 
-**Obi-Wan:** Interesting... _he is clearly deep in thought_ We must get back to earth, the final battle is almost upon us _The curtains close_
+**Obi-Wan:** Interesting... _he is clearly deep in thought_ We must get back to earth, the final battle is almost upon us. _OWBB and Suey leave_
+
+**Petra:** Wait for me...
+
+**Suey:** _from offstage_ Come on Sis!
+
+_Curtains close with Layabout and Lothario stood in front_
+
+**Layabout:** I've got to go... will I see you again?
+
+**Dan Lothario:** But of course, you're the most wonderful woman I've met this week. You join your new-age hippy friends, I'll follow in my Space Jag and once you've "saved the world", you and I can take a trip round the stars and get to know each other.
+
+[SONG: Starship Trooper]
 
 ## Act 2 Scene 4
 

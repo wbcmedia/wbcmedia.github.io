@@ -11,8 +11,8 @@ What do we do?
 Tragedy, when the make up's gone and we can't go on
 It's a tragedy, with naked eyes turning into guys
 It's hard to bear, with no blue eyeshadow, a total nightmare
-Tragedy, wigs are not enough and we're looking rough
-It's a tragedy, our stubble's grown testosterone
+Tragedy, wigs aren't enough, we're looking rough
+It's a tragedy, stubble's grown testosterone
 It's hard to bear, with no blue eyeshadow, a total nightmare
 
 Now she's gone, we need some kind of strategy
@@ -24,8 +24,8 @@ We are supreme!
 Tragedy, when the make up's gone and we can't go on
 It's a tragedy, with naked eyes turning into guys
 It's hard to bear, with no blue eyeshadow, a total nightmare
-Tragedy, wigs are not enough and we're looking rough
-It's a tragedy, our stubble's grown testosterone
+Tragedy, wigs aren't enough, we're looking rough
+It's a tragedy, stubble's grown testosterone
 It's hard to bear, with no blue eyeshadow, a total nightmare
 
 ## Space Oddity
@@ -127,3 +127,65 @@ Far below the world
 This old cavern's blue
 
 And we know just what to do
+
+## Starship Trooper
+
+Hey, captain Dan
+won't you be my lover
+you're the best thing
+that I've ever discovered
+Mum and Dad left me
+they went to the stars
+then the evil dames sentenced me to life behind bars
+
+I'm captain Dan
+I'm a hot-blooded stallion
+Would you like to touch my shiny medallion
+Cruising round the stars
+In my flashy space-jag
+Would you like to join me for a lovely excursion
+
+I lost my heart
+to a starship trooper
+finding love in hyper space
+This is more than infatuation
+Hand in hand in a love-embrace
+
+Listen captain Dan
+You set my heart a'beating
+My temperature's rising,
+my onesie's overheating
+Hold me, kiss me, do what you will
+I want to feel that galactic thrill
+
+I'm captain Dan
+I'm a hot-blooded stallion
+Would you like to touch my shiny medallion
+Cruising round the stars
+In my flashy space-jag
+Would you like to join me for a lovely excursion
+
+Now that I'm free and I've learned I'm a Jedi
+Please don't say that we should say goodbye
+Hush now, darling, don't say a word
+I'll sweep you off your feet when you've saved the world
+
+I lost my heart
+to a starship trooper
+finding love in hyper space
+This is more than infatuation
+Hand in hand in a love-embrace
+
+## Finale Song
+
+Go your own way
+Just can't get enough
+We are family
+A little respect
+Africa
+Sweet dreams
+Livin on a prayer
+Atomic
+Girls just want to have fun
+Baby one more time (Make me Damely one more time)
+Call me maybe
