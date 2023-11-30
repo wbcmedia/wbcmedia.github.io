@@ -299,8 +299,6 @@ _Curtains close, Front of Curtain we see Obi Wan Big Bogie and Igor. Obi-Wan Big
 
 _they bow to each other and both leave through curtain_
 
-25 mins
-
 ## Act 1 Scene 2
 
 [Suey and Calamity's living room]
@@ -367,11 +365,9 @@ _Courtney enters_
 
 **Suey:** Calamity love, I'm just off out for a bit.
 
-**Calamity:** Don't forget to get my boil cream...
+**Calamity:** Don't forget to get my bunion cream
 
 _curtains close as they leave_
-
-4 mins
 
 ## Act 1 Scene 3
 
@@ -633,8 +629,6 @@ _Curtains close_
 
 **Layabout:** No, yer alright! _she goes back to reading Onesie Weekly, Pete stares at the audience in disbelief, then eventually goes back to digging with his teaspoon, lights go down, curtains close_
 
-3.5 mins
-
 ## Act 1 Scene 6
 
 **Dorothy:** Oh Ken, I can't take much more of this, I'm exhausted.
@@ -803,7 +797,7 @@ _Dames enter - one has a beard... One is drinking a can of Stella. Another is sc
 
 **Jackie:** But we need to know how you created such a large power surge. We will steal this technology and become even more invincible.
 
-**Ken:** strictly speaking, I don't think you can become MORE invincible. You see it's from the Latin, invincibilis which means... _he is interrupted_
+**Ken:** strictly speaking, I don't think you can become MORE invincible. You see it means you're impossible to defeat, I mean you can't become MORE impossible to defeat. It's from the Latin, invincibilis... _he is interrupted_
 
 **Florence:** Quiet. You will explain your amplification system.
 
