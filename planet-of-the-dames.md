@@ -603,7 +603,7 @@ _Curtains close_
 
 **Petra:** I know. Anyway, you can help me, I'm digging a tunnel _shows her a teaspoon_ with this. We're going to escape. Then you can join Just Stop Dames and help in the fight against tyrrany...
 
-**Layabout:** Look, I'm sorry, but it all sounds like a lot of effort, and I'll be honest, I don't mind it here. I get me food dispensed out of that little hatch in the corner, I can do what I like without anyone bossing me about - I like it.
+**Layabout:** Look, I'm sorry, but it all sounds like a lot of effort, and I'll be honest, I don't mind it here. I can do what I like without anyone bossing me about - I like it.
 
 **Petra:** But what about the future of our Galaxy. They're destroying planets, they're leading us into an environmental catastrophe. What will we tell future generations?
 
@@ -611,7 +611,11 @@ _Curtains close_
 
 **Petra:** We need to go back to The Planet Of The Dames
 
-**Layabout:** Why go to something, when you can make it come to you... _she closes her eyes, there is a strange noise and her copy of Onesie Weekly "floats through the air" into her hand_
+**Layabout:** I'd rather just sit and read my fashion magazine.
+
+**Petra:** Oh, shall I get that for you?
+
+**Layabout:** No need... _she closes her eyes, there is a strange noise and her copy of Onesie Weekly "floats through the air" into her hand_
 
 **Petra:** What on... how did you do that...
 
@@ -627,7 +631,7 @@ _Curtains close_
 
 **Petra:** What??? You could do that? Oh my goodness, I'm so excited, we're getting out of here, go on, blow a hole in the wall with your mind.
 
-**Layabout:** No, yer alright! _she goes back to reading Onesie Weekly, Pete stares at the audience in disbelief, then eventually goes back to digging with his teaspoon, lights go down, curtains close_
+**Layabout:** No, yer alright! _she goes back to reading Onesie Weekly, Petra stares at the audience in disbelief, then eventually goes back to digging with her teaspoon, lights go down, curtains close_
 
 ## Act 1 Scene 6
 
