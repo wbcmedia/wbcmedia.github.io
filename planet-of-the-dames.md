@@ -679,7 +679,11 @@ SONG
 
 _During the song Dorothy signals to Bearass who turns on the Wasbinator, there is a crackling noise and a flash. The Damebots fall to the ground convulsing, then are still_
 
-**Ken:** By eck lad, you did it, I've got to say, I think I may have underestimated you, well done son.
+**Ken:** By eck lad, you did it, you've absolutely destroyed 'em.
+
+**Dorothy:** Oh your Wasbinator thingy, it's killed them. The poor things!
+
+**Ken:** I've got to say, I think I may have underestimated you.
 
 **Bearass:** Thank you Ken, but I couldn't have done it without Dorothy here.
 
