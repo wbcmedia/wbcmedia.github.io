@@ -447,7 +447,7 @@ _curtains close as they leave_
 
 **Ken:** It's not a condition Dorothy, I just have an extremely efficient digestive system.
 
-**Dorothy:** Mmmmm.
+**Dorothy:** Of course you have Ken.
 
 **Bearass:** If we could just get back to the tour... Now I have a piece of Blue John here, see how smooth it is...
 
@@ -465,7 +465,7 @@ _curtains close as they leave_
 
 **Bearass:** Again, if we could just stick to the tour. I'm going to ask you to switch off your torches, and we'll see just how dark it is down here.
 
-**Dorothy:** Oh Ken, I don't think I like the idea of being down her in the dark.
+**Dorothy:** Oh Ken, I don't think I like the idea of being down here in the dark.
 
 **Ken:** Oh get a grip woman, nothing's going to happen, and even if it did, these nice people would warn us, wouldn't you? Wouldn't you? You see there's nothing to worry about at all.
 
@@ -499,7 +499,7 @@ _audience participation - behind you etc_
 
 **Bearass:** _noticing the Damebots_ Oh, we seem to have some latecomers. Could I see your tickets please?
 
-**Damebots:** We do not need tickets. _Step forward_ We are the Damebots _Step forward_ We will annihalate those who demand to see tickets. _Damebots turn toward Bearass, there is a flash and Bearass is thrown to the ground by a force which came from the Damebots. The Damebots continue their march down the aisle to the rear of the hall. Ken and Dorothy nervously approach Bearass._
+**Damebots:** We do not need tickets. _Step forward_ We are the Damebots _Step forward_ We will annihalate those who demand to see tickets. _Damebots turn toward Bearass, there is a flash and Bearass is thrown to the ground by a force which came from the Damebots. The Damebots continue their march down the aisle to the rear of the hall. Ken thinks something's gone wrong with his hearing aid and Dorothy is questioning what his problem is - they haven't noticed what happened to Bearass._
 
 **Damebots:** All hail The Dames
 
@@ -996,7 +996,7 @@ _The Dames laugh and continue to take the mickey out of the Jedi characters_
 
 **OWBB:** This isn't working, something is missing...
 
-_Petra enters, hold both hands up to the ceiling and with a face full of concentration, uses The Force to lower a mirrorball down from above. The other Jedi look on in awe and the Dames begin to notice._
+_Petra enters, holds both hands up to the ceiling and with a face full of concentration, uses The Force to lower a mirrorball down from above. The other Jedi look on in awe and the Dames begin to notice._
 
 **Beatrice:** Ooooh Strictly
 

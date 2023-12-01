@@ -139,11 +139,12 @@ they went to the stars
 then the evil dames sentenced me to life behind bars
 
 I'm captain Dan
-I'm a hot-blooded stallion
-Would you like to touch my shiny medallion
-Cruising round the stars
-In my flashy space-jag
-Would you like to join me for a lovely excursion
+I'm the king of the lovers
+All my best moves happen under the covers
+My Jaguar's a soft-top
+a cabriolet
+she's a beauty with her top down
+She goes all the way
 
 I lost my heart
 to a starship trooper
@@ -158,12 +159,12 @@ my onesie's overheating
 Hold me, kiss me, do what you will
 I want to feel that galactic thrill
 
-I'm captain Dan
+I'm a ladies man
 I'm a hot-blooded stallion
 Would you like to touch my shiny medallion
 Cruising round the stars
 In my flashy space-jag
-Would you like to join me for a lovely excursion
+Would you like to join me for a lovely day out
 
 Now that I'm free and I've learned I'm a Jedi
 Please don't say that we should say goodbye
@@ -177,6 +178,67 @@ This is more than infatuation
 Hand in hand in a love-embrace
 
 ## Finale Song
+
+Cant believe Captain Dan dumped me for that pink octopus
+
+There's a starman waiting in the sky
+He'd like to come and meet us
+But he thinks he'd blow our minds
+There's a starman waiting in the sky
+He's told us not to blow it
+'Cause he knows it's all worthwhile
+He told me
+"Let the children lose it
+Let the children use it
+Let all the children boogie"
+
+[Verse 2]
+I had to phone someone, so I picked on you
+Hey, that's far out, so you heard him too
+Switch on the TV, we may pick him up on Channel Two
+Look out your window, I can see his light
+If we can sparkle, he may land tonight
+Don't tell your poppa or he'll get us locked up in fright
+
+You might also like
+It’s the End of the World as We Know It (And I Feel Fine)
+R.E.M.
+Say Don’t Go (Taylor’s Version) [From The Vault]
+Taylor Swift
+Every Breath You Take
+The Police
+
+[Chorus]
+There's a starman waiting in the sky
+He'd like to come and meet us
+But he thinks he'd blow our minds
+There's a starman waiting in the sky
+He's told us not to blow it
+'Cause he knows it's all worthwhile
+He told me
+"Let the children lose it
+Let the children use it
+Let all the children boogie"
+Starman waiting in the sky
+He'd like to come and meet us
+But he thinks he'd blow our minds
+There's a starman waiting in the sky
+He's told us not to blow it
+'Cause he knows it's all worthwhile
+"He told me
+Let the children lose it
+Let the children use it
+Let all the children boogie"
+
+[Outro]
+La, la, la, la-la, la, la, la
+La, la, la, la-la, la, la, la
+La, la, la, la-la, la, la, la
+La, la, la, la-la, la, la, la
+La, la, la, la-la, la, la, la
+La, la, la, la-la, la, la, la
+La, la, la, la-la, la, la, la
+La, la, la, la-la, la, la, la
 
 Go your own way
 Just can't get enough
