@@ -501,6 +501,10 @@ _audience participation - behind you etc_
 
 **Damebots:** We do not need tickets. _Step forward_ We are the Damebots _Step forward_ We will annihalate those who demand to see tickets. _Damebots turn toward Bearass, there is a flash and Bearass is thrown to the ground by a force which came from the Damebots. The Damebots continue their march down the aisle to the rear of the hall. Ken thinks something's gone wrong with his hearing aid and Dorothy is questioning what his problem is - they haven't noticed what happened to Bearass._
 
+**Ken:** This flippin' hearing aid's playing up again Dorothy
+
+**Dorothy:** What's the matter Ken, what just happened?
+
 **Damebots:** All hail The Dames
 
 _Dames walk on_
