@@ -6,7 +6,7 @@
 
 _Damebots march up aisle and then FOC "We are the Dame-Bots"_
 
-**Dan Lothario:** _rummaging through a suitcase full of black-market stuff, pauses for a moment as he realises he's not alone, sees audience, slams case shut_ I say, you frightened the life out of me. Which planet did you all come from? _maybe audience participation/banter Earth??? Never heard of it etc? Then re-opens the suitcase_. Perhaps I could interest you in some bottles of gin I've, erm, "managed to acquire". No, maybe some disposable vapes, I've got watermelon or rhubarb and beef. No, how about some genuine fake Rolex watches? No? Ah well, suit yourselves. Oh, where ARE my manners, allow me to introduce my very good self. I am Captain Dan Lothario, I'm an intergalactic business man, I deal in a bit of this, a bit of that... a bit of the other, if you understand my meaning ladies??? Oh yes, I'm very well respected across many of the most sophisticated planets around here. I've been to, oh, what's the one with the rings round it? That's right, Suttern. And that poxy little one down there... Macc-ury. Oh, and I've just come back from Uranus. I'm here to sell some of my extra special cosmetics to some exquisite ladies... Oh... here they come... wish me luck... Showtime!!! _he clicks his fingers, freezes and the lights switch to 2 Dames who enter, loudly bantering with each other, arguing over which is the most beautiful_
+**Dan Lothario:** _rummaging through a suitcase full of black-market stuff, pauses for a moment as he realises he's not alone, sees audience, slams case shut_ I say, you frightened the life out of me. Which planet did you all come from? _maybe audience participation/banter Earth??? Never heard of it etc? Then re-opens the suitcase_. Perhaps I could interest you in some bottles of gin I've, erm, "managed to acquire". No, maybe some disposable vapes, I've got watermelon or rhubarb and beef. No, how about some genuine fake Rolex watches? No? Ah well, suit yourselves. Oh, where ARE my manners, allow me to introduce my very good self. I am Captain Dan Lothario, I'm an intergalactic business man, I deal in a bit of this, a bit of that... a bit of the other, if you understand my meaning ladies? Woof! Oh yes, I'm very well respected across many of the most sophisticated planets around here. I've been to, oh, what's the one with the rings round it? That's right, Suttern. And that poxy little one down there... Macc-ury. Oh, and I've just come back from Uranus. I'm here to sell some of my extra special cosmetics to some exquisite ladies... Oh... here they come... wish me luck... Showtime!!! _he clicks his fingers, freezes and the lights switch to 2 Dames who enter, loudly bantering with each other, arguing over which is the most beautiful_
 
 **Florence:** Look, I'm not being funny...
 
@@ -831,11 +831,11 @@ _Dames enter - one has a beard... One is drinking a can of Stella. Another is sc
 
 **Ken:** Aaaaaghhhh... no stop it, please.
 
-**Jackie:** Go on Florence, throw some shade, diss him some more.
+**Gertrude:** Go on Florence, throw some shade, diss him some more.
 
 **Ken:** No, please, I can't take it...
 
-**Beatrice:** Look at his nose, you could dig for truffles with that!
+**Florence:** Look at his nose, you could dig for truffles with that!
 
 **Ken:** Aaaaaghhhh!
 
@@ -990,7 +990,7 @@ _The Damebots are alerted by the outburst and turn to face the Jedi. A battle en
 
 **Jackie:** Yeah, give her one of your Craig Revell-Hallwood lines!
 
-**Beatrice:** There's only two things stopping you winning Strictly... Your feet!
+**Beatrice:** _In a Craig Revell-Hallwood sneering style_ There are only two things stopping YOU winning Strictly... Your feet!
 
 **Florence:** Ooooh, let me have a go... It's like your toes are all pointing the wrong way... Have you got mixamatosis?
 
@@ -1002,7 +1002,7 @@ _The Damebots are alerted by the outburst and turn to face the Jedi. A battle en
 
 _The Dames laugh and continue to take the mickey out of the Jedi characters_
 
-**OWBB:** This isn't working, something is missing...
+**Obi-Wan:** This isn't working, something is missing...
 
 _Petra enters, holds both hands up to the ceiling and with a face full of concentration, uses The Force to lower a mirrorball down from above. The other Jedi look on in awe and the Dames begin to notice._
 
@@ -1016,13 +1016,13 @@ _Ken and Dorothy Tango on stage_
 
 _Each Dame delivers their verdict in turn and then stares at the mirrorball in a trance_
 
-**Jackie** A Tango is supposed to be fizzy... and fruity... that was more like a weak orange squash... SIX points
+**Jackie** _In a slightly mad Italian style_ A Tango is supposed to be fizzy... and fruity... that was more like a weak-a orange squash... SIX-A points-a
 
-**Beatrice** Ken, your turns were a dis-aster darliiing, DIS-AAASTER. I'll give them a FIVE because I'm feeling generous!
+**Beatrice** _sneering Craig R-H_ Ken, your turns were a dis-aster darliiing, DIS-AAASTER. I'll give them a FIVE because I'm feeling generous!
 
-**Gertrude** Well I disagree, they had energy energy energy. I loved it! NINE!
+**Gertrude** _Very enthusiastic_ Well I disagree, they had energy energy energy. I loved it! NINE!
 
-**Florence** I agree... if those two don't get through to next week's show, I'll pickle my walnuts! SEVEN!!!
+**Florence** _Len Goodman_ I agree... if those two don't get through to next week's show, I'll pickle my walnuts! SEVEN!!!
 
 **Layabout** You see... I TOLD you Strictly was their achilles heel.
 
