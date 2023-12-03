@@ -401,7 +401,7 @@ _curtains close as they leave_
 
 **Bearass:** _confused_ No... we've been doing this tour 5 times a day for years...
 
-**Ken:** Well, you've already got my back up then fella-mi-lad... "Where no one's gone before", false advertising... I could have you for that.
+**Ken:** Well, you've already got my back up... "Where no one's gone before", false advertising... I could have you for that fella-mi-lad....
 
 **Dorothy:** quiet Ken, let the nice young man speak
 
@@ -411,7 +411,7 @@ _curtains close as they leave_
 
 **Dorothy:** Oh shush Ken, we got vouchers out of the newspaper. _to Bearass_ we're retired you see. Ken used to be an engineer, but he had to stop, what with his hearing and everything, and I'm a...
 
-**Ken:** I invented the Flipomater... _Bearass looks non-plussed_ No? Honestly, the young people these days, they know nothing. It's the machine that sticks the lids on jars of jam. Oh, no wonder the country's going to the dogs!
+**Ken:** I invented the Flip-o-mator... _Bearass looks non-plussed_ No? Honestly, the young people these days, they know nothing. It's the machine that sticks the lids on jars of jam. Oh, no wonder the country's going to the dogs!
 
 **Dorothy:** Ken!
 
@@ -453,7 +453,7 @@ _curtains close as they leave_
 
 **Ken:** Let's have a look at that son...
 
-**Dorothy:** Don't touch it Ken... it's dangerous... Someone on Twitter that Blue John can send people quite mad.
+**Dorothy:** Don't touch it Ken... it's dangerous... Someone on Twitter said that Blue John can send people quite mad.
 
 **Ken:** Don't be silly Dorothy!
 
@@ -485,9 +485,9 @@ _they all switch off their lights. As Bearass delivers his line the Damebots wal
 
 **Dorothy:** I didn't spray anything...
 
-**Ken:** Oooooh, it smells like a cat's been turned inside out... in our downstairs loo.
+**Ken:** Oooooh, it smells like a cat's been turned inside out... in our downstairs toilet.
 
-**Dorothy** _sniffs_ oh you're right, it smells like Febreze! But I didn't spray anything. _lights back on, two Damebots have appeared behind them at the back of the stage looking "warlike"_
+**Dorothy** _sniffs_ oh you're right, it smells like Febreze! But it wasn't me that sprayed it. _lights back on, two Damebots have appeared behind them at the back of the stage looking "warlike"_
 
 **Bearass:** Well, I can't see anyone else here... can you?
 
