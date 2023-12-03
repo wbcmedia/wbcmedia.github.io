@@ -371,15 +371,15 @@ _curtains close as they leave_
 
 ## Act 1 Scene 3
 
-**Dorothy:** Oh I'm looking forward to this Ken, I've never been in a cave before.
+**Dorothy:** Oh I'm looking forward to this Ken, I've never been in a cave before, I should be videoing this for my YouTube channel.
 
-**Ken:** Well Dorothy, the thing with caves is they can be quite small, and it looks like there's an awful lot of people coming on this tour with us. Look at 'em. Are you ALL here for the tour? I say, are you all here for the tour? Honestly some of them seem a bit simple!
+**Ken:** Well Dorothy, I've been in many caves in my time, they can be quite small and it looks like there's an awful lot of people coming on this tour with us. Look at 'em. Are you ALL here for the tour? I say, are you all here for the tour? Honestly some of them seem a bit simple!
 
 **Dorothy:** Ken!!!!!
 
 **Ken:** Look at that young lad there, he's got long hair - could do with a trip to the barber's him... short back and sides.
 
-**Dorothy:** Shhhh Ken... Ohh look, this must be our guide. He looks like a proper adventurer, like that Bear Grylls.
+**Dorothy:** Shhhh Ken... Ohh look, this must be our guide. He looks like a proper adventurer, like that Bear Grylls... I'm going to take a photo for Facebook.
 
 **Ken:** Lad looks like he couldn't explore his way out of a paper bag.
 
@@ -409,7 +409,7 @@ _curtains close as they leave_
 
 **Ken:** Well, it had better be good, the price we paid, nearly 5 pound each...
 
-**Dorothy:** Oh shush Ken, we got vouchers out of the newspaper. _to Bearass_ we're retired you see. Ken used to be an engineer, but he had to stop, what with his hearing and everything
+**Dorothy:** Oh shush Ken, we got vouchers out of the newspaper. _to Bearass_ we're retired you see. Ken used to be an engineer, but he had to stop, what with his hearing and everything, and I'm a...
 
 **Ken:** I invented the Flipomater... _Bearass looks non-plussed_ No? Honestly, the young people these days, they know nothing. It's the machine that sticks the lids on jars of jam. Oh, no wonder the country's going to the dogs!
 
@@ -453,7 +453,7 @@ _curtains close as they leave_
 
 **Ken:** Let's have a look at that son...
 
-**Dorothy:** Don't touch it Ken... it's dangerous... I read in the paper that Blue John can send people quite mad.
+**Dorothy:** Don't touch it Ken... it's dangerous... Someone on Twitter that Blue John can send people quite mad.
 
 **Ken:** Don't be silly Dorothy!
 
@@ -593,7 +593,7 @@ _Curtains close_
 
 **Layabout:** Denise
 
-**Petra:** Oh, lovely to meet you Denise. I'm G...
+**Petra:** Oh, lovely to meet you Denise. My name is P...
 
 **Layabout:** _interrupting_ Look, I don't want to seem rude, but I'm just not interested in yer small-talk. If it's all the same to you, I'd rather you just kept yourself to yourself.
 
