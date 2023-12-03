@@ -555,7 +555,7 @@ _Engelbert Humperdink song starts playing, everyone looks confused_
 
 **Obi-Wan:** Alexa, stop! She has great trouble with his accent you see. Alexa, Engage Hyperdrive Autopilot.
 
-**Alexa:** I'm sorry Hyperdrive Autopilot is not available without Prime membership. Would you like me to email details of the subscription rates.
+**Alexa:** I'm sorry Hyperdrive Autopilot is not available without Prime membership. Would you like to sign up now?
 
 **Obi-Wan:** What, no, oh for goodness sake... Courtney you'll just have to fly us through the Wincle Belt manually. Hold on, this could get bumpy!
 
