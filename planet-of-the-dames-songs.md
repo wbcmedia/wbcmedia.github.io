@@ -31,7 +31,7 @@ It's hard to bear, with no blue eyeshadow, a total nightmare
 ## Space Oddity
 
 C Em  
-Dorothy to husband Ken
+Dorothy to husband Ken  
 C Em  
 Dorothy to husband Ken  
 Am Am/G D/F#  
