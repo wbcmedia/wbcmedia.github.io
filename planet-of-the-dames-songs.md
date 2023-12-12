@@ -3,9 +3,13 @@
 ## Tragedy
 
 Here we are, in a lost and lonely galaxy
+
 Sisterhood, destroyed by her duplicity
+
 Layabout, she's guilty that's beyond all doubt
+
 And it's really got us feeling blue, feeling blue
+
 What do we do?
 
 Tragedy, when the make up's gone and we can't go on
@@ -164,7 +168,13 @@ I'm a hot-blooded stallion
 Would you like to touch my shiny medallion
 Cruising round the stars
 In my flashy space-jag
-Would you like to join me for a lovely day out
+Maybe you could join me for a lovely day out?
+
+I lost my heart
+to a starship trooper
+finding love in hyper space
+This is more than infatuation
+Hand in hand in a love-embrace
 
 Now that I'm free and I've learned I'm a Jedi
 Please don't say that we should say goodbye
@@ -176,6 +186,10 @@ to a starship trooper
 finding love in hyper space
 This is more than infatuation
 Hand in hand in a love-embrace
+
+I lost my heart
+to a starship trooper
+finding love in hyper space
 
 ## Finale Song
 
