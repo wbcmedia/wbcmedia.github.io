@@ -13,23 +13,37 @@ And it's really got us feeling blue, feeling blue
 What do we do?
 
 Tragedy, when the make up's gone and we can't go on
+
 It's a tragedy, with naked eyes turning into guys
+
 It's hard to bear, with no blue eyeshadow, a total nightmare
+
 Tragedy, wigs aren't enough, we're looking rough
+
 It's a tragedy, stubble's grown testosterone
+
 It's hard to bear, with no blue eyeshadow, a total nightmare
 
 Now she's gone, we need some kind of strategy
+
 A masterplan, to save us from this misery
+
 We're superdames, we only need to use our brains
+
 To show the world that we are queens, we are queens, in ultramarine
+
 We are supreme!
 
 Tragedy, when the make up's gone and we can't go on
+
 It's a tragedy, with naked eyes turning into guys
+
 It's hard to bear, with no blue eyeshadow, a total nightmare
+
 Tragedy, wigs aren't enough, we're looking rough
+
 It's a tragedy, stubble's grown testosterone
+
 It's hard to bear, with no blue eyeshadow, a total nightmare
 
 ## Space Oddity
@@ -135,134 +149,97 @@ And we know just what to do
 ## Starship Trooper
 
 Hey, captain Dan
+
 won't you be my lover
+
 you're the best thing
+
 that I've ever discovered
+
 Mum and Dad left me
+
 they went to the stars
+
 then the evil dames sentenced me to life behind bars
 
 I'm captain Dan
+
 I'm the king of the lovers
+
 All my best moves happen under the covers
+
 My Jaguar's a soft-top
+
 a cabriolet
+
 she's a beauty with her top down
+
 She goes all the way
 
 I lost my heart
+
 to a starship trooper
+
 finding love in hyper space
+
 This is more than infatuation
+
 Hand in hand in a love-embrace
 
 Listen captain Dan
+
 You set my heart a'beating
+
 My temperature's rising,
+
 my onesie's overheating
+
 Hold me, kiss me, do what you will
+
 I want to feel that galactic thrill
 
 I'm a ladies man
+
 I'm a hot-blooded stallion
+
 Would you like to touch my shiny medallion
+
 Cruising round the stars
+
 In my flashy space-jag
+
 Maybe you could join me for a lovely day out?
 
 I lost my heart
+
 to a starship trooper
+
 finding love in hyper space
+
 This is more than infatuation
+
 Hand in hand in a love-embrace
 
 Now that I'm free and I've learned I'm a Jedi
+
 Please don't say that we should say goodbye
+
 Hush now, darling, don't say a word
+
 I'll sweep you off your feet when you've saved the world
 
 I lost my heart
+
 to a starship trooper
+
 finding love in hyper space
+
 This is more than infatuation
+
 Hand in hand in a love-embrace
 
 I lost my heart
+
 to a starship trooper
+
 finding love in hyper space
-
-## Finale Song
-
-Cant believe Captain Dan dumped me for that pink octopus
-
-There's a starman waiting in the sky
-He'd like to come and meet us
-But he thinks he'd blow our minds
-There's a starman waiting in the sky
-He's told us not to blow it
-'Cause he knows it's all worthwhile
-He told me
-"Let the children lose it
-Let the children use it
-Let all the children boogie"
-
-[Verse 2]
-I had to phone someone, so I picked on you
-Hey, that's far out, so you heard him too
-Switch on the TV, we may pick him up on Channel Two
-Look out your window, I can see his light
-If we can sparkle, he may land tonight
-Don't tell your poppa or he'll get us locked up in fright
-
-You might also like
-It’s the End of the World as We Know It (And I Feel Fine)
-R.E.M.
-Say Don’t Go (Taylor’s Version) [From The Vault]
-Taylor Swift
-Every Breath You Take
-The Police
-
-[Chorus]
-There's a starman waiting in the sky
-He'd like to come and meet us
-But he thinks he'd blow our minds
-There's a starman waiting in the sky
-He's told us not to blow it
-'Cause he knows it's all worthwhile
-He told me
-"Let the children lose it
-Let the children use it
-Let all the children boogie"
-Starman waiting in the sky
-He'd like to come and meet us
-But he thinks he'd blow our minds
-There's a starman waiting in the sky
-He's told us not to blow it
-'Cause he knows it's all worthwhile
-"He told me
-Let the children lose it
-Let the children use it
-Let all the children boogie"
-
-[Outro]
-La, la, la, la-la, la, la, la
-La, la, la, la-la, la, la, la
-La, la, la, la-la, la, la, la
-La, la, la, la-la, la, la, la
-La, la, la, la-la, la, la, la
-La, la, la, la-la, la, la, la
-La, la, la, la-la, la, la, la
-La, la, la, la-la, la, la, la
-
-Go your own way
-Just can't get enough
-We are family
-A little respect
-Africa
-Sweet dreams
-Livin on a prayer
-Atomic
-Girls just want to have fun
-Baby one more time (Make me Damely one more time)
-Call me maybe
-Starman
