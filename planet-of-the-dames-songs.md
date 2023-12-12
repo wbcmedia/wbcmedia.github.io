@@ -2,26 +2,17 @@
 
 ## Tragedy
 
-Here we are, in a lost and lonely galaxy
-
-Sisterhood, destroyed by her duplicity
-
-Layabout, she's guilty that's beyond all doubt
-
-And it's really got us feeling blue, feeling blue
-
+Here we are, in a lost and lonely galaxy  
+Sisterhood, destroyed by her duplicity  
+Layabout, she's guilty that's beyond all doubt  
+And it's really got us feeling blue, feeling blue  
 What do we do?
 
-Tragedy, when the make up's gone and we can't go on
-
-It's a tragedy, with naked eyes turning into guys
-
-It's hard to bear, with no blue eyeshadow, a total nightmare
-
-Tragedy, wigs aren't enough, we're looking rough
-
-It's a tragedy, stubble's grown testosterone
-
+Tragedy, when the make up's gone and we can't go on  
+It's a tragedy, with naked eyes turning into guys  
+It's hard to bear, with no blue eyeshadow, a total nightmare  
+Tragedy, wigs aren't enough, we're looking rough  
+It's a tragedy, stubble's grown testosterone  
 It's hard to bear, with no blue eyeshadow, a total nightmare
 
 Now she's gone, we need some kind of strategy
