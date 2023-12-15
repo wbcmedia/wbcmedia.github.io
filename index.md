@@ -1,7 +1,11 @@
 <p>
-<a href="/planet-of-the-dames">Planet Of The Dames - Script (WIP)</a>
+<a href="/planet-of-the-dames">Script</a>
 </p>
 
 <p>
-<a href="/planet-of-the-dames-characters">Planet Of The Dames - Characters List</a>
+<a href="/planet-of-the-dames-songs">Songs</a>
+</p>
+
+<p>
+<a href="/planet-of-the-dames-characters">Character List</a>
 </p>
