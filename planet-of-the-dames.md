@@ -6,7 +6,7 @@
 
 _Damebots march up aisle and then FOC "We are the Dame-Bots"_
 
-**Dan Lothario:** _rummaging through a suitcase full of black-market stuff, pauses for a moment as he realises he's not alone, sees audience, slams case shut_ I say, you frightened the life out of me. Which planet did you all come from? _maybe audience participation/banter Earth??? Never heard of it etc? Then re-opens the suitcase_. Perhaps I could interest you in some bottles of gin I've, erm, "managed to acquire". No, maybe some disposable vapes, I've got watermelon or rhubarb and beef. No, how about some genuine fake Rolex watches? No? Ah well, suit yourselves. Oh, where ARE my manners, allow me to introduce my very good self. I am Captain Dan Lothario, I'm an intergalactic business man, I deal in a bit of this, a bit of that... a bit of the other, if you understand my meaning ladies? Woof! Oh yes, I'm very well respected across many of the most sophisticated planets around here. I've been to, oh, what's the one with the rings round it? That's right, Suttern. And that poxy little one down there... Macc-ury. Oh, and I've just come back from Uranus. I'm here to sell some of my extra special cosmetics to some exquisite ladies... Oh... here they come... wish me luck... Showtime!!! _he clicks his fingers, freezes and the lights switch to 2 Dames who enter, loudly bantering with each other, arguing over which is the most beautiful_
+**Dan Lothario:** _rummaging through a suitcase full of black-market stuff, pauses for a moment as he realises he's not alone, sees audience, slams case shut_ I say, you frightened the life out of me. Which planet did you all come from? _maybe audience participation/banter Earth??? Never heard of it etc? Then re-opens the suitcase_. Perhaps I could interest you in some bottles of gin I've, erm, "managed to acquire". No? Maybe some disposable vapes, I've got watermelon or rhubarb and beef. No? How about some genuine fake Rolex watches? No? Ah well, suit yourselves. Oh, where ARE my manners, allow me to introduce my very good self. I am Captain Dan Lothario, I'm an intergalactic business man, I deal in a bit of this, a bit of that... a bit of the other, if you understand my meaning ladies? Woof! Oh yes, I'm very well respected across many of the most sophisticated planets around here. I've been to, oh, what's the one with the rings round it? That's right, Suttern. And that poxy little one down there... Macc-ury. Oh, and I've just come back from Uranus. I'm here to sell some of my extra special cosmetics to some exquisite ladies... Oh... here they come... wish me luck... Showtime!!! _he clicks his fingers, freezes and the lights switch to 2 Dames who enter, loudly bantering with each other, arguing over which is the most beautiful_
 
 **Florence:** Look, I'm not being funny...
 
@@ -333,15 +333,15 @@ _the sound of voices offstage_
 
 **Obi-Wan** I know everything about you Mr Suey. I know you were found as a baby on the doorstep of a Chinese Takeaway in Birkenhead. You were raised as a Liverpool supporter. Your favourite chocolate bar is the Curly Whirly. You have a squirrel-shaped birthmark on your left but...
 
-**Suey:** OK, OK, I get it you know all about me. I'm just a scouse ex-henchman who's bad at dusting, so what?
+**Suey:** OK, OK, I get it you know all about me. But I'm just a scouse ex-henchman who's bad at dusting... so what?
 
-**Obi-Wan:** You are not who you think you are Mr Suey, allow me to explain. _4 hours pass_... you see?
+**Obi-Wan:** You are not who you think you are Mr Suey, allow me to explain. _Sound of ticking clock as time passes_... you see?
 
-**Suey:** So I'm a Jedi, I have special powers...why tell me now?
+**Suey:** So I'm a Jedi? I have special powers? ...Why tell me now?
 
 **Obi-Wan:** An intergalactic war is on the horizon and you are our only hope.
 
-**Suey:** Well let's go get em, whoever they are.
+**Suey:** Well let's go get em... whoever they are.
 
 **Obi-Wan:** Patience, Mr Suey... One young Jedi will not be enough to overcome the dark powers of this evil coven... there is another from your family that we must find.
 
@@ -359,13 +359,13 @@ _Courtney enters_
 
 **Obi-Wan:** Clearly not, you never seem to use them.
 
-**Courtney:** and this was hanging in the tree too...
+**Courtney:** and this was hanging in't tree too...
 
-**Obi-Wan:** _examining it more closely_ It appears to be some Canine Organic Matter, there must be some good reason it was left hanging in a tree. You should keep hold of it in case it becomes useful. Come on Mr Suey, follow us, we need to travel to the remote space outpost Flash _ahahhh... they all look up and around trying to work out where the noise came from_.
+**Obi-Wan:** _examining it more closely, then sniffing it_ It appears to be some Canine Organic Matter. There must be some good reason it was left hanging in a tree. You should keep hold of it in case it becomes useful. Come on Mr Suey, follow us, we need to travel to the remote space outpost Flash _ahahhh... they all look up and around trying to work out where the noise came from_.
 
 **Suey:** Calamity love, I'm just off out for a bit.
 
-**Calamity:** Don't forget to get my bunion cream
+**Calamity:** Don't forget to get my bunion cream.
 
 _curtains close as they leave_
 
@@ -373,7 +373,7 @@ _curtains close as they leave_
 
 **Dorothy:** Oh I'm looking forward to this Ken, I've never been in a cave before, I should be videoing this for my YouTube channel.
 
-**Ken:** Well Dorothy, I've been in many caves in my time, they can be quite small and it looks like there's an awful lot of people coming on this tour with us. Look at 'em. Are you ALL here for the tour? I say, are you all here for the tour? Honestly some of them seem a bit simple!
+**Ken:** Well Dorothy, I've been in many caves in my time. They can be quite small and it looks like there's an awful lot of people coming on this tour with us. Look at 'em. Are you ALL here for the tour? I say, are you all here for the tour? Honestly some of them seem a bit simple!
 
 **Dorothy:** Ken!!!!!
 
@@ -381,17 +381,17 @@ _curtains close as they leave_
 
 **Dorothy:** Shhhh Ken... Ohh look, this must be our guide. He looks like a proper adventurer, like that Bear Grylls... I'm going to take a photo for Facebook.
 
-**Ken:** Lad looks like he couldn't explore his way out of a paper bag.
+**Ken:** Bear Grylls!?!?! Lad looks like he couldn't explore his way out of a paper bag.
 
 **Bearass:** Good morning ladies and gentlemen, my name is Bearathhh and I will be your guide today.
 
-**Ken:** Sorry son, did you say bear arse?
+**Ken:** Sorry son, did you say your name was bear arse?
 
 **Bearass:** No! Bearathhhhh... my father was Spanish.
 
 **Dorothy:** Ooooooh, Spanish, how exotic, did you hear that Ken, his father was Spanish.
 
-**Ken:** I don't trust the Spaniards... I don't trust ANY kind of foreigners.
+**Ken:** I don't trust the Spaniards... In fact, I don't trust ANY kind of foreigners.
 
 **Dorothy:** _sadly_ I know you don't Ken... I know you don't. Well, I'm Dorothy, and this is my husband, Ken.
 
@@ -405,11 +405,11 @@ _curtains close as they leave_
 
 **Dorothy:** quiet Ken, let the nice young man speak
 
-**Bearass:** We shall go on a journey down into the Blue John Cavern, a place of mystery and wonder...
+**Bearass:** _handing torches to Ken and Dorothy_ We shall go on a journey down into the Blue John Cavern, a place of mystery and wonder...
 
 **Ken:** Well, it had better be good, the price we paid, nearly 5 pound each...
 
-**Dorothy:** Oh shush Ken, we got vouchers out of the newspaper. _to Bearass_ we're retired you see. Ken used to be an engineer, but he had to stop, what with his hearing and everything, and I'm a...
+**Dorothy:** Oh shush Ken, we got vouchers out of the newspaper. _to Bearass_ we're retired you see. Ken used to be an engineer, but he had to stop, what with his hearing and everything, and I'm a socia.....
 
 **Ken:** I invented the Flip-o-mator... _Bearass looks non-plussed_ No? Honestly, the young people these days, they know nothing. It's the machine that sticks the lids on jars of jam. Oh, no wonder the country's going to the dogs!
 
@@ -419,7 +419,7 @@ _curtains close as they leave_
 
 **Ken:** Don't tell me what to do son, I worked for Kellogs for 15 years! If I want to fall over, I'll flipping well fall over.
 
-**Dorothy:** _to Bearass_ We'll be careful love _slaps Ken's arm. They move carefully to the other side of the stage_
+**Dorothy:** _to Bearass_ We'll be careful love _slaps Ken's arm. They march round in circles following Bearass to the other side of the stage_
 
 **Bearass:** So we are now in the heart of the Blue John Cavern...
 
@@ -427,17 +427,17 @@ _curtains close as they leave_
 
 **Bearass:** Ah, excellent question Dorothy... Those are stalagmites, they form as deposits of calcium carbonate are precipitated from the cave ceiling.
 
-**Ken:** I was going to say that...
+**Ken:** I was just about to say that...
 
 **Dorothy:** And what about these _pointing at a pair of tights dangling from above_?
 
-**Ken:** _interrupting to appear clever_ Ah, I expect those are stalactites, formed by the solution of colloidial limestone particles forming a speleotherm over a period of millions of years.
+**Ken:** _interrupting to appear clever_ Ah, I expect those are stalactites, created by the solution of colloidial limestone particles forming a speleotherm over a period of millions of years.
 
 **Bearass:** Actually Ken, this is just where I hang my washing, Blue John is surprisingly good at absorbing moisture.
 
 **Dorothy:** Oh, that's interesting isn't it Ken? _to Bearass_ I've got a tumble dryer myself.
 
-**Ken:** It's a Hotpoint, very reliable. Not like some of these German appliances...
+**Ken:** It's a Hotpoint, very reliable. Not like some of these German appliances.
 
 **Bearass:** _starting to get annoyed with Ken_ The other thing you may not know about the Blue John stone is that it purifies the atmosphere. Just take a deep breath, I doubt you've ever experienced such clean air in all your... _fart noise, Bearass screws up his face in disgust_
 
@@ -509,7 +509,7 @@ _audience participation - behind you etc_
 
 _Dames walk on_
 
-**Ken:** Dorothy, it's blokes dressed as women
+**Ken:** Dorothy, it's men dressed as women
 
 **Dorothy:** Ken!! you can't say that sort of thing anymore _to one of the Dames_ I'm sorry love, he's a bit behind the times.
 
@@ -543,7 +543,7 @@ _lights out curtains close_
 
 **Suey:** This is amazing, what is it?
 
-**Obi-Wan:** This is a top-of-the-range Skoda Hyperspeed XL Star Gobbler. We call her the Minelium Falco... The Melamine Falc no, The Magnolia no, The Lemoniee, Minel.... Oh... we call her Betsy.
+**Obi-Wan:** This is a top-of-the-range Skoda Hyperspeed XL Star Gobbler. We call her the Min-ellium Falco...No, The Melamine Falc no, The Magnolia no, The Lemoniee.... Oh... we call her Betsy.
 
 **Suey:** Wow!
 
@@ -551,9 +551,9 @@ _lights out curtains close_
 
 **Alexa:** Playing songs by Engelbert Humperdink...
 
-_Engelbert Humperdink song starts playing, everyone looks confused_
+_Engelbert Humperdink song starts playing, everyone looks confused. OWBB keeps shouting at Alexa to stop which she eventually does_
 
-**Obi-Wan:** Alexa, stop! She has great trouble with his accent you see. Alexa, Engage Hyperdrive Autopilot.
+**Obi-Wan:** Alexa, stop! Alexa... stop! Alexa stop... _the music stops_ She has great trouble with his accent you see. Alexa, Engage Hyperdrive Autopilot.
 
 **Alexa:** I'm sorry Hyperdrive Autopilot is not available without Prime membership. Would you like to sign up now?
 
@@ -575,17 +575,13 @@ _Courtney is desperately trying to steer through the asteroids with one hand whi
 
 **Obi-Wan:** There's a clearing down there Courtney, try to land in there...
 
-_Courtney desperately tries to land, but again there is a crashing sound, lights flash, bits of the interior fall off (boxes thrown on stage), the craft skids to a halt and the lights go out_
+_Courtney desperately tries to land, but again there is a crashing sound, lights flash, bits of the interior fall off (boxes thrown on stage), the craft skids to a halt and the lights go out and the curtains close_
 
-**Obi-Wan:** _in the darkness_ Is everyone alright?
+**Obi-Wan:** _in the darkness from behind the curtain_ Is everyone alright?
 
 **Suey:** I think so
 
 **Courtney:** This is your captain speaking, thank you for flying with us today, we hope you have a very pleasant holiday and look forward to seeing you all again for the journey home.
-
-_Curtains close_
-
-4 mins
 
 ## Act 1 Scene 5
 
@@ -595,17 +591,17 @@ _Curtains close_
 
 **Petra:** Oh, lovely to meet you Denise. My name is P...
 
-**Layabout:** _interrupting_ Look, I don't want to seem rude, but I'm just not interested in yer small-talk. If it's all the same to you, I'd rather you just kept yourself to yourself.
+**Layabout:** _interrupting_ Look, I don't want to seem rude, but I'm just not interested in yer small-talk. If it's all the same to you, I'd rather you just kept yourself to yourself. _Shoo's Petra away and sits down on the chair she's just spotted_
 
 **Petra:** Oh, I see, well do you at least mind me asking what you're in for? I mean, I think I at least deserve to know if I've been locked up with a mass murderer... or worse!
 
 **Layabout:** _sighs_ well if you really must know I was sent here by The Dames from their awful planet, just because they hate me, even though I've done nothing wrong.
 
-**Petra:** Oh my stars, I don't believe it, we've got loads in common. I was sent here by the Dames too. I was leading a peaceful protest against the horrendous way they're destroying our environment, using up all the natural resources for their pointless cosmetics... So I started a movement. You must have heard of us? _hands her a leaflet_ Just Stop Dames! That's me there on the front of the leaflet. So anyway, I'm leading the protest march... I mean I say leading, but there was only me there, but from little acorns etc etc... Anyway, where was I? Oh yes, I'm peacefully protesting, as is my right, and these two nasty little robot things came out, arrested me. I had no legal representation, which is a breach of my human rights, and next thing I know, I'm here, on the planet stench, on my own... until you turned up that is!
+**Petra:** Oh my stars, I don't believe it, we've got loads in common. I was sent here by the Dames too. I was leading a peaceful protest against the horrendous way they're destroying our environment, using up all the natural resources for their pointless cosmetics... So I started a movement. You must have heard of us? _shows her a leaflet_ Just Stop Dames! That's me there on the front of the leaflet. So anyway, I'm leading the protest march... I mean I say leading, but there was only me there, but from little acorns etc etc... Anyway, where was I? Oh yes, I'm peacefully protesting, as is my right, and these two nasty little robot things came out and arrested me. I had no legal representation, which is a breach of my human rights, and next thing I know, I'm here, on the planet stench, on my own... until you turned up that is!
 
 **Layabout:** Mmmmm, what a fascinating story!
 
-**Petra:** I know. Anyway, you can help me, I'm digging a tunnel _shows her a teaspoon_ with this. We're going to escape. Then you can join Just Stop Dames and help in the fight against tyrrany...
+**Petra:** I know. Anyway, you can help me, I'm digging a tunnel _shows her a teaspoon_ with this. We're going to escape. Then YOU can join Just Stop Dames and help in the fight against tyrrany...
 
 **Layabout:** Look, I'm sorry, but it all sounds like a lot of effort, and I'll be honest, I don't mind it here. I can do what I like without anyone bossing me about - I like it.
 
@@ -649,7 +645,7 @@ _Curtains close_
 
 **Dorothy:** Oh, I don't know anything about all that computer stuff. Ken's got a laptop, but he mainly uses it for complaining to the council.
 
-**Bearass:** _whispering_ Dorothy, I have a compass on my toolbelt, that has a weak magnetic force, but if we could find something to amplify that force, well, we may just stand a chance of making a Wasbinator.
+**Bearass:** Dorothy, I have a compass on my toolbelt, that has a weak magnetic force, but if we could find something to amplify that force, well, we may just stand a chance of making a Wasbinator.
 
 **Dorothy:** Oh, I think you're talking to the wrong person, it's Ken that usually deals with all this, I tend to look after the gardening and whatnot. Wait a minute... did you say amplify? Well Ken's got a hearing aid. Is that a kind of amplifier?
 
@@ -671,7 +667,7 @@ _Curtains close_
 
 **Dorothy:** Me and Ken could sing a song, Ken was in a group in the 60's
 
-**Ken:** We were called The Hinges!
+**Ken:** You've probably heard of us... We were called The Hinges!
 
 **Dorothy:** They supported The Doors!
 
@@ -683,7 +679,7 @@ _During the song Dorothy signals to Bearass who turns on the Wasbinator, there i
 
 **Dorothy:** Oh your Wasbinator thingy, it's killed them. The poor things!
 
-**Ken:** I've got to say, I think I may have underestimated you.
+**Ken:** I've got to say, I think I may have underestimated you son.
 
 **Bearass:** Thank you Ken, but I couldn't have done it without Dorothy here.
 
@@ -694,8 +690,6 @@ _During the song Dorothy signals to Bearass who turns on the Wasbinator, there i
 **Bearass:** Don't worry, I know these caves like the back of my hand, we need to head due south from here. We'll be out of here in no time. Let me just check my compass... Oh... _looks at his compass which is completely destroyed_ That's not good.
 
 _one of the Damebots starts to shakily move its arm, then begins to sit up, they have clearly not been destroyed. The other Damebot starts recovering and they both get to their feet. The curtains close_
-
-8 mins
 
 ## INTERVAL
 
@@ -716,7 +710,7 @@ Have you been travelling for light years, need fuel, or pasties. Why not stop at
 
 **Suey:** Oh, you'd be surprised, there's a woman who sits at the back and she...
 
-**Obi-Wan:** _Annoyed_ Be discreet Mr Suey, stay quiet, let me do the talking, and try not to make eye contact. _a 6-eyed alien walks in and stares at Suey, he tries to look away but it keeps staring at him_. Ah... there she is... _a pink space octopus is busy serving customers. She has an Italian accent. Amongst others, the Big Gulp Bunny is standing in the queue, holding a bunch of carrots and looking impatient._
+**Obi-Wan:** _Annoyed_ Be discreet Mr Suey, stay quiet, let me do the talking, and try not to make eye contact. _a 6-eyed alien walks in and stares at Suey, he tries to look away but it keeps staring at him_. Ah... there she is... _a pink space octopus is busy serving customers. She has an Italian accent. A small alien is waiting impatiently to be served whilst Debra, the space octopus keeps her waiting._
 
 **Debra:** which-a pump-a number you-a been-a to-a my friend-a? _alien mumble_... Numero 5-a, OK, 60000 intastellas... _alien outburst_. Whaddayamean its a twice the price as last time... you know issa difficult to get space-diesel these days? _alien pulls gun, Debra snatches it from him and waves it in his face, grabs his debit card and taps it to pay, then throws it back and shoots a warning shot past the alien's feet_, maybe you go-a somewhere else-a next-a time eh? _alien runs out screaming. Debra spots OBWBB_. Well-a, if it isnt my old-a friend-a, Da Bigga Da Bogie. How you been mi amore? _whispers_ It's a been a long-a time-a since we... you know... _winks (if a space octopus can wink!)_.
 
@@ -759,7 +753,7 @@ _Suey and OWBB move across to an impressive looking pick-n-mix stand_
 
 **Dan Lothario:** Well, my Space Jag is parked outside, but she's a bit of an eyecatcher, might attract too much attention... especially female attention if you know what I mean, wooof!
 
-**Courtney:** _enters, covered in oil and dirt_ It's no use, I can't fix it, the engine won't start, the stereo's only playing Radio 4, and the toilet's completely...
+**Courtney:** _enters, covered in oil and dirt_ It's no use, I can't fix it. The engine won't start... the stereo's only playing Radio 4... and the toilet's completely...
 
 **Dan Lothario:** _interrupting_ it would appear that you have two problems old chap. You require a guide to take you to Farton, AND you need someone, _looking at Courtney and rolling his eyes_ who knows what they're doing, to repair your spacecraft. Allow me to introduce my companion. _WD40 rolls on stage_ This is WD40. He can repair any kind of mechanical problem you may have, he can lubricate gears and chains... and he's quite good at getting stains out of expensive upholstery.
 
@@ -769,13 +763,17 @@ _Suey and OWBB move across to an impressive looking pick-n-mix stand_
 
 **Obi-Wan:** You will receive everything you deserve, do not worry about that. But your little droid must get to work immediately, I can feel a worrying disturbance in The Force.
 
-**Courtney:** It's probably that milk you had on your Shreddies, I told you the Falcon's fridge wasn't working properly... it smelt minging!
+**Courtney:** It's probably that milk you had on your Shreddies. I told you the Falcon's fridge wasn't working properly... it smelt minging!
 
-**OWBB:** Courtney, take our new friend and his little droid to the Melamine Falc.. the Moleskin Fulc... Take them to Betsy!
+**OWBB:** Courtney, take our new friend and his little droid to the Melamine Falc.. the Moleskin Fulcr... Take them to Betsy!
 
-**WD40:** _as they all leave stage_ who is he calling a "little droid", these humans are so rude, I'll _bleeeping_ _bleep_ his head so far up his _bleeping_ _bleeep_ that he'll think he's fallen into a black hole!
+_Dan Courtney and Suey leave stage_
 
-**OWBB:** I think I'll just purchase a few Pick-N-Mix, for the journey. _He smooths his eyebrows, and heads provocatively towards Debra_
+**WD40:** who is he calling a "little droid", these humans are so rude, I'll _bleep_ his head so far up his _bleeping bleeep_ that he'll think he's fallen into a black hole!
+
+_WD40 leaves the stage_
+
+**OWBB:** I think I'll just purchase a few Pick-N-Mix, for the journey. _He smooths his eyebrows, and heads provocatively towards Debra. Some saucy music plays. Debra and OWBB flirt a little, the curtains close_
 
 ## Act 2 Scene 2
 
@@ -787,7 +785,7 @@ _Ken has been stripped to his underwear and is tied up ready to be tortured_
 
 **Damebot 1**: You must be punished for your insurrection
 
-**Ken:** _Looking down at his crotch_ I don't know what you're talking about... Oh, you mean our little rebellion, well this is hardly the way to treat a prisoner of war. It's against the Geneva Convention.
+**Ken:** I don't know what you're talking about... Oh, you mean our little rebellion, well this is hardly the way to treat a prisoner of war. It's against the Geneva Convention.
 
 **Damebot 2**: You will be tortured until you tell us everything you know.
 
@@ -801,7 +799,7 @@ _Dames enter - one has a beard... One is drinking a can of Stella. Another is sc
 
 **Jackie:** What time does the footie kick off?
 
-**Gertrude:** BURP!!!!
+**Gertrude:** _Sound Effect_ BURP!!!!
 
 **Florence:** So, you think you can outwit The Dames with your silly little Wasbinator do you?
 
@@ -849,7 +847,7 @@ _Damebots both come back on stage. Damebot 2 is holding a container of blue eyes
 
 **Damebot 2**: _offering up the container_ The first batch is prepared.
 
-**Florence:** _grabbing the container_ Give me some of that, where's the mirror _strides purposefully off stage, sounds of her smearing it over her eyes, werewolf-type transformation SFX, maybe bright blue light flickers from offstage, she returns wearing a huge blue wig... she has become a super Dame_. I've never felt so feminine, I have become... Super Dame!
+**Florence:** _grabbing the container_ Give me some of that, where's the mirror _strides purposefully off stage, sounds of her smearing it over her eyes, werewolf-type transformation SFX, maybe bright blue light flickers from offstage, she returns wearing a huge blue wig and Madonna-style cones?..._ I've never felt so feminine, I have become... Super Dame!
 
 _the other Dames all run offstage, shouting, give me some of that eyeshadow, I'm first etc as Florence stands triumphant and Ken looks terrified_
 
@@ -871,7 +869,7 @@ _lights out, curtains close_
 
 **Petra:** Shhhh... I think I can hear something...
 
-_We hear muffled voices, there's a crumbling noise and the sound of Suey shouting "we're nearly through"... and the tunnel is completed. Suey emerges.. Prisoner is delighted_
+_We hear muffled voices, there's a crumbling noise and the sound of Suey shouting "we're nearly through"... and the tunnel is completed. Suey emerges.._
 
 **Petra:** Who on earth are you.
 
@@ -903,7 +901,7 @@ _Petra is asking OWBB for his autograph_
 
 **Petra:** Oh the name's P~
 
-**Obi-Wan:** _Interrupting_ I don't NEED to know your name, I NEED to train these young apprentices in the ways of the Jedi, so if you don't mind... _Petra looks very sad, gets sympathy from the audience, OWBB has banter with them "oh don't encourage her etc" until he relents_. Very well, why don't you go outside and bring my Jedi equipment bag... it's in the boot... of the spacecraft...
+**Obi-Wan:** _Interrupting_ I don't NEED to know your name, I NEED to train these young apprentices in the ways of the Jedi, so if you don't mind... _He waves her away dismissively. Petra looks very sad, gets sympathy from the audience, OWBB has banter with them "oh don't encourage her etc" until he relents_. Very well, why don't you go outside and bring my Jedi equipment bag... it's in the boot... of the spacecraft...
 
 **Petra:** Oh, thank you Mr Big Bogie, it would be an honour Mr Big Bogie... _she leaves_
 
@@ -928,7 +926,7 @@ _Petra finds a mirrorball in OWBB's bag of stuff. She makes it levitate, no-one 
 
 **Obi-Wan:** I have taught you everything I know.
 
-**Suey:** That was quick
+**Suey:** That was quick!
 
 **Obi-Wan:** We must now plan our mission - The Dames have invaded Earth in order to meet their insatiable desire for blue eyeshadow. They are large in number... and in dress size! We must find their achilles heel, some weakness which will help us
 
@@ -938,9 +936,9 @@ _Petra finds a mirrorball in OWBB's bag of stuff. She makes it levitate, no-one 
 
 **Layabout:** _explaining further_ Strictly Come Dancing, they're mad for it. As soon as it comes on they're in a different world, you can't get a word out of them. Strictly Come Dancing is their achilles heel!
 
-**Obi-Wan:** Interesting... _he is clearly deep in thought_ We must get back to earth, the final battle is almost upon us. _OWBB and Suey leave_
+**Obi-Wan:** Interesting... _he is clearly deep in thought_ We must get back to earth, the final battle is almost upon us. _OWBB and Suey leave back through the tunnel_
 
-**Petra:** Wait for me...
+**Petra:** _Keen to not be left behind, grabs bag of stuff and chases them_ Wait for me...
 
 **Suey:** _from offstage_ Come on Sis!
 
@@ -970,7 +968,7 @@ _The Damebots are alerted by the outburst and turn to face the Jedi. A battle en
 
 **Florence:** Well well well, what do we have here? If it isn't the last of the Jedi. You're a bit old to be doing this kind of thing aren't you?
 
-**Beatrice:** And who's this, _sarcastically_ he looks like Iron Man!
+**Beatrice:** _Referring to Suey_ And who's this? _sarcastically_ he looks like Iron Man!
 
 **Jackie:** That's good, I've got a big pile of bloomers. _holding up a big basket of brightly coloured knickers_ These need ironing!
 
@@ -990,7 +988,7 @@ _The Damebots are alerted by the outburst and turn to face the Jedi. A battle en
 
 **Jackie:** Yeah, give her one of your Craig Revell-Hallwood lines!
 
-**Beatrice:** _In a Craig Revell-Hallwood sneering style_ There are only two things stopping YOU winning Strictly... Your feet!
+**Beatrice:** _In a Craig Revell-Hallwood sneering style_ Darliiiing... There are only two things stopping YOU winning Strictly... Your feet!
 
 **Florence:** Ooooh, let me have a go... It's like your toes are all pointing the wrong way... Have you got mixamatosis?
 
@@ -1010,7 +1008,7 @@ _Petra enters, holds both hands up to the ceiling and with a face full of concen
 
 _The main lights go off, a single light hits the mirrorball and the full Strictly theme tune plays out in all its glory. The Dames are paralyzed with wonder_
 
-_Ken and Dorothy Tango on stage_
+_Ken and Dorothy Tango up and down the aisle_
 
 **Voiceover** Ken and Dorothy there with their tango. Let's see what the judges made of it.
 
@@ -1022,7 +1020,7 @@ _Each Dame delivers their verdict in turn and then stares at the mirrorball in a
 
 **Gertrude** _Very enthusiastic_ Well I disagree, they had energy energy energy. I loved it! NINE!
 
-**Florence** _Len Goodman_ I agree... if those two don't get through to next week's show, I'll pickle my walnuts! SEVEN!!!
+**Florence** _As Len Goodman_ I agree... if those two don't get through to next week's show, I'll pickle my walnuts... SEV-EN!!!
 
 **Layabout** You see... I TOLD you Strictly was their achilles heel.
 
@@ -1032,7 +1030,7 @@ _Each Dame delivers their verdict in turn and then stares at the mirrorball in a
 
 **Florence:** _Snapping out of the trance_ But we NEED Blue Eyeshadow, to keep us looking feminine.
 
-**Dorothy:** I hope you don't mind me saying, I'd have mentioned it earlier, but I didn't want to interrupt, you seemed a bit busy, what with all that invading and tortuing and whatnot. Anyway, where was I... oh yes... Blue Eyeshadow... it doesn't really suit your skin tones, and it's SO last century. I've got my finger on the pulse of the make-up world. I'm a Tik Tok influencer, all the youngsters follow me, and I've got to tell you... It's all about orange these days!
+**Dorothy:** I hope you don't mind me saying, I'd have mentioned it earlier, but I didn't want to interrupt, you seemed a bit busy, what with all that invading and torturing and whatnot. Anyway, where was I... oh yes... Blue Eyeshadow... it doesn't really suit your skin tones, and it's SO last century. I've got my finger on the pulse of the make-up world. I'm a Tik Tok influencer, all the youngsters follow me, and I've got to tell you... It's all about orange these days!
 
 **Beatrice:** Orange?
 
@@ -1054,7 +1052,7 @@ _Each Dame delivers their verdict in turn and then stares at the mirrorball in a
 
 **Dorothy:** You see... it's all natural and MUCH better for your mental health. You can find the recipe on my Instagram page.
 
-**Florence:** Oh, Dorothy, we're so sorry for all that "We are The Dames" nonsense.
+**Florence:** Oh, Dorothy, we're so sorry for all that "WE ARE THE DAMES" nonsense.
 
 **Beatrice:** I suppose we were all just a bit stressed?
 
@@ -1062,11 +1060,11 @@ _Each Dame delivers their verdict in turn and then stares at the mirrorball in a
 
 **Gertrude:** Does anyone fancy some tofu?
 
-**Dorothy:** _unties the dames_ well, no real harm done, I think Ken's a bit traumatised, but he's had worse.
+**Dorothy:** Well, no real harm done, I think Ken's a bit traumatised, but he's had worse.
 
-**Ken:** Oh, I'm fine, it'll take more than a few fat blokes in dresses to bother me, no offence love...
+**Ken:** Oh, I'm fine, it'll take more than a fat bloke in a dress to bother me, no offence mate...
 
-**Florence:** Well, we'd better get back home, come along ladies.
+**Florence:** _slightly offended_ Well, we'd better get back home, come along ladies.
 
 _Dames all bid farewell to Dorothy... bye Dorothy, nice to meet you etc..._
 
@@ -1092,34 +1090,38 @@ _Dames all bid farewell to Dorothy... bye Dorothy, nice to meet you etc..._
 
 **Layabout:** Captain Dan Lothario promised to pick me up and take me for a ride. I think he's dumped me... I feel like such a fool.
 
-**Suey:** Oh, err, I think I saw him taking off in his Space Jag with that octopus woman. You're better off without him. Why don't you come back with us?
+**Suey:** Oh, erm, I think I saw him taking off in his Space Jag with that octopus thing. You're better off without him. Why don't you come back with us?
 
 **Layabout** What? Really?
 
-**Suey** Well yeah. I've never had a sister before, and now I have, well, that's great innit?. Come on, you need to meet Calamity, she's a bit of an acquired taste like but, you know, that's families for ya!
+**Suey** Well yeah. I've never had a sister before, and now I have, well, that's great innit?. Come on, you need to meet Calam', she's a bit of an acquired taste like, but, you know, that's families for ya!
 
 **Layabout:** Great! _all except Bearass exit_
 
-**Bearass:** _to the audience_ well ladies and gentlemen, back to the tour. Now this cavern is particularly interesting due to the unusual calcium deposits which you can just make out on the ceiling. If I shine my torch up there _the lights go out_ Oh dear... I think the batteries have gone. _curtains close_
+**Bearass:** _to the audience_ well ladies and gentlemen, back to the tour. Now this cavern is particularly interesting due to the unusual calcium deposits which you can just make out on the ceiling. If I shine my torch up there _the lights go out_ Oh dear... I think the batteries have gone.
+
+_curtains close_
 
 ## Act 2 Scene 5
 
-_Suey, Layabout, OWBB and Courtney enter Suey and Calamity's front room_
+[Suey and Calamity's front room]
+
+_Suey and Layabout walk on_
 
 **Suey:** So this is it, nothing special but, you know, we call it home. D'ya fancy a Coke?
 
 **Layabout:** I LOVE Coke
 
-**Suey:** Really??? I LOVE Coke. How about some "Dippers Fried Chicken"?
+**Suey:** Really??? I LOVE Coke. _He passes her a can of Coke_ How about some "Dippers Fried Chicken"?
 
 **Layabout:** I LOVE fried chicken!
 
 **Suey:** I LOVE fried chicken! What about a curly wurly?
 
-**Layabout:** Whats a curly wurly? _Suey gives her a Curly Wurly, she tries it_ I LOVE curly wurly?
+**Layabout:** Whats a curly wurly? _Suey gives her a Curly Wurly, she looks at it suspiciously, then she tries it_ I LOVE curly wurly?
 
-**Suey:** Oh this is great, we've got so much in common as well as all the Jedi stuff of course. Just a minute _shouts offstage towards "Calamity"_ Calam, you're never gonna believe it... I've been into space. I've met a pink octopus. I've trained as a Jedi warrior, we've defeated an army of Dames, and saved the galaxy. Oh, and I've got a sister.
+**Suey:** Oh this is great, we've got so much in common as well as all the Jedi stuff of course. Just a minute _shouts offstage towards "Calamity"_ Calam', you're never gonna believe it... I've been into space. I've met a pink octopus. I've trained as a Jedi warrior, we've defeated an army of Dames, and saved the galaxy. Oh, and I've got a sister.
 
 **Calamity:** Suey, is that you? What time do you call this. Did you take the trash out. Have you fed the cats? Did you get my blue eyeshadow?
 
-_Suey looks despairingly at the audience, while everyone else looks sympathetically at Suey. Lights down, curtains close_
+_Suey looks despairingly at the audience. Lights down, curtains close_
