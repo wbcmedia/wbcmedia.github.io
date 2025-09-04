@@ -1,3 +1,3 @@
 <p>
-<a href="/ewe-only-live/Ewe Only Live Twice-Draft.pdf">Script - Draft 1 (2024-09-12)</a>
+    <a href="/2026/">Panto 2026 Coming Soon!</a>
 </p>
