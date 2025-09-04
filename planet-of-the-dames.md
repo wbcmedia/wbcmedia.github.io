@@ -267,13 +267,13 @@ SONG: Tragedy
 
 **Florence:** _addressing the Damebots_ Damebots... how do you make blue eyeshadow?
 
-**Damebot 1**: It is made from Derbyshire Spar, commonly known as Blue John
+**Damebot 1:** It is made from Derbyshire Spar, commonly known as Blue John
 
 **Beatrice:** Ooooh, Blue John, I'd like to meet him!
 
 **Jackie:** Quiet, Beatrice... Where do we find Blue John?
 
-**Damebot 2**: It is only found in the Blue John Cavern
+**Damebot 2:** It is only found in the Blue John Cavern
 
 **Gertrude:** And where's that
 
@@ -331,7 +331,7 @@ _the sound of voices offstage_
 
 **Suey:** How do you know MY name?
 
-**Obi-Wan** I know everything about you Mr Suey. I know you were found as a baby on the doorstep of a Chinese Takeaway in Birkenhead. You were raised as a Liverpool supporter. Your favourite chocolate bar is the Curly Whirly. You have a squirrel-shaped birthmark on your left but...
+**Obi-Wan:** I know everything about you Mr Suey. I know you were found as a baby on the doorstep of a Chinese Takeaway in Birkenhead. You were raised as a Liverpool supporter. Your favourite chocolate bar is the Curly Whirly. You have a squirrel-shaped birthmark on your left but...
 
 **Suey:** OK, OK, I get it you know all about me. But I'm just a scouse ex-henchman who's bad at dusting... so what?
 
@@ -487,7 +487,7 @@ _they all switch off their lights. As Bearass delivers his line the Damebots wal
 
 **Ken:** Oooooh, it smells like a cat's been turned inside out... in our downstairs toilet.
 
-**Dorothy** _sniffs_ oh you're right, it smells like Febreze! But it wasn't me that sprayed it. _lights back on, two Damebots have appeared behind them at the back of the stage looking "warlike"_
+**Dorothy:** _sniffs_ oh you're right, it smells like Febreze! But it wasn't me that sprayed it. _lights back on, two Damebots have appeared behind them at the back of the stage looking "warlike"_
 
 **Bearass:** Well, I can't see anyone else here... can you?
 
@@ -783,15 +783,15 @@ _Ken has been stripped to his underwear and is tied up ready to be tortured_
 
 **Ken:** Don't think you can intimidate me with your threats. You don't scare me, I used to fly submarines... in the war.
 
-**Damebot 1**: You must be punished for your insurrection
+**Damebot 1:** You must be punished for your insurrection
 
 **Ken:** I don't know what you're talking about... Oh, you mean our little rebellion, well this is hardly the way to treat a prisoner of war. It's against the Geneva Convention.
 
-**Damebot 2**: You will be tortured until you tell us everything you know.
+**Damebot 2:** You will be tortured until you tell us everything you know.
 
 **Ken:** Tell you everything I know. Ha, I've forgotten more than you'll ever learn you cheeky young whippersnappers. You might think you're clever with your cybernetic techno-malarky, but I spent 5 years at NASA... designing the teasmaid for the Apollo 11 mission... and they went to the moon with that! Buzz Aldrin said that was the best cup of PG Tips he'd ever had, smashing fella was Buzz.
 
-**Damebots**: All hail The Dames
+**Damebots:** All hail The Dames
 
 _Dames enter - one has a beard... One is drinking a can of Stella. Another is scratching their backside! Damebots leave the stage_
 
@@ -843,9 +843,9 @@ _Dames enter - one has a beard... One is drinking a can of Stella. Another is sc
 
 _Damebots both come back on stage. Damebot 2 is holding a container of blue eyeshadow_
 
-**Damebot 1**: The digging has been a success.
+**Damebot 1:** The digging has been a success.
 
-**Damebot 2**: _offering up the container_ The first batch is prepared.
+**Damebot 2:** _offering up the container_ The first batch is prepared.
 
 **Florence:** _grabbing the container_ Give me some of that, where's the mirror _strides purposefully off stage, sounds of her smearing it over her eyes, werewolf-type transformation SFX, maybe bright blue light flickers from offstage, she returns wearing a huge blue wig and Madonna-style cones?..._ I've never felt so feminine, I have become... Super Dame!
 
@@ -932,7 +932,7 @@ _Petra finds a mirrorball in OWBB's bag of stuff. She makes it levitate, no-one 
 
 **Layabout:** _confidently_ Strictly Come Dancing
 
-**Everyone**: Sorry... What???
+**Everyone:** Sorry... What???
 
 **Layabout:** _explaining further_ Strictly Come Dancing, they're mad for it. As soon as it comes on they're in a different world, you can't get a word out of them. Strictly Come Dancing is their achilles heel!
 
@@ -982,7 +982,7 @@ _The Damebots are alerted by the outburst and turn to face the Jedi. A battle en
 
 **Layabout:** I've changed, I've met people who believe in me, a family, and friends, who... Love Me!
 
-**Dames**: _Mocking_ Ooooooh... they LOOOOOVE Me!
+**Dames:** _Mocking_ Ooooooh... they LOOOOOVE Me!
 
 **Florence:** Well you're no match for our Damely put-downs. Get her Beatrice.
 
@@ -1010,23 +1010,23 @@ _The main lights go off, a single light hits the mirrorball and the full Strictl
 
 _Ken and Dorothy Tango up and down the aisle_
 
-**Voiceover** Ken and Dorothy there with their tango. Let's see what the judges made of it.
+**Voiceover:** Ken and Dorothy there with their tango. Let's see what the judges made of it.
 
 _Each Dame delivers their verdict in turn and then stares at the mirrorball in a trance_
 
-**Jackie** _In a slightly mad Italian style_ A Tango is supposed to be fizzy... and fruity... that was more like a weak-a orange squash... SIX-A points-a
+**Jackie:** _In a slightly mad Italian style_ A Tango is supposed to be fizzy... and fruity... that was more like a weak-a orange squash... SIX-A points-a
 
-**Beatrice** _sneering Craig R-H_ Ken, your turns were a dis-aster darliiing, DIS-AAASTER. I'll give them a FIVE because I'm feeling generous!
+**Beatrice:** _sneering Craig R-H_ Ken, your turns were a dis-aster darliiing, DIS-AAASTER. I'll give them a FIVE because I'm feeling generous!
 
-**Gertrude** _Very enthusiastic_ Well I disagree, they had energy energy energy. I loved it! NINE!
+**Gertrude:** _Very enthusiastic_ Well I disagree, they had energy energy energy. I loved it! NINE!
 
-**Florence** _As Len Goodman_ I agree... if those two don't get through to next week's show, I'll pickle my walnuts... SEV-EN!!!
+**Florence:** _As Len Goodman_ I agree... if those two don't get through to next week's show, I'll pickle my walnuts... SEV-EN!!!
 
-**Layabout** You see... I TOLD you Strictly was their achilles heel.
+**Layabout:** You see... I TOLD you Strictly was their achilles heel.
 
-**Suey** _To OWBB_ Should we finish them off like?
+**Suey:** _To OWBB_ Should we finish them off like?
 
-**Obi-Wan** No Mr Suey. A Jedi's goal is to defend life, not take it. These... "ladies" have been consumed by a dark force, Blue John Eyeshadow destroys everything it meets, The Dames are its victims. We must take it away from them, for their own good, and to restore balance in the universe.
+**Obi-Wan:** No Mr Suey. A Jedi's goal is to defend life, not take it. These... "ladies" have been consumed by a dark force, Blue John Eyeshadow destroys everything it meets, The Dames are its victims. We must take it away from them, for their own good, and to restore balance in the universe.
 
 **Florence:** _Snapping out of the trance_ But we NEED Blue Eyeshadow, to keep us looking feminine.
 
@@ -1092,9 +1092,9 @@ _Dames all bid farewell to Dorothy... bye Dorothy, nice to meet you etc..._
 
 **Suey:** Oh, erm, I think I saw him taking off in his Space Jag with that octopus thing. You're better off without him. Why don't you come back with us?
 
-**Layabout** What? Really?
+**Layabout:** What? Really?
 
-**Suey** Well yeah. I've never had a sister before, and now I have, well, that's great innit?. Come on, you need to meet Calam', she's a bit of an acquired taste like, but, you know, that's families for ya!
+**Suey:** Well yeah. I've never had a sister before, and now I have, well, that's great innit?. Come on, you need to meet Calam', she's a bit of an acquired taste like, but, you know, that's families for ya!
 
 **Layabout:** Great! _all except Bearass exit_
 
