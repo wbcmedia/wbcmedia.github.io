@@ -2,13 +2,11 @@
 
 (Front of curtain?)
 
-- Gideon is on the phone "buy, sell, sell, buy... what...no... I said sell... didn't I? What, Woolworths? How much? British Leyland, all of it... Amstrad, buy buy buy"
-- Candice enters carrying bags full of purchases from expensive shops
-- Candice remarks that she's seen a vacant shop which would be ideal for her new "nail bar" venture, it's called Harrods
-- Gideon has clearly become bankrupt but still reassures Candice that she can have her nail bar
-- SONG - Under Pressure
+- Gideon is speaking on a massive mobile phone
 
 **_Gideon_** : Buy, sell, sell, buy... What... Woolworths in trouble? Sell, sell...
+
+- Candice enters carrying bags full of purchases from expensive shops
 
 **_Candice_** : Hiya babes, you look awful, what's happened?
 
