@@ -2,23 +2,24 @@ Statistics
 
 |Character     |Words     |Scenes |
 | --- | --- | --- |
-|Gideon|1077|14|
-|Roxy Belmeadows|1027|7|
-|Lord Naff|735|8|
-|Mrs Buttermuffin|668|10|
-|Chris O'Really|534|4|
-|Candice|480|7|
-|Freddie|476|11|
-|Old Lord Naff|357|6|
-|Diane|350|2|
-|Tripps|248|6|
-|Norman|212|5|
-|Barclay Two|198|5|
-|Vicar|179|1|
-|Stormy Spaniels|155|5|
-|Hildegaard|134|5|
-|Barclay One|99|5|
-|Gerald|45|2|
-|Geraldine|1|1|
+|Gideon|1361|16|
+|Lord Naff|1075|10|
+|Roxy Belmeadows|982|6|
+|Chris O'Really|717|5|
+|Mrs Buttermuffin|699|11|
+|Freddie|645|11|
+|Candice|640|8|
+|Cicely|518|8|
+|Hildegaard|504|8|
+|Tripps|463|10|
+|Diane|452|2|
+|Norman|448|8|
+|Barclay Two|208|5|
+|Vicar|178|1|
+|Stormy Spaniels|144|4|
+|Barclay One|108|6|
+|Gerald|47|3|
+|Geraldine|14|2|
+|Ella|2|1|
 
-Total Word Count 6975
+Total Word Count 9205

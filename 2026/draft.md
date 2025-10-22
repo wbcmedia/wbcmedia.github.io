@@ -1,30 +1,106 @@
-# Intro - Gideon and Candice
+# Intro - Ghosts
+
+- A ghostly figure wafts around the stage
+- Norman enters
+
+**_Norman_** : Hilda, Hilda, I wanted to, I mean, I thought you might... I mean... these are for you Hilda.
+
+- He produces a bunch of dead-looking flowers
+
+**_Hildegaard_** : Norman!!! You will respectfully be using my proper title-ing if you please
+
+**_Norman_** : Oh, sorry... Queen Hildegaard of Hockflugenstein... I've brought you some flowers.
+
+- He tries to give them to her but she has no free hands
+
+**_Hildegaard_** : Those are dead!
+
+**_Norman_** : Well, so are we. I wondered if you'd like to go out with me.
+
+**_Hildegaard_** : No, you are a common man.
+
+**_Norman_** : Well yeah, but that doesn't mean I can't be your boyfriend, does it.
+
+**_Hildegaard_** : Of course you cannot be friend-boy with me. I am a queen.
+
+**_Norman_** : Well maybe you'll change you mind after you see my magic act. Have you decided what you're going to do in the talent show? 
+
+**_Hildegaard_** : I have. And sharing this with you, I will not be.
+
+**_Norman_** : Alright, keep your hair on... I mean... don't lose your head... I mean...
+
+**_Hildegaard_** : You always are putting your mouth in your foot. I do not find this amusing.
+
+- Cicely wanders in with a champagne bottle
+
+**_Cicely_** : You really need to get a sense of humour Hilda.
+
+**_Hildegaard_** : Cicely! Have you been out partying again.
+
+**_Cicely_** : I have. It's been a wonderful night of drinking, dancing... flirting.
+
+**_Hildegaard_** : You are drunk!
+
+**_Cicely_** : Mmmm. I must admit, I AM feeling a little "light headed" ha!
+
+**_Norman_** : Cicely!!!!
+
+**_Hildegaard_** : Your behaviour is most inappropriate. You dress like a strumpet. I can almost see your knees.
+
+**_Cicely_** : Get with the times Hildegaard, or should I say, Kill-joy-gard. I'm from the roaring twenties, not the boring 1670's.
+
+**_Hildegaard_** : The 1670s were NOT boring. In 1674, a pig ran into our castle. And in 1679 we were invaded by Latvia.
+
+**_Norman_** : Cicely, will you leave us alone. I'm trying to talk to Hilda...
+
+**_Cicely_** : Oh, Norman, have you told her you're head over heels in love? Ha!
+
+**_Hildegaard_** : Enough of this, I'm heading off.
+
+- Hildegaard exits angrily
+
+**_Cicely_** : Heading... Off... Good one!
+
+- Norman gives Cicely a hard stare, then chases after Hilda
+
+**_Cicely_** : Keep your chin up! Ha!
+
+- She goes to take a swig from her bottle but it's empty
+
+**_Cicely_** : Hey, guys, we've run out of champagne.... guys!!!
+
+- Cicely leaves
+- Curtains close
+
+---
+
+# FOC Gideon and Candice
 
 (Front of curtain)
 
 - Live Aid intro is heard on the radio
 - Gideon appears, speaking on a massive mobile phone
 - He looks annoyed at the radio and switches it off
+- He starts dialing whilst absentmindedly singing to himself
 
-**_Gideon_** : Buy, sell, buy... What..? Woolworths in trouble? Sell, sell...
+**_Gideon_** : Feed my face... Don't give them a second thought... Hello? Crispin? Yeah, how's the market looking? What..? Woolworths? In trouble? Sell, sell...
 
 - Candice enters carrying bags full of purchases from expensive shops
 
 **_Candice_** : Hiya babes. Oh, you look awful, what's happened?
 
-**_Gideon_** : The market's crashing. Woolworths, Amstrad, C&A. All down. I'm haemorrhaging money
+**_Gideon_** : The market's crashing. Woolworths, Amstrad, C&A. All down. I'm haemorrhaging money.
 
-**_Candice_** : Yeah, I don't know what hemjurring means. Anyway... I've seen the perfect place for my nail bar idea. On the high street. I'm trying to remember what it's called. Hardys? No. Harry's? No that's not it... Oh yeah, I remember... Harrods!
+**_Candice_** : Yeah, I don't know what hemjurring means. Anyway... I've seen the perfect place for my nail bar idea. On the high street. What was it called? Hardys? No. Harry's? No that's not it... Oh yeah, I remember... Harrods!
 
 **_Gideon_** : You want me to buy Harrods!?!?!
 
-**_Candice_** : Oh babes, would you? Oh I'm so excited, this nail bar idea of mine, it's gonna be massive. I'll be the queen of nail bars. I'll be in all the papers, Candice Jones, entrebr.. entrerpor.. enterer... business-woman. Can we make an offer now, I've got the phone number here, ring them now Gideon, I could have the interior designers in by the weekend...
+**_Candice_** : Oh babes, would you? Oh I'm so excited, this nail bar idea of mine, it's gonna be massive. I'll be like the queen of nail bars. I'll be in all the papers, Candice Jones, entrebr.. entrerpor.. enterer... business-woman. Can we make an offer now, I've got the phone number, ring em now Gid, I could have the interior designers in by the weekend...
 
 **_Gideon_** : But Candice, I'm busy trying to rescue my portfolio...
 
 - Candice looks like she's about to burst into tears
 
-SONG: Under Pressure Under Pressure Part 1
 
 **_Candice_** : But you promised I could open a nail bar! You know it's my dream.
 
@@ -34,11 +110,9 @@ SONG: Under Pressure Under Pressure Part 1
 
 **_Gideon_** : Great Uncle Clive? But I don't even know the geezer, he'd never lend me money... Would he?
 
-**_Candice_** : You're family Gid, he'd have to help out, you'd just have to work on him, like you worked on me... you've always had a way with words... tell him we've got a business opportunity he'd be crazy not to invest in.
+**_Candice_** : You're family Gid, he'd have to help out, you'd just have to work on him, like you worked on me... you've always had a way with words... tell him you've got a business opportunity he'd be crazy not to invest in.
 
-**_Gideon_** : It sounds a bit like fraud to me.
-
-SONG: Under Pressure Under Pressure Part 2
+- [ ] Song Material Girl?
 
 ---
 
@@ -79,10 +153,7 @@ SONG: Under Pressure Under Pressure Part 2
 - Lord Naff drinks it eagerly, then coughs violently and falls limply as if dead
 
 **_Mrs Buttermuffin_** : Freddie! Oh my, you've killed him, I told you not to give him spirits after 9 o'clock. Oh it's awful, Lord Naff, dead, look, he hasn't even touched my baps!
-
-**_Freddie_** : Mamma, just killed a man, put a drink beside his bed, he had a swig and now he's dead. Mamma, life had just begun but now I've gone and thrown it all away.
-
-**_Mrs Buttermuffin_** : Freddie, this is no time for your silly songs! Oh your lordship, what a shock. He'd only just turned 123... had his whole life ahead of him. And now, he's gone.
+Oh your lordship, what a shock. He'd only just turned 123... had his whole life ahead of him. And now, he's gone.
 
 - Lord Naff sits back up abruptly
 
@@ -132,13 +203,13 @@ SONG: Under Pressure Under Pressure Part 2
 
 **_Lord Naff_** : No you haven't. You've never once even visited me.
 
-**_Gideon_** : Well I'm here now, aren't I, ready to accept my inheritance
+**_Gideon_** : Well I'm here now, aren't I? Ready to accept my inheritance.
 
 **_Lord Naff_** : Inheritance!?! Inheritance!!! You've as much chance of inheriting Naff Hall as I have of beating Boris Becker at Pickleball
 
 - Candice enters
 
-**_Candice_** : Gideon, how long are you gonna be babe? I hate it here, it's damp and it smells... You promised to take me shopping. Is he giving you the money?
+**_Candice_** : Gideon, how long are you gonna be babe? I hate it here, it's damp and it smells... And it's SPOOKY. You promised to take me shopping. (whispers) Is he giving you the money?
 
 - Gideon drops the candlestick he's nicked
 - Candice spots it and bends over to pick it up giving Lord Naff an eyeful of her behind
@@ -146,31 +217,39 @@ SONG: Under Pressure Under Pressure Part 2
 
 ---
 
-# Breaking News - Lord Naff is Dead
+# FOC Breaking News - Lord Naff is Dead
 
 (Front of curtain)
+
+- [ ] Can/should we get Mrs Tripps in here?
 
 **_Roxy Belmeadows_** : Our main story tonight - the sudden death of 123 year old Lord Naff. The shocking news was received just moments ago. Lord Naff was in excellent health and was due to take part in the Shutlingsloe fell race next week. A morning of mourning will take place in the morning. Elsewhere, another pothole has opened up on the main road. The shape of this latest pothole bears a remarkable similarity to Rod Stewart. We asked the Council if they intend to fill the pothole but they declined to comment. However, insiders say they are considering charging visitors to look at it. Now let's get the weather forecast from Stormy Spaniels. 
 
 **_Stormy Spaniels_** : Thanks Roxy. Well if you ARE thinking of visiting the Rod Stewart pothole over the weekend, do bring a brolly as it might rain... But also it might not... We don't really know. Back to you Roxy.
 
-**_Roxy Belmeadows_** : Erm, thanks Stormy. Back to the breaking news and people are already starting to arrive for the funeral of Lord Naff who has died suddenly at the age of 123. We'll try to grab a few words from some of them, excuse me, how well did you know Lord Naff?
+**_Roxy Belmeadows_** : Erm, thanks Stormy. Back to the breaking news and people are already starting to arrive for the funeral of Lord Naff who has died suddenly at the age of 123. We'll try to grab a few words. Erm, excuse me madam, how well did you know Lord Naff?
 
 **_Mrs Buttermuffin_** : Oh we worked for him our whole lives, it's so sad, taken too soon, I can't even....
 
-- She blubs ridiculously
+**_Tripps_** : He was such a kind man... always enjoyed shooting things... but very very kind.
 
-**_Freddie_** : It really is very upsetting, he never got round to his third nightcap. Come on now Mrs B, let's get you into the church... I'm sorry, we really must move on...
+**_Mrs Buttermuffin_** : Oh he was so kind, the kindest man I've ever known.
 
-**_Roxy Belmeadows_** : I appreciate you speaking to us at this upsetting time, sir! Excuse me sir. Can I have a few words Mr??
+**_Tripps_** : He was kinder than that.
+
+- Both ladies cry ridiculously, trying to out-blub each other!
+
+**_Freddie_** : It really is very upsetting, he never got round to his third nightcap. Come on now ladies, let's get you into the church... I'm sorry, we really must move on...
+
+**_Roxy Belmeadows_** : I appreciate you speaking to us at this upsetting time, sir! Excuse me sir. Can I have a few words Mr...??
 
 **_Gerald_** : Gerald!
 
 **_Roxy Belmeadows_** : And what did Lord Naff mean to you, Gerald?
 
-**_Gerald_** : Well, ee, you see, iz wassname n then wen I arskd to go to the old sparsnaar with 'orses and whatnot well eee gives it Marmite you see and tells me to fix the crankletanker and anyhow eee had em playing Twister, ha!
+**_Gerald_** : Well, ee, you see, iz wassname n then wen I arskd to go to the old sparsnaar with 'orses and whatnot feed em manglewurzel you see and tells me to fix the crankletanker and anyhow eee had em playing Twister, ha!
 
-**_Roxy Belmeadows_** : Indeed, thank you Gerald, clearly a very important figure in your life. Sir, a few words if I may? Did you work for Lord Naff?
+**_Roxy Belmeadows_** : Indeed, thank you Gerald, clearly an important figure in your life. Sir, a few words if I may? Did you work for Lord Naff?
 
 **_Gideon_** : Work? Cor blimey no! I'm Gideon, his nephew... and only heir. Oh we had a terrific relationship, I was always visiting and helping out especially as he got old, you know? I mean I probably did TOO much for him, but you know, I had to cos of how much I loved him n that
 
@@ -178,9 +257,9 @@ SONG: Under Pressure Under Pressure Part 2
 
 - Gideon nudges her to shut up
 
-**_Candice_** : But, yeah, I didn't mind cos he's got a load of cash.. I mean a lovely house.. I mean he was a lovely kind man.
+**_Candice_** : But, yeah, I didn't mind cos he's got a load of cash.. I mean a massive house.. I mean he was a lovely man.
 
-**_Gideon_** : Look we're in a hurry, we need to send him off before we get to the good bit. As the new Lord Naff, I've got plans... Big plans. I'll be making a statement later.
+**_Gideon_** : Look we can't stop. We need to give him a big send him off. Before we get to the good bit. As the new Lord Naff, I've got plans... Big plans. I'll be making a statement later.
 
 - They go into "the church"
 
@@ -192,7 +271,7 @@ SONG: Under Pressure Under Pressure Part 2
 
 - Church organ music is playing
 
-**_Vicar_** : Welcome everyone to this sad occasion as we bid farewell to Clive Ignatious Maximillian Naff. He was born in 1862, a very different time, long before the invention of the filofax or the video-recorder. A popular man, always treating those below him with dignity and kindness. He cared for those less fortunate than himself, even if they were dirty and smelly. Most of all, he was a well liked employer, looking after those who looked after him, Freddie his butler, Mrs Buttermuffin the housekeeper, Mrs Tripps the tea lady, Geraldine who looked after his horses and of course Gerald who was his... well no-one seems sure, but we shall hear a few words now from Gerald.
+**_Vicar_** : Welcome everyone to this sad occasion as we bid farewell to Clive Ignatious Maximillian Naff. He was born in 1862, a very different time, long before the invention of the filofax or the video-recorder. A popular man, always treating those below him with dignity and kindness. He cared for those less fortunate than himself, even if they were dirty and smelly. Most of all, he was a well liked employer, looking after those who looked after him, Freddie his butler, Mrs Buttermuffin the housekeeper, Mrs Tripps the cleaner, Geraldine who looked after his horses and of course Gerald who was his... well no-one seems sure, but we shall hear a few words now from Gerald.
 
 **_Gerald_** : NONSENSE_GOES_HERE
 
@@ -206,50 +285,50 @@ SONG: Under Pressure Under Pressure Part 2
 
 All: Are you going to take me home tonight. Ahhh down beside that red fire light. Are you gonna let it all hang out, Fat Bottomed Girls you make the rockin world go round. 
 
-- Gideon turns off the organ?
+- Gideon turns off the organ abruptly?
 
-**_Gideon_** : Right, I think we've all had enough of this.  We need to move on, there's a new Lord in town, and I've got plans... Big plans! Vicar, let's wrap up so we can get back for the will reading.
+**_Gideon_** : Right, I think we've had enough of this.  We need to move on, there's a new Lord in town, and I've got plans... Big plans! Vicar, let's jump to the end. I want to get back for the will reading.
 
 - Ghost of Lord Naff drifts in, begins to try speaking to the others, waving his hand in their faces etc
 - He points at the coffin
 
-**_Lord Naff_** : Who's in there? I say, Freddie, what's going on. Freddie, why are you ignoring me? Mrs B, why won't anyone speak to me?
+**_Lord Naff_** : Who's in there? I say, Freddie, what's going on. Freddie, why are you ignoring me? Mrs B, why won't anyone speak to me? Can you see me?
 
-- Old Lord Naff drifts in
-- He clicks his fingers and all the "living" freeze
+- He has banter with audience
+- Ella, an urchin ghost comes in 
 
-**_Old Lord Naff_** : You're a ghost my boy. They can't see you. They can't hear you. THEY can't even smell you.
+**_Ella_** : You're dead
 
-**_Lord Naff_** : Smell me? Oh... I'd just had a bite of Mrs Buttermuffin's oven-bottom bap, I think it had garlic sausage on... What do you mean "I'm a ghost"?
-
-**_Old Lord Naff_** : You're dead.
+- Curtains close behind him
 
 **_Lord Naff_** : Nonsense, I've never felt better.
 
-**_Old Lord Naff_** : You have ceased to be, passed on, bereft of life you rest in peace, you've kicked the bucket, shuffled off this mortal coil, run down the curtain and joined the choir invisible.
-
-**_Lord Naff_** : I can't believe it, I'm only 123.
-
-**_Old Lord Naff_** : Count yourself lucky, I didn't make it to 50, measles got me.
-
-**_Lord Naff_** : I'm sorry, I don't think we've been introduced. You are...?
-
-**_Old Lord Naff_** : I'm your great great great great grandfather, Lord Naff. Don't you recognise me from the paintings?
-
-**_Lord Naff_** : Paintings? Oh, the big ones in the dining room. I'm afraid we took those down years ago. They were putting me off my Cocoa Pops... Not nice at all.
-
-**_Old Lord Naff_** : Mmmmm... Well I suppose we'd better let these people get on with seeing you off. Come along, you can meet the others.
-
-- He clicks his fingers, the service concludes as the curtains close, leaving the two Naffs in front.
-
-
 ---
 
-# Ghost Introduction
+# FOC Ghost Introduction
 
-(FOC)
+- Lord Naff and Ella are already FOC
+- Ella does a whistle to alert the others
+- Hildegaard enters through curtains (or up aisle?)
 
-- Lord Naff and Old Lord Naff are already FOC
+**_Hildegaard_** : Well hello. Who you are please?
+
+**_Lord Naff_** : I'm Lord Naff, apparently, I've just passed on, though I can't quite believe it, I'm only 123...
+
+**_Hildegaard_** : Handsome AND a Lord? Very happy this is making me!
+
+**_Lord Naff_** : Oh this is terrible, what am I to do, I was supposed to be going on the grouse shoot tomorrow. Oh, oh no, I'm getting one of my headaches!!!
+
+**_Hildegaard_** : Headaches? No idea do you have about headaches. My head has been aching for over 400 years.
+
+**_Lord Naff_** : I'm sorry, I didn't mean to offend.
+
+**_Hildegaard_** : No needing to apologise, shocking it can be at first. Allow me to introduce myself. Queen Hildegaard of Hockflugenstein at your service I am being. If you are needing anything...and I MEAN anything...
+
+**_Lord Naff_** : Queen Hildegaard? THE Queen Hildegaard? Feared across the lands of The North, ruler of the Sweinstein Empire, undefeated in battle, The Killer Queen???
+
+**_Hildegaard_** : Oh, I'm quite nice, when you get to know me.
+
 - Norman walks up the aisle
 
 **_Norman_** : Well take me to the top of me Mam's staircase... It's you, you're finally here.
@@ -258,7 +337,9 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Norman_** : Oh, we've met alright fella. We've met alright.
 
-**_Old Lord Naff_** : Might I introduce you to Norman. Norman is a conjurer of magic and great wonderment, a harnesser of forces beyond your imagination, a bringer-of-light, a god in man's clothing, a... a...
+**_Hildegaard_** : This is just Norman. Norman is a sorcerer. A harnesser of dark forces. A consort of the devil. A hexenmeister. He conjures light from thin air. In my day, we'd have burned him for witchcraft.
+
+- Lord Naff suddenly recognises him
 
 **_Lord Naff_** : Oh, you're the electrician. Good lord, I haven't seen you since you were rewiring the Hall. How are you?
 
@@ -268,21 +349,21 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Norman_** : YOU KILLED ME, you great stuck up sack of lard
 
-**_Lord Naff_** : I killed you? I have no idea what you're talking about. You were rewiring the basement, then you just never came back. Have you any idea how hard it was to find another electrical contractor to finish YOUR job?
+**_Lord Naff_** : I killed you? I have no idea what you're talking about. You were rewiring the basement, but you only did half the job. This is the problem with the working-classes. You can't rely on them.
 
-**_Norman_** : Let me jog your memory. It was a gloomy Monday afternoon back in 1974. I was working in the basement. I'd removed the big fuse, I was just about to reconnect the new wiring, I was up me step ladder, I took me screwdriver and bang! Lights out.
+**_Norman_** : Allow me to jog your memory. It was a gloomy Monday afternoon back in 1974. I was working in the basement. I'd removed the big fuse, I was just about to reconnect the new wiring, I was up me step ladder, I took me screwdriver and bang! Lights out.
 
 **_Lord Naff_** : The lights went out?  Do you know why?
 
-**_Norman_** : No mate, Me!!! Zapped me shoes, frazzled me flares, melted me denim jacket, game over. SOMEONE had put the big fuse back in...
+**_Norman_** : Not the actual lights mate, Me!!! Zapped me shoes, frazzled me flares, melted me denim jacket, game over. SOMEONE had put the big fuse back in...
 
 **_Lord Naff_** : Had they?... oh... ah... well I can explain you see, I remember now, yes, yes I think I can remember, Monday afternoon did you say, yes, well you see, I was about to settle down and watch Sale Of The Century, have you seen it? Oh it's very good... "And Now, From Norwich, It's The Quiz of The Week" ha!... anyway, so I tried to switch on the tellybox but it wasn't working so I went to see what was going on, and that's when I noticed the fuse had been removed from the, the thingy, with all the wires... So I put it back in.
 
-**_Old Lord Naff_** : And then what happened?
+**_Hildegaard_** : And then what happened?
 
 **_Lord Naff_** : Well there was a gentleman from Aldershot, he got a teasmade, a speedboat and a set of golf clubs, though lord knows why he'd want those, no one normal likes.......
 
-**_Old Lord Naff_** : I MEAN, what happened to Norman here?
+**_Hildegaard_** : I MEAN, what happened to Norman here?
 
 **_Lord Naff_** : Oh, I, err, well, I'm not_
 
@@ -290,64 +371,86 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Lord Naff_** : Oh dear, that is rather unfortunate.
 
-**_Hildegaard_** : Well hello. Who you are please?
+**_Hildegaard_** : Well these things are happening. Ella, where is the other member of our  happy group? She should be here to greet our wonderful new Lord.
 
-**_Old Lord Naff_** : This is the newest Lord Naff, he's just passed on
+- Ushers Ella off
 
-**_Hildegaard_** : Handsome AND a Lord? Very happy this is making me! Queen Hildegaard of Hockflugenstein at your service I am being. If you are needing anything...and I MEAN anything...
+**_Hildegaard_** : Now, this afternoon is book club, tonight it's Karaoke, then tomorrow of course is Love Island on ITV. Wednesday is badminton, we can lend you a racket if you don't have one. Oh and of course, we have our talent contest...
 
-**_Lord Naff_** : Queen Hildegaard? THE Queen Hildegaard. Feared across the lands of The North, ruler of the Sweinstein Empire, undefeated in battle, The Killer Queen???
-
-**_Hildegaard_** : Oh, I'm quite nice, when you get to know me.
+- Norman interrupts, annoyed that she is giving Lord Naff this much attention
 
 **_Norman_** : Hilda, Hilda, I err, I fixed your hairdryer, you know, the one you were having trouble with like...
 
-**_Hildegaard_** : What? Oh, good morning Norman, I am not noticing you, oh my dryhairer, yes, thank you. Now then Lord Naff, you must be joining me for dinner this evening, I insist. We have herring. Come, you may walk with me, we shall be knowing each other.
+**_Hildegaard_** : What? Oh my dryhairer, yes, thank you. Now then Lord Naff, you must be joining me for dinner, I insist. We have herring. 
 
-- Hildegaard and Lord Naff leave down the aisle
-- Norman shouts after them
+**_Norman_** : Shall I join you for dinner Hilda? Hilda? I like herring... 
 
-**_Norman_** : Shall I join you for dinner Hilda? Hilda? I like herring... She can't hear me.
+- Ella returns with Cicely, maybe with a long cigarette holder?
+- Hildegaard is focussed on Lord Naff (who has his back to the new arrival)
+- Norman is trying to get her attention with no hope
+- Cicely notices this
 
-**_Old Lord Naff_** : I don't think she WANTs to hear you dear boy. I think she's more interested in the young Lord
+**_Cicely_** : Oh Norman, are you still trying to woo her? You're delusional, your head's in the clouds. Whereas her head..., ha!
 
-**_Norman_** : He's doin' my head in that one. First he kills me, now he's nicked me bird, I've had it up to here with him.
+- Hildegaard hears Cicely laugh
 
-- Norman storms off down the aisle
+**_Hildegaard_** : Ah there you are. Come, we have a new member of the family.
 
-**_Old Lord Naff_** : Norman, Norman, wait for me... I was hoping I could borrow that hairdryer.
+- Lord Naff turns round to see Cicely
 
-- Old LN follows down the aisle
+**_Lord Naff_** : Cicely!!!!
 
+**_Cicely_** : Oh... no!
 
-
-
+- The stare at each other in shock
+- Curtains
 
 ---
 
 # In The Kitchen
 
-(Cardboard oven, smoke, at end, PPE to remove it, put onto trolley, wheeled FOC)
+- [ ] is Freddie talking to Gerald and Geraldine? Or the audience
 
-**_Freddie_** : Oh, the house seems so quiet now Lord Naff has gone. I don't know what I'll do next. I never really chose to be a butler, it just ran in the family. I always liked the idea of being a rock star, but I think I'm probably too old for that kind of thing now. Everyone says I should settle down with someone nice and stop dreaming, but I've never met the right person...
+**_Freddie_** : Oh, the house seems so quiet now Lord Naff has gone. I don't know what I'll do next. I never chose to be a butler, but it runs in the family. I always liked the idea of being a rock star, I'm probably too old for that kind of thing now. Everyone says I should settle down with someone nice and stop dreaming, but I've never met the right person...
 
-- Mrs Buttermuffin marches in, and looks annoyed at Freddie talking to himself
+- Mrs Tripps shuffles in
 
-**_Mrs Buttermuffin_** : Come along Freddie, never mind all this chit-chattering. I need you to help me bake one of my cakes.
+**_Tripps_** : Are you alright Freddie? You look ever so down.
+
+**_Freddie_** : I know what you're all thinking, but I can assure you, THIS is not "the right person". Oh Mrs Tripps, I feel like I'm caught in a landslide, there's no escape from reality.
+
+**_Tripps_** : You're such a poor boy
+
+**_Freddie_** : I need no sympathy
+
+- Mrs Buttermuffin marches in, looking annoyed
+- Dismisses G&G?
+
+**_Mrs Buttermuffin_** : Freddie! Mrs Tripps! Stop all this chit-chattering. I need you to help me bake one of my cakes.
 
 **_Freddie_** : You're going to bake one of your cakes?
 
-**_Mrs Buttermuffin_** : Well of course I'm going to bake a cake. My cakes are fabulous, now you can help me with the ingredients. Eggs... thank you, flour... butter... jam... sausages... 
+**_Mrs Buttermuffin_** : Well of course I'm going to bake one of my cakes. My cakes are fabulous, now you can help me with the ingredients. Eggs... thank you, flour... butter... jam... sausages... 
 
-**_Freddie_** : Mrs B, are you sure you want to go to all this trouble, I mean, what if no one is in the mood for cake.
+**_Tripps_** : Pork and apple, or Lincolnshire?
 
-**_Mrs Buttermuffin_** : Not in the mood for cake. Who on earth wouldn't be in the mood for a slice of my delicious cake? Now, tabasco sauce, sugar, 2 tins of tuna... Freddie, would you go and turn the mixer on...
+**_Mrs Buttermuffin_** : Well Lincolnshire, obviously! This is a cake! I'd only put pork and apple in my scones.
+
+**_Tripps_** : You mean scons?
+
+**_Mrs Buttermuffin_** : It's pronounced scones, isn't it ladies and gentlemen?
+
+- Scone vs scon audience banter? (or is it tiresome???)
+
+**_Freddie_** : Let's not go through all that again... Mrs B, are you sure you want to go to all this trouble, I mean, what if no one is in the mood for cake.
+
+**_Mrs Buttermuffin_** : Not in the mood for cake? Who on earth wouldn't be in the mood for a slice of my delicious cake? Now, tabasco sauce, sugar, 2 tins of tuna... Freddie, be a love and turn the mixer on...
 
 - Freddie goes off stage
 - We hear the sound of a cement mixer starting up
 - Mrs B shouts to Freddie
 
-**_Mrs Buttermuffin_** : 3 buckets of sugar, one of cement Freddie.
+**_Mrs Buttermuffin_** : 3 buckets of sugar to one of cement Freddie.
 
 - We hear stuff being thrown into the mixer and a slop, slop sound
 
@@ -356,7 +459,7 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 - Mrs Tripps shuffles off
 - Candice arrives
 
-**_Candice_** : Hiya babes, Gid sent me to make sure you doin' all the food right and whatnot, he... Woah! Where d'ya get your eyebrows done babe? They are a-maze-ing
+**_Candice_** : Hiya babes, Gid sent me to make sure you're doin' all the food right and whatnot. Oh I don't know how you can work in here... don't you think it's spooky? Ooooh, it puts the willies right up me I... Woah! Where d'ya get your eyebrows done babe? They are a-maze-ing!
 
 **_Mrs Buttermuffin_** : My eye...? I, I, don't know what you mean...
 
@@ -368,7 +471,7 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Candice_** : He left it all to you two???!!!
 
-**_Freddie_** : He did, I'm very sorry
+**_Freddie_** : He did, I'm very sorry.
 
 **_Mrs Buttermuffin_** : Still, at least stay for a bit of cake
 
@@ -378,16 +481,133 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 - Candice turns to leave, and as she does runs straight into a big plate of cream which Mrs Tripps is carrying in
 
+(Cardboard oven, smoke, at end, PPE to remove it, put onto trolley, wheeled FOC)
 
 ---
 
-# Gideon Intercepts Barclay and Barclay
+# Lord Naff and Cicely
 
-(FOC)
+**_Lord Naff_** : How have you been?
 
-- Gideon has a large mobile phone"in one hand and a sheet of paper (a fake will he's just made) in the other
+**_Cicely_** : How do you THINK I've been
 
-**_Gideon_** : The old fool has left everything to his useless old staff. I know. I know. Don't worry, you'll get your money, I just need a bit more time... There's no need to threaten me George, it'll all work out, I promise
+**_Lord Naff_** : Look, Cicely, I do hope you're not blaming me for your situation
+
+**_Cicely_** : Well, given that you shot me Clive... Yes, I AM blaming you.
+
+**_Lord Naff_** : Oh Cicely... I was simply cleaning my weapon in the drawing room after a splendid shoot on the moors. Then you wandered in as if you owned the place. You startled me. It went off in my hand. If anything, it was YOUR fault.
+
+**_Cicely_** : That's typical of you, always blaming someone else. I never wanted to marry you in the first place, but Daddy insisted. You ruined my career. I'd just been offered the lead role in a big Hollywood Picture. I was about to become a star. That Greta Garbage ended up getting the part.
+
+**_Lord Naff_** : I think you meant Greta Garbo?
+
+**_Cicely_** : I know what I meant.
+
+**_Lord Naff_** : You were working as a waitress in a cocktail bar when I met you. I picked you out, I shook you up and turned you round. Granted, I then shot you, but you can't have everything.
+
+SONG: Don't You Want Me?
+I was working as a waitress in a cocktail bar  
+That much is true  
+But I was just about to be a Hollywood star
+Either with or without you
+The five days that we had, were the worst it could get 
+Then you took my life
+And when I think about you I feel only regret
+I never should have been your wife
+
+Don't, don't you want me?  
+You know I can't believe it when I hear that you won't see me  
+Don't, don't you want me?  
+You know I don't believe you  
+When you say that you don't need me  
+It's much too late to find  
+You think you've changed your mind  
+You'd better change it back, or we will both be sorry
+
+Don't you want me, baby?  
+Don't you want me? Oh  
+Don't you want me, baby?  
+Don't you want me? Oh
+
+**_Lord Naff_** : Oh Cicely, don't you think you and I could patch things up, maybe try again?
+
+**_Cicely_** : Patch things up... how do you suppose we patch THIS up?
+
+- She points at her gunshot wound
+
+**_Lord Naff_** : Very well, I apologise for shooting you. Perhaps it WAS my fault. But strictly speaking we ARE still husband and wife. 
+
+- He goes to try to embrace her, but she jumps away.
+
+**_Cicely_** : No Clive! For the last time, it's over. I've moved on, I've met someone, he's funny, and talented, and young and fashionable... and he has hair!
+
+**_Lord Naff_** : Who is this fellow?
+
+- Cicely is making this up and looks around in desperation.
+
+**_Cicely_** : Errr... Norman.
+
+**_Lord Naff_** : What? The labourer, he's from the lower classes, you can't, he can't, it's not decent. Are you intending to marry?
+
+**_Cicely_** : Well, I haven't told him how I feel yet but...
+
+- Hildegaard enters, looking for LN
+
+**_Hildegaard_** : Oh, THERE you are, I think you have been avoiding me
+
+- Norman enters carrying his toolbox
+
+**_Norman_** : Has anyone seen my big screwdriver?
+
+**_Cicely_** : Oh, Norman, I'm sorry, I picked it up, I've been admiring it, It's very impressive.
+
+**_Norman_** : Oh, I...err... Oi, what's going on here? Are you trying to chat her up?
+
+**_Lord Naff_** : How dare you sir. I should be asking you the same question. What business do you have with MY wife?
+
+- Hildegaard and Norman are both taken aback by this revelation and both exclaim
+
+(
+**_Norman_** :  Your wife?!?
+**_Hildegaard_** : Your wife?!?
+)
+
+**_Cicely_** : Clive... I can speak to whomever I like. I'm a free spirit. I have been ever since you killed me.
+
+**_Norman_** : Oh, he killed you too did he? He seems to have a bit of a reputation for that. Doing people in, then muscling in on their girlfriends.
+
+**_Hildegaard_** : For the last time Norman, I am NOT your girlfriend.
+
+**_Cicely_** : Norman, why don't you and I go somewhere more fun. The Montague-Smythes are hosting a cocktail party, you could take me there.
+
+- Norman ignores her
+
+**_Norman_** : I'm putting an end to this... outside mate, let's sort this.
+
+**_Lord Naff_** : Are you challenging me to a duel sir? If so... I accept. Choose your weapon.
+
+**_Norman_** : This screwdriver's all I need.
+
+- LN sees a large spirit level in Norman's toolbox
+- He holds it aloft
+
+**_Lord Naff_** : Well, then. THIS shall be MY spirit-leveller.
+
+- They dance around waving their tools about
+
+**_Hildegaard_** : Boys, boys, stop this, you are being ridiculous. You're both dead already.
+
+**_Cicely_** : This is typical of you Clive. You kill us both by mistake, but when you challenge a man to a duel you're impotent. You really are a Naff Lord.
+
+---
+
+# FOC Gideon Intercepts Barclay and Barclay (Cake Stuffing)
+
+- [ ] Sort out B&B dialogue
+
+- Gideon has a large mobile phone in one hand and a sheet of paper (a fake will he's just made) in the other
+
+**_Gideon_** : The old fool's left everything to his servants. I know. I know. Don't worry, you'll get your money, I just need a bit more time... There's no need to threaten me George, it'll all work out, I promise
 
 - Gideon finishes his call
 - Barclay and Barclay arrive
@@ -407,9 +627,10 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Gideon_** : Oh yeah, he was a dear, dear uncle, I will miss him so... he always had such beautiful... handwriting
 
-**_Barclay One_** : Beautiful
-
-**_Barclay Two_** : Hand... writing...?
+(
+**_Barclay One_** : Handwriting?
+**_Barclay Two_** : Handwriting?
+)
 
 **_Gideon_** : If I could just see his handwriting, one last time, it would mean so much to me... is THAT his will? Oh could I just have a quick butchers?
 
@@ -419,7 +640,10 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 - They look at Gideon, then at each other, then back at Gideon
 
+(
 **_Barclay One_** : We don't see why not
+**_Barclay Two_** : We don't see why not
+)
 
 - They pass him the file containing the will
 - Gideon takes a quick look and begins ooh-ing and ahh-ing about the handwriting
@@ -427,32 +651,41 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 **_Gideon_** : Oh, yeah, that's the stuff, beautiful handwriting... wait... is that a Lesser-Spotted Wincle-Warbler?
 
 - He points offstage
-- Barclay and Barclay pull binoculars from the briefcases and frantically try to look
+- Barclay and Barclay pull binoculars from their briefcases and frantically try to look
 - Gideon pulls out the fake will and switches it with the real one
 
-**_Barclay One_** : Can you see a Wincle-Warbler
+**_Barclay One_** : Can you see a Wincle-Warbler.
 
-**_Barclay Two_** : No, I cannot. How disappointing
+**_Barclay Two_** : No, I cannot. How disappointing.
 
-**_Gideon_** : Ah, well, maybe you just missed it. Very quick, the Lesser-Spotted-Wincle-Warbler, it don't like being spotted.
+**_Gideon_** : Ah, well, maybe you just missed it. Very quick, the Lesser-Spotted-Wincle-Warbler. It don't like being spotted.
 
-- He passes back the file containing the fake will
+- He passes back the file containing the fake will and smiles an evil smile at the audience
 - They both look at Gideon with suspicion, but are not sure what just happened
 
 **_Barclay One_** : Mmm, very quick
 
 **_Barclay Two_** : They don't like being spotted
 
-**_Gideon_** : Anyway, I'd best let you gentlemen get on with things, I suppose you charge by the hour? Ha. In you go... that will ain't gonna read itself.
+- Mrs Tripps wheels the cake through the curtains, wearing safety goggles, mask and massive rubber gloves?
+- Ella trails behind her.
 
-- The curtains open
-- Mrs Tripps wheels the cake in
-- Freddie and Mrs Buttermuffin enter, loudly chattering
-- Gideon sees them, looks at the real will he's holding, looks around for somewhere to hide it, and as the only resort, shoves it in the cake
+**_Gideon_** : Anyway, I'd better not delay you gentlemen, I assume you charge by the hour? Ha. In you go... that will ain't gonna read itself.
 
 ---
 
 # Will Reading
+
+- [ ] B&B dialogue?
+
+- Gideon appears FOC still holding the fake will
+
+**_Gideon_** : I can't believe uncle Clive left everything to those complete strangers. I'm family, I deserve everything. And I'm going to GET everything.
+
+- The curtains open
+- Mrs Tripps wheels the cake in (wearing goggles, rubber gloves etc?)
+- Freddie and Mrs Buttermuffin enter, loudly chattering
+- Gideon sees them, looks at the real will he's holding, looks around for somewhere to hide it, and as the only resort, shoves it in the cake
 
 **_Mrs Buttermuffin_** : Would either of you gentlemen like a slice of cake
 
@@ -468,7 +701,7 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 - Gideon panics, steps in and interrupts
 
-**_Gideon_** : Nah, it's too early for cake. These gentlemen charge by the hour. We really need to get on with the formalities.
+**_Gideon_** : Nah, it's too early for cake. These gentlemen charge by the hour. We really need to get on with it.
 
 - He ushers them to open the will
 
@@ -518,9 +751,9 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Barclay One_** : Shhhh!
 
-**_Barclay Two_** : I leave to them... this lovely picture of my nephew, Gideon.
+**_Barclay Two_** : I leave to them... this rubber chicken, and this lovely picture of my nephew, Gideon.
 
-- Gideon produces the photo of himself and hands it to them
+- Gideon produces the hands Freddie a rubber chicken, and Mrs B gets the photo.
 
 **_Gideon_** : Oh, ain't that nice of him, you see, he didn't forget you, what an absolute gent. Well that's all done and dusted then. Thank you gentlemen, don't want to keep you any longer than necessary.
 
@@ -530,115 +763,97 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Barclay Two_** : Oh, how disappointing!
 
-- They are ushered out by Gideon
+- They are escorted out by Gideon
 - Ghost Lord Naff enters
 
 **_Freddie_** : This doesn't seem right, does it?
 
 **_Mrs Buttermuffin_** : Do you think his Lordship was going a bit funny?
 
-**_Lord Naff_** : That wasn't MY will. I don't understand. I say, that wasn't my will. Why is no-one listening to me?
+**_Lord Naff_** : That wasn't MY will. I don't understand what's happening.
 
 - Lord Naff addresses the audience
 
-**_Lord Naff_** : Can you hear me? Do you understand what's going on? No? Well you need to concentrate, honestly, the script gets even harder to follow in a bit...
+**_Lord Naff_** : Do you understand what's going on? No? Well you need to concentrate, honestly, the script gets even harder to follow soon.
 
-- Mrs Tripps shuffles in with a tea tray
+- Gideon returns
 
-**_Gideon_** : Right, well, as the new Lord Naff I've got some big plans. Things are going to change around here. I'm going to shake things up.
+**_Gideon_** : Well, it looks like I'm the new Lord Naff, and I've got big plans. Starting with some cost cutting. I'm going to shake things up, trim the fat, make this a leaner organisation. You, who are you?
 
-**_Tripps_** : A cup of tea your lordship?
+**_Tripps_** : Oh, I'm Mrs Dripps, the cleaning lady.
 
-**_Gideon_** : Milk, four sugars... And you are?
+- She does a very ungainly curtsey
 
-**_Tripps_** : Mrs Tripps your lordship
+**_Gideon_** : And how long have you been with us Mrs Dripps?
 
-**_Gideon_** : And how long have you been with us Mrs Tripps?
-
-**_Tripps_** : Oh, let me think, oh as long as I can remember, now, let me think, I was 16 when I started, I'm 86 now, so that's, oh, dear, now don't rush me, I'd have been 26 after 10 years, and after 20 years I'd have been 36, and then, oh hang on, what did I get to...
+**_Tripps_** : Oh, let me think, oh as long as I can remember, now, let me think, I was 16 when I started, I'm 86 now, so that's, oh, dear, now don't rush me. I'd have been 26 after 10 years, and after 20 years I'd have been 36, and then, oh hang on, what did I get to...
 
 **_Gideon_** : I think you've been here long enough... You're fired!
 
-- Mrs Tripps is shocked and upset, she shuffles slowly offstage with her tea tray
+**_Freddie_** : But you can't fire Mrs Dripps, who'll do all the cleaning?
 
-**_Gideon_** : As I said, things are gonna change round here, I've got plans... Big plans
+**_Gideon_** : Well you don't seem very busy, you can do it.
 
-- He leaves
+- He picks up the feather duster, thrusts it at Freddie
 
-**_Mrs Buttermuffin_** : Oh Freddie, this is awful... We haven't inherited anything.
+**_Gideon_** : And anyone else who don't want to be fired better start thinking of ways to make this place turn a profit. Things need to change round here, I've got plans... Big plans.
 
-**_Freddie_** : Except a very unpleasant new boss!
+- He storms out
+
+**_Freddie_** : But I've nothing to wear, I can't do the cleaning dressed like this, it's not dignified.
+
+- Everyone looks concerned and upset as the curtains close
+
+- [ ] maybe Gideon does some audience participation get them to boo him etc? 
 
 ---
 
-# Breaking News - Gideon is New Lord
-
-(FOC)
+# FOC Breaking News - Gideon is New Lord
 
 **_Roxy Belmeadows_** : I'm Roxy Belmeadows and these are the news headlines. We have a new Lord Naff. Gideon Goldgrabber, an entrepreneur from London who has lovely hair, has inherited Naff Hall. His fiancee, Candice Jones is expected to be given the title of Lady Naff. Reactions to the news have been mixed. Meanwhile, crowds continue to gather around the Rod Stewart Pothole, causing traffic chaos on the busy route between Wildboarclough and Forest Chapel. Police have asked people to only travel if absolutely necessary. Now the weather from Stormy Spaniels.
 
 **_Stormy Spaniels_** : Thanks Roxy. Well, it's going to be a lovely day if you're a Scorpio, a Leo or a Gemini with temperatures expected to reach 25 degrees. However if you're a Pisces then there's a high chance of snow later in the day. Capricorns can expect to meet a tall dark stranger but it's bad news if you're Libra, or Asparagus. I'll be back with more weatherscopes after 9.
 
-**_Roxy Belmeadows_** : Oh dear, I'm Asparagus myself, sounds like I'd better stay indoors. And finally... SOME OTHER BONKERS "GOOD NEWS" STORY?
+**_Roxy Belmeadows_** : Oh dear, I'm an Asparagus myself, sounds like I'd better stay indoors. And finally... 
+
+- [ ] SOME OTHER BONKERS "GOOD NEWS" STORY?
 
 ---
 
-# Ex Factor
+# Freddie Wants To Break Free
 
+- Mrs B is onstage reading the newspaper
+- Freddie is offstage shouting at Mrs B 
 
-- Talent show?
+**_Freddie_** : This is a total humiliation, this doesn't even fit properly
 
-**_Old Lord Naff_** : Every week we hold a talent show. We call it Ex Factor because, well, you know we're all "Ex-animis"
+**_Mrs Buttermuffin_** : You just need to get used to it Freddie, we can't afford to lose our jobs too.
 
-**_Lord Naff_** : Ex-what-a-what?
+**_Freddie_** : I know you offered to find me something to do the cleaning in, but this really isn't on.
 
-**_Old Lord Naff_** : It's latin, dear boy, lifeless, departed, expired. No wonder you've no heirs, in my day, the ladies loved a bit of latin. Anyway, the talent show... We wondered if you'd take part?
+**_Mrs Buttermuffin_** : We'll just have to do as he says until we can find a better solution 
 
-**_Lord Naff_** : Oh, I don't think so, I'm not really very talented.
+- Freddie comes on dressed in "I Want To Break Free" outfit, pushing a vacuum cleaner
 
-**_Old Lord Naff_** : Good heavens, we don't want you to perform! You see every week we end up in a big argument over which of us was best. It can get rather unpleasant, last week Queen Hildegaard threatened to cut off my arms, which would have made carrying my head rather awkward!! Ha! Anyway, we were wondering if you would be kind enough to be an impartial judge. You can decide who wins. 
+(SONG: I Want To Break Free)
 
-**_Lord Naff_** : Well I don't really think it's a____
+- Mrs Tripps walks in, coat on, bags packed
 
-**_Old Lord Naff_** : Excellent, that's settled then. Now our first act will be Queen Hildegaard of Hockflugenstein, singing a wonderful little operetta...
+**_Mrs Buttermuffin_** : Mrs Tripps, what are you doing?
 
-- Hildegaard sings Killer Queen?!?
-- Flirts with Lord Naff?
+**_Tripps_** : I've been sacked haven't I?
 
-**_Hildegaard_** : Well, what the verdict is? Is it the winner I am?
+**_Mrs Buttermuffin_** : Now don't be silly dear, we'll find a way for you to stay, don't you worry. In fact, we need your help. I have a plan (whisper, whisper)
 
-**_Lord Naff_** : Well I have to see the other acts first.
-
-**_Hildegaard_** : You don't need to be seeing anything. I show you everything you need to be seeing.
-
-**_Old Lord Naff_** : Now come on Hilda, stop trying to influence the judge. You need to let me do my standup comedy routine now...
-
-- OLN does some jokes
-
-**_Norman_** : Right, stop! Some of these jokes are older than you are Time for my magic show.
-
-- Norman does a bad magic routine?
-
-- Freddie wanders in, obviously can't see the ghosts, but starts talking to the audience
-
-**_Freddie_** : I still haven't found that special someone. I really am so lonely. Stuck here with no companionship. I mean, there's Mrs Buttermuffin, but that's not the same. I mean I think of her as one of the boys really, I don't know why, I just always have... Oh I'm so lonely... I'm more lonely than that.
-
-- SONG: Somebody to Love (Ghosts provide backing vocals?)
-
-**_Lord Naff_** : Well I think we have a winner, full marks Freddie.
-
-- Other ghosts start arguing with him that a non-ghost can't take part, let alone win, Ex Factor
-- Curtains?
+**_Tripps_** : I'll ask Gerald to drive me down to the fancy dress shop, straight away.
 
 ---
 
-# Newsnight - Gideon Reveals Plans
-
-(FOC)
+# FOC Newsnight - Gideon Reveals Plans
 
 - Newsnight theme tune
 
-**_Roxy Belmeadows_** : Tonight, on Newsnight, we're joined by the new Lord Naff after dramatic scenes at Naff Hall. We'll be discussing his plans for the future and we'll be asking local politician Dr Chris O'Really what these plans might mean for the local economy. And given the popularity of the Rod Stewart Pothole, we'll be reporting on a new scheme to open up more potholes around the area. But first, I'm joined by Gideon Goldgrabber, the new Lord Naff.
+**_Roxy Belmeadows_** : Tonight, on Newsnight, we're joined by the new Lord Naff after dramatic scenes at Naff Hall. We'll be discussing his plans for the future and we'll be asking local politician Dr Chris O'Really what it might mean for the local economy. And given the popularity of the Rod Stewart Pothole, we'll be reporting on a new scheme to open up more potholes around the area. But first, I'm joined by Gideon Goldgrabber, the new Lord Naff.
 
 **_Gideon_** : Good evening Roxy, it's a pleasure to be here.
 
@@ -646,9 +861,9 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Gideon_** : Of course. Well I'm delighted to say that I shall be digging up the entire Naff Hall estate and reshaping it into an exclusive golf course.
 
-**_Roxy Belmeadows_** : How would you respond to critics who say that most normal people don't like golf?
+**_Roxy Belmeadows_** : And how would you respond to critics who say that most normal people don't like golf?
 
-**_Gideon_** : Well it's not for them. Membership will only be offered to the very very wealthy, and I've already had interest from some very high profile posho's. You see, it only needs a few very rich old blokes to make ME a very rich young bloke, do you see. It's a win win.
+**_Gideon_** : Well it's not for them. Membership will only be offered to the very very wealthy, and I've already had interest from some very high profile posho's. You see, it only needs a few very rich old blokes to make ME a very rich young bloke, do you see? It's a win win.
 
 - We see Chris appear at the side of the curtains
 
@@ -680,10 +895,10 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 # Mrs Dripps is Fired
 
 - Mrs Buttermuffin and Mrs Tripps are on stage, looking around nervously
-- Mrs B gives Mrs T a pair of glasses which she puts on
-- Mrs B then gives Mrs T a feather duster
+- Mrs B is giving Mrs T a tray, teapot etc
+- She then puts some glasses on her face
 
-**_Mrs Buttermuffin_** : There, Mrs Tripps, you're now Mrs Dripps, the cleaning lady. A perfect disguise.
+**_Mrs Buttermuffin_** : There now, Mrs Tripps, you're now Mrs Tipps, the tea lady. A perfect disguise.
 
 **_Tripps_** : Are you sure he won't recognise me?
 
@@ -694,112 +909,173 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Gideon_** : What's this? Who are you? 
 
-**_Tripps_** : Oh, I'm Mrs Dripps, the cleaning lady
+**_Tripps_** : The name's Tipps, P G Tipps. I'm the tea lady.
 
-**_Gideon_** :  Cleaning lady? Why have I never seen you before?
+- She hands him a cup
 
-**_Tripps_** : I, err, I usually work nights
+**_Gideon_** :  Tea lady? Why have I never seen you before?
 
-**_Gideon_** : You look familiar, have you been on the telly?
+**_Tripps_** : Oh, I, err, I usually work nights.
 
-**_Tripps_** : Oh, no, nothing like that sir. I just stick to my cleaning.
+**_Gideon_** :  You look familiar, have you been on the telly?
 
-- Gideon runs his finger across a surface and inspects the dust
+**_Tripps_** : Oh, no sir, I couldn't get on the television... Not with my bad back. And I'm not good with heights.
 
-**_Gideon_** : Mmmm, you don't seem to be very good at it. How much am I paying you for this?
+- He takes a sip of tea and almost chokes on it
+
+**_Gideon_** : What's this??? It tastes like mud.
+
+**_Tripps_** : It's Earl Clay, we dig it out of the back garden. It's refreshing isn't it?
+
+**_Gideon_** : How much do I pay you for this?
 
 **_Tripps_** : Oh, well, I err, I'm not really sure you see, I used to get paid three and six a day, but that was when I first started for the old Lord Naff, and then, let me think....
 
 **_Gideon_** : Never mind, you don't need to think about it any more... You're fired!
 
-- Mrs Dripps bursts into tears and rushes out
+- Mrs Tripps bursts into tears and rushes out
+- Gideon baits the audience a bit more before leaving
 - Freddie rushes in
 
-**_Freddie_** : You can't fire Mrs Dripps. Who'll do all the cleaning?
+**_Freddie_** : What's just happened. He hasn't fired someone again has he???
 
-**_Gideon_** : Well you don't seem to do an awful lot round here...
-
-- He picks up the feather duster, thrusts it at Freddie
-
-**_Gideon_** : you can do it
-
-- Gideon storms out
-- Freddie calls out after him
-
-**_Freddie_** : But I've nothing to wear, I can't do the cleaning dressed like this, it's not dignified
-
-- Mrs Buttermuffin rushes on
+- Banter with audience, oh no he hasn't etc?
+- Mrs B rushes in
 
 **_Mrs Buttermuffin_** : Have you heard, it's awful
 
-**_Freddie_** : I know, he's fired Mrs Dripps and made ME the cleaning lady
+**_Freddie_** : I know, he's fired Mrs Tripps again.
 
-**_Mrs Buttermuffin_** : Not that, we'll find Mrs Dripps a new job somewhere round here... It's all over the news. Gideon is going to turn the gardens into a luxury golf-course
+**_Mrs Buttermuffin_** : Not that, we'll find Mrs Tripps a new job somewhere round here... This is worse, It's all over the news. Gideon is going to turn the gardens into a luxury golf-course
 
 **_Freddie_** : But nobody normal likes golf.
 
 **_Mrs Buttermuffin_** : I know, oh it's awful, just think of the type of person it'll bring here.
 
-**_Freddie_** : Pompous men with moustaches, dressed up in silly clothing, oh this is a disaster darling.
+**_Freddie_** : Weird looking men with moustaches, dressed up in silly clothing, prancing around with their little sticks. This is a disaster darling.
 
 **_Mrs Buttermuffin_** : Our Lord Naff would never have done something like this. We have to stop this golf course.
 
+---
+
+# FOC End of Act 1 - News Recap
+
+- Bar is open
+- Then Interval
 
 ---
 
-# News Recap
+# Ex Factor
 
-???
+- 3 ghosts plus Freddie, Lord Naff judges?
+- Ghosts are arguing about who goes first
+- Lord Naff wanders in
+
+**_Lord Naff_** : I say, what's all the commotion?
+
+**_Hildegaard_** : We cannot agree who goes first.
+
+**_Lord Naff_** : First? First in what?
+
+**_Norman_** : The talent show.
+
+**_Lord Naff_** : What talent show.
+
+**_Cicely_** : (Sigh)... Every week we hold a talent show. We call it Ex Factor because, well, you know we're all "Ex-animis"
+
+**_Lord Naff_** : Ex-what-a-what?
+
+**_Cicely_** : It's latin! It means, lifeless, departed, expired, like our marriage. 
+
+**_Hildegaard_** : Anyway, the talent show... We wondered if you'd take part?
+
+**_Lord Naff_** : Oh, I don't think so, I'm not really very talented.
+
+**_Cicely_** : You can say that again.
+
+**_Hildegaard_** : You are not understanding me. We don't want you to be performing. We want you to be judging.
+
+**_Lord Naff_** : Well I don't really think it's a____
+
+**_Hildegaard_** : Excellent, that's settled then. Our first act will be Queen Hildegaard of Hockflugenstein, that is me. I sing a song especially for you...
+
+- Hildegaard sings opera - sound of breaking glass?
+- Flirts with Lord Naff?
+
+**_Hildegaard_** : Well, what the verdict is? Is it the winner I am?
+
+**_Lord Naff_** : Well I have to see the other acts first. Now it says here that Cicely will be doing an exciting new dance.
+
+**_Cicely_** : I shall be doing the Charleston which is a new dance from America. It's the absolute bees-knees.
+
+- Cicely does Charleston dance routine
+
+**_Lord Naff_** : Well that was very exciting, though obviously the opera singing was excellent too. Now Norman, apparently you're doing some magic tricks?
+
+**_Norman_** : Good evening ladies and gentlemen, I am Norman the Abnormal. Could I have a volunteer from the audience please?
+
+- Norman does a bad magic routine?
+- Card trick goes wrong
+- He takes a large saw and looks for another volunteer, settles on Lord Naff and is about to take the saw to him
+- Freddie wanders in dressed in full Live Aid costume. He obviously can't see the ghosts and starts talking to the audience
+
+**_Freddie_** : What's it all about?  I really thought by this point in my life I'd have it all worked out but everything's gone wrong. I was happy looking after Lord Naff but then that young upstart came in and started throwing his weight around. Firing poor old Mrs Tripps and  leaving me to do the cleaning.  Did you see the outfit I had to wear?!  I'm trying a new look now - something a bit more macho - what do you think?  Can I carry it off? Anyway where was I....oh yes, it's all completely unacceptable.  I can't work in this environment and don't even get me started on the will - something fishy there I'm sure - just can't quite put my finger on it.  If only I had someone to talk to, a shoulder to cry on. I really am so lonely. Stuck here with no companionship. I mean, there's Mrs Buttermuffin, but I think of her as one of the boys really, I don't know why, I just always have...
+
+**_Norman_** : What's this smart-alec doing, interrupting our talent show.
+
+**_Cicely_** : Indeed, how arrogant.
+
+**_Hildegaard_** : Very rude he is being.
+
+**_Freddie_** : Oh this big old house feels so empty. I'm so lonely... I'm more lonely than that.
+
+- SONG: Somebody to Love (Ghosts provide backing vocals?)
+
+**_Lord Naff_** : Well I think we have a winner. Freddie.
+
+**_Hildegaard_** : He can't win OUR talent competition. He's not even a ghost.
+
+**_Norman_** : It's a disgrace. Who put HIM in charge? 
+
+**_Cicely_** : This is outrageous. I was clearly the best. This is typical Clive.
+
+**_Freddie_** : This house, so empty, so quiet, so lonely.
+
+- Freddie wanders out sadly
+- Curtains
 
 ---
 
-# Freddie Wants To Break Free
+# FOC Gideon Fires Freddie
 
-- Mrs B is onstage reading the newspaper
-- Freddie is offstage shouting at Mrs B 
+**_Gideon_** : What do you think you're doing, dressed like that?
 
-**_Freddie_** : This is a total humiliation, this doesn't even fit properly
+**_Freddie_** : I've broken free darling, from now on, I'm going to be myself
 
-**_Mrs Buttermuffin_** : You just need to get used to it Freddie, we can't afford to lose our jobs too.
+**_Gideon_** : Well I'm not paying you to be yourself. You're fired.
 
-**_Freddie_** : I know you offered to find me something to do the cleaning in, but this really isn't on.
+**_Freddie_** : Oh no I'm not
 
-**_Mrs Buttermuffin_** : We'll just have to do as he says until we can find a better solution 
+**_Gideon_** : Oh YES you are... (etc etc)
 
-- Freddie comes on dressed in "I Want To Break Free" outfit|, pushing a vacuum cleaner
+**_Freddie_** : You can't fire me
 
-(SONG: I Want To Break Free)
+**_Gideon_** : Why not?
 
-- Mrs Tripps walks in, coat on, bags packed
+**_Freddie_** : Because I quit darling! You can put your golf club up your...
 
-**_Mrs Buttermuffin_** : Mrs Tripps, what are you doing?
+**_Gideon_** : Get out!
 
-**_Tripps_** : He's sacked me... again... blub...
-
-**_Mrs Buttermuffin_** : Now don't be silly dear, we'll find a way for you to stay, don't you worry. In fact, we need your help. I have a plan (whisper, whisper)
-
-**_Tripps_** : I'll ask Gerald to drive me down to the fancy dress shop, straight away.
-
-
----
-
-# Ghosts FOC?
-
-(FOC)
-
-Queen H "feeling a bit light headed". Throws herself in a faint at LN
-Norman catches Lord Naff and Queen H in a clinch
-Norman, offers him outside
-LN challenges him to a duel - fencing foil vs screwdriver
-LN thrusts sword through Norman's heart - nothing happens, "I'm dead anyway mate"
-
-
+- Freddie leaves through curtain
+- Gideon left standing in front - has more angry exchanges with audience
 
 ---
 
 # Penguins
 
-- Gideon is showing Chris O'Really around the grounds describing his plans for the golf course. Freddie is accompanying them.
+
+- [ ] Do the curtains open whilst Gideon is ranting at the audience, then he turns round to see Chris standing there?
+- Gideon is showing Chris O'Really around the grounds describing his plans for the golf course. Mrs B is accompanying them.
 
 **_Gideon_** : And this will be the 18th hole, and we'll dig a bunker there and...
 
@@ -815,11 +1091,11 @@ LN thrusts sword through Norman's heart - nothing happens, "I'm dead anyway mate
 
 **_Tripps_** : Good morning, isn't this wonderful? You're very lucky, they're incredibly rare.
 
-**_Gideon_** : What are? Who are you? What's going on? Freddie... what's this geezer doin' on my land?
+**_Gideon_** : What are? Who are you? What's going on? What's this geezer doin' on my land?
 
-**_Freddie_** : Oh, he's the bird expert sir, it's all part of the planning application, you have to have a bird inspection, isn't that right Mr O'Really
+**_Mrs Buttermuffin_** : Oh, he's the bird expert sir, it's all part of the planning application, you have to have a bird inspection, isn't that right Mr O'Really
 
-**_Chris O'Really_** : Oh, yes, that's, probably necessary, yes, very difficult for us to grant permission without a, "bird inspection", I suppose. Just a formality, I'm sure there's no need for you to worry...
+**_Chris O'Really_** : Oh, erm, yes, that's probably necessary, yes. Very difficult for us to grant permission without a, errr, "bird inspection". Just a formality, I'm sure there's no need for you to worry...
 
 **_Tripps_** : Well that's just it. You see I've found an extremely rare breed of birds which are nesting on the site. Extremely rare, especially around here.
 
@@ -832,12 +1108,17 @@ LN thrusts sword through Norman's heart - nothing happens, "I'm dead anyway mate
 **_Barclay Two_** : Or white-tailed eagles maybe?
 
 - Gerald and Geraldine waddle on dressed as penguins
-- 
+
+(
 **_Barclay One_** : Or... Penguins!?!?!
+**_Barclay Two_** : Or... Penguins!?!?!
+)
 
 **_Gideon_** : Penguins???!!!
 
-**_Freddie_** : Penguins?
+- Mrs B looks accusingly at Mrs Tripps
+
+**_Mrs Buttermuffin_** : Penguins?
 
 **_Tripps_** : It was all they had at the fancy dress shop. I got a good deal, hire one, get the second one free.
 
@@ -850,21 +1131,19 @@ LN thrusts sword through Norman's heart - nothing happens, "I'm dead anyway mate
 
 ---
 
-# News Update - Super Prison
+# FOC News Update - Super Prison
 
-(FOC)
+**_Roxy Belmeadows_** : Plans to build Wildboarclough's first luxury golf course have been refused after a rare breed of penguins were discovered nesting in the area. Councillor Chris O'Really has declared it a site of special scientific interest. Bird-watchers have been flocking into the village. We'll speak now to Gideon Goldgrabber, the man behind the golf course plans. Mr Goldgrabber, are you angry that the golf course has been stopped.
 
-**_Roxy Belmeadows_** : Plans to build Wildboarclough's first luxury golf course have been refused after rare penguins were discovered nesting in the area. Councillor Chris O'Really has declared it a site of special scientific interest. Bird-watchers have been flocking into the village. We'll speak now to Gideon Goldgrabber, the man behind the golf course plans. Mr Goldgrabber, are you angry that the golf course has been stopped.
+**_Gideon_** : Angry? Course I'm angry darlin'. I was gonna be rich, very rich, and now I find out I've got an infestation... of penguins.
 
-**_Gideon_** : Angry, course I'm angry darlin'. I was gonna be rich, very rich, and now I find out I've got an infestation... of penguins.
+**_Roxy Belmeadows_** : Indeed, are you considering a planning appeal?
 
-**_Roxy Belmeadows_** : Indeed, are you considering a planning appeal.
-
-**_Gideon_** : No need darlin, I've already come up with a better idea. As I'm sure you know, crime is on the rise, the news is full of it, and the government is getting tough, locking em up, throwing away the key, that sort of thing. So, it's a real growth area, and I'm getting in to it.
+**_Gideon_** : No need darlin, I've already come up with a better idea. As I'm sure you know, crime is on the rise, the news is full of it, and the government's getting tough. Locking em up, throwing away the key, that sort of thing. So, it's a real growth area. And I'm getting in to it.
 
 **_Roxy Belmeadows_** : You're taking up crime?
 
-**_Gideon_** : Nah darlin, prisons, prisons are a growth area. I'm gonna knock down Naff Hall and build an 84 story super-prison on the footprint. The government'll pay me for every criminal I take. And best of all, super-criminals aren't allowed outside, so I don't have to worry about no penguins.
+**_Gideon_** : Nah darlin, prisons! Prisons are a growth area. I'm gonna knock down Naff Hall and build an 84 story super-prison on the footprint. The government'll pay me for every criminal I take in. And best of all, super-criminals aren't allowed outside, so I don't have to worry about no penguins.
 
 **_Roxy Belmeadows_** : Well there you have it. It looks like Wildboarclough will soon have its first "super-prison"
 
@@ -874,15 +1153,17 @@ LN thrusts sword through Norman's heart - nothing happens, "I'm dead anyway mate
 
 - The ghosts are on stage
 
-**_Lord Naff_** : They can't knock down my house
+**_Lord Naff_** : They can't knock down my house.
 
-**_Old Lord Naff_** : Indeed, where will WE live?
+**_Cicely_** : Indeed, where will I keep my champagne?
 
-**_Norman_** : What will happen to my rewiring... I'll have been electrocuted for nothing
+**_Norman_** : What will happen to my wiring... I'll have been electrocuted for nothing.
 
-**_Hildegaard_** : And I am NOT approving of the super-criminals.
+- [ ] Norman never actually finished rewiring!
 
-**_Lord Naff_** : We have to do something
+**_Hildegaard_** : And I am NOT approving of super-criminals.
+
+**_Lord Naff_** : Look, I know we've all had our differences, but we need to stick together, use our talents, be a team, defeat our common enemy.
 
 - Gideon and Chris O'Really enter
 
@@ -890,17 +1171,16 @@ LN thrusts sword through Norman's heart - nothing happens, "I'm dead anyway mate
 
 **_Gideon_** : So I can knock it down and build my super-prison?
 
-- Old Lord Naff causes time to freeze
 - Norman makes the lights flicker and spark
 - Hildegaard concentrates on a large book on a shelf, making it move and fall off
-- Old Lord Naff unfreezes everything
+- A single lamp is left shining on the book
 - Chris notices this book on the floor and picks it up
 
-**_Chris O'Really_** : I almost stepped on this... wait, these are official records from the olden days, how fascinating... it says here that the house was visited by Queen Hildegaard of Hockflugenstein on her "Campaign of Cruelty" tour - oh I'm a big fan of that one, that was at the height of her power, very notable... She stopped for a short break in order to make use of the facilities. The servants reported hearing a loud groaning sound from behind the latrine door... followed by such a creaking and splintering of the wooden platform therein... She fell with a huge splatter down into the dark filthiness below, and was lost forever.
+**_Chris O'Really_** : I almost stepped on this... wait, these are official records from the olden days, how fascinating... it says here that the house was visited by Queen Hildegaard of Hockflugenstein on her "Campaign of Cruelty" tour - oh I'm a big fan of that one, that was at the height of her power... She stopped here to make use of the facilities. The servants reported hearing "a loud groan from behind the latrine door... as if a demon had posessed her. There followed a creaking and splintering of the wooden seat therein... She fell with a huge splatter down into the dark filthiness below. One servant was heard to mutter, 'better give that ten minutes'".
 
 **_Gideon_** : Yeah, very interesting, can we just get on with signing off my plans, so I can start making super-prison-cash?
 
-**_Chris O'Really_** : I don't think you understand, this suggests that Queen Hildegaard fell down the toilet... and that she lost her life... here, in this very place... that is of the utmost historical importance, an incredible discovery, we'll need to speak to English Heritage right away
+**_Chris O'Really_** : I don't think you understand, this suggests that Queen Hildegaard fell down the toilet... and died... here, in this very place... that is of the utmost historical importance, an incredible discovery, we'll need to speak to English Heritage right away
 
 **_Gideon_** : Does this mean, what I think it means? You're not gonna let me build my super-prison are you?
 
@@ -918,12 +1198,9 @@ Elvis : You can say that again, your holiness... take it away Freddie
 
 (SONG: Crazy Things In Wildboarclough)
 
-
 ---
 
-# Newsnight - Candice Announces Plans For Spa
-
-(FOC)
+# FOC Newsnight - Candice Announces Plans For Spa
 
 - Newsnight theme
 - Roxy and Candice are both sporting ridiculous dame-brows
@@ -944,17 +1221,17 @@ Elvis : You can say that again, your holiness... take it away Freddie
 
 **_Candice_** : Exactly, raising eyebrows, raising bums, raising anything I can really.
 
-**_Roxy Belmeadows_** : Can I ask if you have any concerns about the local road problems. Will that not dissuade the super-rich from visiting your spa?
+**_Roxy Belmeadows_** : Can I ask if you have concerns about the local road problems. Will that not stop the super-rich visiting your spa?
 
-**_Candice_** : Oh no babes, it's not a problem. We're gonna put a helipad on the roof for the helicopters and that. And I'm gonna build a marina for their luxury super-yachts.
+**_Candice_** : Oh no babes, it's not a problem. We're gonna put a helipad on the roof for their helicopters and that. And I'm gonna build a marina for their luxury super-yachts.
 
 **_Roxy Belmeadows_** : A marina? Are you sure you can sail to Wildboarclough in a super-yacht?
 
 **_Candice_** : Mmmm?? Sorry, wasn't listening, Super-yachts, yeah. And I'm gonna redecorate all the rooms, in my own unique style. Make it really tasteful babes. Leopardskin 'n that.
 
-**_Roxy Belmeadows_** : Well, there you have it, before we have a look at tomorrow's papers, a quick update on Storm Maggie.
+**_Roxy Belmeadows_** : Well, there you have it. It looks like Wildboarclough will soon have its first luxury spa. Before we have a look at tomorrow's papers, a quick update on Storm Maggie.
 
-- Stormy appears wearing a massive raincoat, hat, umbrella, sou-wester, etc?
+- Stormy appears wearing a massive raincoat, hat, umbrella, sou-wester, etc or diving suit, snorkel etc?
 
 **_Stormy Spaniels_** : It's coming!!!!!
 
@@ -969,33 +1246,235 @@ Elvis : You can say that again, your holiness... take it away Freddie
 
 # 2 Bedsheets and a Haunting
 
-- Freddie and Mrs Buttermuffin are finalising their plan with Mrs Tripps and Gerald
-- They have dressed up as ghosts to scare Chris O'Really. Covered up with bedsheets, they exit
-- C O'R, Barclay and Barclay, Candice and Gideon enter from the other side
-- Candice is explaining her plans for the spa, eyebrows, nails, botox, helicopters and massive yachts in the marina.
-- C'OR is confused about the marina, but seems happy with the overall proposal, given that it won't impact the penguins and Naff Hall will remain
-- Barclay and Barclay have all the legal papers which C'OR will need to sign
-- Pretend ghosts appear... one by one they scare off Barclay and Barclay, Candice, Chris O'Really. Gideon is the only one who remains.
-- Real ghosts appear, everyone freezes. Real ghosts tear the pretend ghosts to pieces with critical reviews. They leave and everyone unfreezes.
-- Gideon sees "ghosts" but is not convinced by them. He gets angry, "first it's penguins, then some old bird who fell down the lav, and now this. Someone's trying to make a muppet out of me and I'm not 'avin it. Someone's gonna pay for this!"
-- "Ghosts" get scared and run off.
+- [ ] First bit needs sorting out - not good!
 
+**_Lord Naff_** : Excellent work everyone, but we need to be vigilant. The woman has proposed converting the house into a spa. These fraudsters need to be brought to justice.
 
+- Ella tugs at his sleeve
+
+**_Lord Naff_** : I don't have time to join in your games you young ragamuffin. Now we need to find a way to punish them.
+
+**_Hildegaard_** : What is spa please?
+
+**_Norman_** : It's a place where posh people come and sit with towels on their heads and cucumbers on their eyes.
+
+**_Cicely_** : Shhhh, the living are coming.
+
+- Mrs Tripps, Gerald and Geraldine enter
+- Mrs Tripps hands bedsheets to G&G 
+
+**_Tripps_** : Here are your outfits. Now, remember what I told you to do.
+
+**_Gerald_** : Mumbled RUBBISH
+
+**_Tripps_** : Exactly. Well come on then, action stations.
+
+- They put on their bedsheets
+
+**_Geraldine_** : Are you sure this will work Gerald?
+
+**_Gerald_** : Mumbled RUBBISH
+
+**_Geraldine_** : Mmmmm... well, if you say so.
+
+- G&G leave
+- Mrs Tripps "freezes"
+
+**_Cicely_** : This will never work, they don't look in the slightest bit scary. No one is going to believe this place is haunted by those two. You can see right through them. Well, actually you can't, that's part of the problem.
+
+**_Lord Naff_** : Well maybe we need to give them some help, use our talents.
+
+**_Norman_** : I can do my thing with the lights again.
+
+**_Hildegaard_** : And I can be moving things in a spooky way.
+
+**_Cicely_** : And I can make a spectre-cle of myself ha!
+
+**_Lord Naff_** : And I can, I can... what shall I do?
+
+**_Cicely_** : Nothing Clive. You have no talent!
+
+- Mrs Tripps "unfreezes"
+- Gideon arrives and sees Mrs Tripps 
+
+**_Gideon_** : Who are you?
+
+**_Tripps_** : I'm Mr Gripps the plumber.
+
+**_Gideon_** : Why would I need a plumber?
+
+**_Tripps_** : You've got a leak in your basement.
+
+**_Gideon_** : A leak, I've not noticed any leaks.
+
+**_Tripps_** : Look, there's a box full of them just here.
+
+- "He" picks up a veg box and holds up a leek
+
+**_Tripps_** : And there's onions, some dirty carrots, and a tin of peaches. Who'll start me off at 5 pounds?
+
+- Some harvest auction banter with the audience?
+- Gideon has grown very suspicious of this so-called plumber.
+
+**_Gideon_** : Stop it, stop it... There's something suspicious about you. Have you BEAN here before?
+
+**_Tripps_** : Oh yes, the previous owner often asked me to TURNIP, I mean, turn up here all the time.
+
+**_Gideon_** : Mmmmm... what was his name?
+
+**_Tripps_** : Chive... I mean Clive.
+
+**_Gideon_** : If you were a real plumber, you'd be wearing overalls.
+
+**_Tripps_** : Not nece-celery!
+
+**_Gideon_** : Well where are all your tools.
+
+**_Tripps_** : I've left them in the van, there's not mushroom in here!
+
+**_Gideon_** : I'm not having this, you're not a proper plumber, you're trying to make a muppet out of me. You're fired!
+
+**_Tripps_** : Well, I'm still going to have to chard you... I mean charge you.
+
+- Mrs Tripps leaves
+- Candice enters
+
+**_Candice_** : Why are we in the basement babes, I don't like it down here.
+
+**_Gideon_** : Because Candice, Mr O'Really is on his way to do an inspection before he approves YOUR spa plans. Now I need to go and speak to Big George, calm him down, he's starting to get twitchy. YOU need to work your magic on Mr O'Really, sweet-talk him, make sure he signs off the plans.
+
+**_Candice_** : Oh Gid, don't leave me alone down here, it's all dark and dingy, I don't like it.
+
+**_Gideon_** : You won't BE alone. I've asked Barclay and Barclay to bring come along and make sure all the legal mumbo jumbo is done right. I don't want him to have any excuse to reject our plans. In fact, here they are now.
+
+- Barclay and Barclay enter
+
+**_Gideon_** : Now don't mess this up, this might be our last chance to squeeze money out of this place.
+
+- Gideon leaves
+- Chris O'Really arrives
+
+**_Chris O'Really_** : Good afternoon Lady Naff, oh my, what a fascinating space, so much character.
+
+**_Candice_** : I hate it. I think it's creepy. I can't wait to get it redecorated, make it less spooky and more classy.
+
+**_Chris O'Really_** : Oh really, what did you have in mind?
+
+**_Candice_** : I'm gonna put this on all the walls.
+
+- She shows him her mood-board full of weird coloured leopardskin wallpapers and fabrics
+
+**_Candice_** : And the carpet'll be pink. Shagpile. Tasteful 'n that.
+
+**_Chris O'Really_** : I... see... mmm... very...nice. Well I'm just here to check that everything complies with the appropriate building standards, shouldn't take long. Now I understand that the swimming pool and steam room will be down here?
+
+**_Candice_** : That's correct Mr O'Really.
+
+**_Chris O'Really_** : Oh, call me Chris, Lady Naff.
+
+**_Candice_** : Well, call me Candice Chris.
+
+**_Chris O'Really_** : Well, Candice, it all seems structurally sound. Humidity levels seem high, you will need to fit an extractor fan to deal with that. Now I just need to. Oh.
+
+- Norman makes the lights flicker
+
+**_Chris O'Really_** : I'm afraid it looks like the wiring is quite old, pre 1974 I should imagine.
+
+**_Norman_** : Well it would have been rewired if SOMEONE hadn't put the big fuse back in and electrocuted me.
+
+**_Chris O'Really_** : It shouldn't be a problem, I can recommend a good electrician if you don't already have one.
+
+**_Norman_** : Oh they've got one mate, they've got one. And he's an absolute magician!
+
+- Norman makes the lights go out completely
+
+**_Candice_** : Oooooh Chris, I don't like it, I'm afraid of the dark. Oh it absolutely puts the willies up me. And I don't like that. Oh no, oh no.
+
+**_Chris O'Really_** : No need to panic, I've got a torch somewhere... there it is, now, ah that's better. Right everyone, stay close to me, I'm sure we can sort this out, I suspect the fusebox is through here.
+
+- They shuffle off in line then moments later shuffle back on
+- The 2 bedsheet ghosts tag on at the back, maybe Barclay Two has gone missing
+
+**_Chris O'Really_** : No, maybe it's over here.
+
+**_Barclay One_** : Barclay? Where's Barclay?
+
+- The ghost behind Barclay One taps them on the back, which appears to reassure him
+
+**_Barclay One_** : Ah there you are old chap.
+
+- Barclay One looks around and sees the "ghost"
+- Barclay One screams and runs off
+
+**_Chris O'Really_** : Now your legal team should probably check the deeds just in case there are any...
+
+- He looks around (without seeing the ghosts)
+
+**_Chris O'Really_** : Where ARE they?
+
+**_Candice_** : There were here a minute ago. (to the audience) Did YOU see them leave?
+
+- The "ghosts" tap Chris on the shoulder
+- He screams and runs off
+
+**_Candice_** : Can we leave now Chris? I really don't like it here. Chris? Chris? Mr O'Really, where are you?
+
+- Chris's hi-viz vest floats back on stage as if possessed
+- Candice sees it and is frozen with fear
+- The "ghosts" tap her on the shoulders, she looks round, screams and runs off
+- Bedsheet ghosts fist-bump in celebration at the plan succeeding
+
+**_Cicely_** : I can't believe people were taken in by those two.
+
+**_Hildegaard_** : Cicely, it doesn't matter.
+
+**_Norman_** : They've scared off those idiots.
+
+**_Cicely_** : But it's the principle! We have standards. One can't just throw on a bedsheet and call oneself a ghost. One needs to act, bring a little sparkle to the part, entertain the audience, make them feel something. I'm going to show these imposters what a real actress can do.
+
+- Cicely manifests herself! Does some ghostly whoooooing.
+- Bedsheet ghosts look round see her and run off screaming.
+
+**_Cicely_** : Now THAT's haunting.
+
+- Emergency lighting?
+- Norman makes lights come back on?
 
 ---
 
-# Spa Rejection Fax
+# FOC Spa Rejection Fax
 
-(FOC)
+- Gideon appears FOC, maybe has a go at the audience (what you all lookin' at?)
+- Mrs Tripps appears holding a sheet of paper
 
-- Gideon receives a fax which he picks up and begins to read
-- The fax is from Chris O'Really and we hear it being read out
+**_Gideon_** : Who are you?
+
+**_Tripps_** : I'm Mrs Paperclips, I'm in charge of the office here at Naff Hall.
+
+**_Gideon_** : Office? I didn't even know we had an office.
+
+**_Tripps_** : Oh yes sir, it's round the back. Anyway, this fax has just come through. It's not good news I'm afraid.
+
+**_Gideon_** : Not good news? Not good news... I don't need people bringing me "Not good news"...
+
+**_Tripps_** : Let me guess...
+
+**_Gideon_** : You're fired!
+
+- Mrs Tripps is getting used to this by now and doesn't even bother looking upset
+- To the audience
+
+**_Tripps_** : I thought so. See you in a bit.
+
+**_Gideon_** : Right, what's this fax say?
+
+- A voice-over is heard?
 
 **_Chris O'Really_** : Dear Gideon, with respect to my visit earlier today, I noted, with some concern, that Naff Hall appears to be haunted by two extremely frightening ghosts. Not that I myself was scared you understand. I have subsequently consulted the council's "Big Book Of Rules" and the following came to my attention. Regulation 17, paragraph b, subsection 3 states: "A spa cannot be opened in a building which is known, or thought to be, haunted". As I'm sure you will understand, it is with regret that I must decline your delightful fiancees plans for her luxury spa.
 
 **_Gideon_** : Gaaahhhhhhh! Oh, what's this? P.S....
 
-**_Chris O'Really_** : P.S. I did a little more research and discovered the following addendum... Should any and all ghost (or ghosts) be removed by a specialist and an authenticated certificate of exorcism can be produced, then permission would be given... permission would be given... perm...
+**_Chris O'Really_** : P.S. I did a little more research and discovered the following addendum... Should any slash all ghost slash ghosts be removed by a registered specialist, then, on production of an authenticated certificate of exorcism, permission would be given... permission would be given... perm...
 
 - Chris's voice echoes away
 - Candice enters and overhears
@@ -1016,7 +1495,10 @@ Elvis : You can say that again, your holiness... take it away Freddie
 
 # The Exorcist
 
-- Freddie, Mrs Buttermuffin, Barclay and Barclay and Candice are all onstage dressed for aerobics
+- [ ] Do the ghosts walk in talking about the weather?
+- [ ] Does Diane start with the wrong music "oh, that's for my hypnotherapy, hang on."
+
+- Freddie, Mrs Buttermuffin, Barclay and Barclay, Mrs Tripps and Candice are all onstage dressed for aerobics
 - Diane is at the front setting up a large ghetto-blaster
 - The ghosts are also about to participate
 
@@ -1044,9 +1526,11 @@ Elvis : You can say that again, your holiness... take it away Freddie
 
 **_Diane_** : Well just hold on a minute, anyone who knows me knows I'm one thing more than anything. I'm resourceful, isn't that right Candy? See, she knows. Now let me think. Exorcism... well, I've seen the film, oh what's it called, the one with the man who does the exorcisms in it? Oh, it's on the tip of my tongue, the film, oh it really scared the willies out of me I can tell you.
 
+- [ ] What's Freddie doing here if he's been fired - has Gideon not spotted him???
+
 **_Freddie_** : The Exorcist?
 
-**_Diane_** : Mmmm, no, I don't think that was it... Oh, it'll come to me when I'm least expecting it. Anyway, I've seen the film, I can remember what he did, that man, he was a priest I think, anyway, I saw what he did, and to be honest, it didn't look difficult. I'll need some candles. I've got some for the yoga classes I do, they're in the Punto, I won't be a mo...
+**_Diane_** : Mmmm, no, I don't think that was it... Oh, it'll come to me when I'm least expecting it. Anyway, I've seen the film, I can remember what he did, that man, he was a priest I think, anyway, I saw what he did, and to be honest, it didn't look difficult. I'll need some candles. I've got some for the yoga class I do, they're in the Punto, I won't be a mo...
 
 - She leaves and we hear the sound of the storm reaching its peak
 
@@ -1063,9 +1547,12 @@ Elvis : You can say that again, your holiness... take it away Freddie
 **_Gideon_** : Candice... a word in my office please!
 
 - Offstage there is a flash and a thunderclap, followed by a sizzling noise
+- Ghosts do Bohemian Rhapsody with torches lighting up their faces?
 - Diane returns, her face slightly sooty and her hair huge and frizzly
 
 **_Diane_** : I've just remembered... Ghostbusters!
+
+- [ ] Maybe Mrs Tripps wanders in with her bags packed again, sees her and makes a comment (indicating that Diane isn't dead, she can still be seen by the living)
 
 - She sees the ghosts
 
@@ -1075,34 +1562,37 @@ Elvis : You can say that again, your holiness... take it away Freddie
 
 **_Diane_** : Yes?!?
 
-**_Norman_** : All of us?
+**_Cicely_** : But you're still alive!
+
+**_Diane_** : Well I should hope so, or I'd have had trouble carrying these candles from the Punto!
+
+**_Hildegaard_** : You can see ALL of us?
 
 **_Diane_** : Yes, I can see ALL of you
 
-**_Old Lord Naff_** : Even me?
+**_Norman_** : Even me?
 
-**_Diane_** : Look, I don't know whether you think I'm daft or something but I've an exorcism that needs doing. So if you want to make yourselves useful you can help me lay out these candles. I need them in the shape of a pentagram. It's like a five pointed star kind of thingy.
+**_Diane_** : Look, I don't know whether you think I'm daft or something but I've an exorcism that needs doing. So if you want to make yourselves useful you can help me lay out these candles, I need a five pointy star kind of shape.
+
+**_Hildegaard_** : But we're all dead... we are ghosts!
+
+**_Diane_** : Oh, that explains it. I wondered what had happened to your head, but I didn't like to say anything. I mean it's none of my business really. So you're all ghosts, and I can see you... just like my Auntie Eileen.
+
+**_Cicely_** : Who?
+
+**_Diane_** : Auntie Eileen. She lived in Morecambe, reckoned she was a conduit to the spirit world. We always assumed it was the sherry talking.
 
 - The ghosts huddle together and whisper excitedly to each other
 
-**_Lord Naff_** : Well my dear. I think you may be exactly who we need.
+**_Lord Naff_** : Well my dear. I think you may be exactly who we need. You see, there's been a misunderstanding over my inheritance and I need to get a message to my legal representatives. Maybe you could help?
 
+**_Diane_** : Well, strictly speaking I've been hired by that cockney bloke to get rid of you all, but he seems like he's a bit of a...
 
+- Loud rumble of thunder obscures what she says next
 
+**_Lord Naff_** : Well, quite, quite... So, you'll help me to commune with the living.
 
----
-
-# News - Storm Maggie Weather Update
-
-(FOC)
-
-**_Roxy Belmeadows_** : Our main story this morning... chaos and destruction as Storm Maggie hits Wildboarclough. There have been reports of electrical items exploding. The storm, which some "experts" said wouldn't happen
-
-**_Stormy Spaniels_** : Well I certainly didn't see that coming
-
-**_Roxy Belmeadows_** : Aren't you supposed to forecast the weather
-
-**_Stormy Spaniels_** : I'm not Mystic Meg
+**_Diane_** : Why not? You only live once.
 
 ---
 
@@ -1119,9 +1609,14 @@ Elvis : You can say that again, your holiness... take it away Freddie
 
 **_Diane_** : Oh, Carry love, apparently your monster truck is blocking everyone in dear... You'll need to move it.
 
+- Ella has been tugging at the other ghosts clothing
+- Eventually Hildegaard takes notice and Ella whispers in her ear
+- the message is passed along the line but is lost in translation
+- [ ] Needs thought - if this is true, why did the ghosts get Diane involved at the end of the previous scene, if they didn't already know about the will in the cake?
+
 **_Lord Naff_** : The will's fake
 
-**_Old Lord Naff_** : The will
+**_Cicely_** : The will
 
 **_Norman_** : It's in the cake
 
@@ -1147,9 +1642,11 @@ Elvis : You can say that again, your holiness... take it away Freddie
 
 - Tripps, Buttermuffin and Freddie all look at each other
 
+(
 **_Freddie_** : The will's in the cake
 **_Mrs Buttermuffin_** : The will's in the cake
 **_Tripps_** : The will's in the cake
+)
 
 - Freddie reaches into the cake and pulls out the will
 - He brushes it clean and hands it to Mrs BM who reads it out
@@ -1170,22 +1667,23 @@ Elvis : You can say that again, your holiness... take it away Freddie
 
 **_Barclay Two_** : We need proof that Gideon hid the real will
 
+- [ ] Need to make it much clearer that he's going to want to retrieve the real will
+
 **_Freddie_** : How do we prove that?
 
 **_Tripps_** :  We need to set a trap
 
 **_Mrs Buttermuffin_** :  Catch him red handed
 
+**_Freddie_** : I have an idea...
 
 ---
 
-# News - Cake For The Needy
+# FOC News - Cake For The Needy
 
-(FOC)
+**_Roxy Belmeadows_** : ...And finally, a local Wildboarclough group is donating a huge cake to feed the hungry, impoverished and entitled folk of... Sutton and Langley. The event, dedicated to the late Lord Naff, will be named... Clive Aid. We can speak now to the creator of the cake, Mrs Buttermuffin. Mrs Buttermuffin, would you perhaps tell us a little more about the cake itself?
 
-**_Roxy Belmeadows_** : ...And finally, a local Wildboarclough group is donating a huge cake to feed the hungry, impoverished and entitled folk of... Sutton and Langley. This charity event is dedicated to the late Lord Naff who dedicated his life to helping those less fortunate than himself. It will be named... Clive Aid. We can speak now to the creator of the cake, Mrs Buttermuffin. Mrs Buttermuffin, would you perhaps tell us a little more about the cake itself?
-
-**_Mrs Buttermuffin_** : Well, it's the usual ingredients really... flour, butter, margarine, lard, chip-fat, eggs, Marmite, cream, vinegar, two types of jam... raspberry and anchovy, a little bit of sharp sand for texture, and I dust the top with a mixture of icing sugar and Shake-n-Vac.
+**_Mrs Buttermuffin_** : Well, it's the usual ingredients really... flour, butter, margarine, lard, chip-fat, eggs, Marmite, cream, vinegar, two types of jam... raspberry and pilchard, a little bit of sharp sand for texture, and I dust the top with a mixture of icing sugar and Shake-n-Vac.
 
 **_Roxy Belmeadows_** : And what do you use to make it rise so much?
 
@@ -1193,9 +1691,9 @@ Elvis : You can say that again, your holiness... take it away Freddie
 
 **_Roxy Belmeadows_** : I said, what do you use to make it rise so much?
 
-**_Mrs Buttermuffin_** : Oh! Well, that's a little secret passed down the generations. I always add 2 pints of bleach, it gives it a lovely light fluffy texture, and it helps keep my surfaces clean
+**_Mrs Buttermuffin_** : Oh! Well, that's a little secret passed down the generations. I always add 2 pints of bleach, it gives it a lovely light fluffy texture, and it helps keep my kitchen surfaces clean.
 
-**_Roxy Belmeadows_** : Well I must say Mrs Buttermuffin, it all sounds delicious and I'm sure the starving folk in Sutton and Langley will be very grateful for this generous donation
+**_Roxy Belmeadows_** : Well I must say Mrs Buttermuffin, it all sounds delicious and I'm sure the starving folk in Sutton and Langley will be very grateful for this generous donation.
 
 **_Mrs Buttermuffin_** : Oh, one more thing, it will be stored in my pantry overnight to make sure no-one can steal it. That's very important... It will be left in the pantry, for safekeeping. In... The... Pantry...
 
@@ -1206,6 +1704,7 @@ Elvis : You can say that again, your holiness... take it away Freddie
 
 # Mission Not Possible
 
+- **Do we need to make more of everyone setting things up then hiding**
 - Freddie and Mrs Buttermuffin wheel the cake in and set the alarms
 - Gideon descends from the ceiling to try to get to the cake.
 - He removes the real will from the cake.
@@ -1217,14 +1716,14 @@ Elvis : You can say that again, your holiness... take it away Freddie
 
 **_Tripps_** : I wonder why they're so interested in a cake?
 
+**_Mrs Buttermuffin_** : Maybe because it contained... The Real Will
+
+- She snatches the real will from Gideon
+
 **_Freddie_** : Mrs Tripps, unmask this mystery man
 
 - Gideon is unmasked.
-- Mrs Buttermuffin hold up the real will
-
-**_Mrs Buttermuffin_** : Looking for this, Gideon?
-
-**_Gideon_** : The real will!!!!
+- Mrs Tripps holds up the fake will
 
 **_Tripps_** : You created a fake will...
 
@@ -1242,7 +1741,7 @@ Elvis : You can say that again, your holiness... take it away Freddie
 
 **_Mrs Buttermuffin_** : So we inherit Naff Hall?
 
-**_Freddie_** : And you inherit naff-all, ha ha ha...
+**_Freddie_** : And YOU inherit naff-all, ha ha ha...
 
 
 ---
@@ -1252,6 +1751,8 @@ Elvis : You can say that again, your holiness... take it away Freddie
 - 2 Years in the future
 - Naff Hall zoo is a great success
 - Mrs Buttermuffin has started a building firm?
-- Gideon is picking up Penguin Poo as his community service, having left prison
-- Rod Stewart Bowl - major concert venue
-- 
+- Gideon and Candice are picking up Penguin Poo as their community service, having left prison
+- Rod Stewart Bowl - major concert venue (maybe Freddie's band are playing there?)
+- Mrs Whips?
+- Big George?
+- Eeeeeeeoooooo... We Are The Champions
