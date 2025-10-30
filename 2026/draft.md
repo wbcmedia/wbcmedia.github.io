@@ -21,7 +21,7 @@
 
 **_Norman_** : Well yeah, but that doesn't mean I can't be your boyfriend, does it.
 
-**_Hildegaard_** : Of course you cannot be friend-boy with me. I am a queen.
+**_Hildegaard_** : Of course you cannot be friend-boy with me. I am queen.
 
 **_Norman_** : Well maybe you'll change you mind after you see my magic act. Have you decided what you're going to do in the talent show? 
 
@@ -76,8 +76,6 @@
 
 # FOC Gideon and Candice
 
-(Front of curtain)
-
 - Live Aid intro is heard on the radio
 - Gideon appears, speaking on a massive mobile phone
 - He looks annoyed at the radio and switches it off
@@ -98,9 +96,6 @@
 **_Candice_** : Oh babes, would you? Oh I'm so excited, this nail bar idea of mine, it's gonna be massive. I'll be like the queen of nail bars. I'll be in all the papers, Candice Jones, entrebr.. entrerpor.. enterer... business-woman. Can we make an offer now, I've got the phone number, ring em now Gid, I could have the interior designers in by the weekend...
 
 **_Gideon_** : But Candice, I'm busy trying to rescue my portfolio...
-
-- Candice looks like she's about to burst into tears
-
 
 **_Candice_** : But you promised I could open a nail bar! You know it's my dream.
 
@@ -219,10 +214,6 @@ Oh your lordship, what a shock. He'd only just turned 123... had his whole life 
 
 # FOC Breaking News - Lord Naff is Dead
 
-(Front of curtain)
-
-- [ ] Can/should we get Mrs Tripps in here?
-
 **_Roxy Belmeadows_** : Our main story tonight - the sudden death of 123 year old Lord Naff. The shocking news was received just moments ago. Lord Naff was in excellent health and was due to take part in the Shutlingsloe fell race next week. A morning of mourning will take place in the morning. Elsewhere, another pothole has opened up on the main road. The shape of this latest pothole bears a remarkable similarity to Rod Stewart. We asked the Council if they intend to fill the pothole but they declined to comment. However, insiders say they are considering charging visitors to look at it. Now let's get the weather forecast from Stormy Spaniels. 
 
 **_Stormy Spaniels_** : Thanks Roxy. Well if you ARE thinking of visiting the Rod Stewart pothole over the weekend, do bring a brolly as it might rain... But also it might not... We don't really know. Back to you Roxy.
@@ -257,7 +248,7 @@ Oh your lordship, what a shock. He'd only just turned 123... had his whole life 
 
 - Gideon nudges her to shut up
 
-**_Candice_** : But, yeah, I didn't mind cos he's got a load of cash.. I mean a massive house.. I mean he was a lovely man.
+**_Candice_** : But, yeah, I didn't mind cos he's got a load of cash.. I mean a massive house.. I mean, what a lovely man.
 
 **_Gideon_** : Look we can't stop. We need to give him a big send him off. Before we get to the good bit. As the new Lord Naff, I've got plans... Big plans. I'll be making a statement later.
 
@@ -277,7 +268,7 @@ Oh your lordship, what a shock. He'd only just turned 123... had his whole life 
 
 **_Vicar_** : Have you finished? You have? Oh, right, well thank you Gerald, I'm sure we all found that very moving. Now Geraldine has written a poem which she hopes will help us all on this sad day, Geraldine...
 
-**_Geraldine_** : GERALDINES_POEM
+**_Geraldine_** : Geraldine's Poem 
 
 **_Vicar_** : Thank you Geraldine. We will now join together and sing Lord Naff's favourite song which you will find on the back of your order of service.
 
@@ -375,7 +366,7 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 - Ushers Ella off
 
-**_Hildegaard_** : Now, this afternoon is book club, tonight it's Karaoke, then tomorrow of course is Love Island on ITV. Wednesday is badminton, we can lend you a racket if you don't have one. Oh and of course, we have our talent contest...
+**_Hildegaard_** : Now, this afternoon is book club, tonight it's Karaoke, then tomorrow of course is Blind Date on ITV. Wednesday is badminton, we can lend you a racket if you don't have one. Oh and of course, we have our talent contest...
 
 - Norman interrupts, annoyed that she is giving Lord Naff this much attention
 
@@ -430,7 +421,9 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Freddie_** : You're going to bake one of your cakes?
 
-**_Mrs Buttermuffin_** : Well of course I'm going to bake one of my cakes. My cakes are fabulous, now you can help me with the ingredients. Eggs... thank you, flour... butter... jam... sausages... 
+**_Mrs Buttermuffin_** : For goodness sake, of course I'm going to bake a cake for the wake, make no mistake.
+
+one of my cakes. My cakes are fabulous, now you can help me with the ingredients. Eggs... thank you, flour... butter... jam... sausages... 
 
 **_Tripps_** : Pork and apple, or Lincolnshire?
 
@@ -505,6 +498,7 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Lord Naff_** : You were working as a waitress in a cocktail bar when I met you. I picked you out, I shook you up and turned you round. Granted, I then shot you, but you can't have everything.
 
+- [ ] Don't You Want Me - Lyrics needed
 SONG: Don't You Want Me?
 I was working as a waitress in a cocktail bar  
 That much is true  
@@ -603,9 +597,8 @@ Don't you want me? Oh
 
 # FOC Gideon Intercepts Barclay and Barclay (Cake Stuffing)
 
-- [ ] Sort out B&B dialogue
-
-- Gideon has a large mobile phone in one hand and a sheet of paper (a fake will he's just made) in the other
+- Gideon is speaking into a large mobile phone
+- In his other hand he holds a sheet of paper (a fake will he's just made) 
 
 **_Gideon_** : The old fool's left everything to his servants. I know. I know. Don't worry, you'll get your money, I just need a bit more time... There's no need to threaten me George, it'll all work out, I promise
 
@@ -667,23 +660,21 @@ Don't you want me? Oh
 
 **_Barclay Two_** : They don't like being spotted
 
-- Mrs Tripps wheels the cake through the curtains, wearing safety goggles, mask and massive rubber gloves?
-- Ella trails behind her.
-
 **_Gideon_** : Anyway, I'd better not delay you gentlemen, I assume you charge by the hour? Ha. In you go... that will ain't gonna read itself.
+
+- They disappear through the curtains
 
 ---
 
 # Will Reading
 
-- [ ] B&B dialogue?
-
-- Gideon appears FOC still holding the fake will
+- Gideon appears FOC holding the real will which has has stolen from B&B
+- [ ] Does he need to start reading the will (maybe to the audience) to emphasise that this is the real one and he's not inheriting?
 
 **_Gideon_** : I can't believe uncle Clive left everything to those complete strangers. I'm family, I deserve everything. And I'm going to GET everything.
 
 - The curtains open
-- Mrs Tripps wheels the cake in (wearing goggles, rubber gloves etc?)
+- Mrs Tripps wheels the cake in (wearing goggles, rubber gloves, facemask etc?)
 - Freddie and Mrs Buttermuffin enter, loudly chattering
 - Gideon sees them, looks at the real will he's holding, looks around for somewhere to hide it, and as the only resort, shoves it in the cake
 
@@ -798,13 +789,12 @@ Don't you want me? Oh
 
 **_Gideon_** : And anyone else who don't want to be fired better start thinking of ways to make this place turn a profit. Things need to change round here, I've got plans... Big plans.
 
+- [ ] maybe Gideon does some audience participation get them to boo him etc? 
 - He storms out
 
 **_Freddie_** : But I've nothing to wear, I can't do the cleaning dressed like this, it's not dignified.
 
 - Everyone looks concerned and upset as the curtains close
-
-- [ ] maybe Gideon does some audience participation get them to boo him etc? 
 
 ---
 
@@ -816,7 +806,7 @@ Don't you want me? Oh
 
 **_Roxy Belmeadows_** : Oh dear, I'm an Asparagus myself, sounds like I'd better stay indoors. And finally... 
 
-- [ ] SOME OTHER BONKERS "GOOD NEWS" STORY?
+- [ ] SOME OTHER BONKERS "GOOD NEWS" STORY (possibly about A Man in Bosley who has a breeding ferret colony in his trousers?)
 
 ---
 
@@ -847,6 +837,8 @@ Don't you want me? Oh
 
 **_Tripps_** : I'll ask Gerald to drive me down to the fancy dress shop, straight away.
 
+- Curtains
+
 ---
 
 # FOC Newsnight - Gideon Reveals Plans
@@ -863,7 +855,7 @@ Don't you want me? Oh
 
 **_Roxy Belmeadows_** : And how would you respond to critics who say that most normal people don't like golf?
 
-**_Gideon_** : Well it's not for them. Membership will only be offered to the very very wealthy, and I've already had interest from some very high profile posho's. You see, it only needs a few very rich old blokes to make ME a very rich young bloke, do you see? It's a win win.
+**_Gideon_** : Well it's not for normal people is it? Membership will only be offered to the very very wealthy, and I've already had interest from some very high profile poshos. You see, it only needs a few very rich old blokes to make ME a very rich young bloke, do you see? It's a win win.
 
 - We see Chris appear at the side of the curtains
 
@@ -925,7 +917,7 @@ Don't you want me? Oh
 
 **_Gideon_** : What's this??? It tastes like mud.
 
-**_Tripps_** : It's Earl Clay, we dig it out of the back garden. It's refreshing isn't it?
+**_Tripps_** : It's Earl CLAY, we dig it out of the back garden. It's refreshing isn't it?
 
 **_Gideon_** : How much do I pay you for this?
 
@@ -967,7 +959,7 @@ Don't you want me? Oh
 
 # Ex Factor
 
-- 3 ghosts plus Freddie, Lord Naff judges?
+- 3 ghosts are on stage
 - Ghosts are arguing about who goes first
 - Lord Naff wanders in
 
@@ -1039,14 +1031,16 @@ Don't you want me? Oh
 
 **_Cicely_** : This is outrageous. I was clearly the best. This is typical Clive.
 
-**_Freddie_** : This house, so empty, so quiet, so lonely.
+- Curtains close with Freddie left FOC
 
-- Freddie wanders out sadly
-- Curtains
+**_Freddie_** : This house, so empty, so quiet, so lonely.
 
 ---
 
 # FOC Gideon Fires Freddie
+
+- Following on from previous scene, Freddie is FOC
+- Gideon appears through curtains
 
 **_Gideon_** : What do you think you're doing, dressed like that?
 
@@ -1073,8 +1067,8 @@ Don't you want me? Oh
 
 # Penguins
 
+- [ ] Needs fixing: Do the curtains open whilst Gideon is ranting at the audience, then he turns round to see Chris standing there?
 
-- [ ] Do the curtains open whilst Gideon is ranting at the audience, then he turns round to see Chris standing there?
 - Gideon is showing Chris O'Really around the grounds describing his plans for the golf course. Mrs B is accompanying them.
 
 **_Gideon_** : And this will be the 18th hole, and we'll dig a bunker there and...
@@ -1128,6 +1122,7 @@ Don't you want me? Oh
 
 **_Chris O'Really_** : Especially, not a golf course!
 
+- Curtains
 
 ---
 
@@ -1176,7 +1171,7 @@ Don't you want me? Oh
 - A single lamp is left shining on the book
 - Chris notices this book on the floor and picks it up
 
-**_Chris O'Really_** : I almost stepped on this... wait, these are official records from the olden days, how fascinating... it says here that the house was visited by Queen Hildegaard of Hockflugenstein on her "Campaign of Cruelty" tour - oh I'm a big fan of that one, that was at the height of her power... She stopped here to make use of the facilities. The servants reported hearing "a loud groan from behind the latrine door... as if a demon had posessed her. There followed a creaking and splintering of the wooden seat therein... She fell with a huge splatter down into the dark filthiness below. One servant was heard to mutter, 'better give that ten minutes'".
+**_Chris O'Really_** : I almost stepped on this... wait, these are official records from the olden days, how fascinating... it says here that the house was visited by Queen Hildegaard of Hockflugenstein on her "Campaign of Cruelty" tour - oh I'm a big fan of that one, that was at the height of her power... She stopped here to make use of the facilities. The servants reported hearing "a loud groan from behind the latrine door... as if a demon had posessed her. There followed a creaking and splintering of the wooden seat therein... She fell with a huge splatter down into the dark filthiness below. One servant was heard to say, 'better give that ten minutes'".
 
 **_Gideon_** : Yeah, very interesting, can we just get on with signing off my plans, so I can start making super-prison-cash?
 
@@ -1184,7 +1179,7 @@ Don't you want me? Oh
 
 **_Gideon_** : Does this mean, what I think it means? You're not gonna let me build my super-prison are you?
 
-**_Chris O'Really_** : Oh my dear Gideon, of course not. You can't demolish this place, it is of the utmost importance. Queen Hildegaard was an important figure in European history. Furthermore, this is the only recorded instance of a famous person meeting their end on the toilet.
+**_Chris O'Really_** : Oh my dear Gideon, of course not. You can't demolish this place, it is of the utmost importance. This is the only recorded instance of a famous person meeting their end on the toilet.
 
 - Elvis wanders in
 
@@ -1192,9 +1187,13 @@ Elvis : Can I just stop you there sir? You said the ONLY famous person to die on
 
 **_Gideon_** : Keith! Not now! Sorry, this is Keith our gardener, he hangs around in the shed, I haven't got round to firing him... Yet!
 
-**_Chris O'Really_** : Well, there certainly seem to have been an awful lot of unusual things  taking place in Wildboarclough
+**_Chris O'Really_** : Don't I recognise you from somewhere. Have you been in films?
 
-Elvis : You can say that again, your holiness... take it away Freddie
+Elvis : Err, no, your holiness. I'm definitely Keith the gardener from the deep south of errr,  Macclesfield.
+
+**_Chris O'Really_** : Well, I must say, recently I've seen some crazy things in Wildboarclough.
+
+You can say that again, your holiness... take it away Freddie
 
 (SONG: Crazy Things In Wildboarclough)
 
@@ -1232,6 +1231,7 @@ Elvis : You can say that again, your holiness... take it away Freddie
 **_Roxy Belmeadows_** : Well, there you have it. It looks like Wildboarclough will soon have its first luxury spa. Before we have a look at tomorrow's papers, a quick update on Storm Maggie.
 
 - Stormy appears wearing a massive raincoat, hat, umbrella, sou-wester, etc or diving suit, snorkel etc?
+- She looks terrified
 
 **_Stormy Spaniels_** : It's coming!!!!!
 
@@ -1485,11 +1485,12 @@ Elvis : You can say that again, your holiness... take it away Freddie
 
 **_Gideon_** : Really? Well this was your idea in the first place, so here... you deal with it. I've got a loan shark called Big George who needs calming down.
 
-- He shoves the phone and the fax into Candice's hands and storms off
+- He shoves the phone and the fax into Candice's hands and storms off through curtains
 - Candice makes a phone call
 
 **_Candice_** : Hiya, is that Diane? It's Candice... Listen babes, I need you to do that thing again. Yeah, as soon as possible. Quick as you can. ASAP.
 
+- Candice leaves through curtains
 
 ---
 
@@ -1499,12 +1500,14 @@ Elvis : You can say that again, your holiness... take it away Freddie
 - [ ] Does Diane start with the wrong music "oh, that's for my hypnotherapy, hang on."
 
 - Freddie, Mrs Buttermuffin, Barclay and Barclay, Mrs Tripps and Candice are all onstage dressed for aerobics
-- Diane is at the front setting up a large ghetto-blaster
+- Diane is at the front setting up a large ghetto-blaster (or she comes on shortly?)
 - The ghosts are also about to participate
 
 **_Freddie_** : I thought he'd asked for an exorcism?
 
 **_Mrs Buttermuffin_** : I think someone's made a mistake!
+
+- [ ] Diane stumbles on late, Metro reference?
 
 **_Diane_** : OK, everyone, let's start with something to warm us all up shall we.
 
@@ -1520,21 +1523,22 @@ Elvis : You can say that again, your holiness... take it away Freddie
 
 **_Diane_** : Oh... an EXORCISM. Sorry love Candy over there said you wanted exercise-ism, didn't you love?
 
-**_Candice_** : I did babes, yeah, sorry
+**_Candice_** : I did babes, yeah, sorry!
 
 **_Gideon_** :  Well I'm not paying for this!
 
+- [ ] Get rid of the fluff
 **_Diane_** : Well just hold on a minute, anyone who knows me knows I'm one thing more than anything. I'm resourceful, isn't that right Candy? See, she knows. Now let me think. Exorcism... well, I've seen the film, oh what's it called, the one with the man who does the exorcisms in it? Oh, it's on the tip of my tongue, the film, oh it really scared the willies out of me I can tell you.
 
 - [ ] What's Freddie doing here if he's been fired - has Gideon not spotted him???
 
 **_Freddie_** : The Exorcist?
 
-**_Diane_** : Mmmm, no, I don't think that was it... Oh, it'll come to me when I'm least expecting it. Anyway, I've seen the film, I can remember what he did, that man, he was a priest I think, anyway, I saw what he did, and to be honest, it didn't look difficult. I'll need some candles. I've got some for the yoga class I do, they're in the Punto, I won't be a mo...
+**_Diane_** : Mmmm, no, I don't think that was it... Oh, it'll come to me when I'm least expecting it. Anyway, I've seen the film, I can remember what he did, that man, he was a priest I think, anyway, I saw what he did, and to be honest, it didn't look difficult. I'll need some candles. I've got some for the yoga class I do, they're in the Maestro, I won't be a mo...
 
 - She leaves and we hear the sound of the storm reaching its peak
 
-**_Gideon_** : Right you two, haven't you got contracts to read through or something? Hop it.
+**_Gideon_** : Right you two, haven't you got contracts to read through or something? Clear off.
 
 - Barclay and Barclay leave
 
@@ -1549,11 +1553,6 @@ Elvis : You can say that again, your holiness... take it away Freddie
 - Offstage there is a flash and a thunderclap, followed by a sizzling noise
 - Ghosts do Bohemian Rhapsody with torches lighting up their faces?
 - Diane returns, her face slightly sooty and her hair huge and frizzly
-
-**_Diane_** : I've just remembered... Ghostbusters!
-
-- [ ] Maybe Mrs Tripps wanders in with her bags packed again, sees her and makes a comment (indicating that Diane isn't dead, she can still be seen by the living)
-
 - She sees the ghosts
 
 **_Diane_** : Oh hello, have you just arrived? Oh, are you here for aerobics? I'm sorry, it's been cancelled.
