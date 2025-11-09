@@ -1,13 +1,12 @@
----
----
-@import "{{ site.theme }}";
+--- --- @import "{{ site.theme }}";
 
 p {
-  line-height: 1.2;
+  line-height: 1.4;
   font-size: 1.6em;
   color: #000;
 }
 
 li {
+  font-size: 1.6em;
   color: #777;
 }
