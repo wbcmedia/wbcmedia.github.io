@@ -1,11 +1,12 @@
 <h1>Panto 2026 - Where There's A Will</h1>
 
 <p>
-<a href="draft">Script</a>
+Read script <a href="draft">online</a>
 </p>
 <p>
-<a href="WhereTheresAWill.epub">Download EPub Format (Kindle, iPad etc)</a>
+Download <a href="WhereTheresAWill.pdf">PDF Format (Suitable for printing)</a>
 </p>
 <p>
-<a href="WhereTheresAWill.pdf">Download PDF Format (Suitable for printing)</a>
+    Download <a href="WhereTheresAWill.epub">EPub Format (Kindle, iPad etc)</a>
 </p>
+<p>Suitable mobile app for reading if you don't already have one <a href="https://readera.org/">ReadEra</a></p>
