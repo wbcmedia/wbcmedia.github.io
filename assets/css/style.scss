@@ -1,4 +1,6 @@
---- --- @import "{{ site.theme }}";
+---
+---
+@import "{{ site.theme }}";
 
 body {
   line-height: 2;
@@ -7,5 +9,5 @@ body {
 }
 
 li {
-  color: #777;
+  color: #aaa;
 }
