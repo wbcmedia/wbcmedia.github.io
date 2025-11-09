@@ -2,12 +2,12 @@
 ---
 @import "{{ site.theme }}";
 
-body {
+p {
   line-height: 2;
   font-size: 1.6em;
-  color: #777;
+  color: #000;
 }
 
 li {
-  color: #aaa;
+  color: #777;
 }
