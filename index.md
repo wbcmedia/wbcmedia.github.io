@@ -7,6 +7,6 @@ Read script <a href="draft">online</a>
 Download <a href="WhereTheresAWill.pdf">PDF Format (Suitable for printing)</a>
 </p>
 <p>
-    Download <a href="WhereTheresAWill.epub">EPub Format (Kindle, iPad etc)</a>
+    Download <a href="WhereTheresAWill.epub">EPub Format (Phone, iPad, Kindle)</a>
 </p>
 <p>Suitable mobile app for reading if you don't already have one <a href="https://readera.org/">ReadEra</a></p>
