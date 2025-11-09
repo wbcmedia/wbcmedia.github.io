@@ -547,9 +547,9 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 - Cicely is exasperated
 
-**_Cicely_** : Honestly Clive... we were married for five days and they were the most boring five days of my life. You spent most of the time shooting things with your silly friends and their silly guns in their silly tweed trousers. I was so bored living here in the middle of nowhere. There were no parties, no dancing... no fun. What was GOOD about it?
+**_Cicely_** : Honestly Clive... we were married for five days and they were the most boring five days of my life. You spent most of the time shooting things with your silly friends and their silly guns in their silly tweed trousers. I was so bored living here in the middle of nowhere. There were no parties, no dancing... no fun.
 
-**_Lord Naff_** : You were working as a waitress in a cocktail bar when I met you. I picked you out, I shook you up and turned you round. Granted, I then shot you, but you can't have everything.
+**_Lord Naff_** : You're so ungrateful... You were working as a waitress in a cocktail bar when I met you. I picked you out, I shook you up and turned you round. Granted, I then shot you, but you can't have everything.
 
 **_Lord Naff_** : Oh Cicely, don't you think you and I could patch things up, maybe try again?
 
