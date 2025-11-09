@@ -1,6 +1,11 @@
+<h1>Panto 2026 - Where There's A Will</h1>
+
 <p>
-    <a href="/2026/">Panto 2026 - Where There's A Will...</a>
+<a href="draft">Script</a>
 </p>
 <p>
-    <i>2025-11-09 12:44</i>
+<a href="WhereTheresAWill.epub">Download EPub Format (Kindle, iPad etc)</a>
+</p>
+<p>
+<a href="WhereTheresAWill.pdf">Download PDF Format (Suitable for printing)</a>
 </p>
