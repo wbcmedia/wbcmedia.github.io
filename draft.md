@@ -1,6 +1,6 @@
 <h1>Where There's A Will</h1>
 
-Published: 11/11/2025, 00:32:34
+Published: 21/11/2025, 15:36:07
 
 # 1 - Intro - Ghosts
 
@@ -10,8 +10,9 @@ Published: 11/11/2025, 00:32:34
 **_Norman_** : Hilda, Hilda, I wanted to, I mean, I thought you might... I mean... these are for you Hilda.
 
 - He produces a bunch of dead-looking flowers
+- She stomps away from him
 
-**_Hildegaard_** : Norman!!! You will use my correct title if you please.
+**_Hildegaard_** : Norman!!! You vill use my correct title.
 
 **_Norman_** : Oh, sorry... Queen Hildegaard of Hockflugenstein... I've brought you some flowers.
 
@@ -21,25 +22,25 @@ Published: 11/11/2025, 00:32:34
 
 **_Norman_** : Well, so are we. I wondered if you'd like to go on a date with me.
 
-**_Hildegaard_** : No, you are a common man.
+**_Hildegaard_** : No! You are a COMMON man.
 
 **_Norman_** : Well yeah, but that doesn't mean I can't be your boyfriend, does it.
 
-**_Hildegaard_** : Of course you cannot be friend-boy with me. I am a queen.
+**_Hildegaard_** : Of course you cannot be "friend-boy" viz me. I am a queen.
 
 **_Norman_** : Well maybe you'll change you mind after you see my magic act. Have you decided what you're going to do in the talent show? 
 
-**_Hildegaard_** : I have. And sharing this with you, I will not be.
+**_Hildegaard_** : I have. And sharing zis viz you... I vill not do.
 
 **_Norman_** : Alright, keep your hair on... I mean... don't lose your head... I mean...
 
-**_Hildegaard_** : You always are putting your mouth in your foot. This I do not find amusing.
+**_Hildegaard_** : Always you are putting your mouth in your foot. Zis I do not find amusing.
 
 - Cicely wanders in with a champagne bottle
 
 **_Cicely_** : You really need to get a sense of humour Hilda.
 
-**_Hildegaard_** : Cicely! Have you been out partying again.
+**_Hildegaard_** : Cicely! You have been partying again!
 
 **_Cicely_** : I have. It's been a wonderful night of drinking, dancing... flirting.
 
@@ -53,13 +54,13 @@ Published: 11/11/2025, 00:32:34
 
 **_Cicely_** : Get with the times Hildegaard, or should I say, Kill-joy-gard. I'm from the roaring twenties, not the boring 1670's.
 
-**_Hildegaard_** : The 1670s were NOT boring. In 1674, a pig ran into our castle. And in 1679 we were invaded by Latvia.
+**_Hildegaard_** : Ze 1670s were NOT boring. In 1674, a pig ran into our castle. And in 1679 ve vere invaded, by Latvia.
 
 **_Norman_** : Cicely, will you leave us alone. I'm trying to talk to Hilda...
 
 **_Cicely_** : Oh, Norman, have you told her you're head over heels in love? Ha!
 
-**_Hildegaard_** : Enough of this, I am heading off.
+**_Hildegaard_** : Enough of zis. I am heading off.
 
 - Hildegaard exits angrily
 
@@ -122,7 +123,7 @@ Published: 11/11/2025, 00:32:34
 
 # 3 - Lord Naff Passes On
 
-- Lord Naff is in bed
+	- Lord Naff is in bed
 
 **_Lord Naff_** : Freddie... Freddie... Where's Freddie?
 
@@ -315,7 +316,7 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 **_Lord Naff_** : Who's in there? I say, Freddie, what's going on. Freddie, why are you ignoring me? Mrs B, why won't anyone speak to me? Can you see me?
 
 - He has banter with audience
-- Ella, an urchin ghost comes in 
+- Ella, an urchin ghost wanders up aisle 
 - Curtains close behind them
 
 ---
@@ -324,6 +325,8 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 - Lord Naff and Ella are already FOC
 
+**_Lord Naff_** : I say... who are you? What's going on?
+
 **_Ella_** : You're dead
 
 **_Lord Naff_** : Nonsense, I've never felt better.
@@ -331,13 +334,15 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 - Ella does a whistle to alert the others
 - Hildegaard enters
 
-**_Hildegaard_** : Well hello. Ella, who zis is please?
+**_Hildegaard_** : Vell hello. Ella, who zis is, please?
 
 - Ella shrugs
 
 **_Lord Naff_** : I'm Lord Naff, apparently, I've just passed on, though I can't quite believe it, I'm only 113...
 
-**_Hildegaard_** : Handsome AND a Lord? Very happy this is making me!
+**_Hildegaard_** : Handsome AND a Lord? Very happy zis is making me! Ella, bring ze others.
+
+- Ella leaves down the aisle
 
 **_Lord Naff_** : Oh this is terrible, what am I to do, I was supposed to be going on the grouse shoot tomorrow. Oh, oh no, I'm getting one of my headaches!!!
 
@@ -345,7 +350,7 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Lord Naff_** : I'm sorry, I didn't mean to offend. Might I enquire what happened, I mean how you lost the err...
 
-**_Hildegaard_** : I don't like to talk about it. I want to talk about YOU. Oh, allow me to introduce myself. Queen Hildegaard of Hockflugenstein at your service I am being. If you are needing anything...and I MEAN anything...
+**_Hildegaard_** : (ANGRILY) I don't like to talk about it. (SOFTLY) I vant to talk about US. Allow me to introduce myself. Queen Hildegaard of Hockflugenstein at your service I am being. If you are needing anything...and I MEAN anything...
 
 **_Lord Naff_** : Queen Hildegaard? THE Queen Hildegaard? Feared across the lands of The North, ruler of the Sweinstein Empire, undefeated in battle, The Killer Queen???
 
@@ -359,7 +364,9 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Norman_** : Oh, we've met alright fella. We've met alright.
 
-**_Hildegaard_** : Zis is only Norman. Norman thinks he is a sorcerer. A harnesser of dark forces. A consort of the devil. A hexenmeister. He conjures light from thin air. In my day, we would have burned him for witchcraft.
+- Hildegaard sighs and rolls her eyes at the arrival of Norman
+
+**_Hildegaard_** : Zis is Norman. Norman is a sorcerer. A harnesser of dark forces. A consort of the devil. He conjures light from thin air. (IN A SEVERE TONE) In my day, ve would have burned him for vitchcraft.
 
 - Lord Naff suddenly recognises him
 
@@ -373,45 +380,42 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Lord Naff_** : I killed you? I have no idea what you're talking about. You were rewiring the basement, but you only did half the job. This is the problem with the working-classes. You can't rely on them.
 
-**_Norman_** : Allow me to jog your memory. It was a gloomy Monday afternoon back in 1974. I was working in the basement. I'd removed the big fuse, I was just about to reconnect the new wiring, I was up me step ladder, I took me screwdriver and bang! Lights out.
+**_Norman_** : Allow me to jog your memory. It was a gloomy Monday afternoon back in 1974. I was working in the basement. I'd removed the big fuse, I was about to connect the new wiring, I was up me step ladder, I took me screwdriver and bang! Lights out.
 
 **_Lord Naff_** : The lights went out?  Do you know why?
 
 **_Norman_** : Not the actual lights mate, Me!!! Zapped me shoes, frazzled me flares, melted me denim jacket, game over. SOMEONE had put the big fuse back in...
 
-**_Lord Naff_** : Had they?... oh... ah... well I can explain you see. Monday afternoon did you say? Yes I remember. I was about to settle down and watch Sale Of The Century. Have you seen it? Oh it's very good... "And Now, From Norwich, It's The Quiz of The Week" ha!... anyway, I tried to switch on the tellybox but it wasn't working. So, I went to see what was going on, and that's when I noticed the fuse had been removed from the, the thingy, with all the wires... So I put it back in.
+**_Lord Naff_** : Had they?... oh... ah... well I can explain you see. Monday afternoon did you say? Yes I remember. I was about to settle down and watch Sale Of The Century. Have you seen it? Oh it's very good... "And Now, From Norwich, It's The Quiz of The Week"... anyway, I tried to switch on the tellybox but it wasn't working. So, I went to see what was going on, and that's when I noticed the fuse had been removed from the, the thingy, with all the wires... So I put it back in.
 
-**_Hildegaard_** : And then what happened?
+**_Hildegaard_** : And zen vat happened?
 
 **_Lord Naff_** : Well there was a gentleman from Aldershot, he got a teasmade, a speedboat and a set of golf clubs. Lord knows why he'd want those. No one normal likes golf...
 
 **_Hildegaard_** : I MEAN, what happened to Norman here?
 
-**_Lord Naff_** : Oh, I, err, well, I'm not_
+**_Lord Naff_** : Oh, I, err, well, I'm not__
 
 **_Norman_** : Well isn't it obvious? There was a massive spark, then I sparked out.
 
 **_Lord Naff_** : Oh dear, that is rather unfortunate.
 
-**_Hildegaard_** : Well these things can happen. No harm done. Ella, where is the other member of our  happy group? She should be here to greet our wonderful new Lord.
+**_Hildegaard_** : Vell zese things can happen. No harm done. Now, zis afternoon is book club, tonight is Karaoke, zen tomorrow of course is Blind Date on ITV. Vednesday ve play badminton... ve can lend you a racket if you don't have one. Oh and of course, ve have our talent contest...
 
-- Ushers Ella off
-
-**_Hildegaard_** : Now, this afternoon is book club, tonight is Karaoke, then tomorrow of course is Blind Date on ITV. Wednesday we play badminton, we can lend you a racket if you don't have one. Oh and of course, we have our talent contest...
-
-- Norman interrupts, annoyed that she is giving Lord Naff this much attention
+- Part way through this, Norman goes off to get the hairdryer
+- Norman returns, annoyed that she is giving Lord Naff this much attention
 
 **_Norman_** : Hilda, Hilda, I err, I fixed your hairdryer, you know, the one you were having trouble with like...
 
-**_Hildegaard_** : What? Oh my dry-hairer, yes, thank you.
+**_Hildegaard_** : Vat? Oh my dry-hairer. Yes, thank you.
 
 - She's not in the slightest bit bothered and leaves Norman holding the hairdryer
 
-**_Hildegaard_** : Now then Lord Naff, you must be joining me for dinner, I insist. We have herring. 
+**_Hildegaard_** : Now zen Lord Naff, you must be joining me for dinner, I insist. Ve have herring. 
 
 **_Norman_** : Shall I join you for dinner Hilda??? Hilda? I like herring... 
 
-- Ella returns with Cicely, maybe with a long cigarette holder?
+- Cicely appears through the curtains
 - Hildegaard is focussed on Lord Naff (who has his back to the new arrival)
 - Norman is trying to get Hildegaard's attention without success 
 - Cicely notices this
@@ -420,7 +424,7 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 - Hildegaard hears Cicely laugh
 
-**_Hildegaard_** : Ah there you are. Come, we have a new member of the family.
+**_Hildegaard_** : Ah zere you are. Come, ve have a new member of ze family.
 
 - Lord Naff turns round and is shocked to see Cicely
 - Cicely is not pleased to see him
@@ -442,7 +446,9 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Tripps_** : Are you alright Freddie? You look ever so down.
 
-**_Freddie_** : I know what you're all thinking, but I can assure you, THIS is not "the right person". At least not in anything resembling "real life", it may be her fantasy. Oh Mrs Tripps, I feel like I'm caught in a landslide, there's no escape from reality.
+- Freddie helps Mrs Tripps into a chair during this
+
+**_Freddie_** : I know what you're all thinking, but I can assure you, THIS is not "the right person". Oh Mrs Tripps, this doesn't feel real, I feel like I'm caught in a landslide, there's no escape from reality.
 
 **_Tripps_** : You're such a poor boy
 
@@ -459,7 +465,6 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 **_Mrs Buttermuffin_** : For goodness sake, of course I'm going to bake a cake for the wake, make no mistake. My cakes are fabulous, everyone agrees. Now you can help me with the ingredients.
 
 - Freddie and Mrs Tripps take turns in fetching ingredients as they are requested
-
 **_Mrs Buttermuffin_** : Eggs... thank you, flour... butter... jam... sausages.
 
 - Mrs Tripps holds up two strings of sausages
@@ -486,7 +491,7 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 - We hear stuff being thrown into the mixer and a slop, slop sound
 
-**_Mrs Buttermuffin_** : Now then, will minced beef make it a bit too rich? Oh why not, life's too short. Oh! I nearly forgot... cream. Mrs Tripps, would you fetch some cream?
+**_Mrs Buttermuffin_** : Now then, will minced beef make it a bit too rich? Why not, life's too short. Oh! I nearly forgot... cream. Mrs Tripps, would you fetch some cream?
 
 - Mrs Tripps shuffles off
 - Candice arrives
@@ -501,7 +506,7 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Candice_** : Woah! Where d'ya get your eyebrows done babe? They are a-maze-ing!
 
-**_Mrs Buttermuffin_** : My eye...? I, I, don't know what you mean...
+**_Mrs Buttermuffin_** : My eyebrows...? I, I, don't know what you mean...
 
 **_Candice_** : Oh babes, they are the best-est. Gideon's said I can open a beauty salon here once he's inherited the hall, and I am TOTALLY gonna do those brows at my new place.
 
@@ -521,6 +526,7 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 - Candice turns to leave, and as she does runs straight into a big plate of cream which Mrs Tripps is carrying in
 - Everyone looks shocked as Candice stares out at the audience, face covered in cream
+- Mrs Tripps attempts to scrape the cream off Candice's face and back on to the plate
 - Curtains
 
 ---
@@ -529,7 +535,6 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 - Starts front of curtain
 - Scratchy gramophone record of 1920s music
-- Cicely and Lord Naff enter through curtain, the atmosphere is tense
 
 **_Lord Naff_** : How have you been?
 
@@ -555,6 +560,8 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Lord Naff_** : You're so ungrateful... You were working as a waitress in a cocktail bar when I met you. I picked you out, I shook you up and turned you round. Granted, I then shot you, but you can't have everything.
 
+- SONG: Don't You Want Me
+
 **_Lord Naff_** : Oh Cicely, don't you think you and I could patch things up, maybe try again?
 
 **_Cicely_** : Patch things up... how do you suppose we patch THIS up?
@@ -574,20 +581,21 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 **_Cicely_** : Errr... Norman.
 
 **_Lord Naff_** : What? The labourer, he's from the lower classes, you can't, he can't, it's not decent. Are you intending to marry?
-
-- Curtains open
+- Curtains open here?
 
 **_Cicely_** : Well, I haven't told him how I feel yet but...
 
 - Hildegaard enters, looking for LN
 
-**_Hildegaard_** : Oh, THERE you are, I think you have been maybe avoiding me?
+**_Hildegaard_** : Oh, THERE you are, I think maybe you have been avoiding me?
 
 - Norman enters carrying his toolbag
 
 **_Norman_** : Has anyone seen my big screwdriver?
 
-**_Cicely_** : Oh, Norman, I'm sorry, I picked it up, I've been admiring it, It's very impressive.
+- Cicely sees it in his toolbag and pulls it out.
+
+**_Cicely_** : Oh, Norman, it's here... It's very impressive.
 
 **_Norman_** : Oh, I...err...
 
@@ -597,7 +605,7 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Lord Naff_** : How dare you sir. I should be asking you the same question. What business do you have with MY wife?
 
-- Hildegaard and Norman are both taken aback by this revelation and both exclaim;
+- Hildegaard and Norman are both taken aback by this revelation and both exclaim simultaneously;
 
 **_Norman_** :  Your wife?!?
 **_Hildegaard_** : Your wife?!?
@@ -610,7 +618,7 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Cicely_** : Norman, why don't you and I go somewhere more fun. The Montague-Smythes are hosting a cocktail party, you could take me there.
 
-- Norman ignores her
+- Norman ignores her and drops his toolbag on the floor
 
 **_Norman_** : I'm putting an end to this... outside mate, let's sort this.
 
@@ -709,15 +717,15 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 # 10 - Will Reading
 
-- Gideon appears FOC holding the real will which has has stolen from B&B
-- Ella follows Gideon, wondering what's going on
+- Gideon is still FOC holding the real will which has has stolen from B&B
+- Ella appears and watches Gideon
 - Gideon begins to read the real will to the audience
 
 **_Gideon_** : "I hereby leave everything to Freddie and Mrs Buttermuffin, my faithful servants, and friends"... Can you believe uncle Clive was going to give everything to those complete strangers. I'm family! I deserve everything. And I'm going to GET everything.
 
 - The curtains open
+- Freddie and Mrs Buttermuffin are onstage together with Barclay and Barclay
 - Mrs Tripps wheels the cake in (wearing goggles, rubber gloves, facemask etc)
-- Freddie and Mrs Buttermuffin enter, loudly chattering
 - Gideon sees them, looks at the real will he's holding, looks around for somewhere to hide it, and as the only resort, shoves it in the cake
 - Ella sees this and tries to bring it to someone's attention (but obviously no one can see her)
 
@@ -808,6 +816,7 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 **_Barclay Two_** : Oh, how disappointing!
 
 - They are escorted out by Gideon and Candice
+- Freddie and Mrs B head to front of stage right
 - Ghost Lord Naff enters
 
 **_Freddie_** : This doesn't seem right, does it?
@@ -838,15 +847,17 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Gideon_** : And how long have you been with us Mrs Tripps?
 
-**_Tripps_** : Oh, let me think, oh as long as I can remember, now, let me think, I was 16 when I started, I'm 86 now, so that's, oh, dear, now don't rush me. I'd have been 26 after 10 years. Then after 20 years I'd have been 36, and then, oh hang on, where did I get to...
+**_Tripps_** : Oh, let me think, oh as long as I can remember, now, let me think, I was 16 when I started, I'm 86 now, so that's, oh, dear, now don't rush me. After 10 years I'd have been 26. Then after 20 years I'd have been 36, and then, oh hang on, where did I get to...
 
 **_Gideon_** : I think you've been here long enough... You're fired!
+
+- Mrs Tripps shuffles off, very upset
 
 **_Freddie_** : But you can't fire Mrs Tripps, who'll do all the cleaning?
 
 **_Gideon_** : Well you don't seem very busy, you can do it.
 
-- He picks up the feather duster, thrusts it at Freddie
+- He picks up a feather duster, thrusts it at Freddie
 
 **_Gideon_** : And anyone else who don't want to be fired better start thinking of ways to make this place turn a profit. Things need to change round here, I've got plans... Big plans.
 
@@ -958,7 +969,7 @@ SONG: I Want To Break Free
 
 **_Tripps_** : I don't understand what he's thinking. Nobody normal likes golf!
 
-**_Mrs Buttermuffin_** : I agree. "A good walk spoiled" I always say. I hope Mr O'Really will put a stop to it.
+**_Mrs Buttermuffin_** : I agree. A good walk spoiled, I always say. I hope Mr O'Really will put a stop to it.
 
 **_Tripps_** : Oh Mr O'Really. Did you see him on the television. Oh he's lovely.
 
@@ -993,7 +1004,7 @@ SONG: I Want To Break Free
 
 **_Gideon_** : How much do I pay you for this?
 
-**_Tripps_** : Oh, well, I err, I'm not really sure you see, I used to get paid three and six a day, but that was when I first started for the old Lord Naff, and then, let me think....
+**_Tripps_** : Oh, well, I err, I'm not really sure you see, I used to get paid three and six a day, but that was when I first started for the OLD Lord Naff, and then, let me think....
 
 **_Gideon_** : Never mind, you don't need to think about it any more... You're fired!
 
@@ -1026,7 +1037,7 @@ SONG: I Want To Break Free
 
 **_Freddie_** : Where will you go Mrs T?
 
-**_Tripps_** : Oh, I don't know. I'll probably live on the streets. At least I've still got my looks, might make a few quid table-dancing at the Hanging Gate. 
+**_Tripps_** : Oh, I don't know. I'll probably live on the streets. At least I've still got my looks. I might make a few quid table-dancing at the Hanging Gate. 
 
 **_Mrs Buttermuffin_** : Don't be silly Mrs Tripps, table-dancing at the Hanging Gate? With those low ceilings? It wouldn't be safe. Now, stop all this talk about living on the streets. That man has taken what's ours. I'm not having it. We're going to fight back. We're going to ruin his plans.
 
@@ -1086,7 +1097,7 @@ and eagles and birdies
 
 **_Lord Naff_** : I say, what's all the commotion?
 
-**_Hildegaard_** : We cannot agree who goes first.
+**_Hildegaard_** : Ve cannot agree who goes first.
 
 **_Lord Naff_** : First? First in what?
 
@@ -1094,7 +1105,7 @@ and eagles and birdies
 
 **_Lord Naff_** : Excuse me?
 
-**_Hildegaard_** : The talent show.
+**_Hildegaard_** : Ze talent show.
 
 **_Lord Naff_** : What talent show.
 
@@ -1107,22 +1118,22 @@ and eagles and birdies
 - Hildegaard and Norman look awkwardly at each other, sensing the increased tension
 - Hildegaard tries to lighten the atmosphere
 
-**_Hildegaard_** : Anyway, the talent show... We wondered if you'd take part?
+**_Hildegaard_** : Anyway, ze talent show... Ve wondered if you'd take part?
 
 **_Lord Naff_** : Oh, I don't think so, I'm not really very talented.
 
 **_Cicely_** : You can say that again.
 
-**_Hildegaard_** : You are not understanding me. We don't want you to be performing. We want you to be judging.
+**_Hildegaard_** : You are not understanding me. Ve do not vant you to be performing. Ve vant you to be judging.
 
 **_Lord Naff_** : Well I don't really think it's a____
 
-**_Hildegaard_** : Excellent, that's settled then. Our first act will be Queen Hildegaard of Hockflugenstein, that is me. I sing a song especially for you...
+**_Hildegaard_** : Excellent, zat is settled then. Our first act vill be Queen Hildegaard of Hockflugenstein, zat is me. I sing a song especially for you...
 
 - Hildegaard sings opera - sound of breaking glass?
 - Flirts with Lord Naff?
 
-**_Hildegaard_** : Well, what the verdict is? Is it the winner I am?
+**_Hildegaard_** : Vell, vat ze verdict is? Is it ze vinner I am?
 
 **_Lord Naff_** : Well I have to see the other acts first. Now it says here that Cicely will be doing an exciting new dance.
 
@@ -1158,7 +1169,7 @@ and eagles and birdies
 
 - Freddie wanders in dressed in one-piece leotard. He obviously can't see the ghosts and starts talking to the audience
 
-**_Freddie_** : I really thought I had it all worked out but everything's gone wrong. I was happy looking after Lord Naff but then that young upstart arrived and started throwing his weight around. Firing poor old Mrs Tripps, Leaving me to do the cleaning. Did you see the outfit I had to wear?! I'm trying a new look now - something a bit more macho - what do you think? Anyway, I can't work for that man, I don't trust him. There's definitely something fishy going on with that will.
+**_Freddie_** : I really thought I had it all worked out but everything's gone wrong. I was happy looking after Lord Naff but then that young upstart arrived and started throwing his weight around. Firing poor old Mrs Tripps, leaving me to do the cleaning. Did you see the outfit I had to wear?! I'm trying a new look now - something a bit more macho - what do you think? Anyway, I can't work for that man, I don't trust him. There's definitely something fishy going on with that will.
 
 **_Norman_** : What's this smart-alec doing, interrupting our talent show.
 
@@ -1172,7 +1183,7 @@ and eagles and birdies
 
 **_Lord Naff_** : Well I think we have a winner. Well done Freddie.
 
-**_Hildegaard_** : He can't win OUR talent competition. He's not even a ghost.
+**_Hildegaard_** : He cannot vin OUR talent competition. He is not even a ghost.
 
 **_Norman_** : It's a disgrace. Who put HIM in charge? 
 
@@ -1337,7 +1348,7 @@ and eagles and birdies
 
 **_Norman_** : Cicely! That's not funny!  You know she doesn't like people mentioning it. Go on Hilda, what's the bad news?
 
-**_Hildegaard_** : That evil man wants to knock down Naff Hall and build here ein Super-Prison.
+**_Hildegaard_** : Zat evil man wants to knock down Naff Hall and build here ein Super-Prison.
 
 **_Lord Naff_** : They can't knock down my house.
 
@@ -1382,11 +1393,15 @@ and eagles and birdies
 
 **_Gideon_** : Keith! Not now! Sorry, this is Keith our gardener, he hangs around in the shed, I haven't got round to firing him... Yet!
 
+- Gideon storms off
+
 **_Chris O'Really_** : Don't I recognise you from somewhere. Have you been in films?
 
 **_Elvis_** : Err, no, your holiness. I'm definitely Keith the gardener from the deep south of errr,  Macclesfield.
 
 **_Chris O'Really_** : Oh Really? Well, I must say, there seem to have been some unusual events around here recently.
+
+- Chris leaves
 
 **_Elvis_** : You can say that again, your holiness... Crazy Things in Wildboarclough... take it away Freddie
 
