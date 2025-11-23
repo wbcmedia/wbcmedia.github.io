@@ -1,6 +1,6 @@
 <h1>Where There's A Will</h1>
 
-Published: 23/11/2025, 18:32:43
+Published: 23/11/2025, 18:37:47
 
 # 1 - Intro - Ghosts
 
@@ -1563,7 +1563,6 @@ SONG: Crazy Things In Wildboarclough
 
 - Mrs Tripps leaves carrying the veg box
 - Candice enters
-
 - Section C
 
 **_Candice_** : Why are we in the basement babes, I don't like it down here.
