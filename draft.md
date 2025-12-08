@@ -1,6 +1,6 @@
 <h1>Where There's A Will</h1>
 
-Published: 01/12/2025, 15:42:04
+Published: 08/12/2025, 19:42:29
 
 # 1 - Intro - Ghosts
 
@@ -128,7 +128,7 @@ Published: 01/12/2025, 15:42:04
 
 **_Lord Naff_** : Freddie... Freddie... Where's Freddie?
 
-- Freddie enters
+- Freddie enters and walks around the bed to the drinks trolley
 
 **_Freddie_** : Just coming Lord Naff. How are you feeling?
 
@@ -138,14 +138,14 @@ Published: 01/12/2025, 15:42:04
 
 **_Lord Naff_** : That would be most kind. Easy on the absinthe Freddie... I fear it affects my dreams.
 
-- Freddie mixes his drink and passes it to him
-- Lord Naff necks it
+- Freddie pours liquid from the bottle into a small shot glass
+- Lord Naff necks it and hands it back to Freddie
 
 **_Freddie_** : One more your lordship?
 
 **_Lord Naff_** : No no no! Well maybe just one. A little larger this time?
 
-- Freddie goes back to the drinks trolley
+- Freddie goes back to the drinks trolley and begins pouring a larger glass
 - Mrs Buttermuffin enters carrying a basket with a teacloth covering
 
 **_Mrs Buttermuffin_** : How's my favourite lord of the manor this evening?
@@ -193,7 +193,7 @@ Published: 01/12/2025, 15:42:04
 
 **_Lord Naff_** : Who are you?
 
-- Gideon points at the photo
+- Gideon then points at the photo
 
 **_Gideon_** : Oh Uncle, you are a rascal, it's me, your favourite nephew, Gideon.
 
@@ -222,7 +222,8 @@ Published: 01/12/2025, 15:42:04
 **_Candice_** : Oh, Gid, you've dropped somefink'
 
 - Candice bends over to pick it up giving Lord Naff an eyeful of her behind
-- Lord Naff screams, chokes then falls back presumably dead 
+- Lord Naff screams, chokes then falls back presumably dead
+- Mrs Buttermuffin sobs uncontrollably
 
 ---
 
@@ -250,6 +251,7 @@ Published: 01/12/2025, 15:42:04
 - Freddie joins them on stage
 
 **_Freddie_** : It really is very upsetting, he never got round to his third nightcap. Come on now ladies, let's get you into the church... 
+
 - Freddie ushers Mrs B and Mrs T through the curtain
 - He then turns his attention back to Roxy
 
@@ -671,14 +673,14 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 **_Gideon_** : The old fool's left everything to his servants. I know. I know. Don't worry, you'll get your money. I just need a bit more time... There's no need to threaten me George. It'll all work out. I promise.
 
 - Gideon finishes his call
-- Barclay and Barclay arrive
+- Barclay and Barclay arrive carrying a small case
 - Gideon attempts to conceal the fake will behind his back
 
 **_Gideon_** : Ah, gentlemen, Barclay and Barclay I presume?
 
-**_Barclay One_** : Yes
+**_Barclay One - Cecil_** : Yes
 
-**_Barclay Two_** : And you are???
+**_Barclay Two - Stanley_** : And you are???
 
 **_Gideon_** : Oh, my apologies, Gideon Goldgrabber, entrepreneur, philanthropist and err... grieving nephew.
 
@@ -704,16 +706,16 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 **_Barclay One_** : But given the circumstances
 **_Barclay Two_** : But given the circumstances
 
-- They pass him the file containing the will
-- Gideon takes a quick look and begins ooh-ing and ahh-ing about the handwriting
+- They take the will from the case and pass it to him
 
 **_Gideon_** : Oh, yeah, that's the stuff, beautiful handwriting... wait... what's that over there?
 
 - He points offstage
-- Barclay and Barclay both whip binoculars from their briefcases
 
 **_Barclay One_** : Is it a bird
 **_Barclay Two_** : Is it a bird
+
+- They shove the case into Gideon's arms and desperately start looking for this "bird"
 
 **_Gideon_** : Errr, yeah, maybe it's a Lesser-Spotted Wincle-Warbler?
 
@@ -763,7 +765,7 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Barclay One_** : But I suppose on THIS occasion...
 
-**_Barclay Two_** : It would be rude not to...
+**_Barclay Two_** : It would be rude not to.
 
 - Gideon panics, steps in and interrupts
 
@@ -775,7 +777,7 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Barclay Two_** : We're here today to read the last will and testament of Lord Naff.
 
-**_Barclay One_** : I would have liked some cake!
+**_Barclay One_** : I'd have liked some cake!
 
 **_Barclay Two_** : Cecil..! The will please!
 
@@ -783,9 +785,9 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Barclay One_** : This handwriting is terrible
 
-- He passes it to Barclay Two who begins to read it out loudly
+- He passes it to Barclay Two
 
-**_Barclay Two_** : Never mind that Cecil, we're not here to admire his handwriting. Let me read... oh, I see. My glasses please Cecil
+**_Barclay Two_** : Never mind that Cecil, we're not here to admire his handwriting. Let me read this... oh... you're right... this handwriting IS terrible. My glasses please Cecil.
 
 - Barclay one, hands reading glasses to Barclay Two
 
@@ -793,11 +795,15 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Candice_** : You DO have lovely hair babes, he's right about that.
 
-- Barclay and Barclay look annoyed at Candice and indicate that she needs to be quiet
+- Barclay and Barclay look annoyed at Candice
+
+**_Barclay One_** : Shhhhhhh!
 
 **_Barclay Two_** : "...has lovely hair, and has always looked after me. Gideon is dead kind and thoughtful"
 
 **_Candice_** : Oh, dead kind and thoughtful. Yeah, that's very true, that's you all over Gid.
+
+**_Barclay One_** : Shhhhhhhhhhhhhh!
 
 - Barclay and Barclay look even more annoyed at Candice 
 
@@ -1564,7 +1570,7 @@ SONG: Crazy Things In Wildboarclough
 - Tripps picks up a veg box and holds up a leek
 - He and Gideon continue to hold up items as each pun is spoken
 
-**_Tripps_** : And there's onions, some dirty carrots, and a tin of peaches. Who'll start me off at 5 pounds?
+**_Tripps_** : And there's onions, some dirty carrots, and a tin of pilchards. Who'll start me off at 5 pounds?
 
 - Some harvest auction banter with the audience?
 - Gideon has grown very suspicious of this so-called plumber.
@@ -1650,9 +1656,10 @@ SONG: Crazy Things In Wildboarclough
 
 **_Chris O'Really_** : No need to panic, I've got a torch somewhere... there it is, now, ah that's better. Right everyone, stay close to me, I'm sure we can sort this out, I suspect the fusebox is through here.
 
-- They shuffle off in line then moments later shuffle back on
-- The 2 bedsheet ghosts tag on at the back
+- They shuffle off in line, down into the toilets...
+- Then moments later shuffle back on
 - Barclay Two has gone missing
+- The 2 bedsheet ghosts tag on at the back
 
 **_Chris O'Really_** : No, maybe it's over here.
 
@@ -1681,7 +1688,7 @@ SONG: Crazy Things In Wildboarclough
 - Chris's hi-viz vest floats back on stage as if possessed
 - Candice sees it and is frozen with fear
 - The "ghosts" tap her on the shoulders, she looks round, screams and runs off
-- Bedsheet ghosts fist-bump in celebration at the plan succeeding
+- Bedsheet ghosts remove their sheets and fist-bump in celebration at the plan succeeding
 
 **_Cicely_** : I can't believe people were taken in by those two.
 
@@ -1799,7 +1806,7 @@ Here we go.
 
 **_Diane_** : Mmmm, no, I don't think that was it... Oh, it'll come to me when I'm least expecting it. Anyway, I've seen the film, I remember what he did, that man, he was a priest I think, anyway, to be honest, it didn't look difficult. I'll need some candles. I've got some for the yoga class I do, they're in the Metro, I won't be a mo...
 
-- She leaves and we hear the sound of the storm reaching its peak
+- She leaves stage left and we hear the sound of the storm reaching its peak
 
 **_Gideon_** : Right you two, haven't you got contracts to read through or something? Clear off.
 
@@ -1866,7 +1873,7 @@ Here we go.
 # 25 - Seance
 
 - Diane has now embellished her outfit, gypsy headscarf etc.
-- She sits in the centre.
+- She stands in the centre.
 - Freddie, Mrs Buttermuffin and Mrs Tripps are seated either side, holding hands
 
 **_Diane_** : I'm connected to the spirit world, but the signal is not good, the message is unclear, I'm getting the name Barry, is there a Barry here? No? Harry maybe? Larry? Carry?
