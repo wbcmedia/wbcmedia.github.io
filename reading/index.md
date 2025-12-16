@@ -57,75 +57,74 @@
     <p>9 - FOC Gideon Meets Barclay and Barclay</p>
     <audio controls src="9.mp3"></audio>
   </div>
-  <div class="scene" data-cast="all,Gideon,Barclays,Buttermuffin,Tripps,Freddie,Candice">
+  <div class="scene" data-cast="all,Gideon,Barclays,Buttermuffin,Tripps,Freddie,Candice,Ella,Lord Naff">
     <p>10 - Will Reading</p>
     <audio controls src="10.mp3"></audio>
   </div>
-  <div class="scene" data-cast="all,Hildegaard,Norman,Cicely">
+  <div class="scene" data-cast="all,Roxy,Stormy">
     <p>11 - FOC Breaking News - Gideon is New Lord</p>
     <audio controls src="11.mp3"></audio>
   </div>
-  <div class="scene" data-cast="all,Hildegaard,Norman,Cicely">
+  <div class="scene" data-cast="all,Freddie,Buttermuffin,Tripps">
     <p>12 - Freddie Wants To Break Free</p>
     <audio controls src="12.mp3"></audio>
   </div>
-  <div class="scene" data-cast="all,Hildegaard,Norman,Cicely">
+  <div class="scene" data-cast="all,Roxy,Gideon,Chris,Stormy">
     <p>13 - FOC Newsnight - Gideon Reveals Plans</p>
     <audio controls src="13.mp3"></audio>
   </div>
-  <div class="scene" data-cast="all,Hildegaard,Norman,Cicely">
+  <div class="scene" data-cast="all,Buttermuffin,Tripps,Gideon,Freddie">
     <p>14 - Mrs PG Tipps is Fired</p>
     <audio controls src="14.mp3"></audio>
   </div>
-  <div class="scene" data-cast="all,Hildegaard,Norman,Cicely">
+  <div class="scene" data-cast="all,Lord Naff,Freddie,Hildegaard,Norman,Cicely">
     <p>16 - Ex Factor</p>
     <audio controls src="16.mp3"></audio>
   </div>
-  <div class="scene" data-cast="all,Hildegaard,Norman,Cicely">
+  <div class="scene" data-cast="all,Gideon,Freddie">
     <p>17 - FOC Gideon Fires Freddie</p>
     <audio controls src="17.mp3"></audio>
   </div>
-  <div class="scene" data-cast="all,Hildegaard,Norman,Cicely">
+  <div class="scene" data-cast="all,Gideon,Chris,Barclays,Tripps">
     <p>18 - Penguins</p>
     <audio controls src="18.mp3"></audio>
   </div>
-  <div class="scene" data-cast="all,Hildegaard,Norman,Cicely">
+  <div class="scene" data-cast="all,Roxy,Gideon">
     <p>19 - FOC News Update - Super Prison</p>
     <audio controls src="19.mp3"></audio>
   </div>
-  <div class="scene" data-cast="all,Hildegaard,Norman,Cicely">
+  <div class="scene" data-cast="all,Hildegaard,Cicely,Norman,Lord Naff,Chris,Gideon,Buttermuffin">
     <p>20 - Thwarting of the Super-Prison</p>
     <audio controls src="20.mp3"></audio>
   </div>
-  <div class="scene" data-cast="all,Hildegaard,Norman,Cicely">
+  <div class="scene" data-cast="all,Roxy,Candice,Stormy">
     <p>21 - FOC Newsnight - Candice Announces Plans For Spa</p>
     <audio controls src="21.mp3"></audio>
   </div>
-  <div class="scene" data-cast="all,Hildegaard,Norman,Cicely">
+  <div class="scene" data-cast="all,Lord Naff,Ella,Hildegaard,Cicely,Tripps,Gerald,Geraldine,Norman,Gideon,Candice,Chris,Barclays">
     <p>22 - 2 Bedsheets and a Haunting</p>
     <audio controls src="22.mp3"></audio>
   </div>
-  <div class="scene" data-cast="all,Hildegaard,Norman,Cicely">
+  <div class="scene" data-cast="all,Gideon,Tripps,Chris,Candice">
     <p>23 - FOC Spa Rejection Fax</p>
     <audio controls src="23.mp3"></audio>
   </div>
-  <div class="scene" data-cast="all,Hildegaard,Norman,Cicely">
+  <div class="scene" data-cast="all,Freddie,Tripps,Buttermuffin,Diane,Gideon,Candice,Hildegaard,Cicely,Norman,Lord Naff">
     <p>24 - The Exorcist</p>
     <audio controls src="24.mp3"></audio>
   </div>
-  <div class="scene" data-cast="all,Hildegaard,Norman,Cicely">
+  <div class="scene" data-cast="all,Diane,Hildegaard,Lord Naff,Norman,Cicely,Diane,Buttermuffin,Freddie,Tripps,Barclays">
     <p>25 - Seance</p>
     <audio controls src="25.mp3"></audio>
   </div>
-  <div class="scene" data-cast="all,Hildegaard,Norman,Cicely">
+  <div class="scene" data-cast="all,Roxy,Buttermuffin">
     <p>26 - FOC News - Cake For The Needy</p>
     <audio controls src="26.mp3"></audio>
   </div>
-  <div class="scene" data-cast="all,Hildegaard,Norman,Cicely">
+  <div class="scene" data-cast="all,Buttermuffin,Freddie,Tripps,Gideon,Barclays">
     <p>27 - Mission Not Possible</p>
     <audio controls src="27.mp3"></audio>
   </div>
-
 <script>
   function filterItems(cast) {
     console.log("filter", cast);
