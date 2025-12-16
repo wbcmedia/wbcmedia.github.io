@@ -31,7 +31,7 @@
     <p>3 - Lord Naff Passes On</p>
     <audio controls src="3.mp3"></audio>
   </div>
-  <div
+  <div class="scene"
     data-cast="all,Roxy,Stormy,Buttermuffin,Tripps,Freddie,Gerald,Gideon,Candice"
   >
     <p>4 - FOC Breaking News - Lord Naff is Dead</p>
