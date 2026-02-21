@@ -1,6 +1,6 @@
 <h1>Where There's A Will</h1>
 
-Published: 12/02/2026, 16:55:31
+Published: 21/02/2026, 11:44:37
 
 # 1 - Intro - Ghosts
 
@@ -195,6 +195,7 @@ Published: 12/02/2026, 16:55:31
 
 **_Lord Naff_** : I've instructed my solicitors, Barclay and Barclay to draw up the necessary papers.
 
+
 - Outside a car screeches to a halt, sounds of brakes, gravel and a narrowly missed cat
 
 **_Lord Naff_** : Ah, that will be Barclay and Barclay arriving now - with all the legal documents.
@@ -233,7 +234,9 @@ Published: 12/02/2026, 16:55:31
 
 - Gideon drops the candlestick he's nicked
 
+
 **_Candice_** : Oh, Gid, you've dropped somefink'
+
 
 - Candice bends over to pick it up giving Lord Naff an eyeful of her behind
 - Lord Naff screams, chokes then falls back presumably dead
@@ -282,6 +285,7 @@ Published: 12/02/2026, 16:55:31
 
 - He starts preening
 - Roxy becomes impatient and pushes him through the curtain
+- Gerald and Geraldine walk up the aisle
 
 **_Roxy Belmeadows_** : I appreciate you speaking to us at this upsetting time. Excuse me sir. Can I have a few words Mr...??
 
@@ -307,6 +311,8 @@ Published: 12/02/2026, 16:55:31
 
 **_Roxy Belmeadows_** : Well there you have it. A day of sadness and turmoil for the people of Wildboarclough. Clive Ignatious Maximillian Naff, a man who did so much for this village. He will be sorely missed.
 
+- Roxy leaves through curtains
+
 ---
 
 # 5 - Funeral
@@ -317,7 +323,6 @@ Published: 12/02/2026, 16:55:31
 - The vicar is centre stage
 - Freddie, Mrs B and Mrs T are stage right
 - Candice, Gideon, Gerald and Geraldine are stage left
-- They're holding wooden pews?
 
 **_Vicar_** : Welcome everyone to this sad occasion as we bid farewell to Clive Ignatious Maximillian Naff. He was born in 1872, a very different time, long before the invention of the filofax or the video-recorder. A popular man, always treating those below him with dignity and kindness. He cared for those less fortunate than himself, even if they were dirty and smelly. Most of all, he was a well liked employer, looking after those who looked after him. Freddie his butler, Mrs Buttermuffin the housekeeper, Mrs Tripps the cleaner, Geraldine who looked after his horses and of course Gerald who was his... well no-one seems sure, but we shall hear a few words now from Gerald.
 
@@ -378,6 +383,7 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 **_Ella_** : You're dead
 
 **_Lord Naff_** : Nonsense, I've never felt better.
+
 
 - Ella does a whistle to alert the others
 - Hildegaard enters
@@ -482,6 +488,9 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 **_Cicely_** : Oh... no!
 
 - They stare at each other in shock
+
+- Ghosts leave through curtains
+
 ---
 
 # 7 - Kitchen
@@ -571,9 +580,8 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Candice_** : I need, I need.. to speak to Gideon...
 
+
 - Candice turns to leave, and as she does runs straight into a big plate of cream which Mrs Tripps is carrying in
-
-
 - Everyone looks shocked as Candice stares out at the audience, face covered in cream
 - Mrs Tripps attempts to scrape the cream off Candice's face and back on to the plate
 
@@ -583,9 +591,10 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 # 8 - Lord Naff and Cicely
 
-- Lord Naff and Cicely emerge through curtains in darkness
-- As the lights fade up Cicely is looking angry with her back to Lord Naff
-- He's pacing slight, looking awkward, trying to think how to play the situation
+- Cicely appears through curtains on "that's not nearly all..."
+- Lord Naff appears through curtains on "stand the way you TEASE"
+- Cicely is looking angry with her back to Lord Naff
+- He's looking awkward, trying to think how to play the situation
 
 **_Lord Naff_** : How have you been?
 
@@ -612,6 +621,7 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 **_Cicely_** : Honestly Clive... we were married for five days and they were the most boring five days of my life. You spent most of the time shooting things with your silly friends and their silly guns in their silly tweed trousers. I was so bored living here in the middle of nowhere. There were no parties, no dancing... no fun.
 
 **_Lord Naff_** : You're so ungrateful... You were working as a waitress in a cocktail bar when I met you. I picked you out, I shook you up and turned you round. Granted, I then shot you, but you can't have everything.
+
 
 - SONG: Don't You Want Me
 
@@ -701,6 +711,7 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 # 9 - FOC Gideon Meets Barclay and Barclay
 
+
 - Gideon is speaking into a large mobile phone
 - In his other hand he holds a sheet of paper (a fake will he's just made) 
 
@@ -779,6 +790,7 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 - Gideon is still FOC holding the real will which he has has stolen from B&B
 
 - Ella appears and watches Gideon
+
 - Gideon begins to read the real will to the audience
 
 **_Gideon_** : Nah then, what's this say? "I hereby leave everything to Freddie and Mrs Buttermuffin, my faithful servants, and friends"... Can you believe uncle Clive was going to give everything to those complete strangers? I'm family! I deserve everything. And I'm going to GET everything.
@@ -807,10 +819,12 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Gideon_** : Nah, it's too early for cake. These gentlemen charge by the hour. We really need to get on with it.
 
+
 - He wheels the trolley front of curtain stage-right
 - He looks at the real will he's holding, looks around for somewhere to hide it, then shoves it in the cake
-- Ella sees this and tries to bring it to someone's attention (but obviously no one can see her)
-- Ella runs off stage left
+- Ella sees this and points at the cake, tries to attract attention of the others by waving at them. They can't see her. She turns to face the audience and shrugs in a frustrated way
+- Ella walks off stage left
+
 **_Barclay One_** : How disappointing.
 
 - Barclay Two clears his throat and begins to address the others
@@ -940,6 +954,7 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 - Everyone looks concerned and upset as the curtains close
 
+
 ---
 
 # 11 - FOC Breaking News - Gideon is New Lord
@@ -948,13 +963,15 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Stormy Spaniels_** : Thanks Roxy. Well, it's going to be a lovely day if you're a Scorpio, a Leo or a Gemini with temperatures expected to reach 25 degrees. However if you're a Pisces then there's a high chance of snow later in the day. Capricorns can expect to meet a tall dark stranger but it's bad news if you're Libra, or Asparagus. I'll be back with more weatherscopes after 9.
 
-**_Roxy Belmeadows_** : Oh dear, I'm an Asparagus myself, sounds like I'd better stay indoors. And finally... a man from Bosley has set a new record for putting ferrets down his trousers. Mr Reg Compost managed to keep 43 ferrets in his pants for 5 minutes, breaking the previous record held by Yorkshireman, Seth Arkinstall. Reg says he's delighted to be a world record holder and looks forward to celebrating with his wife Mavis, as soon as he's released from Macclesfield General Hospital.
+**_Roxy Belmeadows_** : Oh dear, I'm an Asparagus myself, sounds like I'd better stay indoors. And finally... a man from Bosley has set a new record for putting ferrets down his trousers. Mr Reg Compost managed to keep 43 ferrets in his pants for 5 minutes, breaking the previous record held by Yorkshireman, Seth Arkinstall. Reg says he's delighted to be a world record holder and looks forward to celebrating with his wife Mavis, as soon as he's released from Macclesfield General Hospital. Well that's all from me, Roxy Belmeadows and the rest of the WBC News team, goodnight.
+
 
 
 ---
 
 # 12 - Freddie Wants To Break Free
 
+- Curtains open
 - Mrs B is onstage reading the newspaper
 - Freddie is offstage shouting at Mrs B 
 
@@ -967,6 +984,7 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 **_Mrs Buttermuffin_** : We just have to do as he says until we can find a better solution 
 
 - Freddie comes on dressed in "I Want To Break Free" outfit, pushing a vacuum cleaner
+- After the first verse he grabs the feather duster
 
 SONG: I Want To Break Free
 
@@ -991,7 +1009,9 @@ SONG: I Want To Break Free
 
 # 13 - FOC Newsnight - Gideon Reveals Plans
 
-- MUSIC: Newsnight theme tune
+- Gideon and Roxy appear through curtains carrying stools
+- They sit down
+
 
 **_Roxy Belmeadows_** : Tonight, on Newsnight, after dramatic scenes at Naff Hall, I'll be speaking to the new Lord Naff. We'll be discussing his plans for the future and asking local politician, Dr Chris O'Really, what it might mean for the local economy. And given the popularity of the "Rod Stewart Pothole", we'll bring you a special report on a new scheme to open up MORE potholes around the area. But first, I'm joined by Gideon Goldgrabber, the new Lord Naff.
 
@@ -1119,31 +1139,43 @@ SONG: I Want To Break Free
 
 **_Mrs Buttermuffin_** : Don't be silly Mrs Tripps, table-dancing at the Hanging Gate? With those low ceilings? It wouldn't be safe. Now, stop all this talk about living on the streets. That man has taken what's ours. I'm not having it. We're going to fight back! 
 
-**_Freddie_** : But what can we do Mrs B. We can't stop this golf course. Pretty soon we'll be overrun with annoying rich men who won't stop talking about their
+**_Freddie_** : But what can we do Mrs B. We can't stop this golf course.
+
+Pretty soon we'll be overrun with annoying rich men who won't stop talking about their
 handicaps and sand-wedges
-and helipads and fund-hedges
-and swingers and strokes
-and inappropriate jokes
-and roughs and shanks
-and buying up banks
-and sycophant caddies
-who egg-on those baddies
+and personalised car reg-es
+telling inappropriate jokes
+about swingers and strokes
+and mis-hits and shankers
+these smug little bankers
+With their sycophant caddies
+egging on these baddies
 dressed in Rupert-bear pants
 obsessed with the chance
-of getting a hole in one
+of getting a hole... in... one
 
 - He pauses for breath
 - Buttermuffin and Tripps attempt to interrupt, but he restarts
 
+Dropping THEIR balls on OUR greens
+Picking up Double-Bogeys, whatever THAT means
+Overbearing nutters
+Putting their putters
+In those silly wheely bags
+Then driving off - in their really silly Jags
+
 With their big woods, and irons
 The sort of men you can rely-on
-To rock up in a foursome
+To Engage in a foursome
 And pretend that they're sportsmen
-It'll all be about
-Eagles and Birdies
-Albatrosses and turkeys
-... it will be... unbearable darlings!
-Bogies/Fogeys
+Even though their only goal is to make it to the 19th hole
+Where these men without chins
+Will order tonics and gins
+And boast about their Eagles and Birdies
+Albatrosses and Turkeys
+
+Nobody Normal Likes Golf!
+
 **_Mrs Buttermuffin_** : What did you just say Freddie?
 
 **_Freddie_** : I said we'll be overrun with annoying rich men who...
@@ -1157,6 +1189,8 @@ Bogies/Fogeys
 - Whispers instructions in Mrs Tripps' ear
 
 **_Tripps_** : I like it. I'll get Gerald to drive me down to the fancy dress shop.
+
+- Curtains close
 
 ---
 
@@ -1208,7 +1242,7 @@ Bogies/Fogeys
 
 **_Hildegaard_** : Excellent, zat is settled zen. Our first act vill be Queen Hildegaard of Hockflugenstein, zat is me. I sing a song especially for you...
 
-- Hildegaard sings opera - sound of breaking glass?
+
 - Flirts with Lord Naff?
 
 **_Hildegaard_** : Vell, vat ze verdict is? Is it ze vinner I am?
@@ -1513,8 +1547,9 @@ SONG: Crazy Things In Wildboarclough
 
 # 21 - FOC Newsnight - Candice Announces Plans For Spa
 
+- Roxy and Candice appear through the curtain and sit down
+- They are both sporting ridiculous dame-brows?
 - Newsnight theme
-- Roxy and Candice are both sporting ridiculous dame-brows
 
 **_Roxy Belmeadows_** : After plans were rejected for his exclusive golf course, and for a potential super-prison, Lord Gideon Naff has handed over responsibility for the future direction of Naff Hall to Lady Naff. She joins me in the studio now.
 
@@ -1718,12 +1753,14 @@ SONG: Crazy Things In Wildboarclough
 
 **_Chris O'Really_** : No need to panic, I've got a torch somewhere... there it is, now, ah that's better. Right everyone, stay close to me, I'm sure we can sort this out, I suspect the fusebox is through here.
 
-- They shuffle off in line, down into the toilets...
-- Then moments later shuffle back on
-- Barclay Two has gone missing
-- The 2 bedsheet ghosts tag on at the back
+- They tiptoe off in line, down into the toilets...
+- As the music stops...
 
 **_Chris O'Really_** : No, maybe it's over here.
+
+- They tiptoe back on
+- The 2 bedsheet ghosts tag on at the back and Barclay Two has gone missing
+- Once the music stops again, Barclay One looks terrified
 
 **_Barclay One_** : Barclay? Where's Barclay?
 
@@ -1747,9 +1784,8 @@ SONG: Crazy Things In Wildboarclough
 
 **_Candice_** : Can we leave now Chris? I really don't like it here. Chris? Chris? Mr O'Really, where are you?
 
-- Chris's hi-viz vest floats back on stage as if possessed
-- Candice sees it and is frozen with fear
-- The "ghosts" tap her on the shoulders, she looks round, screams and runs off
+- The "ghosts" stand either side of her before tapping her on the shoulders
+- She looks round, screams and runs off
 - Bedsheet ghosts remove their sheets and fist-bump in celebration at the plan succeeding
 
 **_Cicely_** : I can't believe people were taken in by those two.
