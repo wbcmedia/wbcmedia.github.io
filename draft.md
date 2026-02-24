@@ -1,6 +1,6 @@
 <h1>Where There's A Will</h1>
 
-Published: 21/02/2026, 11:44:37
+Published: 24/02/2026, 17:16:44
 
 # 1 - Intro - Ghosts
 
@@ -90,16 +90,23 @@ Published: 21/02/2026, 11:44:37
 
 # 2 - FOC Gideon and Candice
 
+- The radio is held out from side-curtain
+
+
 - Live Aid intro is heard on the radio
-- Gideon appears, with a massive mobile phone
-- He looks annoyed at the radio tries to retune it
+- Gideon appears through curtain as lights go up
+- He's holding a massive mobile phone
 
 **_Gideon_** : I hate Status Quo...
+
+- He looks annoyed at the radio tries to retune it
 
 
 **_Gideon_** : Oh, not this one, I'm sick of hearing this...
 
+
 - He switches the radio off
+- Chas pulls radio back in
 
 **_Gideon_** : Why has everything got to be about charity these days... makes me sick
 
@@ -142,6 +149,7 @@ Published: 21/02/2026, 11:44:37
 
 **_Lord Naff_** : Freddie... Freddie... Where's Freddie?
 
+
 - Freddie enters and walks around the bed to the drinks trolley
 
 **_Freddie_** : Just coming Lord Naff. How are you feeling?
@@ -171,6 +179,7 @@ Published: 21/02/2026, 11:44:37
 - She places two large oven-bottom-muffins on the bedside table
 - Freddie delivers the second nightcap and the bottle
 - Lord Naff ignores the glass, grabs the bottle and glugs it down
+
 - He then coughs violently and falls limply as if dead
 
 **_Mrs Buttermuffin_** : Freddie! Oh my, you've killed him, I told you not to give him spirits after 9 o'clock. Oh it's awful, Lord Naff, dead. Look, he hasn't even touched my baps! Oh your lordship, what a shock. He'd only just turned 113... had his whole life ahead of him. And now, he's gone.
@@ -251,15 +260,17 @@ Published: 21/02/2026, 11:44:37
 
 **_Roxy Belmeadows_** : Our main story tonight - the sudden death of 113 year old Lord Naff. The shocking news was received just moments ago. He was in excellent health and expected to run the Shutlingsloe fell race next week. A morning of mourning will take place in the morning. Elsewhere, another pothole has opened up on the main road. The shape of this latest pothole bears an uncanny resemblance to Rod Stewart. We asked the Council if they intend to fill the pothole but they declined to comment. However, insiders say they are considering charging visitors to look at it. 
 
-- Stormy pops through the side curtain
+- Stormy pops through stage-left side-curtain
 
 **_Roxy Belmeadows_** : Now let's get the weather forecast from Stormy Spaniels. 
 
+
 **_Stormy Spaniels_** : Thanks Roxy. Well if you ARE thinking of visiting the Rod Stewart pothole over the weekend, do bring an umbrella as it might rain... But also it might not... We don't really know. Back to you Roxy.
 
-- Stormy goes back through curtains
+- Stormy goes back through side-curtain
 
 **_Roxy Belmeadows_** : Thanks Stormy. Back to the breaking news and people are already starting to arrive for the funeral of Lord Naff who has died suddenly at the age of 113. We'll try to grab a few words.
+
 
 - Mrs Buttermuffin and Mrs Tripps come up the aisle and arrive on stage
 
@@ -307,11 +318,13 @@ Published: 21/02/2026, 11:44:37
 
 **_Gideon_** : Look we can't stop. We need to give him a big send him off. Before we get to the good bit. As the new Lord Naff, I've got plans... Big plans. I'll be making a statement later.
 
-- They go into "the church"
+- They go through the curtains into "the church"
+
 
 **_Roxy Belmeadows_** : Well there you have it. A day of sadness and turmoil for the people of Wildboarclough. Clive Ignatious Maximillian Naff, a man who did so much for this village. He will be sorely missed.
 
-- Roxy leaves through curtains
+
+- Roxy leaves through curtains as soon as lights have blacked out
 
 ---
 
@@ -366,10 +379,12 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 - Ghost of Lord Naff drifts in, begins to try speaking to the others, waving his hand in their faces etc
 - He points at the coffin
 
-**_Lord Naff_** : Who's in there? I say, Freddie, what's going on. Freddie, why are you ignoring me? Mrs B, why won't anyone speak to me? I don't think they can see me. Can you see me?
+**_Lord Naff_** : Who's in there? I say, Freddie, what's going on. Freddie, why are you ignoring me? Mrs B, why won't anyone speak to me? I don't think they can see me.
 
-- He has banter with audience
-- Curtains close behind them
+- He steps forward to the front of the stage
+- Curtains close behind him
+
+**_Lord Naff_** : Can you see me?
 
 ---
 
@@ -489,11 +504,15 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 - They stare at each other in shock
 
+- Simon holds curtain open for Ghosts (Jane first)
 - Ghosts leave through curtains
 
 ---
 
 # 7 - Kitchen
+
+- Curtains open
+- Does Freddie remove his jacket for this scene?
 
 **_Freddie_** : Oh, the house seems so quiet now Lord Naff has gone. I don't know what I'll do next. I never chose to be a butler, but it runs in the family. I always liked the idea of being a rock star, I'm probably too old for that kind of thing now. Everyone says I should settle down with someone nice and stop dreaming, but I've never met the right person...
 
@@ -712,7 +731,7 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 # 9 - FOC Gideon Meets Barclay and Barclay
 
 
-- Gideon is speaking into a large mobile phone
+- Gideon dances up the aisle
 - In his other hand he holds a sheet of paper (a fake will he's just made) 
 
 **_Gideon_** : The old fool's left everything to his servants. I know. I know. Don't worry, you'll get your money. I just need a bit more time... There's no need to threaten me George. It'll all work out. I promise.
@@ -788,8 +807,7 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 # 10 - Will Reading
 
 - Gideon is still FOC holding the real will which he has has stolen from B&B
-
-- Ella appears and watches Gideon
+- Ella appears from curtains-left and watches Gideon
 
 - Gideon begins to read the real will to the audience
 
@@ -1025,7 +1043,8 @@ SONG: I Want To Break Free
 
 **_Gideon_** : Well it's not for normal people is it? Membership will only be offered to the very very wealthy. I've already had interest from some very high profile poshos. It only needs a few very rich old blokes to make ME a very rich young bloke, do you see? It's a win win.
 
-- We see Chris appear at the side of the curtains
+- We see Chris appear at the side of the curtains dressed for his holiday
+
 
 **_Roxy Belmeadows_** : Mmm, well we're able to speak now with Councillor Chris O'Really, via video link from his, err, yacht? Thanks for taking the time to speak to us, I know you're incredibly busy.
 
@@ -1108,7 +1127,7 @@ SONG: I Want To Break Free
 
 - Mrs Tripps bursts into tears and rushes out
 - Gideon baits the audience a bit more before leaving
-- Freddie rushes in
+- Freddie rushes in still dressed in his Want To Break Free outfit
 
 **_Freddie_** : What's just happened. He hasn't fired someone again has he???
 
@@ -1251,6 +1270,7 @@ Nobody Normal Likes Golf!
 
 **_Cicely_** : I shall be doing the Charleston which is a new dance from America. It's the absolute bees-knees.
 
+
 - Cicely does Charleston dance routine
 
 **_Lord Naff_** : Well that was very exciting, though obviously the opera singing was excellent too. Now Norman, apparently you're doing some magic tricks?
@@ -1293,6 +1313,7 @@ Nobody Normal Likes Golf!
 **_Cicely_** : Indeed, how arrogant. Men... they're all the same. Think the world revolves around them.
 
 **_Freddie_** : Oh this big old house feels so empty. I'm so lonely... I'm more lonely than that. Stuck here with no companionship. I mean, there's Mrs Buttermuffin, but I think of her as one of the boys really, I don't know why, I just always have... If only I had someone to talk to, a shoulder to cry on, somebody to love. 
+
 
 - SONG: Somebody to Love (Ghosts provide backing vocals)
 
@@ -1352,8 +1373,6 @@ Nobody Normal Likes Golf!
 
 - The curtains open
 - Chris O'Really is standing there with a clipboard
-- Mrs Buttermuffin is next to him
-- Chris appears to be asking various questions and making notes
 
 **_Gideon_** : I can't stand HONEST politicians. What's the point of being a politician if you won't accept a brown envelope full of cash every now and then. I need to keep an eye on him... hold on...
 
@@ -1537,10 +1556,11 @@ Nobody Normal Likes Golf!
 
 - Chris leaves
 
-
 **_Elvis_** : You can say that again, your holiness... Crazy Things in Wildboarclough... take it away Freddie
 
+
 SONG: Crazy Things In Wildboarclough
+
 - Curtains Close
 
 ---
@@ -1548,7 +1568,8 @@ SONG: Crazy Things In Wildboarclough
 # 21 - FOC Newsnight - Candice Announces Plans For Spa
 
 - Roxy and Candice appear through the curtain and sit down
-- They are both sporting ridiculous dame-brows?
+- They are both sporting ridiculous dame-brows
+
 - Newsnight theme
 
 **_Roxy Belmeadows_** : After plans were rejected for his exclusive golf course, and for a potential super-prison, Lord Gideon Naff has handed over responsibility for the future direction of Naff Hall to Lady Naff. She joins me in the studio now.
@@ -1633,6 +1654,8 @@ SONG: Crazy Things In Wildboarclough
 
 **_Cicely_** : This will never work, they don't look in the slightest bit scary. No one is going to believe this place is haunted by those two. You can see right through them. Well, actually you can't, that's part of the problem.
 
+- Mrs Tripps sends the bedsheet ghosts off stage right
+
 **_Lord Naff_** : Well maybe we need to give them some help, use our talents.
 
 **_Norman_** : I can do my thing with the lights again.
@@ -1645,8 +1668,9 @@ SONG: Crazy Things In Wildboarclough
 
 **_Cicely_** : Nothing Clive. You HAVE no talent!
 
-- Mrs Tripps ushers the bedsheet ghosts offstage
-- Gerald & Geraldine leave stage right
+- Cicely storms off stage right
+- Hildegaard and Norman follow her
+- Lord Naff leaves after looking for sympathy from the audience
 - Gideon arrives and sees Mrs Tripps 
 - Section B
 
@@ -1838,29 +1862,34 @@ SONG: Crazy Things In Wildboarclough
 **_Chris O'Really_** : P.S. I did a little more research and discovered the following addendum... Should any slash all ghost slash ghosts be removed by a registered specialist, then, on production of an authenticated certificate of exorcism, permission would be given... permission would be given... perm...
 
 - Chris's voice echoes away
-- Candice enters and overhears
 
-**_Gideon_** : An exorcism certificate? Right, I've no idea what one is, but I need to arrange an exorcism...
+**_Gideon_** : Certificate of exorcism? What's that mean? I need to speak to Candice.
 
-**_Candice_** : Oh I know someone who does that, she's really good
+- Freddie passes the phone through middle of curtain (without being seen)
 
-**_Gideon_** : Really? Well this was your idea in the first place, so here... you deal with it. I've got a loan shark called Big George who needs calming down.
+**_Gideon_** : Oh, thanks.
 
-- He shoves the phone and the fax into Candice's hands and storms off through curtains
-- Candice makes a phone call
+- He dials Candice's number
+- Freddie pokes his head through the curtain to listen in
 
-**_Candice_** : Hiya, is that Diane? It's Candice... Listen babes, I need you to do that thing again. Yeah, as soon as possible. Quick as you can. ASAP.
+**_Gideon_** : Candy, it's Gid, I... what? Calm down. I can't understand a word you're saying. You what... ghosts?!? Yeah, yeah, I know. That O'Really bloke says the place is haunted. Says we need an exorcism but I don't know what... What? You know someone who does it? Really. What's his name? Diane???? Well yeah, if you think she's up to it. Well, this spa thing was your idea so you deal with it. Get her here sharpish. I've got a loan shark called Big George what needs calming down.
 
-- Candice leaves through curtains
+- Gideon hangs up, then exclaims to the audience
+
+**_Gideon_** : Can you believe this? An exorcism??
+
+- He shrugs, and then storms up the aisle (he can let Diane in from the back)
 
 ---
 
 # 24 - The Exorcist
 
 - Freddie, Mrs Buttermuffin, Mrs Tripps, Barclay and Barclay and Candice are all onstage dressed for aerobics
+- Freddie is wearing a one-piece leotard
+- Mrs Buttermuffin is wearing sweat-bands
 - The ghosts look on, confused but amused
 
-**_Freddie_** : I thought he'd asked for an exorcism?
+**_Freddie_** : I thought I heard him asking for an exorcism?
 
 **_Tripps_** : I think someone's made a mistake.
 
@@ -1868,7 +1897,11 @@ SONG: Crazy Things In Wildboarclough
 
 - Diane, the fitness instructor, bursts in carrying a ghetto-blaster
 
-**_Diane_** : Sorry I'm late everyone. I had terrible trouble parking the Mini Metro. Anyway, I'm here now. Candy's told me all about you and asked me to go easy to start with. You must be Freddie, and Mrs Tripps and Mrs Buttermuffin, and the little gentlemen, Stanley and Cecil? Oooh, you two really need to get some exercise clothes for next time. Get yourselves down to Bury Market, go and see Mandy... tell her Diane sent you, she'll sort you out. Right well I think we're all here, let's get warmed up shall we?
+**_Diane_** : I came as quick as I could Candy, Oooh I had terrible trouble parking the Mini Metro. Anyway, I'm here now. Oooooh, I love your leotard, is it new? Where did you get it, was it from C&A
+
+**_Candice_** : Can we get started Diane? Gideon said he wanted this done as quickly as possible.
+
+**_Diane_** : Oh, of course Candy love. Right, let's just check everyone's ready. So you must be Freddie, and Mrs Buttermuffin and Mrs Tripps, and the little gentlemen, Stanley and Cecil? Oooh, you two really need to get some exercise clothes for next time. Get yourselves down to Bury Market, go and see Mandy... tell her Diane sent you, she'll sort you out. Right well I think we're all here, let's get warmed up shall we?
 
 - Diane hits play on her ghetto blaster, but all we hear is some ambient calming sounds
 
@@ -1906,6 +1939,7 @@ Here we go.
 **_Diane_** : Mmmm, no, I don't think that was it... Oh, it'll come to me when I'm least expecting it. Anyway, I've seen the film, I remember what he did, that man, he was a priest I think, anyway, to be honest, it didn't look difficult. I'll need some candles. I've got some for the yoga class I do, they're in the Metro, I won't be a mo...
 
 
+- Diane picks up her ghetto-blaster
 - She leaves stage left and we hear the sound of the storm reaching its peak
 - Offstage we hear her shout
 
@@ -1925,11 +1959,19 @@ Here we go.
 
 **_Gideon_** : Candice... a word in my office please!
 
+- Gideon and Candice leave stage-left
 - The lights dim, the sounds of the storm start to be heard
+
+**_Hildegaard_** : Norman... stop your vitchcraft viz ze lights.
+
+**_Norman_** : It's not me. I think it must be the storm.
+
+**_Hildegaard_** : Mmm. Vell, it is time for choir practice. Positions everyone.
+
+- The ghosts arrange themselves into the Bohemian Rhapsody "diamond"
 
 - Ghosts do Bohemian Rhapsody with torches lighting up their faces
 - Offstage there is a flash and a thunderclap, followed by a sizzling noise
-
 - Diane returns, her face slightly sooty and her hair huge and frizzy
 
 **_Diane_** : Ooooh, it's shocking out there. Literally... I've just been hit by lightning, I feel a bit funny. Oh hello, have you just arrived?
@@ -2082,7 +2124,6 @@ Here we go.
 - Mrs Buttermuffin takes the cake trolley and wheels it back towards the kitchen
 - Freddie and Tripps follow her
 - Curtains close as the cake is wheeled away
-
 ---
 
 # 26 - FOC News - Cake For The Needy
@@ -2113,9 +2154,9 @@ Here we go.
 
 # 27 - Mission Not Possible
 
+
 - Gideon descends from the ceiling to try to get to the cake.
 - Alarms go off, everyone rushes in
-
 
 **_Mrs Buttermuffin_** : Well, well, well. What do we have here?
 
