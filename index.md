@@ -9,9 +9,9 @@ Read script <a href="draft">online</a>
 <p>
 Download PDF Format (Suitable for printing)
     <ul>
-<li><a href="WhereTheresAWill_v12.pdf">Small Font (12pt)</a></li>
-<li><a href="WhereTheresAWill_v12.pdf">Medium Font (18pt)</a></li>
-<li><a href="WhereTheresAWill_v12.pdf">Large Font (24pt)</a></li>
+<li><a href="WhereTheresAWill_v12_SMALL.pdf">Small Font (12pt)</a></li>
+<li><a href="WhereTheresAWill_v12_MEDIUM.pdf">Medium Font (18pt)</a></li>
+<li><a href="WhereTheresAWill_v12_LARGE.pdf">Large Font (24pt)</a></li>
     </ul>
 </p>
 <p>
