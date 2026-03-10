@@ -1,24 +1,9 @@
 <h1>Where There's A Will</h1>
+(v15)
 
-Published: 27/02/2026, 14:35:03
-
-```cue:WJVOr:Once house lights are switched off
-0,mixer:1
-0,lights:STUDIO,0
-```
 
 # 1 - Intro - Ghosts
 
-```cue:jzGpu:After introducer leaves through curtain
-0,lights:BLACKOUT,0
-0,sound:GhostsDownstairs.wav:1,0
-2000,lights:BLUE_GHOSTLY_1,30000
-4000,curtains:OPEN CURTAINS,0
-12743,curtains:HILDEGAARD ENTERS STAGE,0
-37192,curtains:NORMAN ENTERS STAGE,0
-37192,lights:NORMAN_LIGHTS_CRACKLE,0
-39000,lights:BLUE_GHOSTLY_3,0
-```
 
 - A ghostly figure wafts around the stage carrying her head
 - Norman the electrician (also a ghost) enters
@@ -100,10 +85,6 @@ Published: 27/02/2026, 14:35:03
 - Cicely leaves
 - Curtains close
 
-```cue:YZnPK:As curtains close:Lights BLACKOUT
-0,lights:BLACKOUT,4000
-0,curtains:CLOSE CURTAINS,0
-```
 
 ---
 
@@ -111,10 +92,6 @@ Published: 27/02/2026, 14:35:03
 
 - The radio is held out from side-curtain
 
-```cue:7wlKi:After curtains close
-0,lights:RIGHT_SPOTLIGHT,0
-0,sound:LiveAidIntro.wav:0.5,0
-```
 
 - Live Aid intro is heard on the radio
 - Gideon appears through curtain as lights go up
@@ -124,18 +101,9 @@ Published: 27/02/2026, 14:35:03
 
 - He looks annoyed at the radio tries to retune it
 
-```cue:E3hbl:As Gideon touches the radio - Stop LiveAidIntro, Play DoTheyKnowItsChristmas
-0,fade:LiveAidIntro.wav:0,0
-0,sound:DoTheyKnowItsChristmas.wav:1,0
-```
 
 **_Gideon_** : Oh, not this one, I'm sick of hearing this...
 
-```cue:zEIEK:Gideon switches off the radio - Stop DoTheyKnow..
-0,fade:DoTheyKnowItsChristmas.wav:0,0
-0,sound:RadioBeingTurnedOff.wav:1,0
-0,lights:FOC,0
-```
 
 - He switches the radio off
 - Chas pulls radio back in
@@ -144,9 +112,6 @@ Published: 27/02/2026, 14:35:03
 
 - [x] Why are there pops after each dial tone? ✅ 2026-03-05
 
-```cue:dEVyr:Once he's delivered his line he starts dialing
-0,sound:GideonPhonesCrispin.wav:0.4,0
-```
 
 - He starts dialling whilst absentmindedly singing to himself
 
@@ -176,22 +141,9 @@ Published: 27/02/2026, 14:35:03
 
 **_Candice_** : You're family Gid, he'd have to help you out. You'd just have to work on him... you've always had a way with words... you know I like EXPENSIVE things.
 
-```cue:PtXDO:After Candice says Expensive Things - Material Girl
-0,lights:DISCO,0
-0,sound:MaterialGirl.wav:1,0
-4000,mixer:2,0
-90000,mixer:1,0
-```
 
 - Gideon and Candice leave down the aisle
 
-```cue:LslNI:After they've left through the rear door
-0,lights:BLACKOUT,1000
-0,sound:UpstairsDownstairs.wav:1,0
-10000,lights:BEDROOM,5000
-18250,lights:BEDROOM_LIGHTNING_FLASH,0
-21500,lights:BEDROOM_BRIGHTER_1,1000
-```
 
 ---
 
@@ -231,9 +183,6 @@ Published: 27/02/2026, 14:35:03
 - Freddie delivers the second nightcap and the bottle
 - Lord Naff ignores the glass, grabs the bottle and glugs it down
 
-```cue:WJ05h:As Lord Naff drinks from bottle - GlugGlugComedySFX
-0,sound:GlugGlug.wav:1,0
-```
 - He then coughs violently and falls limply as if dead
 
 **_Mrs Buttermuffin_** : Freddie! Oh my, you've killed him, I told you not to give him spirits after 9 o'clock. Oh it's awful, Lord Naff, dead. Look, he hasn't even touched my baps! Oh your lordship, what a shock. He'd only just turned 113... had his whole life ahead of him. And now, he's gone.
@@ -258,9 +207,6 @@ Published: 27/02/2026, 14:35:03
 
 **_Lord Naff_** : I've instructed my solicitors, Barclay and Barclay to draw up the necessary papers.
 
-```cue:UTrq8:After Lord Naff's "necessary papers"
-0,sound:CarScreechCatMiaow.wav:0.85,0
-```
 
 - Outside a car screeches to a halt, sounds of brakes, gravel and a narrowly missed cat
 
@@ -300,34 +246,20 @@ Published: 27/02/2026, 14:35:03
 
 - Gideon drops the candlestick he's nicked
 
-```cue:-Bj9t:As Gideon drops candlestick
-0,sound:CandlestickClang.wav:0.6,0
-```
 
 **_Candice_** : Oh, Gid, you've dropped somefink'
 
-```cue:eytWs:As Candice bends over
-0,sound:SwaneeUp.wav:0.7,0
-```
 
 - Candice bends over to pick it up giving Lord Naff an eyeful of her behind
 - Lord Naff screams, chokes then falls back presumably dead
 - Mrs Buttermuffin sobs uncontrollably
 - Curtains Close
 
-```cue:HoMWi:As curtains close - Lights Fade Off
-0,curtains:CLOSE,0
-0,lights:BLACKOUT,3000
-```
 
 ---
 
 # 4 - FOC Breaking News - Lord Naff is Dead
 
-```cue:Ye_Yd:Wait for applause to finish then - WBC News Theme.
-0,sound:WBCNews.wav:1,0
-6000,lights:STUDIO,4000
-```
 
 **_Roxy Belmeadows_** : Our main story tonight - the sudden death of 113 year old Lord Naff. The shocking news was received just moments ago. He was in excellent health and expected to run the Shutlingsloe fell race next week. A morning of mourning will take place in the morning. Elsewhere, another pothole has opened up on the main road. The shape of this latest pothole bears an uncanny resemblance to Rod Stewart. We asked the Council if they intend to fill the pothole but they declined to comment. However, insiders say they are considering charging visitors to look at it. 
 
@@ -335,22 +267,13 @@ Published: 27/02/2026, 14:35:03
 
 **_Roxy Belmeadows_** : Now let's get the weather forecast from Stormy Spaniels. 
 
-```cue:IGpi4:As Roxy cues in Stormy - Spotlight on Stormy
-0,lights:STUDIO_SPOTLIGHT_1,0
-```
 
 **_Stormy Spaniels_** : Thanks Roxy. Well if you ARE thinking of visiting the Rod Stewart pothole over the weekend, do bring an umbrella as it might rain... But also it might not... We don't really know. Back to you Roxy.
 
-```cue:77e_v:After "Back to you Roxy" - Lights revert to previous
-0,lights:STUDIO,0
-```
 - Stormy goes back through side-curtain
 
 **_Roxy Belmeadows_** : Thanks Stormy. Back to the breaking news and people are already starting to arrive for the funeral of Lord Naff who has died suddenly at the age of 113. We'll try to grab a few words.
 
-```cue:iLccP:After "grab a few words"
-0,lights:OUTSIDE_CHURCH_1,4000
-```
 
 - Mrs Buttermuffin and Mrs Tripps come up the aisle and arrive on stage
 
@@ -400,18 +323,9 @@ Published: 27/02/2026, 14:35:03
 
 - They go through the curtains into "the church"
 
-```cue:I290i:Once they've gone through curtains
-0,lights:STUDIO,3000
-```
 
 **_Roxy Belmeadows_** : Well there you have it. A day of sadness and turmoil for the people of Wildboarclough. Clive Ignatious Maximillian Naff, a man who did so much for this village. He will be sorely missed.
 
-```cue:xFJwJ:After Roxy finishes - Lights fade
-0,lights:BLACKOUT,3000
-3000,sound:SweetDreamsChurchOrgan.wav:0.7,0
-28000,curtains:OPEN,0
-28000,lights:CHURCH,3000
-```
 
 - Roxy leaves through curtains as soon as lights have blacked out
 
@@ -453,9 +367,6 @@ The final paragraph
 We'll miss you, dear Lord Naff
 
 **_Vicar_** : Thank you Geraldine. We will now join together and sing Lord Naff's favourite song which you will find on the back of your order of service.
-```cue:CdQfD:After a brief pause - Organ music starts
-0,sound:FatBottomedGirls.wav:0.5,0
-```
 - Organ music starts
 - [x] EQ this the same as Sweet Dreams ✅ 2026-03-05
 
@@ -469,19 +380,11 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 - The vicar's voice "fades"out and the congregation bow their heads
 
-```cue:ze_nc:After the vicar says "DearLord"
-0,lights:LORD_NAFF_FUNERAL,0
-0,sound:GhostIdent.wav:0.45,0
-```
 - Ghost of Lord Naff drifts in, begins to try speaking to the others, waving his hand in their faces etc
 - He points at the coffin
 
 **_Lord Naff_** : Who's in there? I say, Freddie, what's going on. Freddie, why are you ignoring me? Mrs B, why won't anyone speak to me? I don't think they can see me.
 
-```cue:eSIWK:After "I don't think they can see me"
-0,lights:BLUE_GHOSTLY_FOC_ONLY,0
-0,curtains:CLOSE,0
-```
 
 - He steps forward to the front of the stage
 - Curtains close behind him
@@ -501,9 +404,6 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Lord Naff_** : Nonsense, I've never felt better.
 
-```cue:1mUxI:As Ella puts her fingers to her mouth
-0,sound:EllasWhistle.wav:0.5,0
-```
 
 - Ella does a whistle to alert the others
 - Hildegaard enters
@@ -611,12 +511,6 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 - [x] Make Eastenders bit quieter - its too loud relative to Upstairs Downstairs ✅ 2026-03-05
 - [ ] Check if this is better...
 
-```cue:wc4jg:Eastenders Drums, Lights Fade
-0,sound:EastendersUpstairsDownstairs.wav:1,0
-2700,lights:BLACKOUT,1000
-24000,lights:KITCHEN,8000
-24000,curtains:OPEN,0
-```
 
 - Simon holds curtain open for Ghosts (Jane first)
 - Ghosts leave through curtains
@@ -673,9 +567,6 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 **_Mrs Buttermuffin_** : Not in the mood for cake? Who on earth wouldn't be in the mood for a slice of my delicious cake? Now, tabasco sauce, sugar, 2 tins of tuna... Freddie, be a love and turn the mixer on...
 
 - Freddie goes off stage
-```cue:qfCx9:Just after Freddie disappears - CementMixer SFX
-0,sound:CementMixer.wav:0.1,0
-```
 
 - We hear the sound of a cement mixer starting up
 - Mrs B shouts to Freddie
@@ -717,20 +608,11 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Candice_** : I need, I need.. to speak to Gideon...
 
-```cue:ht7qr:As Candice says "Gideon"...
-0,sound:CreamSplat.wav:0.45,0
-```
 
 - Candice turns to leave, and as she does runs straight into a big plate of cream which Mrs Tripps is carrying in
 - Everyone looks shocked as Candice stares out at the audience, face covered in cream
 - Mrs Tripps attempts to scrape the cream off Candice's face and back on to the plate
 
-```cue:8j_KU:Allow cast to stare at audience for a reasonable time then lights fade
-0,lights:BLACKOUT,3000
-0,curtains:CLOSE,0
-3000,sound:TaintedLove_1920s.wav:0.8,0
-13000,lights:TAINTED_LOVE,3000
-```
 
 - Curtains
 
@@ -769,13 +651,6 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Lord Naff_** : You're so ungrateful... You were working as a waitress in a cocktail bar when I met you. I picked you out, I shook you up and turned you round. Granted, I then shot you, but you can't have everything.
 
-```cue:pvUzm:Immediately after "can't have everything" - Song Don't You Want Me
-0,lights:DISCO,0
-0,sound:DontYouWantMe.wav:0.8,0
-0,mixer:3,0
-90000,mixer:1,0
-90700,lights:TAINTED_LOVE,1000
-```
 
 - SONG: Don't You Want Me
 
@@ -799,9 +674,6 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Lord Naff_** : What? The labourer? He's from the lower classes! You can't! He can't! It's not decent. Are you intending to marry?
 
-```cue:q-4p3:On "intending to marry?"
-0,lights:BLUE_GHOSTLY_3,3000
-```
 - Curtains open
 
 **_Cicely_** : Well, I haven't told him how I feel yet but...
@@ -853,37 +725,21 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 **_Lord Naff_** : Well, then. THIS shall be MY spirit-leveller.
 
 - They dance around waving their tools about
-```cue:ZSUyY:As they start "Fencing" - SFX of swords clashing
-0,sound:SwordFight.wav:0.5,0
-```
 
 **_Hildegaard_** : Boys, boys, stop zis, you are being ridiculous. You are both dead already.
 
 **_Cicely_** : This is typical of you Clive. You kill us both by mistake, but when you challenge a man to a duel - you're impotent. 
 
-```cue:YReJN:On "impotent" - DroopySFX
-0,sound:SwaneeDown.wav:0.8,0
-```
 - Lord Naff's spirit level droops
 
 **_Cicely_** : You really are a Naff Lord
 
-```cue:eeK_u:As soon as Cicely has said Naff Lord
-0,sound:SadTrombone.wav:0.6,0
-2000,lights:BLACKOUT,3000
-5000,curtains:CLOSE,0
-```
 - Curtains Close
 
 ---
 
 # 9 - FOC Gideon Meets Barclay and Barclay
 
-```cue:rAjHo:Once audience has settled down, play Opportunities by Pet Shop Boys
-0,sound:Opportunities.wav:1,0
-0,lights:GIDEON_BANDB_FOC,4000
-43000,sound:Ringtone.wav:0.6,0
-```
 
 - Gideon dances up the aisle with his mobile phone
 - In his other hand he holds a sheet of paper (a fake will he's just made) 
@@ -937,9 +793,6 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Gideon_** : Errr, yeah, maybe it's a Lesser-Spotted Wincle-Warbler?
 
-```cue:ZsZJV:Once Gideon says "Wincle Warbler" - SFX of evil doing
-0,sound:GideonDoesEvilDoing.wav:1,0
-```
 - Gideon switches the fake will with the real one making sure that the audience sees
 
 **_Barclay One_** : Can you see a Wincle-Warbler.
@@ -966,31 +819,17 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 - Gideon is still FOC holding the real will which he has has stolen from B&B
 - Ella appears from curtains-left and watches Gideon
 
-```cue:gpJV7:As Ella appears at side of stage - Ghostly music "ident", Lights change
-0,lights:BLUE_GHOSTLY_3,0
-0,sound:GhostIdent.wav:0.6,0
-```
 - Gideon begins to read the real will to the audience
 
 **_Gideon_** : Nah then, what's this say? "I hereby leave everything to Freddie and Mrs Buttermuffin, my faithful servants, and friends"... Can you believe uncle Clive was going to give everything to those complete strangers? I'm family! I deserve everything. And I'm going to GET everything.
 
-```cue:fFuUP:After "I'm going to GET everything"
-0,curtains:OPEN,0
-0,lights:LIBRARY,3000
-```
 
 - The curtains open
 - Freddie and Mrs Buttermuffin are onstage together with Barclay and Barclay
 - Mrs Tripps wheels the cake in (wearing goggles, rubber gloves, facemask etc)
-```cue:s_lVM:As cake trolly appears
-0,sound:SqueakyTrolley.wav:1,0
-```
 
 - She stops front centre stage
 
-```cue:Lt_IL:When she stops wheeling trolley (or a little later for comedy!)
-0,fade:SqueakyTrolley.wav:0,500
-```
 
 - Mrs Buttermuffin goes to the trolley
 
@@ -1011,11 +850,6 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Gideon_** : Nah, it's too early for cake. These gentlemen charge by the hour. We really need to get on with it.
 
-```cue:Z2Wl9:As Gideon wheels the trolley away
-0,sound:GideonHidesWill.wav:1,0
-0,lights:LORD_NAFF_ELLA_CAKE,1000
-11100,lights:LIBRARY,1000
-```
 
 - He wheels the trolley front of curtain stage-right
 - He looks at the real will he's holding, looks around for somewhere to hide it, then shoves it in the cake
@@ -1034,9 +868,6 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 - Barclay One bends over slowly to take the will from his briefcase 
 
-```cue:AwQ2H:As Barclay finishes bending over
-0,sound:Fart.wav:0.7,0
-```
 
 **_Barclay One_** : This handwriting is terrible
 
@@ -1100,9 +931,6 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Barclay Two_** : Oh, how disappointing!
 
-```cue:IQuvC:As Barclays leave
-0,lights:FREDDIE_AND_MBM_STAGE_R,0
-```
 
 - They are escorted out by Gideon and Candice
 - Freddie and Mrs B head to front of stage right
@@ -1112,16 +940,10 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Mrs Buttermuffin_** : Do you think his Lordship was going a bit funny?
 
-```cue:Uoa4N:When Lord Naff enters - Lights GHOSTLY, possibly SFX
-0,lights:LORD_NAFF_STAGE_L,0
-```
 **_Lord Naff_** : A bit funny! How dare you Mrs B. Oh, you can't hear me, I'm dead. What a nuisance. But that wasn't MY will. I don't understand what's happening.
 
 - Ella appears from stage left and starts pointing at the cake
 
-```cue:qUtRy:After Ella appears
-0,lights:LORD_NAFF_ELLA_CAKE,0
-```
 
 **_Lord Naff_** : This is no time for cake child. There has been some kind of legal mix-up, and I need to get to the bottom of it.
 
@@ -1135,9 +957,6 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 **_Lord Naff_** : Do YOU understand what's going on? No? Well you need to concentrate, honestly, the script gets even harder to follow soon.
 
 - Lord Naff leaves
-```cue:XU4oH:As the ghosts leave - Lights return to LIBRARY_SCENE
-0,lights:LIBRARY,0
-```
 
 - Gideon returns
 
@@ -1169,11 +988,6 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 - Everyone looks concerned and upset as the curtains close
 
-```cue:3FcmU:After curtains have closed - Lights BLACKOUT, WBC News Theme
-0,lights:BLACKOUT,0
-0,sound:WBCNews.wav:1,0
-5000,lights:STUDIO,2000
-```
 
 ---
 
@@ -1183,24 +997,12 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 - [ ] Is STUDIO_SPOTLIGHT a bit dark?
 
-```cue:8ZpnO:As Stormy is cued in - Spotlight on Stormy
-0,lights:STUDIO_SPOTLIGHT_1,0
-```
 
 **_Stormy Spaniels_** : Thanks Roxy. Well, it's going to be a lovely day if you're a Scorpio, a Leo or a Gemini with temperatures expected to reach 25 degrees. However if you're a Pisces then there's a high chance of snow later in the day. Capricorns can expect to meet a tall dark stranger but it's bad news if you're Libra, or Asparagus. I'll be back with more weatherscopes after 9.
 
-```cue:NhrKn:Back to Roxy - Lights revert
-0,lights:STUDIO,0
-```
 **_Roxy Belmeadows_** : Oh dear, I'm an Asparagus myself, sounds like I'd better stay indoors. And finally... a man from Bosley has set a new record for putting ferrets down his trousers. Mr Reg Compost managed to keep 43 ferrets in his pants for 5 minutes, breaking the previous record held by Yorkshireman, Seth Arkinstall. Reg says he's delighted to be a world record holder and looks forward to celebrating with his wife Mavis, as soon as he's released from Macclesfield General Hospital. Well that's all from me, Roxy Belmeadows and the rest of the WBC News team, goodnight.
 
 
-```cue:8MGBy:After Roxy finishes - 
-0,lights:BLACKOUT,3000
-0,sound:WBCNewsOutro.wav:1,0
-10000,curtains:OPEN,0
-10000,lights:FREDDIE_AND_MBM_STAGE_R,8000
-```
 
 ---
 
@@ -1218,11 +1020,6 @@ All: Are you going to take me home tonight. Ahhh down beside that red fire light
 
 **_Mrs Buttermuffin_** : We just have to do as he says until we can find a better solution 
 
-```cue:5p5c9:Song - I want to break free, Lights change?
-0,sound:IWantToBreakFree.wav:0.75,0
-10000,lights:WANT_TO_BREAK_FREE_1,8000
-117000,lights:LIBRARY,2000
-```
 SONG: I Want To Break Free
 
 - Freddie comes on dressed in "I Want To Break Free" outfit, pushing a vacuum cleaner
@@ -1243,10 +1040,6 @@ SONG: I Want To Break Free
 **_Tripps_** : Err, no, you're alright, I've just brushed my teeth.
 
 **_Freddie_** : Erm, no, I, err, I don't want to get crumbs on my nice new top.
-```cue:9k5fq:After "punchlines" - Lights BLACKOUT
-0,lights:BLACKOUT,2000
-0,curtains:CLOSE,0
-```
 - Curtains close
 
 ---
@@ -1256,10 +1049,6 @@ SONG: I Want To Break Free
 - Gideon and Roxy appear through curtains carrying stools
 - They sit down
 
-```cue:FL5o0:Once Roxy and Gideon sit down - Music Newsnight, then Lights up
-0,lights:STUDIO,4000
-0,sound:Newsnight.wav:0.8,0
-```
 
 **_Roxy Belmeadows_** : Tonight, on Newsnight, after dramatic scenes at Naff Hall, I'll be speaking to the new Lord Naff. We'll be discussing his plans for the future and asking local politician, Dr Chris O'Really, what it might mean for the local economy. And given the popularity of the "Rod Stewart Pothole", we'll bring you a special report on a new scheme to open up MORE potholes around the area. But first, I'm joined by Gideon Goldgrabber, the new Lord Naff.
 
@@ -1277,54 +1066,30 @@ SONG: I Want To Break Free
 
 - [ ] Do we have STUDIO_PLUS_SPOTLIGHT?
 
-```cue:0dR59:As Chris appears - Light STUDIO_WITH_SIDELIGHT
-0,lights:STUDIO_PLUS_SPOTLIGHT,0
-```
 
 **_Roxy Belmeadows_** : Mmm, well we're able to speak now with Councillor Chris O'Really, via video link from his, err, yacht? Thanks for taking the time to speak to us, I know you're incredibly busy.
 
 - [ ] Add some glitches to Chris and speed whole thing up
 
-```cue:1p8ca:First Chris dialog
-0,sound:ChrisInterview1.wav:0.5,0
-```
 **_Chris O'Really_** : Good evening Roxy, no problem at all. I always like to do what I can for my constituents.
 
 - Someone passes him a cocktail. He takes a sip
 
 **_Roxy Belmeadows_** : These golf course proposals have been somewhat controversial. Will they be allowed to go ahead.
 
-```cue:2JCSE:Second CO'R Dialog
-0,sound:ChrisInterview2.wav:0.9,0
-```
 **_Chris O'Really_** : I don't see why not. I think it will be good for the local economy. We've seen how tourism can give the area a right boost - you only have to look at the success of the Rod Stewart Pothole to see what a lift THAT has given us. I think that this golf course will be a good thing and I've been assured that the environmental impact will be negligible. I intend to visit the site, review the plans and then hopefully we can "get the ball rolling" Ha ha!
 
 **_Roxy Belmeadows_** : Well it seems that Wildboarclough will be getting a new exclusive golf course. Dr Chris O'Really, Gideon Goldgr.. I mean Lord Naff, thanks both of you for joining us tonight.
 
-```cue:z5is3:As Chris leaves 
-0,lights:STUDIO,0
-```
 - Gideon and Chris both leave
 
 **_Roxy Belmeadows_** : And finally with news of a troubling weather outlook, here's Stormy Spaniels.
 
-```cue:ErSeu:Lights onto Stormy - Lights STUDIO_WITH_SPOTLIGHT
-0,lights:STUDIO_SPOTLIGHT_1,0
-```
 **_Stormy Spaniels_** : Thanks Roxy, yes, well, Storm Irene has been moving across the Atlantic over the past 24 hours and is due to hit the UK tomorrow afternoon. It might reach Wildboarclough later that evening... or it might not.
 
-```cue:7POx1:After Stormy finishes - Lights STUDIO
-0,lights:STUDIO,0
-```
 **_Roxy Belmeadows_** : Thanks Stormy, well that's all for tonight, just a quick look at tomorrow's papers.
 
 - She picks up a few newspapers, and one-by-one, shows them to the audience
-```cue:SyMMV:After she's finished showing newspapers - Lights BLACKOUT
-0,lights:BLACKOUT,3000
-5000,sound:MysteryMusic.wav:0.5,0
-8000,lights:LIBRARY,12000
-3000,curtains:OPEN,0
-```
 - She then goes back through the curtain
 
 ---
@@ -1469,12 +1234,6 @@ Nobody Normal Likes Golf!
 
 **_Tripps_** : I like it. I'll get Gerald to drive me down to the fancy dress shop.
 
-```cue:FbFCE:As soon as Tripps has said "shop". Music outro, then Lights BLACKOUT
-0,lights:BLACKOUT,9000
-0,sound:Scene14To15.wav:0.4,0
-4000,curtains:CLOSE,0
-9000,lights:STUDIO,5000
-```
 
 - Curtains close
 
@@ -1482,14 +1241,9 @@ Nobody Normal Likes Golf!
 
 # 15 - FOC End of Act 1 - News Recap
 
-```cue:rJi3Q:After Roxy appears through curtains - Lights STUDIO
-```
 - Bar is open
 - Then Interval
 
-```cue:qx1aF:When
-0,lights:INTERVAL,5000
-```
 
 ---
 
@@ -1499,11 +1253,6 @@ Nobody Normal Likes Golf!
 - Ghosts are arguing about who goes first
 - Lord Naff wanders in
 
-```cue:KNQZ9:Once house lights go off
-0,lights:BLACKOUT,0
-7000,lights:BLUE_GHOSTLY_3,8000
-0,sound:ExFactor.wav:1,0
-```
 
 **_Lord Naff_** : I say, what's all the commotion?
 
@@ -1542,11 +1291,6 @@ Nobody Normal Likes Golf!
 
 - [ ] Roll some bottom end off - try making her angrier
 
-```cue:Hsmcf:As soon as Hildegaard has finished the line
-0,sound:Vienna.wav:0.8,0
-0,lights:VIENNA,1000
-10400,lights:BLUE_GHOSTLY_3,1000
-```
 
 - Flirts with Lord Naff
 
@@ -1558,19 +1302,11 @@ Nobody Normal Likes Golf!
 
 - [ ] Careless Whisper is a bit quiet
 
-```cue:uuvVX:When Cicely looks ready to dance
-0,sound:CarelessWhisper.wav:1,0
-0,lights:CICELY_DANCE:1000
-57000,lights:BLUE_GHOSTLY_3,0
-```
 
 - Cicely does Charleston dance routine
 
 **_Lord Naff_** : Well that was very exciting, though obviously the opera singing was excellent too. Now Norman, apparently you're doing some magic tricks?
 
-```cue:wPQkJ:As Norman steps forward
-0,lights:NORMAN_MAGIC_SHOW,0
-```
 
 **_Norman_** : Good evening ladies and gentlemen, I am Norman the Abnormal. Could I have a volunteer from the audience please?
 
@@ -1601,9 +1337,6 @@ Nobody Normal Likes Golf!
 
 - Freddie wanders in dressed in his "Live Aid" outfit (white vest, blue jeans). He obviously can't see the ghosts and starts talking to the audience
 
-```cue:glJTZ:When Freddie enters
-0,lights:FREDDIE_LOVE_MONOLOGUE,0
-```
 
 **_Freddie_** : I really thought I had it all worked out but everything's gone wrong. I was happy looking after Lord Naff but then that young upstart arrived and started throwing his weight around. Firing poor old Mrs Tripps, leaving me to do the cleaning. Did you see the outfit I had to wear?! I'm trying a new look now - something a bit more macho - what do you think? Anyway, I can't work for that man, I don't trust him. There's definitely something fishy going on with that will.
 
@@ -1615,12 +1348,6 @@ Nobody Normal Likes Golf!
 
 **_Freddie_** : Oh this big old house feels so empty. I'm so lonely... I'm more lonely than that. Stuck here with no companionship. I mean, there's Mrs Buttermuffin, but I think of her as one of the boys really, I don't know why, I just always have... If only I had someone to talk to, a shoulder to cry on, somebody to love. 
 
-```cue:AUTCw:As soon as Freddie has said "Somebody to Love"
-0,sound:SomebodyToLove.wav:1,0
-0,mixer:4,0
-0,lights:SOMEBODY_TO_LOVE,8000
-165000,mixer:1,0
-```
 
 - SONG: Somebody to Love (Ghosts provide backing vocals)
 
@@ -1634,10 +1361,6 @@ Nobody Normal Likes Golf!
 
 - Curtains close with Freddie left FOC
 
-```cue:YTkJ4:As curtains close
-0,curtains:CLOSE CURTAINS
-0,lights:GIDEON_BANDB_FOC,6000
-```
 
 **_Freddie_** : This house, so empty, so quiet, so lonely.
 
@@ -1683,10 +1406,6 @@ Nobody Normal Likes Golf!
 
 **_Gideon_** : I just need to make sure this O'Really fella approves my plans. I tried bribing him, but he wasn't having it, said he "only wanted what's best for his constituents".
 
-```cue:z465N:After "constituents"
-0,curtains:CURTAINS OPEN
-0,lights:GOLF_COURSE,8000
-```
 - The curtains open
 - Chris O'Really is standing there with a clipboard
 
@@ -1753,9 +1472,6 @@ Nobody Normal Likes Golf!
 
 **_Barclay Two_** : Or white-tailed eagles maybe?
 
-```cue:VpDAz:Play Pingu Theme
-0,sound:Pingu.wav:1,0
-```
 - Geraldine waddles on dressed as a penguin
 - Barclay and Barclay both look at each other, then back at the penguins and together say;
 
@@ -1784,11 +1500,6 @@ Nobody Normal Likes Golf!
 
 - [ ] Add something to make this last longer - Sale Of The Century trailer??
 
-```cue:D3VA-:Blackout and Curtains
-0,lights:BLACKOUT,6000
-8000,sound:WBCNews.wav:1,0
-14000,lights:STUDIO,3000
-```
 
 ---
 
@@ -1810,19 +1521,11 @@ Nobody Normal Likes Golf!
 
 **_Roxy Belmeadows_** : Well there you have it. It looks like Wildboarclough will soon have its first "super-prison"
 
-```cue:bGlcX:As Roxy finishes
-0,lights:BLACKOUT,3000
-0,sound:WBCNewsOutro.wav,1:0
-```
 
 ---
 
 # 20 - Thwarting of the Super-Prison
 
-```cue:G9S1h:Wait until curtains open
-0,sound:GhostIdent.wav:1,0
-0,lights:BLUE_GHOSTLY_3,5000
-```
 
 - The ghosts are on stage
 
@@ -1844,9 +1547,6 @@ Nobody Normal Likes Golf!
 
 **_Lord Naff_** : Look, I know we've all had our differences, but we need to stick together, use our talents, be a team, defeat our common enemy.
 
-```cue:Gnu0H:After Lord Naff's line
-0,lights:LIBRARY,2000
-```
 
 - Gideon and Chris O'Really enter
 - Chris is carrying his clipboard again
@@ -1857,17 +1557,9 @@ Nobody Normal Likes Golf!
 
 **_Chris O'Really_** : I see no reason... oh!
 
-```cue:GKD-r:As soon as Chris has started his line
-0,sound:LightsPulsing.wav:1,0
-0,lights:LIBRARY_LIGHTS_FLICKER,0
-5000,lights:BLUE_GHOSTLY_3,0
-```
 - Norman makes the lights flicker and spark
 - Cicely takes book and drops it open in front of Chris
 
-```cue:RUcDX:As book is dropped
-0,sound:BookDropping.wav:1,0
-```
 
 - A single lamp is left shining on the book
 - Chris notices this book on the floor and picks it up
@@ -1903,22 +1595,12 @@ Nobody Normal Likes Golf!
 
 **_Elvis_** : You can say that again, your holiness... Crazy Things in Wildboarclough... take it away Freddie
 
-```cue:7RURu:After "Take it away Freddie
-0,mixer:5,0
-0,sound:CrazyThings.wav:1,0
-0,lights:CICELY_DANCE,0
-```
 
 SONG: Crazy Things In Wildboarclough
 
 - Freddie appears 
 - Ghosts join in with dancing and backing woooohhhs!
 
-```cue:rQTtD:Once song has finished and Elvis has finished milking the audience
-0,mixer:1,0
-0,lights:BLACKOUT,9000
-3000,curtains:CLOSE CURTAINS
-```
 - Curtains Close
 
 ---
@@ -1928,10 +1610,6 @@ SONG: Crazy Things In Wildboarclough
 - Roxy and Candice appear through the curtain and sit down
 - They are both sporting ridiculous dame-brows
 
-```cue:DEzTw:As soon as Roxy and Candice have taken their seats
-0,lights:STUDIO,0
-0,sound:Newsnight.wav:1,0
-```
 - Newsnight theme
 
 **_Roxy Belmeadows_** : After plans were rejected for his exclusive golf course, and for a potential super-prison, Lord Gideon Naff has handed over responsibility for the future direction of Naff Hall to Lady Naff. She joins me in the studio now.
@@ -1960,9 +1638,6 @@ SONG: Crazy Things In Wildboarclough
 
 **_Roxy Belmeadows_** : Well, there you have it. It looks like Wildboarclough will soon have its first luxury spa. Before we have a look at tomorrow's papers, a quick update on Storm Irene.
 
-```cue:yjS9N:As Roxy finishes her line
-0,lights:STUDIO_SPOTLIGHT_1,0
-```
 - Stormy appears wearing waders and a snorkel
 - She looks terrified
 
@@ -1970,22 +1645,12 @@ SONG: Crazy Things In Wildboarclough
 
 - She disappears again
 
-```cue:XKE3b:After she disappears
-0,lights:STUDIO,0
-```
 
 **_Roxy Belmeadows_** : Thanks Stormy
 
 - Roxy holds up some more newspapers, lights down
 - Roxy and Candice exit through curtain
 
-```cue:bSjl0:After Roxy finishes holding up newspapers
-0,sound:NewsnightClosingTheme.wav:1,0
-0,lights:BLACKOUT,6000
-10000,sound:DrippingBasement.wav:1,0
-12000,lights:BLUE_GHOSTLY_3,4000
-12000,sound:GhostIdent.wav:1
-```
 ---
 
 # 22 - 2 Bedsheets and a Haunting
@@ -2139,11 +1804,6 @@ SONG: Crazy Things In Wildboarclough
 
 - [x] Same issue with FLICKERING_LIGHTS change LightsPulsing to be 5 seconds ✅ 2026-03-05
 
-```cue:GKD-f:As soon as Chris has started his line
-0,lights:LIBRARY_LIGHTS_FLICKER,0
-0,sound:LightsPulsing.wav:1,0
-5000,lights:BLUE_GHOSTLY_3,0
-```
 - Norman makes the lights flicker
 
 **_Chris O'Really_** : Oh..! I'm afraid it looks like the wiring is quite old, pre 1974 I should imagine.
@@ -2158,19 +1818,12 @@ SONG: Crazy Things In Wildboarclough
 
 - [ ] Create a POWER_OUTAGE light scene
 
-```cue:qk6vj:As Norman goes to kill the lights
-0,lights:POWER_OUTAGE,0
-0,sound:PowerDownBoom.wav:1,0
-```
 
 
 **_Candice_** : Oooooh Chris, I don't like it, I'm afraid of the dark. Oh it absolutely puts the willies up me. And I don't like that. Oh no, oh no.
 
 **_Chris O'Really_** : No need to panic, I've got a torch somewhere... there it is, now, ah that's better. Right everyone, stay close to me, I'm sure we can sort this out, I suspect the fusebox is through here.
 
-```cue:pqI9L:When they begin to tiptoe off
-0,sound:TiptoeInTheDark.wav:1,0
-```
 - They tiptoe off in line, down into the toilets...
 - As the music stops...
 
@@ -2205,9 +1858,6 @@ SONG: Crazy Things In Wildboarclough
 - The "ghosts" stand either side of her before tapping her on the shoulders
 - She looks round, screams and runs off down the aisle
 
-```cue:HoZZv:As Candice runs off
-0,lights:BLUE_GHOSTLY_3,3000
-```
 
 - Bedsheet ghosts remove their sheets and fist-bump in celebration at the plan succeeding
 
@@ -2224,11 +1874,6 @@ SONG: Crazy Things In Wildboarclough
 
 **_Cicely_** : Now THAT's haunting.
 
-```cue:wSGJr:After any applause dies
-0,lights:BLACKOUT,6000
-0,curtains:CURTAINS CLOSE
-8000,lights:FOC,3000
-```
 ---
 
 # 23 - FOC Spa Rejection Fax
@@ -2257,17 +1902,11 @@ SONG: Crazy Things In Wildboarclough
 
 **_Gideon_** : Right, what's this fax say?
 
-```cue:Zt-c1:After "what's this fax say"
-0,sound:SpaRejection1.wav:1,0
-```
 
 **_Chris O'Really_** : Dear Gideon, with respect to my visit earlier today, I noted, with some concern, that Naff Hall appears to be haunted by two extremely frightening ghosts. Not that I myself was scared you understand. I have subsequently consulted the council's "Big Book Of Rules" and the following came to my attention. Regulation 17, paragraph b, subsection 3 states: "A spa cannot be opened in a building which is known, or thought to be, haunted". As I'm sure you will understand, it is with regret that I must decline your delightful fiancees plans for her luxury spa.
 
 **_Gideon_** : Gaaahhhhhhh! Oh, what's this? P.S....
 
-```cue:7RK8A:After "P.S."
-0,sound:SpaRejection2.wav:1,0
-```
 
 **_Chris O'Really_** : P.S. I did a little more research and discovered the following addendum... Should any slash all ghost slash ghosts be removed by a registered specialist, then, on production of an authenticated certificate of exorcism, permission would be given... permission would be given... perm...
 
@@ -2281,9 +1920,6 @@ SONG: Crazy Things In Wildboarclough
 
 - He dials Candice's number
 
-```cue:h_vXb:As he begins to dial
-0,sound:GideonPhonesCrispin.wav:1,0
-```
 
 - Freddie pokes his head through the curtain to listen in
 
@@ -2295,10 +1931,6 @@ SONG: Crazy Things In Wildboarclough
 
 - He shrugs, and then storms up the aisle (he can let Diane in from the back)
 
-```cue:yypD-:Once Gideon has left from the back door
-0,lights:LIBRARY,6000
-0,curtains:CURTAINS OPEN
-```
 ---
 
 # 24 - The Exorcist
@@ -2324,11 +1956,6 @@ SONG: Crazy Things In Wildboarclough
 
 - Diane hits play on her ghetto blaster, but all we hear is some ambient calming sounds
 
-```cue:Gv48F:As Diane presses play 
-0,sound:DianesCassette.wav:1,0
-17000,lights:DISCO,1000
-66000,lights:LIBRARY,1000
-```
 
 **_Diane_** : Oh, that's not right, that's for my hypnotherapy... hang on...
 
@@ -2363,9 +1990,6 @@ Here we go.
 
 **_Diane_** : Mmmm, no, I don't think that was it... Oh, it'll come to me when I'm least expecting it. Anyway, I've seen the film, I remember what he did, that man, he was a priest I think, anyway, to be honest, it didn't look difficult. I'll need some candles. I've got some for the yoga class I do, they're in the Metro, I won't be a mo...
 
-```cue:GZLRr:As she leaves - Door opens, sound of storm
-0,sound:DianeGoesToTheMetro_Short.wav:1,0
-```
 
 - Diane picks up her ghetto-blaster
 - She leaves stage left and we hear the sound of the storm reaching its peak
@@ -2391,10 +2015,6 @@ Here we go.
 
 - [ ] Make a copy of this light scene and make it more stormy and dramatic
 
-```cue:kBE7d:Once Gideon and Candice leave
-0,lights:NORMAN_LIGHTS_CRACKLE,0
-0,sound:StormOutside.wav:1,0
-```
 
 - The lights dim, the sounds of the storm start to be heard
 
@@ -2408,12 +2028,6 @@ Here we go.
 
 - [x] Add thunder sound at 64545 ✅ 2026-03-05
 
-```cue:gjzBR:Once the ghosts are in position
-0,lights:BLACKOUT,0
-0,sound:BohemianRhapsodyChoir.wav:1,0
-64545,lights:LIGHTNING_STRIKE,0
-68165,lights:LIBRARY,0
-```
 
 - Ghosts do Bohemian Rhapsody with torches lighting up their faces
 - Offstage there is a flash and a thunderclap, followed by a sizzling noise
@@ -2467,10 +2081,6 @@ Here we go.
 
 **_Diane_** : Well, strictly speaking I've been hired by that cockney bloke to get rid of you all. But he seems like he's a bit of a...
 
-```cue:_HSJl:Just as Diane is about to say something rude..
-0,sound:Thunder.wav:1,0
-3000,lights:LIBRARY,0
-```
 
 - Loud rumble of thunder obscures what she says next
 
@@ -2479,19 +2089,11 @@ Here we go.
 **_Diane_** : Oh why not? You only live once.
 
 - Curtains close
-```cue:3U8w0:After curtains close - Tubular Bells
-0,lights:BLACKOUT,7000
-0,sound:TubularBells.wav:1,0
-```
 
 ---
 
 # 25 - Seance
 
-```cue:71skD:Once curtains have reopened (you should see us holding candles on stage)
-0,lights:SEANCE,3000
-0,fade:TubularBells.wav:1,3000
-```
 - Diane has now embellished her outfit, gypsy headscarf etc.
 - She stands in the centre.
 - Freddie, Mrs Buttermuffin and Mrs Tripps are seated either side, holding hands
@@ -2549,9 +2151,6 @@ Here we go.
 **_Mrs Buttermuffin_** : The will's in the cake
 **_Tripps_** : The will's in the cake
 
-```cue:NdwWO:As they shout "The Will's In The Cake"
-0,lights:WILLS_IN_THE_CAKE,0
-```
 
 - Freddie reaches into the cake and pulls out the will
 - He brushes it clean and hands it to Mrs BM who reads it out
@@ -2582,11 +2181,6 @@ Here we go.
 
 **_Mrs Buttermuffin_** : And I know exactly how to do it.
 
-```cue:D8X6V:After "exactly how to do it"
-0,sound:MysteryMusicOutro.wav:1,0
-0,lights:BLACKOUT,9000
-0,curtains:CURTAINS CLOSE
-```
 - The cake trolley is wheeled away behind the curtain
 - Curtains close as the cake is wheeled away
 ---
@@ -2595,10 +2189,6 @@ Here we go.
 
 - [ ] Winch????
 
-```cue:95pTP:Follow on from previous cue
-0,lights:STUDIO,9000
-0,sound:WBCNews.wav:1,0
-```
 
 - Roxy and Mrs Buttermuffin appear through centre curtain
 
@@ -2622,22 +2212,12 @@ Here we go.
 
 **_Roxy Belmeadows_** : Well there you have it, just time for a quick look at tomorrow's papers. The Times goes with, "Cake will be in pantry". The Telegraph says "Pantry contains cake" and also an in-depth piece on the Rod Stewart Pothole. The Guardian leads with "Cake-Gate cover-up" and finally, The Sun, "Cor, what a whopper!"... a picture of the cake there. That's all from me on the day we learned that the cake will be in the pantry.
 
-```cue:29bPY:Once Roxy has finished her line
-0,lights:BLACKOUT,8000
-0,sound:WBCNewsOutro.wav:1,0
-```
 - Roxy exits through curtains
 
 ---
 
 # 27 - Mission Not Possible
 
-```cue:Qc1ZX:Once the News Theme has finished
-0,lights:MISSION_IMPOSSIBLE,0
-0,sound:MissionImpossible.wav:1,0
-43000,lights:RED_ALERT,0
-46845,lights:LIBRARY,0
-```
 
 - Gideon descends from the ceiling to try to get to the cake.
 - Alarms go off, everyone rushes in
@@ -2651,9 +2231,6 @@ Here we go.
 **_Mrs Buttermuffin_** : Maybe because it contained... The Real Will.
 - Mrs Buttermuffin holds up the real will
 
-```cue:xCP4q:After "The Real Will"
-0,sound:DunDunDun.wav:0.4,0
-```
 
 **_Freddie_** : Mrs Tripps, unmask this mystery man.
 
@@ -2680,20 +2257,11 @@ Here we go.
 
 **_Freddie_** : And YOU inherit naff-all, ha ha ha...
 
-```cue:sIEhJ:After "Naff all"
-0,sound:SadTrombone.wav:1,0
-0,lights:BLACKOUT,9000
-3000,curtains:CLOSE CURTAINS
-```
 
 ---
 
 # 28 - Wrap Up
 
-```cue:7rP5T:As Roxy appears
-0,lights:STUDIO,0
-0,sound:WBCNews.wav:1,0
-```
 
 **_Roxy Belmeadows_** : And finally it's exactly one year since the remarkable goings-on at Naff Hall, when Gideon Goldgrabber and Candice Jones were found guilty of inheritance fraud.
 
@@ -2717,19 +2285,9 @@ However, one pothole has not been filled... The Rod Stewart Pothole has grown to
 
 - Snip a ribbon?
 
-```cue:YWoUS:As soon as he snips the ribbon
-0,lights:SOMEBODY_TO_LOVE,3000
-0,curtains:CURTAINS OPEN
-```
 
 And I would very much like to introduce our opening act, all the way from, errrr, Wildboarclough... Mr Freddie Quicksilver.
 
 **_Freddie_** : Eeey Oh, etc etc, (audience participation). Alright! Take it away Louis.
 
-```cue:a4jX3:When Freddie says "Take it away Louis"
-0,sound:WeAreTheChampions.wav:1,0
-```
 
-```cue:F65XZ:After applause!
-0,sound:Happiness.wav:1,0
-```
