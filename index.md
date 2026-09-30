@@ -1,7 +1,7 @@
-<h1>Panto 2026 - Where There's A Will</h1>
+<h1>Panto 2027 - Yarrr!</h1>
 
 <p>
-    Current version is v16
+    Current version is 0.6
 </p>
 <p>
 Read script <a href="draft">online</a>
@@ -9,13 +9,13 @@ Read script <a href="draft">online</a>
 <p>
 Download PDF Format (Suitable for printing)
     <ul>
-<li><a href="WhereTheresAWill_v16_SMALL.pdf">Small Font (12pt)</a></li>
-<li><a href="WhereTheresAWill_v16_MEDIUM.pdf">Medium Font (18pt)</a></li>
-<li><a href="WhereTheresAWill_v16_LARGE.pdf">Large Font (24pt)</a></li>
+<li><a href="Yarrr_0.6_SMALL.pdf">Small Font (12pt)</a></li>
+<li><a href="Yarrr_0.6_MEDIUM.pdf">Medium Font (18pt)</a></li>
+<li><a href="Yarrr_0.6_LARGE.pdf">Large Font (24pt)</a></li>
     </ul>
 </p>
 <p>
-    Download <a href="WhereTheresAWill_v16.epub">EPub Format (Phone, iPad, Kindle etc)</a>
+    Download <a href="Yarrr_0.6.epub">EPub Format (Phone, iPad, Kindle etc)</a>
 </p>
 <p>Suitable mobile app for reading if you don't already have one <a href="https://readera.org/">ReadEra</a></p>
 <p>
