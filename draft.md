@@ -416,7 +416,6 @@ MUSIC: Jean's Theme
 
 # 5 - On The Pirate Ship
 
--
 - The moon is a crescent
 - Nobeard addresses the audience
 
@@ -429,7 +428,6 @@ MUSIC: Jean's Theme
 **_Nobeard_** : Ginger Spice
 
 - Ginger floats on and then recites...
-
 - [ ] Write a good poem
 
 **_Ginger_** : ==I wandered lonely as a cloud, that floats on high o'er wave and crest, when all at once I saw a crowd, a host of ships, heading due West, a flying whale then ate the fleet, and spat them out as pickled meat.==
@@ -996,7 +994,6 @@ SONG: ALL SHOOK UP
 
 - Starts FOC
 - The moon is a half-moon
-
 - [ ] How did they get off? When? Etc...
 
 **_Tim_** : That Elvis was a jolly nice bloke.
@@ -1136,7 +1133,7 @@ SONG: ALL SHOOK UP
 
 - Dorothy and Ken come up on stage and Ken is given an envelope
 
-**_Ken_** : We've won an all-expenses-paid, first-class trip to a luxury tropical paradise! What's the point of that. I was hoping for a nice bottle of something.
+**_Ken_** : We've won an "all-expenses-paid, first-class trip to a luxury tropical paradise"! What's the point of that? I was hoping for a nice bottle of something.
 
 **_Dorothy_** : Ooooh, that sounds lovely Ken! We can get away from this miserable weather, enjoy a bit of sunshine. Oooh it looks amazing... if we like it, maybe we could move there... sell the bungalow...
 
@@ -1256,7 +1253,7 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 **_Captain Biggleswade_** : He was never the same after he had that funny Tern
 
-Boobies, Awk, Gannet, Petrel, Kittiwake, Cormorant, Shag, Sandpiper, Goose, Oystercatcher
+- Boobies, Awk, Gannet, Petrel, Kittiwake, Cormorant, Shag, Sandpiper, Goose, Oystercatcher
 
 # 13 - Bad Luck on The Iron Lady
 
@@ -1483,35 +1480,16 @@ Boobies, Awk, Gannet, Petrel, Kittiwake, Cormorant, Shag, Sandpiper, Goose, Oyst
 
 **_Tim_** : She's very persuasive. It's almost like she has us under a spell...
 
-- There's an announcement
-
-"And now, Mermaid Cove is proud to present... The Little Mermaids"
-
-- UNDER THE SEA from Little Mermaid
-
+- There's an announcement - "And now, Mermaid Cove is proud to present... The Little Mermaids"
+- MUSIC: Under The Sea from Little Mermaid
 - Little Mermaids dance to the musical introduction
 - Then Stella appears and sings her song
 
-  My name is Stella, I am a mermaid
-  I wear sea shells in my hair and exotic underwear (and my jaw is rather square)
-  (I do merengue and do the chacha)
-  I put on makeup and do the shows here
-  And while I try to be a star, my love Graham is a-far
-  (Across the crowded floor, we worked from eight til four)
-  Across the oceans deep, his absence makes me weep
-  We were young and had each other
-  (Who could ask for more?)
-  He made my heart leap
-
-At the Copa, Copacabana
-The hottest spot north of Havana
-At the Copa Copacabana
-Music and passion were always the fashion
-At the Copa, we fell in love
+SONG: Copa Cabana
 
 **_Stella_** : My name's Stella, the queen of the mermaids and it's my pleasure to perform for you this evening. Now then, let's have a look at you. Oh, we've got a lovely audience in tonight. Look at you all, packed in like sardines! Though looking at some of your faces in the front row, I think a few of you have been at the bottom of the ocean a bit too long. You look washed up! And who else have we got here, ah look, bless him. Spent 2 hours doing his hair, and came out without it. And talking of bold, that's a rather bold ensemble we're wearing there isn't it sir. I think you're right about that top you know, it'll come back in. And what's your name? Any idea? Now xxx, you know I didn't come to you at random don't you? I think the audience have noticed, (to the cast) we've certainly noticed up here. Ever since I shimmied out onto this stage xxx, you've been undressing me with your eyes and who can blame you, you are but a man. I know all about men. Between you and me, xxx, I've got a stalker, now you probably can't tell in this outfit but if you play your cards right, you can help me look for the root of the problem. Anyway, I can't be standing here talking to you all night, I need to get ready for my next performance. (Starts brushing hair)
 
-- [ ] Chasing my tail
+- [ ] Chasing my tail?
 
 **_Prawns_** : It's Stella, the one we're looking for. This is Stella!!!
 
@@ -1619,7 +1597,7 @@ At the Copa, we fell in love
 
 **_Stella_** : Jean?! It can’t be! You’re supposed to be chained to a rock!
 
-==Stella questions how she got free, and how did she manage to get those guys to kidnap her==
+- [ ] Stella questions how she got free, and how did she manage to get those guys to kidnap her
 
 **_Jean_** : I was! For forty miserable, barnacle-covered years! But surprise, surprise, I am free, Stella. Free to finish what I started! The Kraken is waking and I will have my revenge.
 
@@ -1641,6 +1619,7 @@ At the Copa, we fell in love
 **_Jean_** : Now I have the clanger.
 
 - Stella gasps
+
 - **_Stella_** : You'll never get away with this Jean.
 
 **_Jean_** : I will get away with it Stella. I have a ship and we're heading to Nudii bay. Once I'm there I will re-unite the bell and the clanger and I shall take control of The Kraken. Then I shall control... everything! Mwahhhahhaha!
@@ -1649,7 +1628,7 @@ At the Copa, we fell in love
 
 # 17 - The Navy Spot The Pirates
 
-FOC
+- FOC
 
 **_Captain Biggleswade_** : So to recap we're looking for Stella, Annette and some Pirates.
 
@@ -1718,7 +1697,9 @@ FOC
 
 **_Tim_** : It's A YACHT!!!
 
-Everyone: Not Now Tim!!!
+**_Prawns_** : Not Now Tim!!!
+**_Flynn_** : Not Now Tim!!!
+**_Oz_** : Not Now Tim!!!
 
 **_Graham_** : Soon Jean will control the Kraken. (Pirates walk into the bar) And then, she will cause chaos on the seas.
 
@@ -1825,7 +1806,7 @@ Everyone: Not Now Tim!!!
 
 **_Prawns_** : Have you come to inspect my collection?! I’ve got some green bits from an old woolly jumper in here somewhere! Is it a competition? Have I won?!
 
-**_Flynn_** : Not _that_ kind of navel, Prawns! They mean the King's ships, not your belly button fluff!
+**_Flynn_** : Not THAT kind of navel, Prawns! They mean the King's ships, not your belly button fluff!
 
 - Posh pushes through them. She has her phone out, filming a selfie.
 
@@ -1849,7 +1830,7 @@ Everyone: Not Now Tim!!!
 
 **_Captain Biggleswade_** : The Kraken? Nonsense! The Kraken is a myth invented by sailors who have drunk too much rum.
 
-- Kraken roar
+- SFX: Kraken roar
 
 **_Lieutenant Crump_** : That didn't sound like a myth, Captain!
 
@@ -1871,7 +1852,8 @@ Everyone: Not Now Tim!!!
 
 # 18.5 - Ken and Dorothy arrive on Nudii Bay
 
-- Welcome to Nudii Bay, your tropical paradise destination. Passengers are reminded that clothing is strictly forbidden. Please leave any items you are still wearing in the bins provided, and have your passports ready for inspection.
+- Curtains closed, all pre-recorded
+- Tannoy announcement - "Welcome to Nudii Bay, your tropical paradise destination. Passengers are reminded that clothing is strictly forbidden. Please leave any items you are still wearing in the bins provided, and have your passports ready for inspection."
 
 **_Ken_** : You and your flipping raffle tickets Dorothy!
 
