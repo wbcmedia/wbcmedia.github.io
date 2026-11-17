@@ -6,6 +6,7 @@
 <p>
 Read script <a href="draft">online</a>
 </p>
+<hr />
 <p>
 Download PDF Format (Suitable for printing)
     <ul>
@@ -17,7 +18,8 @@ Download PDF Format (Suitable for printing)
 <p>
     Download <a href="Yarrr_<VER>.epub">EPub Format (Phone, iPad, Kindle etc)</a>
 </p>
+<hr />
 <p>Suitable mobile app for reading if you don't already have one <a href="https://readera.org/">ReadEra</a></p>
-<p>
+<p style="display:none">
 <a href="/reading/">Script readthough audio files</a>
 </p>
