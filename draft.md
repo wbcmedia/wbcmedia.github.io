@@ -19,7 +19,7 @@
 
 **_Dorothy_** : Oh, stop fretting Ken, I'm sure there won't be a fire alarm, but if there is, we all need to go out of the back, same way we came in. These people all know that, don't you?
 
-**_Ken_** : Well I'm just checking,  you can never be too careful.
+**_Ken_** : Well I'm just checking, you can never be too careful.
 
 **_Dorothy_** : Oh give it a rest Ken. Now have you bought some raffle tickets?
 
@@ -29,7 +29,7 @@
 
 **_Ken_** : Ten pounds!!! We're on a pension Dorothy. We can't be spending money like water. Oooh, why did you make me say that? I need the toilet now.
 
-**_Dorothy_** : Oh Ken - why didn't you go before we left.  
+**_Dorothy_** : Oh Ken - why didn't you go before we left.
 
 **_Ken_** : I did - I need to go again - I have a very efficient bladder
 
@@ -58,29 +58,32 @@
 - He confronted Jean, there was a struggle, he wrestled the bell back, but Jean tore off Bigbeard's Big Beard and tossed it overboard
 - Bigbeard overpowered Jean, then ordered the Kraken to return to the depths, but he'd been humiliated. He knew that without his magnificent Big Beard, he would lose the respect of his fellow pirates and could no longer be the guardian of the Kraken Bell.
 - Knowing that others would come looking for it, he removed the clanger from the bell and hatched a plan to keep the two parts separated
-- He sent half his crew East with the clanger, with orders to give it to Stella to hide
-- He sent the other half of his crew West with the bell body, for Graham to hide
-- Finally, alone, he sailed to the middle of the sea, and left Jean, chained to a Buoy
-- Bigbeard was never seen again, his Big Beard was presumed lost at sea, no one has replaced him as pirate king, though there are rumours that he had a son who might be heir to the pirate throne
-- Meanwhile, Jean still bobs around in the middle of the sea, her voice echoing through the mist as she entices passing sailors to their doom
+- He sent the clanger East, with orders to give it to Stella to hide
+- He sent the now Silent Bell West, for Graham to hide
+- Finally, he sailed to the middle of the ocean where he chained Jean to a buoy. That was the last anyone saw of him.
+
+**_Jean_** : A curse upon Bigbeard, Graham and Stella. I will have my revenge. They will rue the day they crossed... Jean...
+
+MUSIC: Jean's Theme
 
 # 2 - Pirate Raid on Audience
 
-- The pirates appear through the curtains 
+- The pirates appear through the curtains
 
 **_Nobeard_** : Right this 'ere map was from Big Beard 'imself so I'm hoping for gold. X marks the spot where the treasure lies. Now its 3 paces forward and 1 pace to the left.... the bounty lies here, Yarrrrr!
 
 - She grabs a Bounty bar from the audience member which was planted under their seat
 
-**_Nobeard_** : That's not the bounty I was looking for....Maybe it was 1 pace to the right. Ginger... find that treasure.
+**_Nobeard_** : That's not the bounty I were looking for....Maybe it were 1 pace to the right. Ginger... find that treasure.
 
 **_Ginger_** : Now then my beauty, give me your booty!
 
 - The rubber chicken is under this seat
+
 - Ginger takes it, then hands it to Nobeard and they both look confused
 - Nobeard gives it a squeaky squeeze
 
-**_Nobeard_** : Mmmm. I suspect foul play!
+**_Nobeard_** : Mmmm. I suspects foul play!
 
 **_Scary_** : Give me your shoes. That's right, your shoes...
 
@@ -90,7 +93,7 @@
 
 **_Nobeard_** : Girls, stop. None of this is what we want.
 
-**_Posh_** : Well, what DO you want?  
+**_Posh_** : Well, what DO you want?
 
 **_Nobeard_** : I'll tell you I want, what I really really want
 
@@ -106,223 +109,222 @@
 
 - Norah sniffs the air, looks around and then whispers into Nobeard's ear
 
-**_Nobeard_** : Really, nearby you reckon. Right, one of you has got something we want... Nobody's leaving here until it's handed over. Come on, it's your own time you're wasting... One of you knows where it is
+**_Nobeard_** : Really, nearby you reckon. Girls, it's close...
+
+**_Sporty_** : Bigbeard's Big Beard?
+
+**_Ginger_** : The Big Beard
+
+**_Scary_** : Who's got it. I'll slit their throat.
+
+**_Posh_** : Is it valuable?
+
+**_Nobeard_** : Nobody's leaving here until it's handed over. Come on, it's your own time you're wasting... One of you knows where it is.
 
 - They start demanding the beard is handed over
 - Hopefully they eventually find it and it's passed to Norah
 
-**_Norah_** : Bigbeard's Big Beard!!!
-
-**_Nobeard_** : Right girls, back to the ship.
+**_Nobeard_** : Right girls, back to the ship, to see who shall be the new Pirate King.
 
 # 3 - The Mermaid's Chest Tavern
 
 - The Mermaid's Chest Tavern just after last orders
 - Boy is sweeping in the background
 
-**_Prawns_** : What you got there Frodo, another letter from your girlfriend? (Makes kissing noises) Are you in lurrrrve?
+**_Prawns_** : What you got there Flynn, another letter from your girlfriend? Are you in lurrrrve?
 
+- He makes kissing noises
 - He tries to grab the letter
 
-**_Frodo_** : Get off Prawns! I really think this is the one. She's beautiful and kind and intelligent.
+**_Flynn_** : Get off Prawns! I really think this is the one. She's beautiful and kind and intelligent.
 
 **_Prawns_** : How d'ya know? She could be well ugly. Remember the last one? Turned out he was a big burly fisherman from Grimsby.
 
-**_Frodo_** : Oh Prawns! Anyone could have made that mistake. He looked quite pretty in the painting he sent me. Anyway, I know THIS is the real thing. She writes of voyages and adventure. I want to be with her. There has to be more to life than working here.
+**_Flynn_** : Oh Prawns! Anyone could have made that mistake. He looked quite pretty in the painting he sent me. Anyway, THIS is the real thing. She writes of voyages and adventure. There has to be more to life than working here.
 
 **_Prawns_** : Working here's great - we get half priced pork scratchings once a month.
 
+- Boy exits
 - Graham enters and tries to lift one of two heavy barrels but after a few attempts gives up.
 
-**_Graham_** : William, could you perhaps help me with these?
+**_Graham_** : William, could you help me with these?
 
 - Prawns picks up both barrels easily
 
-**_Prawns_** : Sure, where do you want them?
+**_Prawns_** : Where do you want them?
 
 **_Graham_** : Wha...? Oh... Down in the cellar please my boy.
 
 - Prawns carries them offstage cheerfully
 
-**_Graham_** : He's got the strength of an ox.
+**_Graham_** : He has the strength of three men.
 
-**_Frodo_** : Who? Prawns? Yes, he's always been a strong lad.
+**_Flynn_** : Who? Prawns? He's always been a strong lad.
 
-**_Graham_** : I don't know why you call him Prawns - you should call him "Mussels"! Muscles? Get it? No? Well, this isn't a comedy role - I'm the serious one. Have you nearly finished clearing up Frodo?
+**_Graham_** : You shouldn't call him Prawns - you should call him "Mussels"! Muscles? Get it? No? Well, this isn't a comedy role - I'm the serious one. Have you nearly finished Flynn?
 
-**_Frodo_** : Almost, just need to clean these glasses.
+**_Flynn_** : Almost, just cleaning these glasses.
 
-**_Graham_** : Very well. I think I shall just rest my eyes a moment, it's been another busy evening and I.....
+**_Graham_** : Very well. I think I shall just rest my eyes, it's been a busy evening and I.....
 
 - He's fallen asleep
 - Prawns returns
 
 **_Prawns_** : Righto Graham, what else do you need... Oh...
 
-**_Frodo_** : Shhhh... he's asleep. Poor old fella, he's exhausted.
+**_Flynn_** : Shhhh... he's asleep. Poor old fella, he's exhausted.
 
-**_Prawns_** : I think running this tavern is getting too much for him. He needs to think about retiring.
+**_Prawns_** : He needs to think about retiring.
 
-**_Frodo_** : He'll never do that. The Mermaid's Chest is all he has.
+**_Flynn_** : He'll never do that. The Mermaid's Chest is all he has.
 
 - Prawns points at the small chest which Graham is clutching
 
-**_Prawns_** : Have you ever asked him what's in there, he never seems to let anyone near it.
+**_Prawns_** : Have you ever asked him what's in there, he never lets anyone near it.
 
-**_Frodo_** : He's never told me, and I've never asked. It's none of my business.
+**_Flynn_** : No, and I've never asked. It's none of my business.
 
 **_Prawns_** : Maybe it’s full of his most prized possessions, like a collection of belly button fluff.
 
-- Prawns takes a small tin from his pocket and starts showing Frodo bits of blue stuff.
+- Prawns takes a small tin from his pocket and starts showing Flynn bits of blue stuff.
 
-**_Frodo_** : Put it away Prawns. I don't want to see your belly button fluff.
+**_Flynn_** : Put it away Prawns. I don't want to see your belly button fluff.
 
-**_Prawns_** : Maybe it's full of pickled eggs. Ooh, I love a pickled egg. My dad always said, "Prawns, a pickled egg a day keeps the doctor away." Mind you, my dad was a bit strange. He used to talk to broccoli.
+**_Prawns_** : Maybe it's full of pickled eggs. I love a pickled egg. My dad always said, "a pickled egg a day keeps the doctor away." Mind you, he was a bit strange. He used to talk to broccoli.
 
-**_Frodo_** : At least you had a dad to give you advice. 
+**_Flynn_** : At least you had a dad to give you advice.
 
 **_Prawns_** : You've got Graham
 
-**_Frodo_** : But he's not my real dad. Graham found me on the doorstep forty years ago with nothing but this pendant around my neck (holds it up). I don't know who I am.
+**_Flynn_** : But he's not my real dad. Graham found me on the doorstep forty years ago with nothing but this pendant around my neck. I don't know who I am.
 
-**_Prawns_** : You’re Frodo! You wash the glasses, I break the glasses. It’s a perfect partnership. 
+**_Prawns_** : You’re Flynn! You wash the glasses, I break the glasses. It’s a perfect partnership.
 
-**_Frodo_** : Yes, but where did I COME from?
+**_Flynn_** : Yes, but where did I COME from?
 
 - Graham snores
 
-**_Prawns_** : Well maybe the answer is in the chest? Come on, let's have quick peek - it won't do any harm.
+**_Prawns_** : Maybe the answer is in the chest? Come on, let's have quick peek.
 
-**_Frodo_** : We can't, it's not right, and anyway, we'd wake him.
+**_Flynn_** : We can't, it's not right, and anyway, we'd wake him.
 
 **_Prawns_** : An earthquake wouldn't wake him... Look...
 
 - He begins to prise the chest from Graham's grip
 
-**_Frodo_** : No Prawns, don't...
+**_Flynn_** : No Prawns, don't...
 
 **_Prawns_** : Shhhh! Now then, gently does it... there!
 
 - Graham snores loudly as Prawns releases the chest, he splutters briefly, then continues to sleep
 
-**_Frodo_** : Prawns! You shouldn't have... I mean it's wrong... We'll get in trouble...
+**_Flynn_** : Prawns! You shouldn't have... It's wrong... We'll get in trouble...
 
 **_Prawns_** : Don't you want to see what's inside?
 
-**_Frodo_** : No, I mean, yes... a bit... but...
+**_Flynn_** : No, I mean, yes... but...
 
 - Prawns opens the chest and takes out a few bits of paper
 
 **_Prawns_** : Just this bell, and a note, from someone called Captain Bigbeard.
 
-**_Frodo_** : Bigbeard? He's the most famous pirate of ALL. I've read every story about him. What does it say?
+**_Flynn_** : Bigbeard? He's the most famous pirate of ALL. I've read every story about him. What does it say?
 
 **_Prawns_** : It says... "Graham, keep this safe. Don't let it out of your sight. And don't ever go near Mermaid Cove. Yarrrr!" What does that all mean?
 
-**_Frodo_** : Careful Prawns, don't ring it... You'll wake him!
-
-**_Prawns_** : He's fast asleep
+**_Flynn_** : Careful Prawns, don't ring it... You'll wake him!
 
 - Prawns shakes the bell violently but no sound is heard
 
-**_Prawns_** : See, I've not woken him. In fact, it didn't even make a noise. What's the point of a bell if it doesn't ring?
+**_Prawns_** : See, I've not woken him. It didn't even make a noise.
 
-**_Frodo_** : Why would anyone keep a silent bell? And why would Graham have a note from Bigbeard himself?
+**_Flynn_** : Why would anyone keep a bell that doesn't ring? And why would Graham have a note from Bigbeard?
 
 - There is an ominous rumbling followed by a terrifying screeching sound heard from a distance
 - Graham stirs, splutters a little and then wakes. He looks at the bell and then looks horrified.
 
-**_Graham_** : What have you done? You boys. WHAT HAVE YOU DONE?!?
+**_Graham_** : What have you done? You boys, WHAT HAVE YOU DONE?!?
 
-**_Frodo_** : We didn't... I mean... We...
+**_Flynn_** : We didn't... I mean... We...
 
 **_Prawns_** : We just wondered what was in...
 
-**_Graham_** : Did you ring "The Silent Bell"????
+**_Graham_** : Did you ring Bigbeard's "Silent Bell"?
 
-**_Frodo_** : No... I mean... Yes, sort of
+**_Flynn_** : Bigbeard? He's my hero! Did you know him? What was he like?
 
-**_Prawns_** : But it didn't make any noise
+**_Graham_** : Big Beard was the King of the Pirates. Pirates bring nothing but trouble. This bell brings nothing but trouble. I ask you again... Did you ring The Silent Bell.
 
-**_Graham_** : Of course it didn't make a noise. Why do you think it's called the Silent Bell? You have unleashed horrors which you cannot even begin to imagine.
+- Flynn looks nervously at Prawns
 
-**_Prawns_** : Have we?
+**_Prawns_** : Maybe... But it didn't make any noise.
 
-**_Frodo_** : We didn't mean to unleash any horrors, did we Prawns?
+**_Graham_** : Of course it didn't make a noise. Why do you think it's called the Silent Bell? You have unleashed horrors which you cannot begin to imagine.
+
+**_Flynn_** : We didn't mean to unleash any horrors, did we Prawns?
 
 **_Prawns_** : Oh no, definitely not.
 
-**_Graham_** : Ringing "The Silent Bell" has awoken "The Kraken"... a most terrifying sea monster. It will rise from the ocean, causing storms, chaos and, by the next full moon, the destruction of everything.
+**_Graham_** : You have awoken "The Kraken"... a terrifying sea monster. It will rise from the ocean, causing storms, chaos and, by the next full moon, the destruction of everything.
 
 **_Prawns_** : Ooooh 'eck. I definitely need a pickled egg now!
 
-**_Frodo_** : What can we do?
+**_Flynn_** : What can we do?
 
 **_Graham_** : What can you do?! WHAT CAN YOU DO?? Nothing, you've already done more than enough... The Kraken cannot be controlled, unless...
 
-**_Frodo_** : Unless?
+**_Flynn_** : Unless?
 
-**_Graham_** : The only way to bring it under control is to re-unite the Silent Bell with its lost clanger, restoring its power and allowing the holder to command The Kraken.
+**_Graham_** : The only way would be to re-unite the bell with its clanger.
 
-**_Prawns_** : Oh, OK, well let's do that then. 
+**_Prawns_** : Oh, OK, well let's do that then.
 
-**_Graham_** : Let's do that then? LET'S DO THAT THEN????!!!! It's impossible. Big Beard separated the clanger from the bell so that no-one could control The Kraken, as Jean had once done.
+**_Graham_** : LET'S DO THAT THEN????!!!! It's impossible. Big Beard removed the clanger after Jean tried to control The Kraken.
 
-**_Frodo_** : Who on earth is Jean?
+**_Flynn_** : Who on earth is Jean?
 
-**_Prawns_** : Is she that lady who works at the bakery with the big moustache?
+**_Prawns_** : Is she that lady at the bakery... with the big moustache?
 
-**_Graham_** : No! Jean was a dangerous woman. I broke her heart. In a fit of jealous rage, she stole the bell from Bigbeard so she could control the Kraken and punish me.
+**_Graham_** : No! I broke Jean's heart. In a fit of jealous rage, she stole the bell from Bigbeard to harm my true love.
 
-**_Frodo_** : Did YOU know Big Beard? What was he like in person? Was he has cool as he sounds?
-
-**_Graham_** : Big Beard was the King of the Pirates. Pirates bring nothing but trouble
-
-**_Prawns_** : So why do you have his bell then?
-
-**_Graham_** : When Big Beard caught Jean he entrusted me with the bell body and he sent the clanger to my true love.
-
-**_Frodo_** : Your "true love"?
+**_Flynn_** : Your "true love"?
 
 **_Graham_** : Stella. Oh my darling Stella, the most beautiful woman you could ever meet. Her hair is like strands of gold, her eyes like pools of pure spring water and her chest...
 
-- Frodo and Prawns look a bit embarrassed
+- Flynn and Prawns look a bit embarrassed
 
 **_Prawns_** : Errrr, yeah, OK, we get the idea...
 
 **_Graham_** : What, NO! I was about to say that her chest has a pair of hinges which would delight the most discerning craftsman.
 
 - They look confused
+- Graham grabs the chest
 
-**_Graham_** : This... This is Stella's chest. The only thing of hers I have left. How I miss her.
-
-**_Frodo_** : So you've no idea where she is then?
-
-**_Graham_** : Of COURSE I know where she is. Bigbeard made her promise to never leave Mermaid's Cove. And forbade me from ever going NEAR Mermaid's Cove so the bell could never be made whole.
+**_Graham_** : This... This is Stella's chest. The only thing of hers I have left. How I miss her. Bigbeard sent the clanger to Stella and made her promise never to leave Mermaid's Cove. And he forbade me from ever going NEAR Mermaid's Cove so the bell could never be made whole.
 
 **_Prawns_** : She's a mermaid?!?
 
-**_Graham_** : Of COURSE she's a mermaid. Why do you think this tavern is called The Mermaid's Chest? A tribute to my love, the queen, of the mermaids. 
+**_Graham_** : Of COURSE she's a mermaid. Why do you think this tavern is called The Mermaid's Chest? A tribute to my love, the queen, of the mermaids.
 
-**_Frodo_** : So, you can never see each other?
+**_Flynn_** : So, you can never see each other?
 
 **_Graham_** : That is the hand which fate dealt us. And now we are ALL doomed.
 
-**_Frodo_** : But nothing stops US going to Mermaid's Cove, and nothing stops US finding Stella. (Enthusiastically) Maybe WE could find the clanger and WE could ring the bell and WE could stop The Kraken destroying everything before the next full moon?
+**_Flynn_** : But nothing stops US going to Mermaid's Cove, and nothing stops US finding Stella. Maybe WE could find the clanger and WE could ring the bell and WE could stop The Kraken destroying everything before the next full moon?
 
-**_Prawns_** : Yeah, doesn't sound too difficult really, does it?
+**_Prawns_** : Yeah, doesn't sound too difficult.
 
-**_Graham_** : You two? I really don't think that would be a good idea...
+**_Graham_** : You two?
 
-**_Frodo_** : Look, this is our fault, we should put it right. Tell us how to find Stella.
+**_Flynn_** : This is our fault, we should put it right. Tell us how to find Stella.
 
 **_Graham_** : Well, we ARE all doomed...
 
 **_Prawns_** : Exactly... Doomed!
 
-**_Graham_** : And the only people I know who can help are you two incompetent idiots.
+**_Graham_** : And the only people who could help are you two incompetent idiots.
 
-**_Prawns_** : Exactly... Us two uncompetent idiots! Frodo, what does uncompetent mean.
+**_Prawns_** : Exactly... Us two uncompetent idiots! Flynn, what does uncompetent mean.
 
 - Graham retrieves a map from somewhere and unrolls it
 
@@ -330,23 +332,23 @@
 
 **_Prawns_** : What did he say?
 
-**_Frodo_** : Shhh Prawns!
+**_Flynn_** : Shhh Prawns!
 
-**_Graham_** : WE are, HERE. Mermaid Cove is HERE. 
+**_Graham_** : WE are, HERE. Mermaid Cove is HERE.
 
-**_Frodo_** : And what's this?
+**_Flynn_** : And what's this?
 
 - He points at a big red cross in the middle of the sea.
 
-**_Graham_** : Never, ever, ever go anywhere near there. I cannot stress this enough. This is the home of pure evil, deceit, hatred. You must NEVER go there.
+**_Graham_** : Never, ever go anywhere near there. I cannot stress this enough. This is the home of pure evil, deceit, hatred. You must NEVER go there.
 
 **_Prawns_** : I went to Magaluf last summer, it can't be THAT bad!
 
 **_Graham_** : I'm serious William. Promise me you will avoid this despicable place at all costs.
 
-**_Frodo_** : We promise. Right we're off to save the world from destruction.
+**_Flynn_** : We promise. Right we're off to save the world from destruction.
 
-- Frodo rolls up the map and starts to leave
+- Flynn rolls up the map and starts to leave
 - Prawns picks up the bell and follows him
 
 **_Prawns_** : Don't worry, we won't let you down.
@@ -360,16 +362,16 @@
 
 **_Prawns_** : Did you understand any of that?
 
-**_Frodo_** : Not really... but this is the sort of adventure I've always dreamt about. Ships and monsters... and PIRATES. We need a boat... and someone who's good with maps... 
+**_Flynn_** : Not really... but this is the sort of adventure I've always dreamt about. Ships and monsters... and PIRATES. We need a boat... and someone who's good with maps...
 
 **_Prawns_** : Well there's Geeky Oz at the Ship Shop. He's annoying, but he does know about maps... and he runs a Ship Shop
 
-**_Frodo_** : He IS annoying, but you're right, he might be able to help. Off to the Ship Shop then. But first...
+**_Flynn_** : He IS annoying, but you're right, he might be able to help. Off to the Ship Shop then. But first...
 
 - he directs Prawns to turn his back
 - he then takes a scrap of paper and begins writing on it
 
-**_Frodo_** : My dearest, I'm about to embark on an exciting adventure to save the world. I will write again once we set sail. Your true love... Frodo
+**_Flynn_** : My dearest, I'm about to embark on an exciting adventure to save the world. I will write again once we set sail. Your true love... Flynn
 
 - he rolls up the note and puts it in the bottle and "posts" it
 
@@ -405,7 +407,7 @@
 
 - Once the scene is ready, a seagull "flies" out between the curtains with a message attached to its foot
 
-**_Captain Biggleswade_** : Lieutenant... This is a message from Naval Intelligence. A pirate ship has been sighted off the coast, not far from our current position. We must set off in pursuit. Maybe today is the day I finally capture Big Beard himself.
+**_Captain Biggleswade_** : Lieutenant... This is a message from Naval Intelligence. A pirate ship has been sighted off the coast, close to our current position. We must set off in pursuit. Maybe today I'll finally capture Big Beard.
 
 **_Lieutenant Crump_** : Aye aye Captain Biggleswade
 
@@ -415,9 +417,11 @@
 
 # 5 - On The Pirate Ship
 
+-
+- The moon is a crescent
 - Nobeard addresses the audience
 
-**_Nobeard_** : Arrrrghhh, it's you lot again. Back for more are we? Well this be our ship, The Iron Lady. I'm Captain No-beard, the most fearsome pirate captain since Bigbeard himself. Me and my crew sails under our pirate flag, the Dolly Roger. Here they be... The Spicy Girls. Please show your appreciation for Sporty Spice.
+**_Nobeard_** : Arrrrghhh, it's you lot again. Back for more are we? Well this be our ship, The Iron Lady. We sails under our pirate flag, the Dolly Roger. I'm Cap'n Nobeard, the most fearsome pirate since Bigbeard vanished, many moons ago. No one has replaced him as pirate king... or Queen! Oh, where be my manners? Let me introduce my crew... The Spicy Girls. Show your appreciation for Sporty Spice.
 
 - Sporty cartwheels on and then does a couple of karate moves
 
@@ -450,7 +454,7 @@
 
 - Possible banter with the audience?
 
-**_Nobeard_** : What? "Baby Spice" - A pirate ship's no place for a baby! No, this be... Old Spice 
+**_Nobeard_** : What? "Baby Spice" - A pirate ship's no place for a baby! No, this be... Old Spice
 
 - Norah hobbles on as an old lady pirate (groaning)
 
@@ -499,11 +503,15 @@
 
 **_Norah_** : How disappointing!
 
-**_Nobeard_** : Well, it looks like our booty was nothing but barnacle bait. No real treasure at all.
+**_Nobeard_** : It must have shrunk, in the brine. Hang it on the rigging to dry, I'm sure it will fit.
 
-**_Norah_** : Big Beard used to say that Mermaids had the best treasure.
+**_Scary_** : It looks like our booty was nothing but barnacle bait.
 
-**_Ginger_** : Oh Norah, you are funny.
+**_Sporty_** : We haven't found real treasure for as long as I can remember
+
+**_Ginger_** : ==SOME TREASURE POEM==
+
+**_Norah_** : Bigbeard used to say that Mermaids kept the best treasure, for themselves.
 
 **_Sporty_** : Mermaids indeed.
 
@@ -511,9 +519,9 @@
 
 **_Norah_** : They DO exist!
 
-**_Nobeard_** : Well, how would we find a mermaid today?
+**_Nobeard_** : Well where would we FIND a mermaid?
 
-**_Norah_** : There's a tavern we should visit
+**_Norah_** : There's a tavern we should visit.
 
 **_Ginger_** : A tavern, how romantic, which reminds me, I shall send this message to my love
 
@@ -542,33 +550,30 @@ FOC
 **_Ken_** : I've just been backstage, it's an absolute disgrace, stuff strewn all over the place. It's a fire hazard. Honestly, the state of things these days, kids on e-bikes, the internet, fly tipping. I've complained to the council but they don't do anything... They didn't empty our bins for months last year... Look, look at this. This is exactly the sort of thing I'm talking about. In my day, we didn't leave bottles lying around. We'd take 'em to the bottle bank. It's got a bit of paper in it. Why would anyone... it's got a message written on it... what possesses people to do this sort of thing? Why would anyone put a message in a bottle? And what's this? A perfectly good ukulele thrown out... I'm going to write another complaint...
 
 - SONG: MESSAGE TO THE COUNCIL
+
 # 6 - Oz's Ship Shop
 
-**_Oz_** : Right then, let's have a look at this map of yours. Oh yes, it's quite simple really, I've dealt with much more complicated maps than this. Now then, yes, I see, yes, interesting, yes, the names seem to be in some kind of code, or perhaps a foreign language, no, no I think it must be a code, now then how to decipher it...
+**_Oz_** : Right then, let's have a look at this map of yours. I see, interesting, yes, the names seem to be in some kind of code, or perhaps a foreign language, no, no I think it must be a code, now then how to decipher it...
 
-**_Frodo_** : I think you've got it upside down?
+**_Flynn_** : I think you've got it upside down?
 
 **_Oz_** : What? Upsi... No! No that's how, I mean, I was just assessing the, I mean, that's how you're supposed to begin looking at a map, upside down... that's what you're meant to do.
 
 **_Prawns_** : Oh, right, we don't really understand maps.
 
-**_Oz_** : Well obviously. Right so now I'm ready to look at it the other way round. Ah, yes, I see, so we're here, Nudii Island is to the West and then just across Dire Strait is, wait, what does this cross mean?
+**_Oz_** : Well obviously. Right so now I'm ready to look at it the other way round. Ah, yes, I see, so we're here, Billy Ocean is to the West and then just across Dire Strait is, wait, what does this cross mean?
 
-**_Frodo_** : Oh, I, errr, I'm not sure I can remember. Graham did mention it, but I... Prawns?
+**_Flynn_** : Oh, I, errr, I'm not sure. Graham did mention it, but I... Prawns?
 
-**_Prawns_** : Oh, sorry, no, I'd stopped listening to him.
+**_Prawns_** : Oh, sorry, no, I'd stopped listening.
 
-**_Frodo_** : I was too excited about pirates and adventure. But I'm pretty sure he said it was very important
+**_Flynn_** : I was too excited about pirates and adventure. But I'm sure he said it was important
 
 **_Oz_** : Well of COURSE it's important. Red crosses on maps are always important. Well that's decided then. YOU need to go THERE. Now, let me do some calculations... that will be at least 3 days sailing. You'll need supplies for, let's say a week to be safe. And rum, you'll be needing rum. Now which ship did you say was yours?
 
 - He's looking out across the harbour with a telescope?
 
-**_Frodo_** : Oh, we don't have a ship.
-
-**_Prawns_** : Yet...
-
-**_Frodo_** : Yes, yet. We, erm, we hadn't really got that far...
+**_Flynn_** : Oh, we don't have a ship. We, erm, we hadn't really got that far...
 
 **_Oz_** : Well, you're not really GOING to get that far are you, without a ship.
 
@@ -576,15 +581,15 @@ FOC
 
 **_Tim_** : Morning Oz you bally old roister-doister. Oh... I say... You've got customers. I thought I was the only one who ever came in here, ha!
 
-**_Frodo_** : Oh no, it's Posh Tim.
+**_Flynn_** : Oh no, it's Posh Tim.
 
 **_Prawns_** : Oh 'eck, he's more annoying than Geeky Oz.
 
 **_Oz_** : Yes, good morning Tim. I was just helping these two gentlemen with a technical enquiry if you don't mind waiting your turn.
 
-**_Tim_** : Ah, it's erm Cockles and Crabs isn't it. Good to see you chaps. Well, there's no rush, I've just nipped in for tin of boat polish. Daddy wants the yacht looking spick and span for the weekend.
+**_Tim_** : Ah, good to see you chaps. Well, there's no rush, I've just nipped in for tin of boat polish. Daddy wants the yacht looking spick and span for the weekend.
 
-**_Frodo_** : You've got a boat?
+**_Flynn_** : You've got a boat?
 
 **_Tim_** : Well, it's NOT a BOAT... it's a yacht... and it's not strictly mine, but Daddy lets me and my chums use it whenever we like.
 
@@ -592,7 +597,7 @@ FOC
 
 **_Tim_** : What? Ha! Well, I mean no, not really, but you know, it's marvellous for entertaining the ladies, if you catch my drift.
 
-**_Frodo_** : The ladies Tim?
+**_Flynn_** : The ladies Tim?
 
 **_Tim_** : Well, you know, I haven't actually... that is to say... but, you know, maybe one day, what?
 
@@ -604,47 +609,66 @@ FOC
 
 **_Prawns_** : Not likely
 
-**_Frodo_** : Prawns! Shhhh... Tim's got a boat.
+**_Flynn_** : Prawns! Shhhh... Tim's got a boat.
 
 **_Prawns_** : I know, he won't stop going on about it...
 
-**_Frodo_** : And we need a boat
+**_Flynn_** : And we need a boat
 
 **_Prawns_** : Do we? Oh, yes, the map, the cross, sorry, I'd forgotten!
 
-**_Frodo_** : We'd love to join you Tim. How would "now" sound?
+**_Flynn_** : We'd love to join you Tim. How would "now" sound?
 
 **_Tim_** : Really? I mean, well, I hadn't any plans. Why the bally heck not?
 
-**_Frodo_** : Oz, perhaps you'd come too?
+**_Flynn_** : Oz, perhaps you'd come too?
 
 **_Oz_** : I'm not joining you for drinks, I'm tee-total, I don't like fun, and I've a shop to run.
 
-**_Frodo_** : It doesn't look like your shop is particularly busy, and besides, we could really do with a "map expert".
+**_Flynn_** : It doesn't look like your shop is particularly busy, and besides, we could really do with a "map expert".
 
 **_Oz_** : Expert? Expert, eh? Well if you put it like that, perhaps I could spare some time to share my expertise...
 
-**_Frodo_** : Great! Lead on Tim, let's see this massive YACHT of yours...
+**_Flynn_** : Great! Lead on Tim, let's see this massive YACHT of yours...
 
 - Curtains
-- SONG: TIDE IS HIGH
 
-## 6.5 Jean Does Something Evil? FOC
+# 6.5 Jean Does Something Evil? FOC
 
+- The moon is a crescent
+- Siren song
+- Reference the moon?
+
+Come down brave sailors from your wooden deck
+Forget the cold spray and the looming wreck
+Forget the high winds and the stormy skies
+And rest your weary salt crusted eyes
+Come closer bold pirates, don't fear the deep
+The ocean is singing to rock you to sleep
+Step right to the edge, let the anchor drop down
+Where all of your worries and memories drown
+Now look in my eyes, let your senses erase
+You're trapped in the spell of my watery embrace
+No thoughts in your mind and no breath in your chest
+The sea witch commands you, now sink to your rest
+
+**_Jean_** : Come to me my pretty, Jean is feeling peckish
+
+- Bites head off seagull
 
 # 7 - The Pirates visit The Mermaid's Chest
 
-**_Nobeard_** : Right then girls, here we are at the tavern. Let's go gentle like, see what intelligence we can gather on where these mermaids be.
+**_Nobeard_** : Right then girls, this be the tavern. Let's see if we can find these here mermaids.
 
 **_Graham_** : Good evening ladies. What can I get you?
 
-**_Sporty_** : I'll have a tot of rum but make it diet
+**_Sporty_** : A tot of rum but make it diet
 
-**_Ginger_** : Oh, I'd like an elderflower spritzer please.
+**_Ginger_** : I'd like an elderflower spritzer please.
 
 **_Norah_** : Give me some grog
 
-**_Posh_** : Excuse me, do you have any bollinger?
+**_Posh_** : Do you have any bollinger?
 
 **_Scary_** : I's a thirst on me like sandpaper in a desert - gets me a pint of bloody mary
 
@@ -652,26 +676,39 @@ FOC
 
 **_Scary_** : She be at home with me grandad!
 
-**_Graham_** : One at a time ladies, I'm a bit short staffed at the moment
+**_Graham_** : One at a time ladies, I'm a little short staffed at the moment
 
-**_Scary_** : (barges in and grabs Graham by the throat) Right that's enough chit-chat, where be the mermaids - tell me now you scurvy faced dog or I'll slit yer throat
+- Scary grabs Graham by the throat
 
-**_Nobeard_** : Scary, I said go gentle
+**_Scary_** : Right that's enough chit-chat, where be the mermaids - tell me now you scurvy faced dog or I'll slit yer throat.
 
-**_Scary_** : I was going gentle, I hardly touched him
+**_Nobeard_** : Scary, go gentle like.
 
-**_Nobeard_** : So what do you know about mermaids then?
+**_Scary_** : I hardly touched him.
 
-**_Graham_** : Well, you know, I, I mean, I'm no expert.
+**_Sporty_** : We've heard there's mermaids here, and treasure...
 
-- Scary rushes up to him and grabs him by the neck
-- She's like an east-end gangster
+**_Graham_** : There are NO mermaids here.
 
-**_Scary_** : NO "EXPERT"? Sign outside says "The Mermaid's Chest". There's mermaid souvenirs "splashed" over all the walls. So explain, to me, how... you... are not... a mermaid expert?
+**_Ginger_** : What about treasure?
 
-**_Graham_** : Well, I errrm, I dabble.
+**_Graham_** : I have NO treasure.
 
-**_Nobeard_** : Right girls. Seems to me. Graham here knows about mermaids. So, I reckons we need to bring Graham on board.
+**_Scary_** : Sign outside says "The Mermaid's Chest". So where's the mermaid, and where's her chest?
+
+**_Graham_** : It's a long story. She was the love of my life. Her hair is like strands of gold, and her chest would...
+
+**_Norah_** : I've found the chest!
+
+- They all gather around Norah
+
+**_Scary_** : It be empty
+
+**_Sporty_** : Where's the treasure?
+
+**_Graham_** : If you would just let me finish my story... Her eyes are pools of pure spring water and...
+
+**_Nobeard_** : Right girls. I've 'eard enough. I reckons Graham here knows where the mermaids be. So, I says we should take 'im WITH us.
 
 **_Posh_** : Yaaaah, cool!
 
@@ -679,25 +716,37 @@ FOC
 
 **_Sporty_** : I'm stronger than a man. Look....
 
-**_Scary_** : He's toast.
+- She flexes her bicep
 
-**_Norah_** : Stop! It is bad luck for a man to be on a ship. This will not end well.
+**_Scary_** : Why can't we just torture 'im?
 
-**_Nobeard_** : Well, as a modern leader, I've considered all your opinions, and I'm inclined to... Kidnap Graham!!!! Is everybody with me - say yarr!
+**_Norah_** : Stop! 'tis bad luck for a man to be on a ship. This will not end well.
 
-All except Posh: Yarr
+**_Nobeard_** : These are all valid points girls, and, as a modern leader, I've considered all your opinions, and I'm inclined to... KIDNAP GRAHAM! Is everybody with me - say yarr!
+
+**_Sporty_** : Yarr!
+**_Ginger_** : Yarr!
+**_Scary_** : Yarr!
+**_Norah_** : Yarr!
 
 **_Posh_** : Yaah!
 
-- They grab Graham and do all sorts of humiliating stuff to him
-- They drag him off
+- They pick Graham up
+
+**_Graham_** : Unhand me... I'm too old for this sort of thing... I can't go to sea... Who's going to look after the tavern? PUT ME DOWN!!!
+
+- They carry him off
 - The Navy arrive
 
-**_Captain Biggleswade_** : So this is The Mermaid's Chest is it Crump?
+**_Captain Biggleswade_** : So this is The Mermaid's Chest?
 
 **_Lieutenant Crump_** : That's correct sir. We had word from one of our spies. They said it was full of pirates.
 
-**_Captain Biggleswade_** : Well it doesn't look very full to me. [To the audience] Have you seen any pirates here?
+**_Captain Biggleswade_** : Well it doesn't look very full to me.
+
+- He addresses the audience
+
+**_Captain Biggleswade_** : Have you seen any pirates here?
 
 **_Lieutenant Crump_** : Sir, over here. Evidence of pirate activity.
 
@@ -707,11 +756,7 @@ All except Posh: Yarr
 
 **_Captain Biggleswade_** : Interrogate it? It looks dead to me.
 
-**_Lieutenant Crump_** : I think it might be resting sir. Looks like a Norwegian Blue... Beautiful plumage.
-
-**_Captain Biggleswade_** : The plumage don't enter into it. It's gone to meet its maker.
-
-**_Lieutenant Crump_** : Perhaps it's just pining for the fjords?
+**_Lieutenant Crump_** : It's a Norweigan Blue, perhaps it's just pining for the fjords?
 
 **_Captain Biggleswade_** : Pining for the fjords? It's bereft of life. It's joined the choir eternal. This, Crump, is an ex-parrot!
 
@@ -729,7 +774,7 @@ All except Posh: Yarr
 
 **_Captain Biggleswade_** : Thank you Crump. Now then "Boy", have you seen any pirates here recently?
 
-**_Boy_** : Yeah, they just left, ran out the back. Never  even paid for their grog. Took Graham too.
+**_Boy_** : They just left, ran out the back. Never even paid for their grog. Took Graham too.
 
 **_Captain Biggleswade_** : Graham?
 
@@ -739,7 +784,7 @@ All except Posh: Yarr
 
 **_Lieutenant Crump_** : No, the picture next to the fish sir.
 
-**_Captain Biggleswade_** : Ah, I see, yes. Graham eh? And which way did they go Boy?
+**_Captain Biggleswade_** : Ah, I see, yes. Graham eh? And where were they heading Boy?
 
 **_Boy_** : They said they were going to Thomas Cook Island.
 
@@ -750,7 +795,7 @@ All except Posh: Yarr
 
 **_Boy_** : I don't want to be in the Navy. I get seasick in the bath.
 
-**_Captain Biggleswade_** : Nonsense. Everyone dreams of joining the Navy. The adventure, the camaraderie, the lovely uniforms. And besides, you're the only one who can identify these pirates, you know how to handle a broom... And you have remarkably clean ears.
+**_Captain Biggleswade_** : Nonsense. Everyone dreams of joining the Navy. The adventure, the camaraderie, the lovely uniforms. And besides, you're the only one who can identify these pirates.... and you have remarkably clean ears.
 
 - Crump grabs his shoulder
 
@@ -763,47 +808,31 @@ All except Posh: Yarr
 **_Captain Biggleswade_** : That's right - we want you as a new recruit.
 
 SONG: IN THE NAVY (FOC)
-We want you, we want you  
-We want you as a new recruit
-We want you, we want you  
-We want you as a new recruit
 
-In the navy, you can sail the seven seas 
-In the navy, you can put your mind at ease
-In the navy, come on, be bold and make a stand   
-In the navy, can't you see we need a hand?
-In the navy, come protect the motherland
-In the navy, come on and join your fellow men 
-In the navy, come on, be bold and make a stand  
-In the navy, In the navy
-
-We want you, we want you  
-We want you as a new recruit
-We want you, we want you  
-We want you as a new recruit
 # 8 - Sailing Tim's Dad's Yacht
 
-- Frodo is steering Tim's Dad's yacht
+- The moon is a bigger crescent
+- Flynn is steering Tim's Dad's yacht
 
 **_Tim_** : I'm not really supposed to be out of the harbour chaps. Daddy doesn't actually let me sail her you see. We really do need to get back before supper time. I don't mind admitting, I'm a little scared out here.
 
-**_Frodo_** : Don't worry Tim, everything will be fine. I've grown up reading about pirate adventures. I know how to handle a ship. Oz, my salty old seadog, what's our heading?
+**_Flynn_** : Don't worry Tim, everything will be fine. I've grown up reading pirate adventures so I know how to handle a ship. Oz, my salty old seadog, what's our heading?
 
-**_Oz_** : Well our current bearing is 72.3 degrees South-South-West. We're proceeding at a speed of 12 knots. 
+**_Oz_** : Well our current bearing is 72.3 degrees South-South-West. We're proceeding at a speed of 12 knots.
 
 - Storm picks up
 
 **_Tim_** : I say, it's getting a bit bumpy, what?
 
-**_Oz_** : Prawns you're being too heavy handed with the mainsail, the boat's rocking from side to side
+**_Oz_** : Prawns you're being too heavy handed with the mainsail, we're rocking from side to side
 
 **_Prawns_** : It's not me!
 
 **_Tim_** : Please be careful, I don't want to damage daddy's yacht
 
-**_Frodo_** : Arrrrrrr, the weather's turned against us. We needs to find safe berth til this tempest blows over. Prawns me old shipmate, hoist the mizzen.
+**_Flynn_** : Arrrrrrr, the weather's turned against us. We needs to find safe berth til this tempest blows over. Prawns me old shipmate, hoist the mizzen.
 
-**_Prawns_** : Aye aye cap'n Frodo.
+**_Prawns_** : Aye aye cap'n Flynn.
 
 **_Tim_** : Bally heck Oz, what on earth's going on?
 
@@ -813,16 +842,16 @@ We want you as a new recruit
 
 **_Oz_** : Tim, where are the lifejackets on this yacht?
 
-**_Tim_** : Oh, I don't know. There's a wardrobe with Daddy's blazer collection and some brightly coloured trousers. Might those help?
+**_Tim_** : Oh. I don't know. There's a wardrobe with Daddy's blazer collection and some brightly coloured trousers. Might those help?
 
-**_Frodo_** : Avast me hearties, land ahoy. Shiver me timbers. 
+**_Flynn_** : Avast me hearties, land ahoy. Shiver me timbers.
 
 - Lights out
 - Curtains Close
 
 # 9 - Seasick
 
-**_Captain Biggleswade_** : Sail on - those blasted pirates will be just over the horizon. We'll catch them for certain and then I'll be made a Commodore. Can you smell the crisp salt air Crump?
+**_Captain Biggleswade_** : Sail on - those blasted pirates will be just over the horizon. We'll catch them for certain and then I'll be made Commodore. Can you smell the crisp salt air Crump?
 
 - He sniffs some members of the audience
 - He then pulls out a telescope
@@ -839,7 +868,7 @@ We want you as a new recruit
 
 **_Lieutenant Crump_** : I think he's about to launch his lunch!
 
-**_Captain Biggleswade_** : Nonsense, a true British sailor has the constitution of an ox and a stomach made of iron! Look at me. I'm a fine figure of a man!
+**_Captain Biggleswade_** : Nonsense, a true British sailor has the constitution of an ox and an iron stomach! Like me. I'm a fine figure of a man!
 
 - Creaking noise and they all sway to the left and then to the right
 
@@ -847,9 +876,9 @@ We want you as a new recruit
 
 **_Captain Biggleswade_** : Stand tall Boy. You'll be fine. Make your way to the Poop Deck to keep watch.
 
-**_Boy_** : Oh I don't need the Poop Deck sir, I went this morning.
+**_Boy_** : I don't need the Poop Deck sir, I went this morning.
 
-**_Lieutenant Crump_** : (clips him round the ear) No Boy, the Poop Deck is at the back of the ship. It's a nautical term.
+**_Lieutenant Crump_** : No Boy... the Poop Deck is a nautical term for the highest deck.
 
 **_Boy_** : Urggh
 
@@ -857,16 +886,16 @@ We want you as a new recruit
 
 **_Lieutenant Crump_** : Think of cold greasy mutton floating in a puddle of lukewarm gravy.
 
-**_Boy_** : Why would you say that?! 
+**_Boy_** : Why would you say that?!
 
 **_Captain Biggleswade_** : Quick Lieutenant, the bucket of destiny!
 
 - Crump grabs a bucket and gives it to Boy just in time for vomit sound effect
 - He then peers into the bucket
 
-**_Lieutenant Crump_** : Oooh look, carrots. How did that happen? We haven't even got carrots on board!
+**_Lieutenant Crump_** : Oooh carrots. How did that happen? We don't even have carrots on board!
 
-**_Captain Biggleswade_** : Keep your chin up Boy, we're closing in on the pirate ship
+**_Captain Biggleswade_** : Keep your chin up Boy... we're closing in on the pirate ship
 
 - Another creaking noise and they all sway to the left and then to the right
 - Boy grabs bucket back from Crump for more heaving
@@ -881,39 +910,33 @@ We want you as a new recruit
 
 # 10 - Elvis Island
 
-**_Frodo_** : Right everyone, let's be careful, we've no idea what's on this island. We just need somewhere safe for the night until the storm passes. Prawns, you stay at the back, in case we get attacked from behind.  I've tied this string to the ship to make sure we can find our way back.
+- The moon is a half-moon
 
-- Frodo passes the string to Prawns
+**_Flynn_** : Right everyone, let's be careful, we've no idea what's on this island. We just need somewhere safe for the night until the storm passes. Prawns, you stay at the back, in case we get attacked from behind. I've tied this string to the ship to make sure we can find our way back.
+
+- Flynn passes the string to Prawns
 
 **_Tim_** : Actually it's a yacht.
 
-**_Frodo_** : I've tied this string to the YACHT!
+**_Flynn_** : I've tied this string to the YACHT!
 
--  Some sort of visual where they creep along, bang into each other, are scared etc but nothing bad happens other than Prawn's drops the string in the excitement and then they meet Elvis
+- Some sort of visual where they creep along, bang into each other, are scared etc but nothing bad happens other than Prawn's drops the string in the excitement and then they meet Elvis
 
-**_Elvis_** : Uh huh. Well look at this, some visitors. Wait til I tell Priscilla. She'll want to fix her hair and make something fancy for dinner.
+**_Elvis_** : Uh huh. Well bless my soul, visitors.
 
-**_Frodo_** : Who are you?
+**_Flynn_** : Who are you?
 
-**_Elvis_** : Well I'm not sure I should say
+**_Elvis_** : I'm Elvis... Elvis Presley
 
-**_Frodo_** : We won't tell anyone
+**_Oz_** : The famous singer?
 
-**_Prawns_** : I might
-
-**_Frodo_** : Quiet Prawns
-
-**_Elvis_** : Well I guess it won't do any harm if you promise not to tell. I'm Elvis Presley. A long time ago I was in the CIA but my cover was blown so I had to go into hiding. I became a gardener in Engerland but then I met my old pal James Pond and we joined forces to save the world from a evil bad-guy and his sheep army.
-
-**_Oz_** : That all seems highly implausible but I suppose this is a pantomime
+**_Prawns_** : I've never heard of you
 
 **_Tim_** : How did you end up here old boy?
 
-**_Elvis_** : Well, after saving the world, I started singing on cruise ships, like that Jane MacDonald.
+**_Elvis_** : Well, I was singing on cruise ships, like that Jane MacDonald.
 
 **_Prawns_** : Ooh, I like her, she's got very big......lungs.
-
-**_Frodo_** : Shhhh, let him carry on.
 
 **_Elvis_** : Well one night, during a particularly bad storm, we collided with a ship carrying paint.
 
@@ -921,13 +944,13 @@ We want you as a new recruit
 
 **_Elvis_** : Uh, huh. Thousands of tins of red paint, and thousands of tins of blue paint. That's how I became marooned!
 
-**_Frodo_** : Well it sounds like you've had quite an adventure. We're on a quest - maybe you could join us?
+**_Flynn_** : We're on a quest - maybe you could join us?
 
-**_Elvis_** : Oh no, I could never leave here. This here's home now... for me and Priscilla and little Lisa Marie. Say, where are my manners? Are you folks hungry? Priscilla, Priscilla, there's some folks here need some grits...
+**_Elvis_** : Oh no, I could never leave here. This here's home now... for me and Priscilla and little Lisa Marie. Say, where are my manners? Are you folks hungry? Priscilla, Priscilla, there's folks here need some grits...
 
 - He goes offstage
 
-**_Prawns_** : I must admit, I am hungry
+**_Prawns_** : I hope its pickled eggs
 
 - Elvis comes back with a tray of covered food
 
@@ -943,12 +966,12 @@ We want you as a new recruit
 
 **_Elvis_** : This here's Priscilla, and this is my little Lisa Marie. Well come on girls, say hello to these nice folks... I'm sorry... they're both a little "shy".
 
-- Milk that "joke" if no-one gets it (or even if they do!)
+- Milk that joke if no-one gets it (or even if they do!)
 - The fellowship look confused
 
 **_Prawns_** : Why have you got coconuts on sticks?
 
-**_Frodo_** : (elbowing him) Delightful to meet you Priscilla
+**_Flynn_** : (elbowing him) Delightful to meet you Priscilla
 
 **_Tim_** : Charmed I'm sure
 
@@ -958,23 +981,40 @@ We want you as a new recruit
 
 **_Elvis_** : Oh Priscilla I couldn't, I'm outta practice. Well if you're sure. (turning to the fellowship) Priscilla says I should sing for you. I'll just go and get ready.
 
-**_Oz_** : (to the fellowship) I think we should go back to the yacht. This man's got a screw loose
+**_Oz_** : I think we should go back to the yacht. This man is clearly deranged.
 
-**_Frodo_** : I agree. Prawns, give me the string and we'll retrace our steps back to the yacht and hope Elvis doesn't follow us.
+**_Flynn_** : I agree. Prawns, give me the string and we'll retrace our steps and hope Elvis doesn't follow us.
 
 **_Prawns_** : Oh err, sorry, I think I've dropped it
 
-**_Frodo_** : (sighs) Well then we'll just have to stay here until light and hope the storm passes. Just go along with it everyone
+**_Flynn_** : (sighs) Well then we'll just have to stay here until light and hope the storm passes. Just go along with it everyone
 
 SONG: ALL SHOOK UP
 
+- Curtains close
+
 # 11 - Fellowship Rescue Jean
 
-**_Frodo_** : Well that was all a bit odd but at least the storm has passed and we're back at sea. Oz can you get us back on course?
+- Starts FOC
+- The moon is a half-moon
 
-**_Oz_** : Back on course? Back on course Frodo?! It's not that simple. According to Navy regulation paragraph 4, subsection b, we cannot resume sailing until I've completed a Post-Tempest Hazard Assessment Form.
+- [ ] How did they get off? When? Etc...
 
-**_Frodo_** : A what?!
+**_Tim_** : That Elvis was a jolly nice bloke.
+
+**_Oz_** : The man was completely insane.
+
+**_Prawns_** : His wife was a bit skinny
+
+**_Oz_** : She was a coconut, prawns
+
+**_Prawns_** : Ooh, coconut prawns, that sounds delicious.
+
+**_Flynn_** : Well at least the storm has passed. Oz can you get us back on course?
+
+**_Oz_** : Back on course? It's not that simple. According to Navy regulation paragraph 4, subsection b, we cannot resume sailing until I have completed a Post-Tempest Hazard Assessment Form.
+
+**_Flynn_** : A what?!
 
 **_Oz_** : And you should all be wearing...
 
@@ -986,7 +1026,7 @@ SONG: ALL SHOOK UP
 
 **_Prawns_** : Lovely
 
-**_Frodo_** : Enchanting
+**_Flynn_** : Enchanting
 
 **_Tim_** : Perhaps I can finally invite a lady on board
 
@@ -996,17 +1036,19 @@ SONG: ALL SHOOK UP
 
 **_Prawns_** : Oh, right, sorry. I can see something off "Star Wars".
 
-**_Frodo_** : It's a woman, tied to a buoy.
+- Curtains open
+
+**_Flynn_** : It's a woman, tied to a buoy.
 
 **_Tim_** : I say!
 
-**_Frodo_** : Not that sort of a boy, a buoy.
+**_Flynn_** : Not that sort of a boy, a buoy.
 
-**_Prawns_** : She's got a lovely singing voice, I think we should go closer.
+**_Tim_** : She's got a lovely voice, I think we should go closer.
 
-**_Oz_** : So do I
+**_Oz_** : So do I.
 
-**_Frodo_** : Me too, for some strange reason.
+**_Flynn_** : Me too.
 
 **_Tim_** : Ahoy there madam. My name's Tim. Would you care to join me for cocktails?
 
@@ -1014,13 +1056,13 @@ SONG: ALL SHOOK UP
 
 **_Jean_** : Ah, four handsome sailors entranced by my song.
 
-**_Frodo_** : Are you alright? You appear to be chained up.
+**_Flynn_** : Are you alright? You appear to be chained up.
 
 **_Jean_** : That I am, that I am. You're probably asking yourselves, who would do this to such a beautiful woman?
 
-**_Prawns_** : I wouldn't have gone that far.
+**_Prawns_** : I wasn't asking that...
 
-**_Frodo_** : Prawns! Shhh. Madam, we are on a quest, we are looking for a lady called Stella... Are you Stella?
+**_Flynn_** : Prawns! Shhh. Madam, we are on a quest, we are looking for a lady called Stella... Are you Stella?
 
 **_Jean_** : Stella?!! Stella you say? Now there's a name I haven't heard in a long time.
 
@@ -1035,13 +1077,13 @@ SONG: ALL SHOOK UP
 
 **_Tim_** : That's not very chivalrous old man. We can't leave a damsel in distress.
 
-**_Frodo_** : Do you know Stella?
+**_Flynn_** : Do you know Stella?
 
 **_Jean_** : Oh, I know Stella. She and I go back a long way. A long, long way. Oh yes, Stella and I know each other very well indeed... ha ha ha!
 
 **_Prawns_** : I think she might know Stella
 
-**_Oz_** : What gives you that impression?
+**_Oz_** : Whatever gives you that impression?
 
 - Jean sings a bit more
 
@@ -1051,7 +1093,7 @@ SONG: ALL SHOOK UP
 
 **_Oz_** : I know! She said!!!
 
-**_Frodo_** : Madam, we shall help you. Prawns, can you break that chain?
+**_Flynn_** : Madam, we shall help you. Prawns, can you break that chain?
 
 - Jean sings a bit more
 - Prawns reaches down and snaps the chain
@@ -1064,7 +1106,7 @@ SONG: ALL SHOOK UP
 
 **_Oz_** : I'm Oz, the map expert.
 
-**_Frodo_** : And I'm Frodo. I'm sorry, I'm not sure we caught your name.
+**_Flynn_** : And I'm Flynn. I'm sorry, I'm not sure we caught your name.
 
 **_Jean_** : I go by many names. Siren of the Seas, The Temptress of The Deep, Destroyer of Ships... but you can call me Jean.
 
@@ -1072,11 +1114,19 @@ SONG: ALL SHOOK UP
 
 **_Jean_** : And what business do you have with my old friend Stella.
 
-**_Frodo_** : We've been sent on a quest to find the clanger for this bell. You see, HE rang it and awoke The Kraken and we need to re-unite the bell and the clanger so we can ring it again and then we can control The Kraken but we have to do it before the next full moon, or we're all doomed.
+**_Flynn_** : We've been sent on a quest to find the clanger for this bell. You see, HE rang it and awoke The Kraken and we need to re-unite the bell and the clanger so we can ring it again and then we can control The Kraken but we have to do it before the next full moon, or we're all doomed.
 
-**_Jean_** : Oh, ha, ha, ha! What a delightful story. (to audience) These fools have no idea what they've just done. I will let them take me to Stella, I will use them to get the clanger, and I will use the bell to gain command of The Kraken. Then I shall have revenge upon Stella, Graham, and everyone else who allowed me to rot in the middle of the ocean. (Back to crew) Well, I will take you to Stella. You... "map expert", plot a course to Thomas Cook Island. You, pull the jib, hoist the mainsail and do whatever you're supposed to do with a spinnaker. And you... pour me another of these delicious pina coladas.
+**_Jean_** : Oh, ha, ha, ha! What a delightful story.
 
-- [x] Should the interval be here? ✅ 2026-11-10
+- To audience
+
+**_Jean_** : These fools have no idea what they've done. I will let them take me to Stella, I will use them to get the clanger, and I will use the bell to gain command of The Kraken. Then I shall have my revenge upon Stella, Graham, and everyone else who allowed me to rot in the middle of the ocean.
+
+- Back to crew
+
+**_Jean_** : Well, I will take you to Stella. You... "map expert", plot a course to Thomas Cook Island. You, pull the jib, hoist the mainsail and do whatever you're supposed to do with a spinnaker. And you... pour me another of those delicious pina coladas.
+
+## INTERVAL
 
 # 11.5 - Ken and Dorothy Win The Raffle
 
@@ -1087,11 +1137,11 @@ SONG: ALL SHOOK UP
 
 - Dorothy and Ken come up on stage and Ken is given an envelope
 
-**_Ken_** : We've won an all-expenses-paid, first-class trip to a luxury tropical paradise! What's the point of that. I was hoping for a nice bottle of something. 
+**_Ken_** : We've won an all-expenses-paid, first-class trip to a luxury tropical paradise! What's the point of that. I was hoping for a nice bottle of something.
 
 **_Dorothy_** : Ooooh, that sounds lovely Ken! We can get away from this miserable weather, enjoy a bit of sunshine. Oooh it looks amazing... if we like it, maybe we could move there... sell the bungalow...
 
-**_Ken_** : Sell the bungalow?! But I’ve just installed a new water butt! What's it called? "Nudii Island"? It sounds foreign. I bet they don’t even serve John Smiths. What kind of a name is Nudii Island?
+**_Ken_** : Sell the bungalow?! But I’ve just installed a new water butt! What's it called? "Nudii Bay"? It sounds foreign. I bet they don’t even serve John Smiths. What kind of a name is Nudii Bay?
 
 **_Dorothy_** : Oh, don't be such a misery, Ken. I’m sure it just means it has beautiful unspoiled scenery. Oh, Ken, look the plane leaves tonight... Come on, let’s get home, pack your shorts.
 
@@ -1109,7 +1159,7 @@ FOC
 
 FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
-**_Vernon_** : Right Jess, welcome to the dream team. Remind me who you worked for previously?
+**_Vernon_** : Right Jess, welcome to the dream team. Who did you work for previously?
 
 **_Jess_** : First Choice
 
@@ -1137,7 +1187,7 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 **_Oz_** : Because Prawns, she said she wanted to give Stella a lovely surprise.
 
-**_Frodo_** : So she told us exactly where we'll find her
+**_Flynn_** : So she told us exactly where we'll find her
 
 **_Tim_** : Then we'll bring her back to the ship and have a reunion party!
 
@@ -1147,7 +1197,7 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 - Everyone else looks at him quizzically
 
-**_Vernon_** : Welcome to Thomas Cook Island. My name's Vernon, I'm head of fun here. This is Jess and she... I'm sorry... JESS, can you start handing out the welcome drinks please... Jess has only just joined us, still learning the ropes... Thank you Jess, quick as you like... Where was I, oh yes, so if I can just take your names... You are?
+**_Vernon_** : Welcome to Thomas Cook Island. My name's Vernon, I'm head of fun here. This is Jess and she... I'm sorry... JESS, can you start handing out the welcome drinks please... Jess has only just joined us, still learning the ropes... Thank you Jess, quick as you like... Where was I, oh yes, if I can just take your names... You are?
 
 **_Prawns_** : Prawns!
 
@@ -1157,7 +1207,7 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 **_Vernon_** : No there's no William here either. Did you book through a travel agency? Was it LastMinute, cos they're rubbish. Always leaving things until the la... well, you know...
 
-**_Frodo_** : We haven't "booked" at all. We're on a quest.
+**_Flynn_** : We haven't "booked" at all. We're on a quest.
 
 **_Vernon_** : Oh, I see, no booking... well, let me think... Oooh, well you might be in luck, we've had a late cancellation. We may just be able to squeeze you in.
 
@@ -1169,7 +1219,7 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 **_Vernon_** : Be quiet Jess, of course we do. Now you're "all inclusive" which means you can eat as much egg and chips as you like, and all your local drinks are free, that's your Carling, your John Smiths and your B&Q White Spirit. Now are any of you interested in watersports? No? Well would you like to visit our "porcupine sanctaury"?
 
-**_Frodo_** : We just want to go to Mermaid Cove.
+**_Flynn_** : We just want to go to Mermaid Cove.
 
 **_Vernon_** : Oh, Mermaid Cove? You want to go to Mermaid Cove do you? Mermaid Cove indeed!
 
@@ -1191,7 +1241,7 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 - Launches seagull which then flies over audience and drops occasional mint imperial poos
 
-**_Lieutenant Crump_** : What happened to our previous reconnaissance agent Albert?
+**_Lieutenant Crump_** : What happened to our previous agent - Albert?
 
 **_Captain Biggleswade_** : Albert? Albert-ross?
 
@@ -1211,37 +1261,47 @@ Boobies, Awk, Gannet, Petrel, Kittiwake, Cormorant, Shag, Sandpiper, Goose, Oyst
 
 # 13 - Bad Luck on The Iron Lady
 
+- The beard is hanging from the rigging
+- Nobeard takes it in order to have another go at trying it on
+
+**_Nobeard_** : Yarrr, this wind is stronger than Neptune's bellows. Still, at least the beard should be dry. Surely this time I will be Pirate Queen.
+
+- She holds it up to her face, then shakes violently - it doesn't fit
+
+**_Nobeard_** : Curses, the sea-gods mock me still.
+
 **_Ginger_** : Has anyone seen my quill? I can't find it anywhere and I won't be able to correspond with my love without it. Oh this really is a tragedy. Yarrr!
 
-**_Sporty_** : Interesting, I've lost me dumbells and I know none of you could have taken them - you're not strong enough, Yarrrrrrr!
+**_Sporty_** : Never mind your quill... I've lost me dumbells... and I know none of you could have taken them - you're not strong enough, Yarrrrrrr!
 
-**_Scary_** : Well I've had some bad luck too - me best cutlass has gone blunt and when I finds out who's dun it (slit throat signal) Yarrrrr!
+**_Scary_** : Well MY best cutlass has gone blunt, and when I finds out who's dun it... Yarrr!
 
-**_Norah_** : It's an omen - I told you what would happen if you brought a man on board.
-
-**_Nobeard_** : Never mind all that, the sea's looking choppy. Sporty, splice the mainbrace, Yarrrrrrr!
-
-**_Ginger_** : I don't like the look of that sky. Tis dark and brooding, like the depths of my soul, since I haven't heard from my sweetheart in weeks. O Romeo, Romeo wherefore art thou Romeo? Art thou a man or just a jellyfish? Thy love doth drift like seaweed in the mist! Yarrrrrr!
-
-**_Scary_** : Snap out of it ye weeping wench and secure the main hatch - there's a storm a brewin', Yarrrrr!
-
-**_Graham_** : Don't you understand. This is what I've been telling you. The Kraken has been awoken. All of this is being caused by The Kraken...
-
+- She makes a slitting throat signal
 - Posh walks on covered in seagull poo
 
-**_Posh_** : Those horrible birds. They attacked me. Like in that film, with all the birds, and they attacked that woman. The film, with the birds, what was it called? With all the birds?
+**_Posh_** : Those horrible birds. They attacked me. Like in that film, with all the birds? And they attacked that woman. The film, with the birds, what was it called? With all the birds?
 
 - Everyone else looks at her and shrugs
 
-**_Posh_** : Anyway, they've ruined my new jacket, yahhhh?
-
-**_Sporty_** : That IS bad luck.
+**_Posh_** : They've ruined my new jacket, yahhhh.
 
 **_Norah_** : I warned you, 'tis bad luck for a man to be aboard the Iron Lady. Last time she had a man on her, her poop deck sprang a leak.
 
-**_Nobeard_** : Well shiver me timbers, that's decided then. We can't have a man onboard. Yarrrrrr!
+**_Ginger_** : Are you suggesting that he's the cause...
 
-**_Scary_** : Yarrrr. So we makes 'im walk the plank eh?
+**_Scary_** : YOU'RE why my cutlass is ruined.
+
+**_Sporty_** : Those were my favourite dumbells.
+
+**_Nobeard_** : And YOU'RE why this beard don't fit. Men... nothing but trouble. Yarrrrrr!
+
+**_Posh_** : I'll be sending you my dry-cleaning bill.
+
+**_Graham_** : This is not MY doing! The Kraken has been awoken. All of this is being caused by The Kraken...
+
+- Scary looks angrily at Graham
+
+**_Scary_** : Quiet you... Let's make him walk the plank.
 
 **_Sporty_** : We can't do that.
 
@@ -1253,9 +1313,13 @@ Boobies, Awk, Gannet, Petrel, Kittiwake, Cormorant, Shag, Sandpiper, Goose, Oyst
 
 **_Ginger_** : We used to have a plank. I walked it every day... we couldn't afford a dog you see?
 
-**_Sporty_** : I'll get a plank (rips one from the deck). Here Posh - take this
+**_Sporty_** : I'll get a plank
 
-**_Posh_** : Oh my nails, oh its so heavy, urgh I think it's got woodworm in it
+- She rips one from the deck
+
+**_Sporty_** : Here Posh - take this
+
+**_Posh_** : Oh my nails. Oh its so heavy. Urghh, I think it's got woodworm.
 
 - Posh accidentally bangs the others on the head with it
 
@@ -1273,7 +1337,7 @@ Boobies, Awk, Gannet, Petrel, Kittiwake, Cormorant, Shag, Sandpiper, Goose, Oyst
 
 - Scary throws her hands up in disgust and walks away
 
-**_Norah_** : This aint fixing the fact that we've got a man on board and he's going to bring down the Iron Lady
+**_Norah_** : This ain't fixing the fact that we've got a man on board and he's going to bring down the Iron Lady
 
 - They all turn and stare angrily at Graham
 
@@ -1332,11 +1396,11 @@ Boobies, Awk, Gannet, Petrel, Kittiwake, Cormorant, Shag, Sandpiper, Goose, Oyst
 
 **_Nobeard_** : He's not much of a poetry expert, is he?
 
-**_Ginger_** : But I have exciting news. Me and Prawns have been sent on a quest to stop The Kraken. We're now at sea, on a boat, with a map. We've met some new friends, including a nice lady called Jean, who has agreed to help us. I will write again when our quest is complete. All my love, Frodo.
+**_Ginger_** : But I have exciting news. Me and Prawns are on a quest to stop The Kraken. We're at sea, on a boat, with a map. We've made a lovely new friend, called Jean, who has agreed to help us. I will write again when our quest is complete. All my love, Flynn.
 
 - Graham walks in wearing a dress, wig and make up
 
-**_Graham_** : What was that? Did you say Frodo?
+**_Graham_** : What was that? Did you say Flynn?
 
 **_Nobeard_** : Oh, don't you look pretty? See Norah, no more men on board, so no more bad luck.
 
@@ -1377,7 +1441,7 @@ Boobies, Awk, Gannet, Petrel, Kittiwake, Cormorant, Shag, Sandpiper, Goose, Oyst
 
 **_Norah_** : Well... it was a long time ago, but I've seen things...
 
-**_Ginger_** : I agree, we must act, there is danger ahead! Without my dear Frodo, I’d rather be dead! If I lose my 'dearest', my heart breaks in two— Oh, please tell me quickly, what should we do?
+**_Ginger_** : I agree, we must act, there is danger ahead! Without my dear Flynn, I’d rather be dead! If I lose my 'dearest', my heart breaks in two— Oh, please tell me quickly, what should we do?
 
 **_Graham_** : Captain, I urge you. We're all in danger unless we stop Jean, and deal with The Kraken. Every ship will be smashed to pieces. All treasure will be lost.
 
@@ -1387,13 +1451,14 @@ Boobies, Awk, Gannet, Petrel, Kittiwake, Cormorant, Shag, Sandpiper, Goose, Oyst
 
 # 14 - Trip to Mermaid Cove
 
+- The moon is at 3/4
 - FOC, Jess and Vernon are addressing the coach party
 
-**_Jess_** : Ok, everyone, here we are nearly at Mermaid Cove. It's just a short walk down to the beach.
+**_Jess_** : Ok, everyone, we're nearly at Mermaid Cove. It's just a short walk down to the beach.
 
 **_Vernon_** : You should all have vouchers for the complimentary drinks you paid for - it's either B&Q White Spirit or a fruit juice of your choice... as long as it's orange.
 
-**_Jess_** : The mermaids will be performing for about 30 minutes and then we'll all meet back here for the trip back to "Last Resort".
+**_Jess_** : After the performance, we'll all meet back here for the trip back to "Last Resort".
 
 **_Vernon_** : So off you go... Enjoy Mermaid Cove.
 
@@ -1413,7 +1478,7 @@ Boobies, Awk, Gannet, Petrel, Kittiwake, Cormorant, Shag, Sandpiper, Goose, Oyst
 
 **_Tim_** : Why did we leave Jean alone on Daddy's yacht?
 
-**_Frodo_** : Because she told us to. She said we had to come and find the mermaid.
+**_Flynn_** : Because she told us to. She said WE had to find the mermaid.
 
 **_Prawns_** : Whenever she sings, I feel like I'd do anything she asks.
 
@@ -1427,7 +1492,7 @@ Boobies, Awk, Gannet, Petrel, Kittiwake, Cormorant, Shag, Sandpiper, Goose, Oyst
 
 - Little Mermaids dance to the musical introduction
 - Then Stella appears and sings her song
-  
+
   My name is Stella, I am a mermaid
   I wear sea shells in my hair and exotic underwear (and my jaw is rather square)
   (I do merengue and do the chacha)
@@ -1445,7 +1510,7 @@ At the Copa Copacabana
 Music and passion were always the fashion
 At the Copa, we fell in love
 
-**_Stella_** : My name's Stella, the queen of the mermaids and it's my pleasure to perform for you this evening. Now then, let's have a look at you. Oh, we've got a lovely audience in tonight.  ==Look at you all, packed in like sardines! Though looking at some of your faces in the front row, I think a few of you have been at the bottom of the ocean a bit too long. You look washed up! And who else have we got here, ah look, bless him. Spent 2 hours doing his hair, and came out without it. And talking of bold, that's a rather bold ensemble we're wearing there isn't it sir. I think you're right about that top you know, it'll come back in. And what's your name? Any idea? Now xxx, you know I didn't come to you at random don't you? I think the audience have noticed, (to the cast)we've certainly noticed up here. Ever since I shimmied out onto this stage xxx, you've been undressing me with your eyes and who can blame you, you are but a man. I know all about men. Between you and me, xxx, I've got a stalker, now you probably can't tell in this outfit but if you play your cards right, you can help me look for the root of the problem. Anyway, I can't be standing here talking to you all night, I need to get ready for my next performance. (Starts brushing hair)==
+**_Stella_** : My name's Stella, the queen of the mermaids and it's my pleasure to perform for you this evening. Now then, let's have a look at you. Oh, we've got a lovely audience in tonight. Look at you all, packed in like sardines! Though looking at some of your faces in the front row, I think a few of you have been at the bottom of the ocean a bit too long. You look washed up! And who else have we got here, ah look, bless him. Spent 2 hours doing his hair, and came out without it. And talking of bold, that's a rather bold ensemble we're wearing there isn't it sir. I think you're right about that top you know, it'll come back in. And what's your name? Any idea? Now xxx, you know I didn't come to you at random don't you? I think the audience have noticed, (to the cast) we've certainly noticed up here. Ever since I shimmied out onto this stage xxx, you've been undressing me with your eyes and who can blame you, you are but a man. I know all about men. Between you and me, xxx, I've got a stalker, now you probably can't tell in this outfit but if you play your cards right, you can help me look for the root of the problem. Anyway, I can't be standing here talking to you all night, I need to get ready for my next performance. (Starts brushing hair)
 
 - [ ] Chasing my tail
 
@@ -1453,11 +1518,11 @@ At the Copa, we fell in love
 
 **_Oz_** : I know. She said.
 
-**_Frodo_** : I thought Graham said she was the most beautiful woman in the world? He said she had hair like strands of gold.
+**_Flynn_** : I thought Graham said she was the most beautiful woman in the world? He said she had hair like strands of gold.
 
 **_Tim_** : Does your friend Graham have a problem with his eyesight?
 
-**_Frodo_** : He said her eyes were like pools of clear blue water.
+**_Flynn_** : He said her eyes were like pools of clear blue water.
 
 **_Oz_** : I think he should have gone to Specsavers.
 
@@ -1465,11 +1530,11 @@ At the Copa, we fell in love
 
 - They all look at him, confused.
 
-**_Frodo_** : Well, if this is Stella, we have to capture her. That's what Jean wanted.
+**_Flynn_** : Well, if this is Stella, we have to capture her. That's what Jean wanted.
 
 **_Prawns_** : I'm not going anywhere near her. Her breath smells of seaweed.
 
-**_Frodo_** : Oz, Tim, you distract her... we'll get the net.
+**_Flynn_** : Oz, Tim, you distract her... we'll get the net.
 
 - Oz and Tim shuffle awkwardly into Stella's proximity
 
@@ -1479,15 +1544,15 @@ At the Copa, we fell in love
 
 **_Stella_** : Tim... What an exotic name. I bet you've got all the girls lusting after you Tim?
 
-**_Tim_** : Oh, I, errr, I mean, not really, but you know....
+**_Tim_** : Oh, I, errr, I mean, gosh, you know....
 
 **_Stella_** : And who's your friend Tim?
 
-**_Oz_** : Actually, Tim and I are NOT friends. We are simply co-conspirators in somebody else's quest, the aim of which is... One... to retrieve the missing clanger from a bell which has supernatural powers, and Two... to kidnap a mermaid named Stella.
+**_Oz_** : Actually, Tim and I are NOT friends. We are simply co-conspirators in somebody else's quest, the aim of which is... One... to retrieve a missing clanger, and Two... to kidnap a mermaid named Stella.
 
 **_Stella_** : A mermaid, named Stella? But I'm a mermaid. And my name's...
 
-**_Frodo_** : Now Prawns, the net...
+**_Flynn_** : Now Prawns, the net...
 
 - Prawns throws the net over Stella and she begins flapping wildly
 
@@ -1520,7 +1585,7 @@ At the Copa, we fell in love
 
 - Crump is making notes
 
-**_Lieutenant Crump_** : A big one you say....So we're looking for a posse of possible pirates, accompanied by a big girl called Annette.
+**_Lieutenant Crump_** : A big one you say....So we're looking for a posse of possible pirates, accompanied by a big lassie called Annette.
 
 **_Jess_** : And one of the mermaids has gone missing.
 
@@ -1528,7 +1593,7 @@ At the Copa, we fell in love
 
 **_Jess_** : No... Stella.
 
-**_Boy_** : That was the mermaid Graham was always droning on about.
+**_Boy_** : That's the mermaid Graham was always going on about.
 
 **_Lieutenant Crump_** : Quiet Boy. We don't pay you to show off to civilians.
 
@@ -1549,6 +1614,8 @@ At the Copa, we fell in love
 
 # 16 - Jean and Stella
 
+- The moon is 3/4
+
 **_Jean_** : Oh Stella, what a delight to see you again. I hope you don't mind if I keep you in the net, but I don't want you wriggling your way out of this.
 
 **_Stella_** : Jean?! It can’t be! You’re supposed to be chained to a rock!
@@ -1568,15 +1635,14 @@ At the Copa, we fell in love
 
 **_Stella_** : You can't do anything without the bell.
 
-**_Jean_** :  I already have the bell. 
+**_Jean_** : I already have the bell.
 
 - Stella gasps
 
 **_Jean_** : Now I have the clanger.
 
 - Stella gasps
-- 
-**_Stella_** : You'll never get away with this Jean.
+- **_Stella_** : You'll never get away with this Jean.
 
 **_Jean_** : I will get away with it Stella. I have a ship and we're heading to Nudii bay. Once I'm there I will re-unite the bell and the clanger and I shall take control of The Kraken. Then I shall control... everything! Mwahhhahhaha!
 
@@ -1588,7 +1654,9 @@ FOC
 
 **_Captain Biggleswade_** : So to recap we're looking for Stella, Annette and some Pirates.
 
-**_Lieutenant Crump_** : (scanning with his telescope) Sir, I can see a flag on the horizon. It appears to be made from ladies undergarments
+- Crump is scanning with his telescope
+
+**_Lieutenant Crump_** : Sir, I can see a flag on the horizon. It appears to be made from ladies undergarments
 
 **_Captain Biggleswade_** : By Jupiter! Avert your eyes boy. You're too young to see this sort of thing. Crump, plot a course due west we're going to catch those blasted pirates. When I get hold of them, they won't have a leg to stand on!
 
@@ -1598,7 +1666,7 @@ FOC
 
 **_Tim_** : I had the strangest dream, like I was in a trance
 
-**_Frodo_** : We were looking for Stella
+**_Flynn_** : We were looking for Stella
 
 **_Oz_** : I think we found her
 
@@ -1606,17 +1674,17 @@ FOC
 
 **_Graham_** : What... is the meaning of this?
 
-**_Frodo_** : Graham! What are you doing here?
+**_Flynn_** : Graham! What are you doing here?
 
 **_Graham_** : Never mind that. Why are you all lounging around like drunken sailors? You're supposed to be on a quest. Where is the bell?
 
-**_Frodo_** : On the ship
+**_Flynn_** : On the ship
 
 - Tim wants to point out that it's not a ship, it's a yacht, but Graham cuts him off
 
 **_Graham_** : And where is The Clanger?
 
-**_Frodo_** : With Stella
+**_Flynn_** : With Stella
 
 **_Graham_** : And where is Stella
 
@@ -1657,32 +1725,32 @@ Everyone: Not Now Tim!!!
 
 **_Nobeard_** : Cause chaos on the seas? That's our job.
 
-**_Frodo_** : Pirates!!!!
+**_Flynn_** : Pirates!!!!
 
 **_Scary_** : Yarrrr, show me where she is and I'll slit her throat. Or maybe I'll slit yours
 
-- She grabs Frodo and her cutlass reveals Frodo's necklace
+- She grabs Flynn and her cutlass reveals Flynn's necklace
 
 **_Scary_** : Who be you?
 
-**_Frodo_** : Well, yarrrrrrrrrrrrr! I'm Frodo. Maybe I'LL slit YOUR throat!
+**_Flynn_** : Well, yarrrrrrrrrrrrr! I'm Flynn. Maybe I'LL slit YOUR throat!
 
-**_Ginger_** : Frodo - is it really you, my love from across the waves?
+**_Ginger_** : Flynn - is it really you, my love from across the waves?
 
-**_Frodo_** : Ginger?
+**_Flynn_** : Ginger?
 
-**_Ginger_** : ==Frodo! I can't believe it! You look so much less flat than you do in your letters!==
+**_Ginger_** : ==Flynn! I can't believe it! You look so much less flat than you do in your letters!==
 
-**_Frodo_** : ==We’ve been writing to each other for three years! You told me you were in shipping and logistics!==
+**_Flynn_** : ==We’ve been writing to each other for three years! You told me you were in shipping and logistics!==
 
 **_Ginger_** : ==I am! We ship stolen goods and logistically outrun the Navy!==
 
-- Norah takes a really close look at Frodo's necklace
+- Norah takes a really close look at Flynn's necklace
 - Then she walks over to Nobeard and whispers urgently into her ear
 
 **_Nobeard_** : Arrrrrr ya sure?
 
-- Norah continues whispering frantically and gestures towards Frodo
+- Norah continues whispering frantically and gestures towards Flynn
 
 **_Nobeard_** : Well, splice me mainbrace, that's thrown a wrench in the windlass...
 
@@ -1692,16 +1760,16 @@ Everyone: Not Now Tim!!!
 
 - Sporty rushes off
 
-**_Frodo_** : Ginger? What's going on? Is Bigbeard here?
+**_Flynn_** : Ginger? What's going on? Is Bigbeard here?
 
 - Sporty returns with a huge beard
 
 **_Ginger_** : This might seem weird, but these whiskers were sheared, from the Pirate King Bigbeard, before he disappeared.
 
-- Ginger offers the beard up to Frodo's face
+- Ginger offers the beard up to Flynn's face
 - The beard "fits perfectly"
 
-**_Frodo_** : Yarrrrrrrrrrrr!
+**_Flynn_** : Yarrrrrrrrrrrr!
 
 - All the pirates gasp (except Posh, who's filming it for TikTok)
 
@@ -1709,19 +1777,19 @@ Everyone: Not Now Tim!!!
 
 **_Norah_** : I knew it!
 
-**_Frodo_** : Knew what? What's happening? Yarrrr, pieces of eight.
+**_Flynn_** : Knew what? What's happening? Yarrrr, pieces of eight.
 
-**_Ginger_** : Frodo, don't you see. It all makes sense. It's why we had such a strong connection.
+**_Ginger_** : Flynn, don't you see. It all makes sense. It's why we had such a strong connection.
 
 **_Nobeard_** : The legend is true! The magical whiskers only fit the face of the true Pirate Prince!
 
 **_Graham_** : ==Great galloping galoshes!== Big Beard's son? I had no idea, I found you on the doorstep, I brought you up for forty years, you never once showed the slightest interest in pirates.
 
-- Prawns gets really close to Frodo and stares at the beard...
+- Prawns gets really close to Flynn and stares at the beard...
 
 **_Prawns_** : Can I stroke it?
 
-**_Frodo_** : I'm a prince? A pirate prince?! Well take heed me hearties. Jean has stolen my father's bell. Jean has stolen Graham's mermaid. And Jean has stolen Tim's Dad's Yacht! I say we show Jean what happens when you mess with pirates... who's with me?
+**_Flynn_** : I'm a prince? A pirate prince?! Well take heed me hearties. Jean has stolen my father's bell. Jean has stolen Graham's mermaid. And Jean has stolen Tim's Dad's Yacht! I say we show Jean what happens when you mess with pirates... who's with me?
 
 **_Nobeard_** : Yarrr! No amateur sea-witch steals our thunder! We're going to find this Jean, and we're going to show her who the real chaos queens are! Ready the ship girls!
 
@@ -1744,9 +1812,9 @@ Everyone: Not Now Tim!!!
 
 **_Nobeard_** : Under me buckin' hat!
 
-- Frodo moves in to help
+- Flynn moves in to help
 
-**_Frodo_** : Yarrr! Stand back! You're looking at the Pirate Prince!
+**_Flynn_** : Yarrr! Stand back! You're looking at the Pirate Prince!
 
 **_Captain Biggleswade_** : I don’t care if you're "The Artist Formally Known as Prince". You Sir, are going to the gallows!
 
@@ -1756,13 +1824,13 @@ Everyone: Not Now Tim!!!
 
 - He starts frantically searching his pockets
 
-**_Prawns_** : Have you come to inspect my collection?! I’ve got some rare green bits from an old woolly jumper in here somewhere! Is it a competition? Have I won?!
+**_Prawns_** : Have you come to inspect my collection?! I’ve got some green bits from an old woolly jumper in here somewhere! Is it a competition? Have I won?!
 
-**_Frodo_** : Not _that_ kind of navel, Prawns! They mean the King's ships, not your belly button fluff!
+**_Flynn_** : Not _that_ kind of navel, Prawns! They mean the King's ships, not your belly button fluff!
 
 - Posh pushes through them. She has her phone out, filming a selfie.
 
-**_Posh_** : Hey guys, so we are literally about to get arrested by the actual fashion-police, it is tragic. Hit like and subscribe!
+**_Posh_** : Hey guys, so we are literally about to get arrested, it is tragic. Hit like and subscribe!
 
 **_Captain Biggleswade_** : Penelope?!
 
@@ -1776,17 +1844,17 @@ Everyone: Not Now Tim!!!
 
 **_Captain Biggleswade_** : Penelope, your mother and I have been worried sick! You ran away with the family silver, and joined a commune of maritime hooligans!
 
-**_Posh_** : Daddy! It’s not a commune... we're an influencer collective! We sing stirring sea shanties! 
+**_Posh_** : Daddy! It’s not a commune... we're an influencer collective! We sing stirring sea shanties!
 
-**_Nobeard_** : I hate to break up this awkward family therapy session, but an evil sea-witch is about to summon the Kraken to destroy us all!
+**_Nobeard_** : Never mind all that, an evil sea-witch is about to summon the Kraken to destroy us all!
 
-**_Captain Biggleswade_** : The Kraken? Nonsense! The Kraken is a myth invented by sailors who have had too much rum.
+**_Captain Biggleswade_** : The Kraken? Nonsense! The Kraken is a myth invented by sailors who have drunk too much rum.
 
 - Kraken roar
 
 **_Lieutenant Crump_** : That didn't sound like a myth, Captain!
 
-**_Frodo_** : It’s Jean! She’s at Nudii Bay! If you arrest us now, we all die. Let us join forces, and defeat her!
+**_Flynn_** : It’s Jean! She’s at Nudii Bay! If you arrest us now, we all die. Let us join forces, and defeat her!
 
 **_Captain Biggleswade_** : Crump... what do the Navy regulations say about collaborating with pirates if one of them is your first-born daughter?
 
@@ -1796,19 +1864,19 @@ Everyone: Not Now Tim!!!
 
 **_Posh_** : Ugh, fine. Can I at least film the battle?
 
-**_Captain Biggleswade_** : Only if you make sure to film from the left to get my best angle. Now, to Nudii Bay! Boy, bring the artillery!
+**_Captain Biggleswade_** : Only if you make sure to film my best angle. Now, to Nudii Bay! Boy, bring the artillery!
 
 - Boy picks up the cannonball
 
 **_Boy_** : Why couldn't I have been press-ganged into a bakery?
 
-# 18.5 - Ken and Dorothy arrive on Nudii Island
+# 18.5 - Ken and Dorothy arrive on Nudii Bay
 
-- Welcome to Nudii Island, your tropical paradise destination. Passengers are reminded that clothing is strictly forbidden. Please leave any items you are still wearing in the bins provided, and have your passports ready for inspection.
+- Welcome to Nudii Bay, your tropical paradise destination. Passengers are reminded that clothing is strictly forbidden. Please leave any items you are still wearing in the bins provided, and have your passports ready for inspection.
 
 **_Ken_** : You and your flipping raffle tickets Dorothy!
 
-**_Dorothy_** : Oh, stop grumbling, Ken! The weather's lovely. And look on the bright side—it’s going to save a fortune on laundry bills! 
+**_Dorothy_** : Oh, stop grumbling, Ken! The weather's lovely. And look on the bright side—it’s going to save a fortune on laundry bills!
 
 **_Ken_** : I am NOT removing my trousers Dorothy.
 
@@ -1864,24 +1932,24 @@ Everyone: Not Now Tim!!!
 
 **_Ken_** : "Flippin' octopus, with it's flippin' fireballs. I knew we shouldn't have come here. We've got a perfectly nice bungalow in Langley"
 
-**_Dorothy_** : "Langley is boring Ken..."
+**_Dorothy_** : "Langley's boring Ken..."
 
 - Curtains
 
 # 20 - Pirate Battle Plan
 
-- Nobeard and Frodo enter from the back and walk up the aisle
+- Nobeard and Flynn enter from the back and walk up the aisle
 
-**_Frodo_** : Yarrrrr!!!!!!
+**_Flynn_** : Yarrrrr!!!!!!
 
 **_Nobeard_** : Yarrrr!!!!
 
-- Frodo walks onto the stage FOC and goes left
-- Nobeard walks onto stage FOC and goes right 
+- Flynn walks onto the stage FOC and goes left
+- Nobeard walks onto stage FOC and goes right
 
 **_Nobeard_** : Right you bunch of pathetic powder monkeys.
 
-**_Frodo_** : Who's ready to fight for freedom.
+**_Flynn_** : Who's ready to fight for freedom.
 
 **_Nobeard_** : Which of you can fire a canonball from the Iron Lady's broadsides?
 
@@ -1901,7 +1969,7 @@ Everyone: Not Now Tim!!!
 
 **_Nobeard_** : Hold your nerve
 
-**_Frodo_** : Steady now
+**_Flynn_** : Steady now
 
 **_Nobeard_** : Nobody fire until we gives the order.
 
@@ -1909,7 +1977,7 @@ Everyone: Not Now Tim!!!
 
 **_Nobeard_** : Now..
 
-**_Frodo_** : Fire..
+**_Flynn_** : Fire..
 
 **_Nobeard_** : Fire..
 
@@ -1919,7 +1987,7 @@ Everyone: Not Now Tim!!!
 
 **_Graham_** : Be careful, Stella is on board that ship.
 
-**_Frodo_** : Gahhhhhh! The bell is on that ship. Without the bell we can't control the Kraken. We've failed.
+**_Flynn_** : Gahhhhhh! The bell's on that ship. Without the bell we can't control the Kraken. We've failed.
 
 - Norah whispers to Nobeard
 
@@ -1929,20 +1997,20 @@ Everyone: Not Now Tim!!!
 
 **_Nobeard_** : She says you have the power of Bigbeard's Big Beard. You can stop the Kraken.
 
-**_Frodo_** : What? How? What do I say?
+**_Flynn_** : What? How? What do I say?
 
 **_Norah_** : Tell it to "get to bed"
 
-- Frodo looks doubtful, but has nothing to lose
+- Flynn looks doubtful, but has nothing to lose
 
-**_Frodo_** : Kraken, I command thee... Get To Bed!
+**_Flynn_** : Kraken, I command thee... Get To Bed!
 
 - The Kraken obeys, the winds drop, the sea calms
 
 **_Ginger_** : You really ARE The Pirate King, for you I would do anything
 
 - Clip of Meatloaf "I would do anything for love"
-- Frodo whispers in her ear
+- Flynn whispers in her ear
 - Ginger looks alarmed
 
 **_Ginger_** : I won't do THAT!
@@ -1957,11 +2025,11 @@ Everyone: Not Now Tim!!!
 - ==Walkdown==
 
 - Voice over (or walkdown) wraps things up
-- Pirate King (Frodo) should be the keeper of the Kraken Bell
-- Frodo and Ginger become Pirate King and Queen
+- Pirate King (Flynn) should be the keeper of the Kraken Bell
+- Flynn and Ginger become Pirate King and Queen
 - Graham opened a beach bar at Mermaid Cove, he and Stella lived happily ever after
 - Tim's upset about his yacht sinking - he's going to be in trouble with Daddy - Penelope reassures him that he needn't worry about what Daddy thinks
-- Meanwhile, a bedraggled figure is washed up on the shore of Nudii Island
+- Meanwhile, a bedraggled figure is washed up on the shore of Nudii Bay
 
 - Curtains open
 
