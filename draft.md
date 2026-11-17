@@ -191,7 +191,7 @@ SONG: Wannabe by The Spicy Girls
 
 **_Flynn_** : No, and I've never asked. It's none of my business.
 
-**_Prawns_** : Maybe it’s full of his most prized possessions, like a collection of belly button fluff.
+**_Prawns_** : Maybe it's full of his most prized possessions, like a collection of belly button fluff.
 
 - Prawns takes a small tin from his pocket and starts showing Flynn bits of blue stuff.
 
@@ -205,7 +205,7 @@ SONG: Wannabe by The Spicy Girls
 
 **_Flynn_** : But he's not my real dad. Graham found me on the doorstep forty years ago with nothing but this pendant around my neck. I don't know who I am.
 
-**_Prawns_** : You’re Flynn! You wash the glasses, I break the glasses. It’s a perfect partnership.
+**_Prawns_** : You're Flynn! You wash the glasses, I break the glasses. It's a perfect partnership.
 
 **_Flynn_** : Yes, but where did I COME from?
 
@@ -1145,7 +1145,7 @@ SONG: ALL SHOOK UP
 - During interval and Ken gets the last prize in the raffle which is a big golden ticket
 - Linda draws "one last ticket"
 
-**_Dorothy_** : That's us, that's our ticket... Oh I don’t believe it!
+**_Dorothy_** : That's us, that's our ticket... Oh I don't believe it!
 
 - Dorothy and Ken come up on stage and Ken is given an envelope
 
@@ -1153,9 +1153,9 @@ SONG: ALL SHOOK UP
 
 **_Dorothy_** : Ooooh, that sounds lovely Ken! We can get away from this miserable weather, enjoy a bit of sunshine. Oooh it looks amazing... if we like it, maybe we could move there... sell the bungalow...
 
-**_Ken_** : Sell the bungalow?! But I’ve just installed a new water butt! What's it called? "Nudii Bay"? It sounds foreign. I bet they don’t even serve John Smiths. What kind of a name is Nudii Bay?
+**_Ken_** : Sell the bungalow?! But I've just installed a new water butt! What's it called? "Nudii Bay"? It sounds foreign. I bet they don't even serve John Smiths. What kind of a name is Nudii Bay?
 
-**_Dorothy_** : Oh, don't be such a misery, Ken. I’m sure it just means it has beautiful unspoiled scenery. Oh, Ken, look the plane leaves tonight... Come on, let’s get home, pack your shorts.
+**_Dorothy_** : Oh, don't be such a misery, Ken. I'm sure it just means it has beautiful unspoiled scenery. Oh, Ken, look the plane leaves tonight... Come on, let's get home, pack your shorts.
 
 **_Ken_** : Shorts?! Don't be daft, I'll just roll me trouser legs up.
 
@@ -1395,7 +1395,7 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 **_Scary_** : Yarrrr, maybe I could hang HIM from the crows-nest?
 
-**_Ginger_** : Don't you dare! I'd simply die, If his sweet letters passed me by. Give it here! My poem was sent, I’m sure this is the reply he meant!
+**_Ginger_** : Don't you dare! I'd simply die, If his sweet letters passed me by. Give it here! My poem was sent, I'm sure this is the reply he meant!
 
 - She pulls the cork from the bottle and unfurls the paper from inside
 
@@ -1454,7 +1454,7 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 **_Norah_** : Well... it was a long time ago, but I've seen things...
 
-**_Ginger_** : I agree, we must act, there is danger ahead! Without my dear Flynn, I’d rather be dead! If I lose my 'dearest', my heart breaks in two— Oh, please tell me quickly, what should we do?
+**_Ginger_** : I agree, we must act, there is danger ahead! Without my dear Flynn, I'd rather be dead! If I lose my 'dearest', my heart breaks in two— Oh, please tell me quickly, what should we do?
 
 **_Graham_** : Captain, I urge you. We're all in danger unless we stop Jean, and deal with The Kraken. Every ship will be smashed to pieces. All treasure will be lost.
 
@@ -1505,7 +1505,9 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 SONG: Copa Cabana
 
-**_Stella_** : My name's Stella, the queen of the mermaids and it's my pleasure to perform for you this evening. Now then, let's have a look at you. Oh, we've got a lovely audience in tonight. Look at you all, packed in like sardines! Though looking at some of your faces in the front row, I think a few of you have been at the bottom of the ocean a bit too long. You look washed up! And who else have we got here, ah look, bless him. Spent 2 hours doing his hair, and came out without it. And talking of bold, that's a rather bold ensemble we're wearing there isn't it sir. I think you're right about that top you know, it'll come back in. And what's your name? Any idea? Now xxx, you know I didn't come to you at random don't you? I think the audience have noticed, (to the cast) we've certainly noticed up here. Ever since I shimmied out onto this stage xxx, you've been undressing me with your eyes and who can blame you, you are but a man. I know all about men. Between you and me, xxx, I've got a stalker, now you probably can't tell in this outfit but if you play your cards right, you can help me look for the root of the problem. Anyway, I can't be standing here talking to you all night, I need to get ready for my next performance. (Starts brushing hair)
+**_Stella_** : My name's Stella, the queen of the mermaids and it's my pleasure to perform for you this evening. Now then, let's have a look at you. Oh, we've got a lovely audience in tonight. Look at you all, packed in like sardines! Though looking at some of your faces in the front row, I think a few of you have been at the bottom of the ocean a bit too long. You look washed up! And who else have we got here, ah look, bless him. Spent 2 hours doing his hair, and came out without it. And talking of bold, that's a rather bold ensemble we're wearing there isn't it sir. I think you're right about that top you know, it'll come back in. And what's your name? Any idea? Now David, you know I didn't come to you at random don't you? I think the audience have noticed, (to the cast) we've certainly noticed up here. Ever since I shimmied out onto this stage David, you've been undressing me with your eyes and who can blame you, you are but a man. I know all about men. Between you and me, David I've got a stalker, now you probably can't tell in this outfit but if you play your cards right, you can help me look for the root of the problem. Anyway, I can't be standing here talking to you all night, I need to get ready for my next performance.
+
+- Starts brushing hair
 
 
 **_Prawns_** : It's Stella, the one we're looking for. This is Stella!!!
@@ -1614,7 +1616,7 @@ SONG: Copa Cabana
 
 **_Jean_** : Oh Stella, what a delight to see you again. I hope you don't mind if I keep you in the net, but I don't want you wriggling your way out of this.
 
-**_Stella_** : Jean?! It can’t be! You’re supposed to be chained to a rock!
+**_Stella_** : Jean?! It can't be! You're supposed to be chained to a rock!
 
 
 **_Jean_** : I was! For forty miserable, barnacle-covered years! But surprise, surprise, I am free, Stella. Free to finish what I started! The Kraken is waking and I will have my revenge.
@@ -1737,11 +1739,11 @@ SONG: Copa Cabana
 
 **_Flynn_** : Ginger?
 
-**_Ginger_** : ==Flynn! I can't believe it! You look so much less flat than you do in your letters!==
+**_Ginger_** : Flynn! I can't believe it! You look so much less flat than you do in your letters!
 
-**_Flynn_** : ==We’ve been writing to each other for three years! You told me you were in shipping and logistics!==
+**_Flynn_** : We've been writing to each other for three years! You told me you were in shipping and logistics!
 
-**_Ginger_** : ==I am! We ship stolen goods and logistically outrun the Navy!==
+**_Ginger_** : I am! We ship stolen goods and logistically outrun the Navy!
 
 - Norah takes a really close look at Flynn's necklace
 - Then she walks over to Nobeard and whispers urgently into her ear
@@ -1781,7 +1783,7 @@ SONG: Copa Cabana
 
 **_Nobeard_** : The legend is true! The magical whiskers only fit the face of the true Pirate Prince!
 
-**_Graham_** : ==Great galloping galoshes!== Big Beard's son? I had no idea, I found you on the doorstep, I brought you up for forty years, you never once showed the slightest interest in pirates.
+**_Graham_** : Great galloping galoshes! Big Beard's son? I had no idea, I found you on the doorstep, I brought you up for forty years, you never once showed the slightest interest in pirates.
 
 - Prawns gets really close to Flynn and stares at the beard...
 
@@ -1798,13 +1800,13 @@ SONG: Copa Cabana
 
 **_Boy_** : Permission to collapse from exhaustion, Captain?
 
-**_Captain Biggleswade_** : Stand to attention, Boy! Crump! We’ve cornered the villainous scoundrel! Halt in the name of His Majesty the King!
+**_Captain Biggleswade_** : Stand to attention, Boy! Crump! We've cornered the villainous scoundrel! Halt in the name of His Majesty the King!
 
 - Reading from a giant scroll
 
 **_Lieutenant Crump_** : You are under arrest for piracy, smuggling, unauthorised use of eyepatches, and general seafaring "naughtiness"!
 
-**_Nobeard_** : You’ll have to fight me you powdered peacocks!
+**_Nobeard_** : You'll have to fight me you powdered peacocks!
 
 **_Captain Biggleswade_** : Fight, you. A little one-sided don't you think? Where are your buccaneers?
 
@@ -1814,7 +1816,7 @@ SONG: Copa Cabana
 
 **_Flynn_** : Yarrr! Stand back! You're looking at the Pirate Prince!
 
-**_Captain Biggleswade_** : I don’t care if you're "The Artist Formally Known as Prince". You Sir, are going to the gallows!
+**_Captain Biggleswade_** : I don't care if you're "The Artist Formally Known as Prince". You Sir, are going to the gallows!
 
 **_Lieutenant Crump_** : Quite right, Captain! This is a very serious Naval matter!
 
@@ -1822,7 +1824,7 @@ SONG: Copa Cabana
 
 - He starts frantically searching his pockets
 
-**_Prawns_** : Have you come to inspect my collection?! I’ve got some green bits from an old woolly jumper in here somewhere! Is it a competition? Have I won?!
+**_Prawns_** : Have you come to inspect my collection?! I've got some green bits from an old woolly jumper in here somewhere! Is it a competition? Have I won?!
 
 **_Flynn_** : Not THAT kind of navel, Prawns! They mean the King's ships, not your belly button fluff!
 
@@ -1834,15 +1836,15 @@ SONG: Copa Cabana
 
 **_Posh_** : Oh, my gosh. Seriously? Daddy?! What are you doing here? You are totally ruining my aesthetic.
 
-**_Lieutenant Crump_** : Good heavens! It’s Lady Penelope Biggleswade! The runner-up at last year's Debutante Ball!
+**_Lieutenant Crump_** : Good heavens! It's Lady Penelope Biggleswade! The runner-up at last year's Debutante Ball!
 
 **_Nobeard_** : Wait, your name isn't Posh? It's Penelope?
 
-**_Posh_** : It’s my birth name, okay? I’m trying to distance myself from it. I'm building a brand, Yah?
+**_Posh_** : It's my birth name, okay? I'm trying to distance myself from it. I'm building a brand, Yah?
 
 **_Captain Biggleswade_** : Penelope, your mother and I have been worried sick! You ran away with the family silver, and joined a commune of maritime hooligans!
 
-**_Posh_** : Daddy! It’s not a commune... we're an influencer collective! We sing stirring sea shanties!
+**_Posh_** : Daddy! It's not a commune... we're an influencer collective! We sing stirring sea shanties!
 
 **_Nobeard_** : Never mind all that, an evil sea-witch is about to summon the Kraken to destroy us all!
 
@@ -1852,7 +1854,7 @@ SONG: Copa Cabana
 
 **_Lieutenant Crump_** : That didn't sound like a myth, Captain!
 
-**_Flynn_** : It’s Jean! She’s at Nudii Bay! If you arrest us now, we all die. Let us join forces, and defeat her!
+**_Flynn_** : It's Jean! She's at Nudii Bay! If you arrest us now, we all die. Let us join forces, and defeat her!
 
 **_Captain Biggleswade_** : Crump... what do the Navy regulations say about collaborating with pirates if one of them is your first-born daughter?
 
@@ -1876,7 +1878,7 @@ SONG: Copa Cabana
 
 **_Ken_** : You and your flipping raffle tickets Dorothy!
 
-**_Dorothy_** : Oh, stop grumbling, Ken! The weather's lovely. And look on the bright side—it’s going to save a fortune on laundry bills!
+**_Dorothy_** : Oh, stop grumbling, Ken! The weather's lovely. And look on the bright side—it's going to save a fortune on laundry bills!
 
 **_Ken_** : I am NOT removing my trousers Dorothy.
 
