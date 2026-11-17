@@ -9,16 +9,19 @@
 **_Ken_** : I'm going as fast as I can Dorothy. Anyway, it'll be rubbish, these local pantomimes always are
 
 **_Dorothy_** : Ken! Don't be so rude - It's nice to get out and about, do things, meet people. Hello, I don't think we've met, what's your name. Well it's lovely to meet you. I'm Dorothy, and this is Ken... Ken... what are you doing
-
 **_Ken_** : I'm seeing if this hearing-aid loop's working... Ohhh, it is! Right, if they start singing, I'm turning this off. Last year there were that fool, prancing around pretending to be Freddie Mercury. He couldn't hold a note to save his life.
 
 - Ken walks back up the aisle
 
-**_Dorothy_** : I thought he was really good Ken. He had a lovely moustache. Ken? Ken? What are you doing now?
+**_Dorothy_** : I thought he were really good Ken. He had a lovely moustache. Ken? Ken? What are you doing now?
 
 **_Ken_** : I'm just checking the fire exit. If this place goes up, I'm not getting stuck behind some idiot in a giant cow costume.
 
-**_Dorothy_** : Oh, stop fretting Ken, I'm sure there won't be a fire alarm, but if there is, we all need to go out of the back, same way we came in. These people all know that, don't you?
+**_Dorothy_** : Oh, stop fretting Ken, I'm sure there won't be a fire alarm, 
+
+**_Ken_** :  But if there is, we all need to go out of here.
+
+**_Dorothy_** : These people all know that, don't you?
 
 **_Ken_** : Well I'm just checking, you can never be too careful.
 
@@ -26,7 +29,7 @@
 
 **_Ken_** : Raffle tickets? No, of course I haven't.
 
-**_Dorothy_** : Well fortunately we'll get a chance to buy some in the interval, just before they do the draw. Find Linda, ask her for ten pound's worth.
+**_Dorothy_** : Well we'll buy some in the interval then, just before they do the draw. Find Linda, ask her for ten pound's worth.
 
 **_Ken_** : Ten pounds!!! We're on a pension Dorothy. We can't be spending money like water. Oooh, why did you make me say that? I need the toilet now.
 
@@ -34,7 +37,7 @@
 
 **_Ken_** : I did... I need to go again... I have a very efficient bladder.
 
-**_Dorothy_** : Well I know for a fact that the toilets are out there in car park. You'll have to cross your legs, wait til the interval and then we can get a drink from the bar.
+**_Dorothy_** : Well I know for a fact that the toilets are out there in car park. You'll just have to cross your legs, wait til the interval. Oh, and then we can get a drink from the bar.
 
 **_Ken_** : Hmmph, the bar! They don't have proper beer! Last time they only had Carling and John Smiths. I'd have loved a Bishop's Finger. Oooooh, I can't wait for the interval, I'm going now...
 
@@ -49,22 +52,21 @@
 
 - Many years ago, The Pirate King, Bigbeard, would drink grog and make merry in a small tavern called Graham's Bar.
 - As King Of The Pirates, Bigbeard was, the keeper of "The Kraken Bell", an ancient artefact which could summon the world's most powerful sea-monster.
-- Bigbeard never had cause to use the Kraken Bell but other pirates knew they couldn't step out of line, and order was maintained.
+- Bigbeard never had cause to use the Kraken Bell, but its existence meant that other pirates respected him and order was maintained.
 - Then there was Jean, who spent most of her time at the bar trying to catch Graham's eye.
 - But Graham had no interest in Jean - HE couldn't stop talking about his holiday romance with a cabaret singer named Stella.
-- He even renamed his tavern, in her honour, as a sign of his devotion.
-- They say that "Hell hath no fury, like a woman scorned". Jean had been scorned and in a jealous rage, vowed to do harm to Stella
-- She stowed away on Bigbeard's ship, then during the night, emerged and stole Bigbeard's Kraken Bell
+- They say that "Hell hath no fury, like a woman scorned". Jean had been scorned and in a jealous rage, vowed to harm Stella
+- Jean stowed away on Bigbeard's ship, then, during the night, emerged and stole Bigbeard's Kraken Bell
 - She rang the bell and ordered the Kraken to find Stella... and kill her
 - Bigbeard, was angry, the Kraken Bell was the property of the Pirate King and no-one else had the right to use it.
-- He confronted Jean, there was a struggle, he wrestled the bell back, but Jean tore off Bigbeard's Big Beard and tossed it overboard
-- Bigbeard overpowered Jean, then ordered the Kraken to return to the depths, but he'd been humiliated. He knew that without his magnificent Big Beard, he would lose the respect of his fellow pirates and could no longer be the guardian of the Kraken Bell.
+- He confronted Jean, and wrestled the bell back, but in the struggle, Jean tore off Bigbeard's Big Beard and tossed it overboard
+- Bigbeard ordered the Kraken to return to the depths, but he'd been humiliated. He knew that without his magnificent Big Beard, he would lose the respect of his fellow pirates and could no longer be the guardian of the Kraken Bell.
 - Knowing that others would come looking for it, he removed the clanger from the bell and hatched a plan to keep the two parts separated
 - He sent the clanger East, with orders to give it to Stella to hide
 - He sent the now Silent Bell West, for Graham to hide
 - Finally, he sailed to the middle of the ocean where he chained Jean to a buoy. That was the last anyone saw of him.
 
-**_Jean_** : A curse upon Bigbeard, Graham and Stella. I will have my revenge. They will rue the day they crossed Jean.
+**_Jean_** : A curse upon Bigbeard, Graham and Stella. I will have my revenge. They will rue the day they crossed "Jean".
 
 MUSIC: Jean's Theme
 
@@ -81,7 +83,6 @@ MUSIC: Jean's Theme
 **_Ginger_** : Now then my beauty, give me your booty!
 
 - The rubber chicken is under this seat
-
 - Ginger takes it, then hands it to Nobeard and they both look confused
 - Nobeard gives it a squeaky squeeze
 
@@ -187,9 +188,9 @@ SONG: Wannabe by The Spicy Girls
 
 - Prawns points at the small chest which Graham is clutching
 
-**_Prawns_** : Have you ever asked him what's in there, he never lets anyone near it.
+**_Prawns_** : Have you ever asked him what's in there? He never lets anyone near it.
 
-**_Flynn_** : No, and I've never asked. It's none of my business.
+**_Flynn_** : No, and it's none of my business.
 
 **_Prawns_** : Maybe it's full of his most prized possessions, like a collection of belly button fluff.
 
@@ -225,7 +226,7 @@ SONG: Wannabe by The Spicy Girls
 
 - Graham snores loudly as Prawns releases the chest, he splutters briefly, then continues to sleep
 
-**_Flynn_** : Prawns! You shouldn't have... It's wrong... We'll get in trouble...
+**_Flynn_** : Prawns! You shouldn't have... It's wrong...
 
 **_Prawns_** : Don't you want to see what's inside?
 
@@ -233,11 +234,11 @@ SONG: Wannabe by The Spicy Girls
 
 - Prawns opens the chest and takes out a few bits of paper
 
-**_Prawns_** : Just this bell, and a note, from someone called Captain Bigbeard.
+**_Prawns_** : Just this bell, and a note
 
-**_Flynn_** : Bigbeard? He's the most famous pirate of ALL. I've read every story about him. What does it say?
+**_Flynn_** :  What does it say?
 
-**_Prawns_** : It says... "Graham, keep this safe. Don't let it out of your sight. And don't ever go near Mermaid Cove. Yarrrr!" What does that all mean?
+**_Prawns_** : It says... "Graham, keep this safe. Don't let it out of your sight. And don't ever go near Mermaid Cove. Yarrrr!" What's all THAT mean?
 
 **_Flynn_** : Careful Prawns, don't ring it... You'll wake him!
 
@@ -245,7 +246,7 @@ SONG: Wannabe by The Spicy Girls
 
 **_Prawns_** : See, I've not woken him. It didn't even make a noise.
 
-**_Flynn_** : Why would anyone keep a bell that doesn't ring? And why would Graham have a note from Bigbeard?
+**_Flynn_** : Why would anyone keep a bell that doesn't ring? 
 
 - There is an ominous rumbling followed by a terrifying screeching sound heard from a distance
 - Graham stirs, splutters a little and then wakes. He looks at the bell and then looks horrified.
@@ -258,7 +259,7 @@ SONG: Wannabe by The Spicy Girls
 
 **_Graham_** : Did you ring Bigbeard's "Silent Bell"?
 
-**_Flynn_** : Bigbeard? He's my hero! Did you know him? What was he like?
+**_Flynn_** : Bigbeard?  He's the most famous pirate of ALL.  I've read every story about him. He's my hero!  Did you know him?  What was he like? 
 
 **_Graham_** : Big Beard was the King of the Pirates. Pirates bring nothing but trouble. This bell brings nothing but trouble. I ask you again... Did you ring The Silent Bell.
 
@@ -296,11 +297,12 @@ SONG: Wannabe by The Spicy Girls
 
 **_Flynn_** : Your "true love"?
 
-**_Graham_** : Stella. Oh my darling Stella, the most beautiful woman you could ever meet. Her hair is like strands of gold, her eyes like pools of pure spring water and her chest...
+**_Graham_** : Stella. Oh my darling Stella, the most beautiful woman you could ever meet. Her hair is like strands of gold, her eyes, pools of pure spring water and her chest...
 
-- Flynn and Prawns look a bit embarrassed
+- Prawns starts making lewd gestures
+- Flynn looks a bit embarrassed
 
-**_Prawns_** : Errrr, yeah, OK, we get the idea...
+**_Flynn_** : Errrr, yeah, OK, we get the idea...
 
 **_Graham_** : What, NO! I was about to say that her chest has a pair of hinges which would delight the most discerning craftsman.
 
@@ -328,10 +330,6 @@ SONG: Wannabe by The Spicy Girls
 **_Graham_** : Well, we ARE all doomed...
 
 **_Prawns_** : Exactly... Doomed!
-
-**_Graham_** : And the only people who could help are you two incompetent idiots.
-
-**_Prawns_** : Exactly... Us two uncompetent idiots! Flynn, what does uncompetent mean.
 
 - Graham retrieves a map from somewhere and unrolls it
 
@@ -415,12 +413,16 @@ SONG: Wannabe by The Spicy Girls
 
 - Once the scene is ready, a seagull "flies" out between the curtains with a message attached to its foot
 
-**_Captain Biggleswade_** : Lieutenant... This is a message from Naval Intelligence. A pirate ship has been sighted off the coast, close to our current position. We must set off in pursuit. Maybe today I'll finally capture Big Beard.
+**_Captain Biggleswade_** : Lieutenant... This is a message from Naval Intelligence. A pirate ship has been sighted off the coast, close to our current position. We must set off in pursuit. 
 
 **_Lieutenant Crump_** : Aye aye Captain Biggleswade
 
+- Crump yawns...
+
 **_Captain Biggleswade_** : I haven't forgotten how obstructive some of you have been. Rest assured, justice will be served. The Navy never sleeps.
 
+- Crump appears to have nodded off
+- Biggleswade nudges him
 - They leave
 
 # 5 - On The Pirate Ship
@@ -509,7 +511,7 @@ SONG: Wannabe by The Spicy Girls
 
 **_Norah_** : How disappointing!
 
-**_Nobeard_** : It must have shrunk, in the brine. Hang it on the rigging to dry, I'm sure it will fit.
+**_Nobeard_** : It must have shrunk in the brine. Hang it on the rigging to dry, I'm sure it will fit.
 
 **_Scary_** : It looks like our booty was nothing but barnacle bait.
 
@@ -578,7 +580,7 @@ SONG: Wannabe by The Spicy Girls
 
 **_Flynn_** : I was too excited about pirates and adventure. But I'm sure he said it was important
 
-**_Oz_** : Well of COURSE it's important. Red crosses on maps are always important. Well that's decided then. YOU need to go THERE. Now, let me do some calculations... that will be at least 3 days sailing. You'll need supplies for, let's say a week to be safe. And rum, you'll be needing rum. Now which ship did you say was yours?
+**_Oz_** : Well of COURSE it's important. Red crosses on maps are always important. Well that's decided then. YOU need to go THERE. Now, let me do some calculations... that will be at least 3 days sailing. You'll need supplies for, let's say a week, to be safe? Now... which ship did you say was yours?
 
 - He's looking out across the harbour with a telescope?
 
@@ -791,7 +793,7 @@ The sea witch commands you, now sink to your rest
 
 **_Lieutenant Crump_** : The proprietor of this tavern sir. That's him on the wall.
 
-**_Captain Biggleswade_** : Mmmm, strange looking fellow. Very fishy looking.
+**_Captain Biggleswade_** : Mmmm, strange looking fellow. Very fishy.
 
 **_Lieutenant Crump_** : No, the picture next to the fish sir.
 
@@ -802,7 +804,7 @@ The sea witch commands you, now sink to your rest
 - The boy points off in to the distance and they all step forward and stare off in to the distance
 - Curtains close behind them
 
-**_Captain Biggleswade_** : Thomas Cook Island by George? Very well, Crump... Recruit this young lad into the Navy.
+**_Captain Biggleswade_** : Thomas Cook Island eh? Very well, Crump... Recruit this young lad.
 
 **_Boy_** : I don't want to be in the Navy. I get seasick in the bath.
 
@@ -865,10 +867,14 @@ SONG: IN THE NAVY (FOC)
 
 **_Captain Biggleswade_** : Sail on - those blasted pirates will be just over the horizon. We'll catch them for certain and then I'll be made Commodore. Can you smell the crisp salt air Crump?
 
-- He sniffs some members of the audience
-- He then pulls out a telescope
+- Crump sniffs some members of the audience
+- Crump then pulls out a telescope
 
-**_Lieutenant Crump_** : I can mostly smell old cabbage Captain. Pirates! I see them as well as smell them Captain! A fearsome bunch of ugly brutes!
+**_Lieutenant Crump_** : I can mostly smell old cabbage Captain.
+
+- He points the telescope at the audience
+
+**_Lieutenant Crump_** : Pirates! I see them as well as smell them Captain! A fearsome bunch of ugly brutes!
 
 - Biggleswade grabs the telescope from him
 
@@ -955,11 +961,11 @@ SONG: IN THE NAVY (FOC)
 
 **_Tim_** : Paint?
 
-**_Elvis_** : Uh, huh. Thousands of tins of red paint, and thousands of tins of blue paint. That's how I became marooned!
+**_Elvis_** : Uh, huh. Thousands of tins of red paint, and thousands of tins of blue paint. That's how I became marooned! What brings you folks here?
 
 **_Flynn_** : We're on a quest - maybe you could join us?
 
-**_Elvis_** : Oh no, I could never leave here. This here's home now... for me and Priscilla and little Lisa Marie. Say, where are my manners? Are you folks hungry? Priscilla, Priscilla, there's folks here need some grits...
+**_Elvis_** : Oh no, I could never leave. This here's home now... for me and Priscilla and little Lisa Marie. Say, where are my manners? Are you folks hungry? Priscilla, Priscilla, there's folks here need some grits...
 
 - He goes offstage
 
@@ -973,11 +979,11 @@ SONG: IN THE NAVY (FOC)
 
 **_Oz_** : But those look like bananas
 
-**_Elvis_** : She SAID you'd be surprised! Priscilla, come and say hello to our guests.
+**_Elvis_** : She SAID you'd be surprised! Priscilla, come meet our guests.
 
 - He leaves again, and returns with two coconuts on sticks with faces, hair, bow on top etc
 
-**_Elvis_** : This here's Priscilla, and this is my little Lisa Marie. Well come on girls, say hello to these nice folks... I'm sorry... they're both a little "shy".
+**_Elvis_** : This here's Priscilla, and this here's my little Lisa Marie. Well come on girls, say hello to these nice folks... I'm sorry... they're both a little "shy".
 
 - Milk that joke if no-one gets it (or even if they do!)
 - The fellowship look confused
@@ -992,15 +998,15 @@ SONG: IN THE NAVY (FOC)
 
 - The coconut talks to Elvis
 
-**_Elvis_** : Oh Priscilla I couldn't, I'm outta practice. Well if you're sure. (turning to the fellowship) Priscilla says I should sing for you. I'll just go and get ready.
+**_Elvis_** : Oh Priscilla I couldn't, I'm outta practice. Well if you're sure. (turning to the fellowship) Priscilla says I should sing for you. I'll just go get ready.
 
 **_Oz_** : I think we should go back to the yacht. This man is clearly deranged.
 
-**_Flynn_** : I agree. Prawns, give me the string and we'll retrace our steps and hope Elvis doesn't follow us.
+**_Flynn_** : I agree. Prawns, give me the string and we'll retrace our steps.
 
 **_Prawns_** : Oh err, sorry, I think I've dropped it
 
-**_Flynn_** : (sighs) Well then we'll just have to stay here until light and hope the storm passes. Just go along with it everyone
+**_Flynn_** : Well then we'll just have to stay here until light and hope the storm passes. Just go along with it everyone
 
 SONG: ALL SHOOK UP
 
@@ -1131,7 +1137,7 @@ SONG: ALL SHOOK UP
 
 - To audience
 
-**_Jean_** : These fools have no idea what they've done. I will let them take me to Stella, I will use them to get the clanger, and I will use the bell to gain command of The Kraken. Then I shall have my revenge upon Stella, Graham, and everyone else who allowed me to rot in the middle of the ocean.
+**_Jean_** : These fools have no idea what they've done. I will let them take me to Stella, I will use them to get the clanger, and I will use the bell to control The Kraken. Then I shall have my revenge upon Stella, Graham, and everybody else who allowed me to rot in the middle of the ocean.
 
 - Back to crew
 
