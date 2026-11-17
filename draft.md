@@ -2011,7 +2011,6 @@ SONG: Copa Cabana
 - Graham opened a beach bar at Mermaid Cove, he and Stella lived happily ever after
 - Tim's upset about his yacht sinking - he's going to be in trouble with Daddy - Penelope reassures him that he needn't worry about what Daddy thinks
 - Meanwhile, a bedraggled figure is washed up on the shore of Nudii Bay
-
 - Curtains open
 
 - [ ] Do we have the closing song here?
