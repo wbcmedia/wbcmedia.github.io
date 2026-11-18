@@ -590,33 +590,41 @@ SONG: Wannabe by The Spicy Girls
 
 - Tim enters
 
-**_Tim_** : Morning Oz you bally old roister-doister. Oh... I say... You've got customers. I thought I was the only one who ever came in here, ha!
+**_Tim_** : Morning Oz you bally old roister-doister. Oh... I say... You've got customers. I thought I was the only one who ever came in here, ha! I'm Tim, nice to meet you.
 
-**_Flynn_** : Oh no, it's Posh Tim.
+**_Flynn_** : I'm Flynn, and this is Prawns
 
-**_Prawns_** : Oh 'eck, he's more annoying than Geeky Oz.
+**_Tim_** : Prawns? I say, I don't think I've ever met someone called Prawns before. How did you inherit that particular moniker?
 
-**_Oz_** : Yes, good morning Tim. I was just helping these two gentlemen with a technical enquiry if you don't mind waiting your turn.
+**_Prawns_** : Eh?
 
-**_Tim_** : Ah, good to see you chaps. Well, there's no rush, I've just nipped in for tin of boat polish. Daddy wants the yacht looking spick and span for the weekend.
+**_Flynn_** : He means why does everyone call you Prawns.
+
+**_Prawns_** : Oh... They call me Prawns cos I wear shell-suits...
+
+**_Flynn_** : Also... he is a bit "shrimple".
+
+- Flynn milks the "simple" joke
+- Oz is becoming impatient with all of this chit-chat
+
+**_Oz_** : I was just helping these two gentlemen with a technical enquiry if you don't mind waiting your turn Tim.
+
+**_Tim_** :  Of course, there's no rush, I've just nipped in for tin of boat polish. Daddy wants the yacht looking spick and span for the weekend.
 
 **_Flynn_** : You've got a boat?
 
 **_Tim_** : Well, it's NOT a BOAT... it's a yacht... and it's not strictly mine, but Daddy lets me and my chums use it whenever we like.
 
-**_Prawns_** : Have you got any "chums" Tim?
+**_Oz_** : Have you got any "chums" Tim?
 
 **_Tim_** : What? Ha! Well, I mean no, not really, but you know, it's marvellous for entertaining the ladies, if you catch my drift.
 
-**_Flynn_** : The ladies Tim?
-
-**_Tim_** : Well, you know, I haven't actually... that is to say... but, you know, maybe one day, what?
-
+- He winks knowingly at Flynn and Prawns
 - Oz hands a large tin to Tim
 
 **_Oz_** : Shall I add it to your father's account Tim?
 
-**_Tim_** : Would you Oz? That would be marvellous. Right-o, I'd better be off. That yacht isn't going to polish itself, ha! Nice to see you chaps again, you must all join me for cocktails on the deck sometime...
+**_Tim_** : Would you Oz? That would be marvellous. Right-o, I'd better be off. That yacht isn't going to polish itself, ha! Nice to meet you chaps, you must all join me for cocktails on the deck sometime...
 
 **_Prawns_** : Not likely
 
@@ -639,6 +647,10 @@ SONG: Wannabe by The Spicy Girls
 **_Flynn_** : It doesn't look like your shop is particularly busy, and besides, we could really do with a "map expert".
 
 **_Oz_** : Expert? Expert, eh? Well if you put it like that, perhaps I could spare some time to share my expertise...
+
+**_Flynn_** : Great! Lead on Tim, let's see this massive boat of yours...
+
+**_Tim_** : It's not a BOAT old boy. It's a YACHT.
 
 **_Flynn_** : Great! Lead on Tim, let's see this massive YACHT of yours...
 
@@ -675,25 +687,25 @@ The sea witch commands you, now sink to your rest
 
 **_Graham_** : Good evening ladies. What can I get you?
 
-**_Sporty_** : A tot of rum but make it diet
+**_Sporty_** : A tot of rum, but make it diet.
 
 **_Ginger_** : I'd like an elderflower spritzer please.
 
-**_Norah_** : Give me some grog
+**_Norah_** : Give me some grog.
 
 **_Posh_** : Do you have any bollinger?
 
-**_Scary_** : I's a thirst on me like sandpaper in a desert - gets me a pint of bloody mary
+**_Scary_** : I's a thirst on me like sandpaper in the desert... gets me a pint of bloody-mary.
 
 **_Posh_** : Scary - where's your grammar!
 
-**_Scary_** : She be at home with me grandad!
+**_Scary_** : She be at home... with me grandad!
 
 **_Graham_** : One at a time ladies, I'm a little short staffed at the moment
 
 - Scary grabs Graham by the throat
 
-**_Scary_** : Right that's enough chit-chat, where be the mermaids - tell me now you scurvy faced dog or I'll slit yer throat.
+**_Scary_** : Right that's enough chit-chat, where be the mermaids? Tell me now you scurvy-faced dog or I'll slit yer throat.
 
 **_Nobeard_** : Scary, go gentle like.
 
@@ -705,7 +717,7 @@ The sea witch commands you, now sink to your rest
 
 **_Ginger_** : What about treasure?
 
-**_Graham_** : I have NO treasure.
+**_Graham_** : I have no TREASURE.
 
 **_Scary_** : Sign outside says "The Mermaid's Chest". So where's the mermaid, and where's her chest?
 
@@ -988,13 +1000,13 @@ SONG: IN THE NAVY (FOC)
 - Milk that joke if no-one gets it (or even if they do!)
 - The fellowship look confused
 
-**_Prawns_** : Why have you got coconuts on sticks?
-
-**_Flynn_** : (elbowing him) Delightful to meet you Priscilla
+**_Flynn_** : Delightful to meet you Priscilla
 
 **_Tim_** : Charmed I'm sure
 
 **_Oz_** : Erm, hello
+
+**_Prawns_** : Would you like to see my belly-button-fluff collection?
 
 - The coconut talks to Elvis
 
@@ -1117,11 +1129,11 @@ SONG: ALL SHOOK UP
 - They help Jean onto the yacht
 - Tim offers her a cocktail
 
-**_Tim_** : It's my pleasure to welcome such a, errr, charming lady onboard. This is The Smooth Operator, and I'm her captain, Tim.
+**_Tim_** : It's my pleasure to welcome such a charming lady onboard. This is The Smooth Operator, and I'm her captain, Tim.
 
-**_Prawns_** : I'm William, but everyone calls me Prawns
+**_Prawns_** : I'm William, but everyone calls me Prawns.
 
-**_Oz_** : I'm Oz, the map expert.
+**_Oz_** : I'm Oz. I am the MAP expert.
 
 **_Flynn_** : And I'm Flynn. I'm sorry, I'm not sure we caught your name.
 
@@ -1300,11 +1312,19 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 **_Posh_** : That horrible bird. It attacked me. Like in that film, with all the birds and they attacked that woman. The film, what was it called?
 
-**_Norah_** : The Birds? **_Scary_** : The Birds? **_Sporty_** : The Birds? **_Ginger_** : The Birds? **_Nobeard_** : The Birds?
+**_Norah_** : The Birds?
+**_Scary_** : The Birds? 
+**_Sporty_** : The Birds? 
+**_Ginger_** : The Birds? 
+**_Nobeard_** : The Birds?
 
 **_Posh_** : Exactly, with all the birds. What was the film called?
 
-**_Norah_** : The Birds! **_Scary_** : The Birds! **_Sporty_** : The Birds! **_Ginger_** : The Birds! **_Nobeard_** : The Birds!
+**_Norah_** : The Birds! 
+**_Scary_** : The Birds! 
+**_Sporty_** : The Birds! 
+**_Ginger_** : The Birds! 
+**_Nobeard_** : The Birds!
 
 **_Posh_** : No, I can't remember either. Anyway, they've ruined my new jacket, yahhhh.
 
@@ -1629,13 +1649,11 @@ SONG: Copa Cabana
 
 # 20 - Jean and Stella
 
-
 - The moon is 3/4
 
 **_Jean_** : Oh Stella, what a delight to see you again. I hope you don't mind if I keep you in the net, but I don't want you wriggling your way out of this.
 
 **_Stella_** : Jean?! It can't be! You're supposed to be chained to a rock!
-
 
 **_Jean_** : I was! For forty miserable, barnacle-covered years! But surprise, surprise, I am free Stella. Free to finish what I started! The Kraken is waking and I will have my revenge.
 
@@ -1700,7 +1718,7 @@ Crump, plot a course due west we're going to catch those blasted pirates. When I
 
 **_Flynn_** : Graham?
 
-**_Tim_** : Graham? What an unusual name, for such a delightful lady
+**_Tim_** : Graham? What an unusual name, for such a delightful lady.
 
 - Tim takes Graham's hand, as if to kiss it
 
@@ -1730,7 +1748,7 @@ Crump, plot a course due west we're going to catch those blasted pirates. When I
 
 **_Oz_** : Jean must have taken it.
 
-**_Graham_** : Jean?? JEAN!!! You've given the ship to Jean
+**_Graham_** : Jean? You've given the ship to Jean
 
 - The others nod
 
@@ -1838,13 +1856,18 @@ Crump, plot a course due west we're going to catch those blasted pirates. When I
 
 **_Graham_** : Great galloping galoshes! Bigbeard must have left you on my doorstep... You're Bigbeard's son!
 
-**_Flynn_** : I'm Bigbeard's son? A pirate prince?!
+**_Flynn_** : I'm Bigbeard's son? A pirate prince?
 
 - The pirates all nod
+- Emboldened by this turn of events, Flynn goes full-pirate-mode
 
 **_Flynn_** : Well take heed me hearties. Jean has stolen my father's bell. Jean has stolen Graham's mermaid. And Jean has stolen Tim's Dad's Yacht! I say we show Jean what happens when you mess with pirates... who's with me?
 
-**_Norah_** : Yarrr! **_Scary_** : Yarrr! **_Sporty_** : Yarrr! **_Ginger_** : Yarrr! **_Nobeard_** : Yarrr!
+**_Norah_** : Yarrr! 
+**_Scary_** : Yarrr! 
+**_Sporty_** : Yarrr! 
+**_Ginger_** : Yarrr! 
+**_Nobeard_** : Yarrr!
 
 **_Posh_** : Yah!
 
@@ -1929,7 +1952,6 @@ Crump, plot a course due west we're going to catch those blasted pirates. When I
 **_Boy_** : Why couldn't I have been press-ganged into a bakery?
 
 # 23 - Ken and Dorothy arrive on Nudii Bay
-
 
 - Curtains closed, all pre-recorded
 - Tannoy announcement - "Welcome to Nudii Bay, your tropical paradise destination. Passengers are reminded that clothing is strictly forbidden. Please leave any items you are still wearing in the bins provided, and have your passports ready for inspection."
@@ -2083,6 +2105,8 @@ Crump, plot a course due west we're going to catch those blasted pirates. When I
 
 **_Graham_** : Stella, you're alive. You see, not only is she the most beautiful woman in the world... but she's brave too. Stella, would you make me the happiest man in the world?
 
+- Graham goes down on one knee to propose
+
 **_Stella_** : Graham? Is that you? But you're a man... dressed as a woman... that's not right, that's not right at all. Why would a man dress up as a woman? No Graham, I'm looking for a REAL man... Where's that lovely Tim?
 
 - She leaves looking for Tim
@@ -2100,15 +2124,15 @@ Crump, plot a course due west we're going to catch those blasted pirates. When I
 - Walkdown wraps things up
 - Pirate King (Flynn) should be the keeper of the Kraken Bell
 - Flynn and Ginger become Pirate King and Queen
-- Graham opened a beach bar at Mermaid Cove, he and Stella lived happily ever after
 - Tim's upset about his yacht sinking - he's going to be in trouble with Daddy - Penelope reassures him that he needn't worry about what Daddy thinks
 - Meanwhile, a bedraggled figure is washed up on the shore of Nudii Bay
 - Curtains open
-
 
 **_Dorothy_** : Oh, hello, you're new here aren't you. What's YOUR name?
 
 **_Jean_** : I go by many names. Siren of the Seas, The Temptress of The Deep, Destroyer of Ships... but you can call me Jean
 
 **_Dorothy_** : Lovely to meet you Jean. I'm Dorothy and this is... oh where is he? Ken? Ken? He'll be in his shed... Anyway... Let's get you out of these wet clothes.
+
+THE END
 

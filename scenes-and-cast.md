@@ -22,7 +22,7 @@
 |19 - Navy Guys Interview Vernon and Jess|||||||x|x||||||||x|x|x|
 |20 - Jean and Stella||||||x|||x||||||||||
 |21 - The Navy Spot The Pirates||||||||||||||||x|x||
-|22 - The Fellowship Regret Their Actions|x|x|x|x|x|||||x||x|x|x|x|x|x|x|
+|22 - The Fellowship Regret Their Actions|x|x|x|x|x|||||x|x|x|x|x|x|x|x|x|
 |23 - Ken and Dorothy arrive on Nudii Bay|x|x|||||||||||||||||
 |24 - The Kraken is summoned in Nudii Bay|x|x||||x|||x||||||||||
 |25 - Pirate Battle Plan|x||x||||x|x|x|x||x||x|x||||
