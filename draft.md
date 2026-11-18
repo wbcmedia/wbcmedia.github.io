@@ -1039,7 +1039,7 @@ SONG: ALL SHOOK UP
 
 **_Prawns_** : Ooh, coconut prawns, that sounds delicious.
 
-**_Flynn_** : Well at least the storm has passed. Oz can you get us back on course?
+**_Flynn_** : Prawns... you're crackers... Oz can you get us back on course?
 
 **_Oz_** : Back on course? It's not that simple. According to Navy regulation paragraph 4, subsection b, we cannot resume sailing until I have completed a Post-Tempest Hazard Assessment Form.
 
