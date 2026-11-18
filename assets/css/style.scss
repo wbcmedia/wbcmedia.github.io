@@ -2,10 +2,13 @@
 ---
 @import "{{ site.theme }}";
 
+.markdown-body p {
+  margin-bottom: 1.6em;
+}
+
 p {
   line-height: 1.6;
   font-size: 1.6em;
-  margin-bottom: 1.6em;
   color: #000;
 }
 
