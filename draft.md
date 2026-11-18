@@ -1165,7 +1165,7 @@ SONG: ALL SHOOK UP
 
 **_Ken_** : Shorts?! Don't be daft, I'll just roll me trouser legs up.
 
-**_Dorothy_** : No more rain, no more snow... No more local pantomimes.
+**_Dorothy_** : No more rain, no more snow... No more local pantomime.
 
 **_Ken_** : Oh... well when you put it like that...
 
@@ -1173,6 +1173,7 @@ SONG: ALL SHOOK UP
 
 # 15 - Arrival at Thomas Cook Island
 
+§ Sign, "Thomas Cook Island - Welcome to The Last Resort"
 
 FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
@@ -1180,7 +1181,7 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 **_Jess_** : First Choice
 
-**_Vernon_** : Mmmmm, well we're a bit more "Last Choice" here. We've not had any guests for months, so if anyone does turn up you'll have to think on your feet. You know we're "commission only"?
+**_Vernon_** : Mmmmm, well we're a bit more "Last Choice" here. We've not had any guests for months, so if anyone does turn up you'll have to think on your feet. You do know we're "commission only"?
 
 **_Jess_** : Oh, they didn't say anything about that at the interview...
 
@@ -1206,7 +1207,7 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 **_Flynn_** : So she told us exactly where we'll find her
 
-**_Tim_** : Then we'll bring her back to the ship and have a reunion party!
+**_Tim_** : Then we'll bring her back to the yacht and have a reunion party!
 
 **_Oz_** : I don't agree with parties
 
@@ -1230,7 +1231,7 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 **_Jess_** : I thought you said we hadn't had any guests in weeks?
 
-**_Vernon_** : Shut up Jess... I'm sorry, she's new. We've had lots of guests, we're almost fully booked... But, I can offer you a room for four in our "presidential suite".
+**_Vernon_** : Shut up Jess... I'm sorry, she's new. We've had lots of guests, we're almost fully booked... But, I CAN offer you a room for four in our "presidential suite".
 
 **_Jess_** : Do we have a presidential suite Vernon? It's not on my...
 
@@ -1275,7 +1276,6 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 **_Captain Biggleswade_** : He was never the same after he had that funny Tern
 
-- Boobies, Awk, Gannet, Petrel, Kittiwake, Cormorant, Shag, Sandpiper, Goose, Oystercatcher
 
 # 17 - Bad Luck on The Iron Lady
 
@@ -1283,7 +1283,7 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 - The beard is hanging from the rigging
 - Nobeard takes it in order to have another go at trying it on
 
-**_Nobeard_** : Yarrr, this wind is stronger than Neptune's bellows. Still, at least the beard should be dry. Surely this time I will be Pirate Queen.
+**_Nobeard_** : Yarrr, this wind is stronger than Neptune's bellows. Still, at least the beard should be dry. Surely this time I shall be Pirate Queen.
 
 - She holds it up to her face, then shakes violently - it doesn't fit
 
@@ -1298,15 +1298,19 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 - She makes a slitting throat signal
 - Posh walks on covered in seagull poo
 
-**_Posh_** : Those horrible birds. They attacked me. Like in that film, with all the birds? And they attacked that woman. The film, with the birds, what was it called? With all the birds?
+**_Posh_** : That horrible bird. It attacked me. Like in that film, with all the birds and they attacked that woman. The film, what was it called?
 
-- Everyone else looks at her and shrugs
+**_Norah_** : The Birds? **_Scary_** : The Birds? **_Sporty_** : The Birds? **_Ginger_** : The Birds? **_Nobeard_** : The Birds?
 
-**_Posh_** : They've ruined my new jacket, yahhhh.
+**_Posh_** : Exactly, with all the birds. What was the film called?
+
+**_Norah_** : The Birds! **_Scary_** : The Birds! **_Sporty_** : The Birds! **_Ginger_** : The Birds! **_Nobeard_** : The Birds!
+
+**_Posh_** : No, I can't remember either. Anyway, they've ruined my new jacket, yahhhh.
 
 **_Norah_** : I warned you, 'tis bad luck for a man to be aboard the Iron Lady. Last time she had a man on her, her poop deck sprang a leak.
 
-**_Ginger_** : Are you suggesting that he's the cause...
+**_Ginger_** : Are you suggesting that HE's the cause?
 
 **_Scary_** : YOU'RE why my cutlass is ruined.
 
@@ -1342,15 +1346,15 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 - Posh accidentally bangs the others on the head with it
 
-**_Scary_** : Watch what you're doing Posh or I'll tear your gizzards out. How'd you even become a pirate in the first place - you're don't know your Hull from your Keel
+**_Scary_** : Watch what you're doing Posh or I'll tear your gizzards out. How'd you even become a pirate in the first place? You don't know your Hull from your Keel
 
-**_Posh_** : Oh I've been to Hull, but it was awful. They didn't have any designer shops.
+**_Posh_** : Oh I've been to Hull, but it was awful. They didn't have ANY designer shops.
 
 **_Scary_** : D'you even know why pirates are called pirates?
 
 **_Posh_** : No... why?
 
-**_Scary_** : Because they Arrrrrrrrrrrrrrrrr!
+**_Scary_** : Because they YARRRRR!
 
 **_Posh_** : Oh, yah!
 
@@ -1359,14 +1363,17 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 **_Norah_** : This ain't fixing the fact that we've got a man on board and he's going to bring down the Iron Lady
 
 - They all turn and stare angrily at Graham
+- Nobeard leaves the stage
 
 **_Scary_** : I says we hoists him from the crows nest... by his neck.
 
-**_Sporty_** : But how do we find the treasure? We need him to show us the treasure yarrrrr!
+**_Sporty_** : But we needs him to find the mermaid's treasure? 
+
+- Nobeard returns carrying a dress and wig
 
 **_Nobeard_** : Girls, girls, calm down. We're not going to hang him and we're not going to make him walk the plank. We're going to make him wear these...
 
-- She holds up a large dress and wig
+- She holds up the dress and wig
 
 **_Nobeard_** : It's not bad luck to have a "pretty lady" on board, is it Norah?
 
@@ -1425,7 +1432,7 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 **_Ginger_** : That wig brings out the colour in your eyes tis true, like barnacles in a rock pool deep and blue.
 
-**_Posh_** : Yahhh, I think that could be next season's "new look".
+**_Posh_** : Yahhh, I think THAT could be next season's "new look".
 
 **_Graham_** : Never mind that, what were you reading?
 
@@ -1435,11 +1442,11 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 - Graham ignores her
 
-**_Graham_** : Blah, blah, Quest, blah, blah, New Friends, blah, blah... Jean! Oh no. Oh NO NO NO!
+**_Graham_** : Blah, blah, Quest, blah, blah, New Friend, blah, blah... Jean! Oh no. Oh NO NO NO!
 
 **_Ginger_** : What is it?
 
-**_Graham_** : This is terrible news. They've found Jean. She's enraptured them. She'll make them do exactly what she wants. You see... you see? This proves what I've been telling you. The bad things... They're not because you have a man on board. It's The Kraken... and if Jean has been rescued, she'll try to control The Kraken. And the bad things will get much, much worse. You have to take me to Thomas Cook Island. You have to help me, or we'll ALL be doomed.
+**_Graham_** : This is terrible news. They've found Jean. She'll make them do exactly what she wants. You see... you see? This proves what I've been telling you. The bad things... They're not my doing. It's The Kraken... and if Jean has been rescued, she'll try to control The Kraken. And the bad things will get much, much worse. You have to take me to Thomas Cook Island. You have to help me, or we'll ALL be doomed.
 
 - He thrusts the letter back into Ginger's grasp
 - She begins to re-read, and looks fearful and desperate
@@ -1464,9 +1471,9 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 **_Graham_** : Captain, I urge you. We're all in danger unless we stop Jean, and deal with The Kraken. Every ship will be smashed to pieces. All treasure will be lost.
 
-**_Nobeard_** : Mmmm. Well I suppose The Iron Lady could be for turning... But if you're lying...
+**_Nobeard_** : Mmmm. Well I suppose The Iron Lady COULD be for turning... But if you're lying...
 
-**_Scary_** : I'll cut off both your legs. And then make you walk the plank!
+**_Scary_** : I'll cut off both your legs. And THEN make you walk the plank!
 
 # 18 - Trip to Mermaid Cove
 
@@ -1478,13 +1485,13 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 **_Vernon_** : You should all have vouchers for the complimentary drinks you paid for - it's either B&Q White Spirit or a fruit juice of your choice... as long as it's orange.
 
-**_Jess_** : After the performance, we'll all meet back here for the trip back to "Last Resort".
+**_Jess_** : After the performance, we'll all meet back here for the return trip to "Last Resort".
 
 **_Vernon_** : So off you go... Enjoy Mermaid Cove.
 
 - They leave down the aisle
 
-**_Jess_** : Sir... Are you sure you don't want to leave your big net on the minibus? Sir? Sir!
+**_Jess_** : Sir... Are you sure you don't want to leave your big NET on the minibus? Sir? Sir!
 
 - Curtains open
 
@@ -1511,20 +1518,22 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 SONG: Copa Cabana
 
-**_Stella_** : My name's Stella, the queen of the mermaids and it's my pleasure to perform for you this evening. Now then, let's have a look at you. Oh, we've got a lovely audience in tonight. Look at you all, packed in like sardines! Though looking at some of your faces in the front row, I think a few of you have been at the bottom of the ocean a bit too long. You look washed up! And who else have we got here, ah look, bless him. Spent 2 hours doing his hair, and came out without it. And talking of bold, that's a rather bold ensemble we're wearing there isn't it sir. I think you're right about that top you know, it'll come back in. And what's your name? Any idea? Now David, you know I didn't come to you at random don't you? I think the audience have noticed, (to the cast) we've certainly noticed up here. Ever since I shimmied out onto this stage David, you've been undressing me with your eyes and who can blame you, you are but a man. I know all about men. Between you and me, David I've got a stalker, now you probably can't tell in this outfit but if you play your cards right, you can help me look for the root of the problem. Anyway, I can't be standing here talking to you all night, I need to get ready for my next performance.
+**_Stella_** : My name's Stella... I'm Queen of the Mermaids and it's my pleasure to perform for you this evening. Now then, let's have a look at you. Oh, we've got a lovely audience in tonight. Look at you all, packed in like sardines! Though looking at some of your faces, I think you've been in the ocean a bit too long. You look washed up! Oh, and who have we got here, ah look, bless him. Spent two hours doing his hair... and then came out without it. And talking of bold, that's a rather bold ensemble we're wearing there isn't it sir. I think you're right about that top you know, it'll come back in. And what's your name? Any idea? Well David, you know I didn't come to you at random don't you? I think the audience have noticed. Ever since I shimmied out onto this stage David, you've been undressing me with your eyes... and who can blame you, you are but a man. I know all about men. Between you and me, David I've got a stalker, now you probably can't tell in this outfit but if you play your cards right, you can help me look for the root of the problem. Anyway, I can't be standing here talking to you all night, I need to get ready for my next performance.
 
 - Starts brushing hair
-
 
 **_Prawns_** : It's Stella, the one we're looking for. This is Stella!!!
 
 **_Oz_** : I know. She said.
 
-**_Flynn_** : I thought Graham said she was the most beautiful woman in the world? He said she had hair like strands of gold.
+**_Flynn_** : I thought Graham said she was the most beautiful woman in the world?
 
-**_Tim_** : Does your friend Graham have a problem with his eyesight?
+**_Tim_** : She seems delightful.
 
-**_Flynn_** : He said her eyes were like pools of clear blue water.
+- Oz and Flynn look quizzically at Tim
+- Tim begins to approach Stella, smartening himself up
+
+**_Flynn_** : He said she had hair like strands of gold and her eyes were pools of clear blue water.
 
 **_Oz_** : I think he should have gone to Specsavers.
 
@@ -1538,9 +1547,10 @@ SONG: Copa Cabana
 
 **_Flynn_** : Oz, Tim, you distract her... we'll get the net.
 
-- Oz and Tim shuffle awkwardly into Stella's proximity
+- Flynn and Prawns leave to get the net
+- Oz shuffles awkwardly into Stella's proximity
 
-**_Stella_** : Oh, and look at these attractive young men. I'm Stella... what's your name handsome?
+**_Stella_** : Oh, and look at this attractive young man. I'm Stella... what's your name handsome?
 
 **_Tim_** : Ah, gosh, erm... Tim.
 
@@ -1550,7 +1560,9 @@ SONG: Copa Cabana
 
 **_Stella_** : And who's your friend Tim?
 
-**_Oz_** : Actually, Tim and I are NOT friends. We are simply co-conspirators in somebody else's quest, the aim of which is... One... to retrieve a missing clanger, and Two... to kidnap a mermaid named Stella.
+**_Oz_** : Actually, Tim and I are NOT friends. We are simply co-conspirators in somebody else's quest. The objective of the aforementioned quest is... One... to retrieve a missing clanger, and Two... to kidnap a mermaid named Stella.
+
+- Prawns and Flynn re-appear with the net and approach Stella
 
 **_Stella_** : A mermaid, named Stella? But I'm a mermaid. And my name's...
 
@@ -1582,17 +1594,17 @@ SONG: Copa Cabana
 
 **_Jess_** : "Me hearties"? I don't think so, no.
 
-**_Captain Biggleswade_** : Are you sure now? We're in pursuit of pirates you see. Any information you can provide could help us apprehend these "scoundrels of the oceans".
+**_Captain Biggleswade_** : Are you sure now? We're in pursuit of pirates you see. Any information you provide could help us apprehend these... "scoundrels of the seas".
 
 **_Vernon_** : One of them had a net, a really big one.
 
 - Crump is making notes
 
-**_Lieutenant Crump_** : A big one you say....So we're looking for a posse of possible pirates, accompanied by a big lassie called Annette.
+**_Lieutenant Crump_** : A big one you say....So we're looking for a posse of possible pirates, accompanied by a big girl called Annette.
 
 **_Jess_** : And one of the mermaids has gone missing.
 
-**_Captain Biggleswade_** : Was she called Annette?
+**_Captain Biggleswade_** : Was SHE called Annette?
 
 **_Jess_** : No... Stella.
 
@@ -1625,16 +1637,16 @@ SONG: Copa Cabana
 **_Stella_** : Jean?! It can't be! You're supposed to be chained to a rock!
 
 
-**_Jean_** : I was! For forty miserable, barnacle-covered years! But surprise, surprise, I am free, Stella. Free to finish what I started! The Kraken is waking and I will have my revenge.
+**_Jean_** : I was! For forty miserable, barnacle-covered years! But surprise, surprise, I am free Stella. Free to finish what I started! The Kraken is waking and I will have my revenge.
 
-**_Stella_** : No... if the Kraken rises, it will destroy everything
+**_Stella_** : No... if the Kraken rises, it'll destroy everything
 
-**_Jean_** : That is the whole point! You and Graham thought you were so clever. I will kill you all but I don't want to do it now or the pantomime will be too short. (winks at audience) And we all want to get our money's worth, don't we? Besides, I have a reputation to uphold. I prefer my vengeance served cold and thoroughly wicked! Now, what's this you're wearing round your neck.
+**_Jean_** : That is the whole point! You and Graham thought you were so clever. I will KILL YOU ALL... but I don't want to do it now or the pantomime will be too short. And we all want to get our money's worth, don't we? Besides, I have a reputation to uphold. I prefer my vengeance served cold and thoroughly wicked, ha ha ha! Now, what's this you're wearing round your neck.
 
 - She pulls at the cord round Stella's neck
 - The clanger falls to the deck
 
-**_Jean_** : Oh Stella... it looks like you've dropped a clanger.
+**_Jean_** : Oh Stella... it looks like you've, DROPPED A CLANGER, ha ha ha.
 
 **_Stella_** : You can't do anything without the bell.
 
@@ -1646,9 +1658,9 @@ SONG: Copa Cabana
 
 - Stella gasps
 
-- **_Stella_** : You'll never get away with this Jean.
+**_Stella_** : You'll never get away with this Jean.
 
-**_Jean_** : I will get away with it Stella. I have a ship and we're heading to Nudii bay. Once I'm there I will re-unite the bell and the clanger and I shall take control of The Kraken. Then I shall control... everything! Mwahhhahhaha!
+**_Jean_** : I WILL get away with it Stella. I have a ship and we're heading to Nudii bay. Once I'm there I will re-unite the bell with the clanger and I shall take control of The Kraken. Then I shall control... everything! Mwahhhahhaha!
 
 - Curtains
 
@@ -1659,9 +1671,15 @@ SONG: Copa Cabana
 
 - Crump is scanning with his telescope
 
-**_Lieutenant Crump_** : Sir, I can see a flag on the horizon. It appears to be made from ladies undergarments
+**_Lieutenant Crump_** : Sir, I can see a flag on the horizon. It appears to be made from ladies undergarments.
 
-**_Captain Biggleswade_** : By Jupiter! Avert your eyes boy. You're too young to see this sort of thing. Crump, plot a course due west we're going to catch those blasted pirates. When I get hold of them, they won't have a leg to stand on!
+- Boy looks excitedly out to sea
+- Crump tries to stop him looking
+- Boy kicks Crump on the shin
+- Crump begins hopping around
+
+**_Captain Biggleswade_** : By Jupiter! Avert your eyes boy. You're too young to see this sort of thing.
+Crump, plot a course due west we're going to catch those blasted pirates. When I get hold of them, they won't have a leg to stand on!
 
 # 22 - The Fellowship Regret Their Actions
 
@@ -1674,11 +1692,21 @@ SONG: Copa Cabana
 
 **_Oz_** : I think we found her
 
-- Graham storms in to the bar
+- Graham storms in still wearing his dress
 
 **_Graham_** : What... is the meaning of this?
 
-**_Flynn_** : Graham! What are you doing here?
+**_Tim_** : I say, who are YOU? I must still be dreaming...
+
+**_Flynn_** : Graham?
+
+**_Tim_** : Graham? What an unusual name, for such a delightful lady
+
+- Tim takes Graham's hand, as if to kiss it
+
+**_Oz_** : I think there's something WRONG with you Tim. This is quite clearly a man.
+
+**_Flynn_** : Graham... What are you DOING here? And why are you wearing a dress?
 
 **_Graham_** : Never mind that. Why are you all lounging around like drunken sailors? You're supposed to be on a quest. Where is the bell?
 
@@ -1698,13 +1726,12 @@ SONG: Copa Cabana
 
 **_Graham_** : And where is the ship?
 
-**_Tim_** : Actually, it's not a ship, it's a yacht. And it's in the harbour, over th... oh, it's gone
+**_Tim_** : Actually, Graham, it's not a ship, it's a yacht. Perhaps, you'd join me for drinks on the... oh, it's gone.
 
-**_Oz_** : Jean must have taken her
+**_Oz_** : Jean must have taken it.
 
 **_Graham_** : Jean?? JEAN!!! You've given the ship to Jean
 
-- Tim looks like he's ready to explode but manages to bottle it up
 - The others nod
 
 **_Graham_** : And you've given the bell to Jean
@@ -1719,7 +1746,7 @@ SONG: Copa Cabana
 
 - They nod again
 
-**_Graham_** : You sailed to the exact place I told you to avoid at all costs. You set Jean free. Then you gave the bell to Jean. Then you kidnapped the woman I love and handed her over to Jean. Jean has the bell, the clanger and a ship.
+**_Graham_** : You sailed to the exact place I told you to avoid at all costs. You set Jean free. Then you gave the bell to Jean. Then you handed my love over to Jean. Jean has the bell, the clanger and a ship.
 
 **_Tim_** : It's A YACHT!!!
 
@@ -1727,19 +1754,33 @@ SONG: Copa Cabana
 **_Flynn_** : Not Now Tim!!!
 **_Oz_** : Not Now Tim!!!
 
-**_Graham_** : Soon Jean will control the Kraken. (Pirates walk into the bar) And then, she will cause chaos on the seas.
+- Nobeard, Norah and Scary walk on
+
+**_Graham_** : Soon Jean will control the Kraken. And then, she will cause chaos on the seas.
 
 **_Nobeard_** : Cause chaos on the seas? That's our job.
 
 **_Flynn_** : Pirates!!!!
 
-**_Scary_** : Yarrrr, show me where she is and I'll slit her throat. Or maybe I'll slit yours
+**_Oz_** : Pirates?
 
-- She grabs Flynn and her cutlass reveals Flynn's necklace
+- Oz runs off, terrified
 
-**_Scary_** : Who be you?
+**_Scary_** : Yarrrr, show me where this Jean is and I'll slit her throat.
+
+- Scary turns her attention to Flynn who is looking a little too closely at her
+- She holds her cutlass to his neck and reveals Flynn's necklace
+
+**_Scary_** : Or maybe I'll slit yours! Who be you?
+
+- Flynn spins around, grabs Nobeard's cutlass and then turns back to Scary
 
 **_Flynn_** : Well, yarrrrrrrrrrrrr! I'm Flynn. Maybe I'LL slit YOUR throat!
+
+- Ginger and Sporty walk on and hears his name
+- Sporty approaches Prawns and makes a karate move
+- Prawns looks confused
+- Ginger goes to Flynn
 
 **_Ginger_** : Flynn - is it really you, my love from across the waves?
 
@@ -1777,7 +1818,9 @@ SONG: Copa Cabana
 
 **_Flynn_** : Yarrrrrrrrrrrr!
 
-- All the pirates gasp (except Posh, who's filming it for TikTok)
+- Posh walks on
+- All the other pirates gasp
+- except Posh, who's starts filming it for TikTok
 
 **_Posh_** : Oh my gosh, guys. Total pirate vibes. This is so going viral on TikTok. Hashtag Royal-Beard!
 
@@ -1785,23 +1828,30 @@ SONG: Copa Cabana
 
 **_Flynn_** : Knew what? What's happening? Yarrrr, pieces of eight.
 
+- Prawns gets really close to Flynn and stares at the beard...
+
 **_Ginger_** : Flynn, don't you see. It all makes sense. It's why we had such a strong connection.
 
 **_Nobeard_** : The legend is true! The magical whiskers only fit the face of the true Pirate Prince!
 
-**_Graham_** : Great galloping galoshes! Big Beard's son? I had no idea, I found you on the doorstep, I brought you up for forty years, you never once showed the slightest interest in pirates.
-
-- Prawns gets really close to Flynn and stares at the beard...
-
 **_Prawns_** : Can I stroke it?
 
-**_Flynn_** : I'm a prince? A pirate prince?! Well take heed me hearties. Jean has stolen my father's bell. Jean has stolen Graham's mermaid. And Jean has stolen Tim's Dad's Yacht! I say we show Jean what happens when you mess with pirates... who's with me?
+**_Graham_** : Great galloping galoshes! Bigbeard must have left you on my doorstep... You're Bigbeard's son!
 
-**_Nobeard_** : Yarrr! No amateur sea-witch steals our thunder! We're going to find this Jean, and we're going to show her who the real chaos queens are! Ready the ship girls!
+**_Flynn_** : I'm Bigbeard's son? A pirate prince?!
 
-- Ginger, Sporty, Scary, Norah all leave, dragging Graham, Oz and Tim with them
+- The pirates all nod
 
-- NAVY ARRIVE (up aisle?)
+**_Flynn_** : Well take heed me hearties. Jean has stolen my father's bell. Jean has stolen Graham's mermaid. And Jean has stolen Tim's Dad's Yacht! I say we show Jean what happens when you mess with pirates... who's with me?
+
+**_Norah_** : Yarrr! **_Scary_** : Yarrr! **_Sporty_** : Yarrr! **_Ginger_** : Yarrr! **_Nobeard_** : Yarrr!
+
+**_Posh_** : Yah!
+
+**_Nobeard_** : Ready the ship girls!
+
+- Ginger, Sporty, Scary, Norah and Posh leave, dragging Graham and Tim with them
+- Navy arrive up the aisle
 - Boy is carrying a cannonball
 
 **_Boy_** : Permission to collapse from exhaustion, Captain?
@@ -1834,13 +1884,14 @@ SONG: Copa Cabana
 
 **_Flynn_** : Not THAT kind of navel, Prawns! They mean the King's ships, not your belly button fluff!
 
-- Posh pushes through them. She has her phone out, filming a selfie.
+- Posh returns to stage.
+- She has her phone out, filming a selfie.
 
-**_Posh_** : Hey guys, so we are literally about to get arrested, it is tragic. Hit like and subscribe!
+**_Posh_** : Hey guys, so we are literally about to get arrested, it's a total injustice! Hit like and subscribe!
 
 **_Captain Biggleswade_** : Penelope?!
 
-**_Posh_** : Oh, my gosh. Seriously? Daddy?! What are you doing here? You are totally ruining my aesthetic.
+**_Posh_** : Oh, my gosh. Seriously? Daddy? What are you doing here? You are totally ruining my aesthetic.
 
 **_Lieutenant Crump_** : Good heavens! It's Lady Penelope Biggleswade! The runner-up at last year's Debutante Ball!
 
@@ -1862,17 +1913,18 @@ SONG: Copa Cabana
 
 **_Flynn_** : It's Jean! She's at Nudii Bay! If you arrest us now, we all die. Let us join forces, and defeat her!
 
-**_Captain Biggleswade_** : Crump... what do the Navy regulations say about collaborating with pirates if one of them is your first-born daughter?
+**_Captain Biggleswade_** : Crump... what do Navy regulations say about collaborating with pirates if one of them is your first-born daughter?
 
 **_Lieutenant Crump_** : Regulation 19 states that family comes first, sir. Especially if a giant sea monster is involved.
 
-**_Captain Biggleswade_** : Very well! Arrests are officially postponed! But Penelope, you are grounded as soon as this "Kraken" is defeated.
+**_Captain Biggleswade_** : Very well! Arrests are officially postponed! But as soon as this "Kraken" is defeated, you are grounded Penelope.
 
-**_Posh_** : Ugh, fine. Can I at least film the battle?
+**_Posh_** : Whatever. Can I at least film the battle?
 
-**_Captain Biggleswade_** : Only if you make sure to film my best angle. Now, to Nudii Bay! Boy, bring the artillery!
+**_Captain Biggleswade_** : Only if you get my best angle. Now, to Nudii Bay! Boy, bring the artillery!
 
-- Boy picks up the cannonball
+- Everyone leaves, except Boy
+- Boy struggles to pick up the cannonball 
 
 **_Boy_** : Why couldn't I have been press-ganged into a bakery?
 
@@ -1920,7 +1972,7 @@ SONG: Copa Cabana
 
 **_Stella_** : You could have been an accountant Jean... you could have been an accountant.... sob...
 
-**_Jean_** : There... I see it... I shall test its power... Kraken... I command you... unleash your fire-breath on Nudii Island!!
+**_Jean_** : There... I see it... I shall test its power... Kraken... I command you... unleash your fire-breath!
 
 - There is a loud roar and a burst of orange light
 - Offstage we hear (or maybe onstage in flesh coloured body suits with Ken wearing his tie and flat cap)
@@ -1941,7 +1993,7 @@ SONG: Copa Cabana
 
 **_Ken_** : "Flippin' octopus, with it's flippin' fireballs. I knew we shouldn't have come here. We've got a perfectly nice bungalow in Langley"
 
-**_Dorothy_** : "Langley's boring Ken..."
+**_Dorothy_** : "Oh... Langley's BORING Ken..."
 
 - Curtains
 
@@ -1992,10 +2044,11 @@ SONG: Copa Cabana
 **_Nobeard_** : Fire..
 
 - The audience throw cannonballs
-- The yacht takes a hit and begins to sink
 - We hear Graham from offstage
 
 **_Graham_** : Be careful, Stella is on board that ship.
+
+- The yacht takes a hit and begins to sink
 
 **_Flynn_** : Gahhhhhh! The bell's on that ship. Without the bell we can't control the Kraken. We've failed.
 
@@ -2005,7 +2058,7 @@ SONG: Copa Cabana
 
 - Norah whispers more
 
-**_Nobeard_** : She says you have the power of Bigbeard's Big Beard. You can stop the Kraken.
+**_Nobeard_** : She says YOU have the power of Bigbeard's Big Beard. You can stop the Kraken.
 
 **_Flynn_** : What? How? What do I say?
 
@@ -2028,8 +2081,20 @@ SONG: Copa Cabana
 - Stella appears from the sea holding the bell
 - Graham walks on stage
 
-**_Graham_** : Stella, you're alive. You see boys, not only is she the most beautiful woman in the world... but she's brave too.
+**_Graham_** : Stella, you're alive. You see, not only is she the most beautiful woman in the world... but she's brave too. Stella, would you make me the happiest man in the world?
 
+**_Stella_** : Graham? Is that you? But you're a man... dressed as a woman... that's not right, that's not right at all. Why would a man dress up as a woman? No Graham, I'm looking for a REAL man... Where's that lovely Tim?
+
+- She leaves looking for Tim
+
+**_Graham_** : STELLA!!!!!!
+
+- Vernon and Jess appear from opposite sides of the stage
+
+**_Vernon_** : How many more times?
+
+**_Vernon_** : We've only got Carling or John Smiths!
+**_Jess_** : We've only got Carling or John Smiths!
 # 26 - Finale
 
 - Walkdown wraps things up
