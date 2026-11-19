@@ -9,6 +9,7 @@
 **_Ken_** : I'm going as fast as I can Dorothy. Anyway, it'll be rubbish, these local pantomimes always are
 
 **_Dorothy_** : Ken! Don't be so rude - It's nice to get out and about, do things, meet people. Hello, I don't think we've met, what's your name. Well it's lovely to meet you. I'm Dorothy, and this is Ken... Ken... what are you doing
+
 **_Ken_** : I'm seeing if this hearing-aid loop's working... Ohhh, it is! Right, if they start singing, I'm turning this off. Last year there were that fool, prancing around pretending to be Freddie Mercury. He couldn't hold a note to save his life.
 
 - Ken walks back up the aisle
@@ -72,6 +73,7 @@ MUSIC: Jean's Theme
 
 # 2 - Pirate Raid on Audience
 
+
 - The pirates appear through the curtains
 
 **_Nobeard_** : Right this 'ere map was from Big Beard 'imself so I'm hoping for gold. X marks the spot where the treasure lies. Now its 3 paces forward and 1 pace to the left.... the bounty lies here, Yarrrrr!
@@ -112,7 +114,7 @@ SONG: Wannabe by The Spicy Girls
 
 - Norah sniffs the air, looks around and then whispers into Nobeard's ear
 
-**_Nobeard_** : Really, nearby you reckon. Girls, it's close...
+**_Nobeard_** : Really? Nearby you reckon? Girls... it's close...
 
 **_Sporty_** : Bigbeard's Big Beard?
 
@@ -484,7 +486,12 @@ SONG: Wannabe by The Spicy Girls
 
 - A sack is dragged on stage containing treasure they've nicked, they throw out bounty bars to the audience, shoes also emerge from the sack
 - Finally, Norah pulls out the Big Beard
-- The other pirates Yarrrr excitedly (except Posh)
+
+**_Norah_** : Yarrrr!
+**_Scary_** : Yarrrr!
+**_Sporty_** : Yarrrr!
+**_Ginger_** : Yarrrr!
+**_Nobeard_** : Yarrrr!
 
 **_Posh_** : Ewwww. Gross.
 
@@ -548,8 +555,9 @@ SONG: Wannabe by The Spicy Girls
 **_Sporty_** : Yarrrr!
 **_Ginger_** : Yarrrr!
 
-**_Posh_** : Yah! (the rest glower at her)
+**_Posh_** : Yah!
 
+- The rest look angrily at her
 - Curtains
 
 # 6 - Ken Finds The Bottle
@@ -557,7 +565,7 @@ SONG: Wannabe by The Spicy Girls
 
 **_Dorothy_** : Ken, what are you doing now? They're about to start the next scene.
 
-**_Ken_** : I've just been backstage, it's an absolute disgrace, stuff strewn all over the place. It's a fire hazard. Honestly, the state of things these days, kids on e-bikes, the internet, fly tipping. I've complained to the council but they don't do anything... They didn't empty our bins for months last year... Look, look at this. This is exactly the sort of thing I'm talking about. In my day, we didn't leave bottles lying around. We'd take 'em to the bottle bank. It's got a bit of paper in it. Why would anyone... it's got a message written on it... what possesses people to do this sort of thing? Why would anyone put a message in a bottle? And what's this? A perfectly good ukulele thrown out... I'm going to write another complaint...
+**_Ken_** : I've just been backstage, it's an absolute disgrace, stuff strewn all over the place. It's a fire hazard. Honestly, the state of things these days, kids on e-bikes, the internet, fly tipping. I've complained to the council but they don't do anything... They didn't empty our bins for months last year... Look, look at this. This is exactly the sort of thing I'm talking about. In my day, we didn't leave bottles lying around. We'd take 'em to the bottle bank. It's got a bit of paper in it... it's got a message written on it... what possesses people to do this sort of thing? Why would anyone put a message in a bottle? And what's this? A perfectly good ukulele thrown out... I'm going to write another complaint...
 
 - SONG: MESSAGE TO THE COUNCIL
 
@@ -572,7 +580,7 @@ SONG: Wannabe by The Spicy Girls
 
 **_Prawns_** : Oh, right, we don't really understand maps.
 
-**_Oz_** : Well obviously. Right so now I'm ready to look at it the other way round. Ah, yes, I see, so we're here, Billy Ocean is to the West and then just across Dire Strait is, wait, what does this cross mean?
+**_Oz_** : Well obviously. Right so now I'm ready to look at it the other way round. Ah, yes, I see, so we're here, Billy Ocean is to the West, Muddy Waters to the South and then just across Dire Strait is, wait, what does this cross mean?
 
 **_Flynn_** : Oh, I, errr, I'm not sure. Graham did mention it, but I... Prawns?
 
@@ -998,7 +1006,7 @@ SONG: IN THE NAVY (FOC)
 **_Elvis_** : This here's Priscilla, and this here's my little Lisa Marie. Well come on girls, say hello to these nice folks... I'm sorry... they're both a little "shy".
 
 - Milk that joke if no-one gets it (or even if they do!)
-- The fellowship look confused
+- The all look confused but are too embarrassed to say anything rude to Elvis
 
 **_Flynn_** : Delightful to meet you Priscilla
 
@@ -1010,7 +1018,7 @@ SONG: IN THE NAVY (FOC)
 
 - The coconut talks to Elvis
 
-**_Elvis_** : Oh Priscilla I couldn't, I'm outta practice. Well if you're sure. (turning to the fellowship) Priscilla says I should sing for you. I'll just go get ready.
+**_Elvis_** : Oh Priscilla I couldn't, I'm outta practice. Well if you're sure. Priscilla says I should sing for you. I'll just go get ready.
 
 **_Oz_** : I think we should go back to the yacht. This man is clearly deranged.
 
@@ -1024,7 +1032,7 @@ SONG: ALL SHOOK UP
 
 - Curtains close
 
-# 13 - Fellowship Rescue Jean
+# 13 - Jean is Rescued
 
 
 - The moon is a half-moon
@@ -1185,7 +1193,6 @@ SONG: ALL SHOOK UP
 
 # 15 - Arrival at Thomas Cook Island
 
-§ Sign, "Thomas Cook Island - Welcome to The Last Resort"
 
 FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
@@ -1606,7 +1613,7 @@ SONG: Copa Cabana
 
 **_Lieutenant Crump_** : We don't usually get involved in missing persons cases. We're The Royal Navy you see.
 
-**_Captain Biggleswade_** : What did they look like. Were they a bit piratey?
+**_Captain Biggleswade_** : What did they look like? Were they a bit piratey?
 
 **_Vernon_** : A bit "piratey"?
 
@@ -1648,6 +1655,7 @@ SONG: Copa Cabana
 - Jess and Vernon disappear through the curtains
 
 # 20 - Jean and Stella
+
 
 - The moon is 3/4
 
@@ -1699,7 +1707,7 @@ SONG: Copa Cabana
 **_Captain Biggleswade_** : By Jupiter! Avert your eyes boy. You're too young to see this sort of thing.
 Crump, plot a course due west we're going to catch those blasted pirates. When I get hold of them, they won't have a leg to stand on!
 
-# 22 - The Fellowship Regret Their Actions
+# 22 - The Morning After Stella's Kidnap
 
 
 **_Prawns_** : My head hurts, I can't remember what happened last night.
@@ -2121,12 +2129,7 @@ Crump, plot a course due west we're going to catch those blasted pirates. When I
 **_Jess_** : We've only got Carling or John Smiths!
 # 26 - Finale
 
-- Walkdown wraps things up
-- Pirate King (Flynn) should be the keeper of the Kraken Bell
-- Flynn and Ginger become Pirate King and Queen
-- Tim's upset about his yacht sinking - he's going to be in trouble with Daddy - Penelope reassures him that he needn't worry about what Daddy thinks
 - Meanwhile, a bedraggled figure is washed up on the shore of Nudii Bay
-- Curtains open
 
 **_Dorothy_** : Oh, hello, you're new here aren't you. What's YOUR name?
 

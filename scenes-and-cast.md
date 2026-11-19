@@ -13,7 +13,7 @@
 |10 - Sailing Tim's Dad's Yacht||x|x|x|x||||||||||||||
 |11 - Seasick||||||||||||||||x|x|x|
 |12 - Elvis Island||x|x|x|x||||x||||||||||
-|13 - Fellowship Rescue Jean||x|x|x|x|x|||||||||||||
+|13 - Jean is Rescued||x|x|x|x|x|||||||||||||
 |14 - Ken and Dorothy Win The Raffle|x|x|||||||||||||||||
 |15 - Arrival at Thomas Cook Island||x|x|x|x||x|x|||||||||||
 |16 - Navy Guys Deploy The Seagull||||||||||||||||x|x||
@@ -22,7 +22,7 @@
 |19 - Navy Guys Interview Vernon and Jess|||||||x|x||||||||x|x|x|
 |20 - Jean and Stella||||||x|||x||||||||||
 |21 - The Navy Spot The Pirates||||||||||||||||x|x||
-|22 - The Fellowship Regret Their Actions|x|x|x|x|x|||||x|x|x|x|x|x|x|x|x|
+|22 - The Morning After Stella's Kidnap|x|x|x|x|x|||||x|x|x|x|x|x|x|x|x|
 |23 - Ken and Dorothy arrive on Nudii Bay|x|x|||||||||||||||||
 |24 - The Kraken is summoned in Nudii Bay|x|x||||x|||x||||||||||
 |25 - Pirate Battle Plan|x||x||||x|x|x|x||x||x|x||||
