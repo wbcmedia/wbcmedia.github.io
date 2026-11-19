@@ -1,55 +1,4 @@
-# 0 - Ken and Dorothy Introduction
-
-
-- Lights out - no health and safety announcements
-- Ken and Dorothy walk up the aisle.
-
-**_Dorothy_** : Hurry up Ken - we're going to be late. There might not be any seats left
-
-**_Ken_** : I'm going as fast as I can Dorothy. Anyway, it'll be rubbish, these local pantomimes always are
-
-**_Dorothy_** : Ken! Don't be so rude - It's nice to get out and about, do things, meet people. Hello, I don't think we've met, what's your name. Well it's lovely to meet you. I'm Dorothy, and this is Ken... Ken... what are you doing
-
-**_Ken_** : I'm seeing if this hearing-aid loop's working... Ohhh, it is! Right, if they start singing, I'm turning this off. Last year there were that fool, prancing around pretending to be Freddie Mercury. He couldn't hold a note to save his life.
-
-- Ken walks back up the aisle
-
-**_Dorothy_** : I thought he were really good Ken. He had a lovely moustache. Ken? Ken? What are you doing now?
-
-**_Ken_** : I'm just checking the fire exit. If this place goes up, I'm not getting stuck behind some idiot in a giant cow costume.
-
-**_Dorothy_** : Oh, stop fretting Ken, I'm sure there won't be a fire alarm, 
-
-**_Ken_** :  But if there is, we all need to go out of here.
-
-**_Dorothy_** : These people all know that, don't you?
-
-**_Ken_** : Well I'm just checking, you can never be too careful.
-
-**_Dorothy_** : Oh give it a rest Ken. Now have you bought some raffle tickets?
-
-**_Ken_** : Raffle tickets? No, of course I haven't.
-
-**_Dorothy_** : Well we'll buy some in the interval then, just before they do the draw. Find Linda, ask her for ten pound's worth.
-
-**_Ken_** : Ten pounds!!! We're on a pension Dorothy. We can't be spending money like water. Oooh, why did you make me say that? I need the toilet now.
-
-**_Dorothy_** : Oh Ken - why didn't you go before we left.
-
-**_Ken_** : I did... I need to go again... I have a very efficient bladder.
-
-**_Dorothy_** : Well I know for a fact that the toilets are out there in car park. You'll just have to cross your legs, wait til the interval. Oh, and then we can get a drink from the bar.
-
-**_Ken_** : Hmmph, the bar! They don't have proper beer! Last time they only had Carling and John Smiths. I'd have loved a Bishop's Finger. Oooooh, I can't wait for the interval, I'm going now...
-
-- Ken leaves through the curtains
-
-**_Dorothy_** : Oh Ken... Enjoy the show everyone.
-
-- Dorothy leaves through the curtains
-
 # 1 - Introduction
-
 
 - Many years ago, The Pirate King, Bigbeard, would drink grog and make merry in a small tavern called Graham's Bar.
 - As King Of The Pirates, Bigbeard was, the keeper of "The Kraken Bell", an ancient artefact which could summon the world's most powerful sea-monster.
@@ -72,7 +21,6 @@
 MUSIC: Jean's Theme
 
 # 2 - Pirate Raid on Audience
-
 
 - The pirates appear through the curtains
 
@@ -132,7 +80,6 @@ SONG: Wannabe by The Spicy Girls
 **_Nobeard_** : Right girls, back to the ship, to see who shall be the new Pirate King.
 
 # 3 - The Mermaid's Chest Tavern
-
 
 - The Mermaid's Chest Tavern just after last orders
 - Boy is sweeping in the background
@@ -238,7 +185,7 @@ SONG: Wannabe by The Spicy Girls
 
 **_Prawns_** : Just this bell, and a note
 
-**_Flynn_** :  What does it say?
+**_Flynn_** : What does it say?
 
 **_Prawns_** : It says... "Graham, keep this safe. Don't let it out of your sight. And don't ever go near Mermaid Cove. Yarrrr!" What's all THAT mean?
 
@@ -248,7 +195,7 @@ SONG: Wannabe by The Spicy Girls
 
 **_Prawns_** : See, I've not woken him. It didn't even make a noise.
 
-**_Flynn_** : Why would anyone keep a bell that doesn't ring? 
+**_Flynn_** : Why would anyone keep a bell that doesn't ring?
 
 - There is an ominous rumbling followed by a terrifying screeching sound heard from a distance
 - Graham stirs, splutters a little and then wakes. He looks at the bell and then looks horrified.
@@ -261,7 +208,7 @@ SONG: Wannabe by The Spicy Girls
 
 **_Graham_** : Did you ring Bigbeard's "Silent Bell"?
 
-**_Flynn_** : Bigbeard?  He's the most famous pirate of ALL.  I've read every story about him. He's my hero!  Did you know him?  What was he like? 
+**_Flynn_** : Bigbeard? He's the most famous pirate of ALL. I've read every story about him. He's my hero! Did you know him? What was he like?
 
 **_Graham_** : Big Beard was the King of the Pirates. Pirates bring nothing but trouble. This bell brings nothing but trouble. I ask you again... Did you ring The Silent Bell.
 
@@ -388,7 +335,6 @@ SONG: Wannabe by The Spicy Girls
 
 # 4 - FOC Royal Navy
 
-
 **_Captain Biggleswade_** : Stop all this uproar, or I shall be forced to begin flogging some of you. Now as I expect you already know, I am Captain Biggleswade of His Majesty's Navy. THIS... is Lieutenant Crump.
 
 - Crump salutes so hard he hits himself in the face
@@ -415,7 +361,7 @@ SONG: Wannabe by The Spicy Girls
 
 - Once the scene is ready, a seagull "flies" out between the curtains with a message attached to its foot
 
-**_Captain Biggleswade_** : Lieutenant... This is a message from Naval Intelligence. A pirate ship has been sighted off the coast, close to our current position. We must set off in pursuit. 
+**_Captain Biggleswade_** : Lieutenant... This is a message from Naval Intelligence. A pirate ship has been sighted off the coast, close to our current position. We must set off in pursuit.
 
 **_Lieutenant Crump_** : Aye aye Captain Biggleswade
 
@@ -428,7 +374,6 @@ SONG: Wannabe by The Spicy Girls
 - They leave
 
 # 5 - On The Pirate Ship
-
 
 - The moon is a crescent
 - Nobeard addresses the audience
@@ -560,17 +505,7 @@ SONG: Wannabe by The Spicy Girls
 - The rest look angrily at her
 - Curtains
 
-# 6 - Ken Finds The Bottle
-
-
-**_Dorothy_** : Ken, what are you doing now? They're about to start the next scene.
-
-**_Ken_** : I've just been backstage, it's an absolute disgrace, stuff strewn all over the place. It's a fire hazard. Honestly, the state of things these days, kids on e-bikes, the internet, fly tipping. I've complained to the council but they don't do anything... They didn't empty our bins for months last year... Look, look at this. This is exactly the sort of thing I'm talking about. In my day, we didn't leave bottles lying around. We'd take 'em to the bottle bank. It's got a bit of paper in it... it's got a message written on it... what possesses people to do this sort of thing? Why would anyone put a message in a bottle? And what's this? A perfectly good ukulele thrown out... I'm going to write another complaint...
-
-- SONG: MESSAGE TO THE COUNCIL
-
 # 7 - Oz's Ship Shop
-
 
 **_Oz_** : Right then, let's have a look at this map of yours. I see, interesting, yes, the names seem to be in some kind of code, or perhaps a foreign language, no, no I think it must be a code, now then how to decipher it...
 
@@ -617,7 +552,7 @@ SONG: Wannabe by The Spicy Girls
 
 **_Oz_** : I was just helping these two gentlemen with a technical enquiry if you don't mind waiting your turn Tim.
 
-**_Tim_** :  Of course, there's no rush, I've just nipped in for tin of boat polish. Daddy wants the yacht looking spick and span for the weekend.
+**_Tim_** : Of course, there's no rush, I've just nipped in for tin of boat polish. Daddy wants the yacht looking spick and span for the weekend.
 
 **_Flynn_** : You've got a boat?
 
@@ -666,30 +601,21 @@ SONG: Wannabe by The Spicy Girls
 
 # 8 - Jean Does Something Evil
 
-
 - The moon is a crescent
 - Siren song
 - Reference the moon?
 
-Come down brave sailors from your wooden deck
-Forget the cold spray and the looming wreck
-Forget the high winds and the stormy skies
-And rest your weary salt crusted eyes
-Come closer bold pirates, don't fear the deep
-The ocean is singing to rock you to sleep
-Step right to the edge, let the anchor drop down
-Where all of your worries and memories drown
-Now look in my eyes, let your senses erase
-You're trapped in the spell of my watery embrace
-No thoughts in your mind and no breath in your chest
-The sea witch commands you, now sink to your rest
+JEAN DOES SOME EVIL STUFF
+
+SINGS AN EVIL SONG?
+
+EATS A SEAGULL?
 
 **_Jean_** : Come to me my pretty, Jean is feeling peckish
 
 - Bites head off seagull
 
 # 9 - The Pirates visit The Mermaid's Chest
-
 
 **_Nobeard_** : Right then girls, this be the tavern. Let's see if we can find these here mermaids.
 
@@ -843,7 +769,6 @@ SONG: IN THE NAVY (FOC)
 
 # 10 - Sailing Tim's Dad's Yacht
 
-
 - The moon is a bigger crescent
 - Flynn is steering Tim's Dad's yacht
 
@@ -883,7 +808,6 @@ SONG: IN THE NAVY (FOC)
 - Curtains Close
 
 # 11 - Seasick
-
 
 **_Captain Biggleswade_** : Sail on - those blasted pirates will be just over the horizon. We'll catch them for certain and then I'll be made Commodore. Can you smell the crisp salt air Crump?
 
@@ -947,7 +871,6 @@ SONG: IN THE NAVY (FOC)
 - some sort of falling over each other choreography and eventually the bucket of pretend vomit gets launched at the audience or it's more deliberate and they go to throw it one side - no not that side, that's the windward side
 
 # 12 - Elvis Island
-
 
 - The moon is a half-moon
 
@@ -1033,7 +956,6 @@ SONG: ALL SHOOK UP
 - Curtains close
 
 # 13 - Jean is Rescued
-
 
 - The moon is a half-moon
 
@@ -1167,7 +1089,6 @@ SONG: ALL SHOOK UP
 
 # 14 - Ken and Dorothy Win The Raffle
 
-
 - During interval and Ken gets the last prize in the raffle which is a big golden ticket
 - Linda draws "one last ticket"
 
@@ -1192,7 +1113,6 @@ SONG: ALL SHOOK UP
 - They disappear through the curtains?
 
 # 15 - Arrival at Thomas Cook Island
-
 
 FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
@@ -1268,7 +1188,6 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 # 16 - Navy Guys Deploy The Seagull
 
-
 **_Lieutenant Crump_** : Still no sign of the pirates sir.
 
 **_Captain Biggleswade_** : Hmmm. Time to deploy our secret weapon Crump
@@ -1295,9 +1214,7 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 **_Captain Biggleswade_** : He was never the same after he had that funny Tern
 
-
 # 17 - Bad Luck on The Iron Lady
-
 
 - The beard is hanging from the rigging
 - Nobeard takes it in order to have another go at trying it on
@@ -1320,17 +1237,17 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 **_Posh_** : That horrible bird. It attacked me. Like in that film, with all the birds and they attacked that woman. The film, what was it called?
 
 **_Norah_** : The Birds?
-**_Scary_** : The Birds? 
-**_Sporty_** : The Birds? 
-**_Ginger_** : The Birds? 
+**_Scary_** : The Birds?
+**_Sporty_** : The Birds?
+**_Ginger_** : The Birds?
 **_Nobeard_** : The Birds?
 
 **_Posh_** : Exactly, with all the birds. What was the film called?
 
-**_Norah_** : The Birds! 
-**_Scary_** : The Birds! 
-**_Sporty_** : The Birds! 
-**_Ginger_** : The Birds! 
+**_Norah_** : The Birds!
+**_Scary_** : The Birds!
+**_Sporty_** : The Birds!
+**_Ginger_** : The Birds!
 **_Nobeard_** : The Birds!
 
 **_Posh_** : No, I can't remember either. Anyway, they've ruined my new jacket, yahhhh.
@@ -1394,7 +1311,7 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 **_Scary_** : I says we hoists him from the crows nest... by his neck.
 
-**_Sporty_** : But we needs him to find the mermaid's treasure? 
+**_Sporty_** : But we needs him to find the mermaid's treasure?
 
 - Nobeard returns carrying a dress and wig
 
@@ -1504,7 +1421,6 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 # 18 - Trip to Mermaid Cove
 
-
 - The moon is at 3/4
 - FOC, Jess and Vernon are addressing the coach party
 
@@ -1545,7 +1461,27 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 SONG: Copa Cabana
 
-**_Stella_** : My name's Stella... I'm Queen of the Mermaids and it's my pleasure to perform for you this evening. Now then, let's have a look at you. Oh, we've got a lovely audience in tonight. Look at you all, packed in like sardines! Though looking at some of your faces, I think you've been in the ocean a bit too long. You look washed up! Oh, and who have we got here, ah look, bless him. Spent two hours doing his hair... and then came out without it. And talking of bold, that's a rather bold ensemble we're wearing there isn't it sir. I think you're right about that top you know, it'll come back in. And what's your name? Any idea? Well David, you know I didn't come to you at random don't you? I think the audience have noticed. Ever since I shimmied out onto this stage David, you've been undressing me with your eyes... and who can blame you, you are but a man. I know all about men. Between you and me, David I've got a stalker, now you probably can't tell in this outfit but if you play your cards right, you can help me look for the root of the problem. Anyway, I can't be standing here talking to you all night, I need to get ready for my next performance.
+**_Stella_** : My name's Stella... I'm Queen of the Mermaids and it's my pleasure to perform for you this evening.
+
+Now then, let's have a look at you. Oh, we've got a lovely audience in tonight. Look at you all, packed in like sardines! I think some of you have been in the ocean a bit too long. Lots of wrinkly faces out there aren't there?
+
+Oh, and who have we got here? Ahh, bless him. Spent two hours doing his hair... and then came here without it.
+
+Anyway, never mind bald... that's a rather BOLD ensemble we're wearing sir. I think you're right about that top you know. I think it WILL come back in... one day.
+
+What do you think of MY outfit? Do you like my bikini? The other mermaids wear bikinis made of "SEA-shells"... They had to make MINE out of "Double-D Shells"!
+
+- She stares provocatively, squeezes her chest
+
+Hello Boys!
+
+Oh now, what's your name? Any idea?
+
+- The audience member tells her his name
+
+Well David, you know I haven't picked on you at random don't you? I think the audience have noticed. Ever since I shimmied out onto this stage David, you've been undressing me with your eyes... and who can blame you, you are but a man. I know all about men, they can be beastly. Between you and me, David, I've got a stalker. You probably can't tell in this outfit but if you play your cards right, you can help me look for the root of the problem.
+
+Anyway, I can't be standing here talking to you all night, I haven't had time to do my hair... it's chaos back there... I've been chasing my tail all evening.
 
 - Starts brushing hair
 
@@ -1603,7 +1539,6 @@ SONG: Copa Cabana
 
 # 19 - Navy Guys Interview Vernon and Jess
 
-
 - They've reported 4 missing guests
 - Navy are keen to establish if they are the pirates
 
@@ -1656,7 +1591,6 @@ SONG: Copa Cabana
 
 # 20 - Jean and Stella
 
-
 - The moon is 3/4
 
 **_Jean_** : Oh Stella, what a delight to see you again. I hope you don't mind if I keep you in the net, but I don't want you wriggling your way out of this.
@@ -1692,7 +1626,6 @@ SONG: Copa Cabana
 
 # 21 - The Navy Spot The Pirates
 
-
 **_Captain Biggleswade_** : So to recap we're looking for Stella, Annette and some Pirates.
 
 - Crump is scanning with his telescope
@@ -1708,7 +1641,6 @@ SONG: Copa Cabana
 Crump, plot a course due west we're going to catch those blasted pirates. When I get hold of them, they won't have a leg to stand on!
 
 # 22 - The Morning After Stella's Kidnap
-
 
 **_Prawns_** : My head hurts, I can't remember what happened last night.
 
@@ -1871,10 +1803,10 @@ Crump, plot a course due west we're going to catch those blasted pirates. When I
 
 **_Flynn_** : Well take heed me hearties. Jean has stolen my father's bell. Jean has stolen Graham's mermaid. And Jean has stolen Tim's Dad's Yacht! I say we show Jean what happens when you mess with pirates... who's with me?
 
-**_Norah_** : Yarrr! 
-**_Scary_** : Yarrr! 
-**_Sporty_** : Yarrr! 
-**_Ginger_** : Yarrr! 
+**_Norah_** : Yarrr!
+**_Scary_** : Yarrr!
+**_Sporty_** : Yarrr!
+**_Ginger_** : Yarrr!
 **_Nobeard_** : Yarrr!
 
 **_Posh_** : Yah!
@@ -1955,7 +1887,7 @@ Crump, plot a course due west we're going to catch those blasted pirates. When I
 **_Captain Biggleswade_** : Only if you get my best angle. Now, to Nudii Bay! Boy, bring the artillery!
 
 - Everyone leaves, except Boy
-- Boy struggles to pick up the cannonball 
+- Boy struggles to pick up the cannonball
 
 **_Boy_** : Why couldn't I have been press-ganged into a bakery?
 
@@ -1981,7 +1913,6 @@ Crump, plot a course due west we're going to catch those blasted pirates. When I
 **_Ken_** : Well, I'm keeping my tie on. THAT's non-negotiable.
 
 # 24 - The Kraken is summoned in Nudii Bay
-
 
 **_Jean_** : This is it, we're here, in Nudii Bay. The bell and the clanger are together again. All I need to do now is ring the bell, and I shall control the awesome power of The Kraken.
 
@@ -2028,7 +1959,6 @@ Crump, plot a course due west we're going to catch those blasted pirates. When I
 - Curtains
 
 # 25 - Pirate Battle Plan
-
 
 - Nobeard and Flynn enter from the back and walk up the aisle
 
@@ -2127,6 +2057,7 @@ Crump, plot a course due west we're going to catch those blasted pirates. When I
 
 **_Vernon_** : We've only got Carling or John Smiths!
 **_Jess_** : We've only got Carling or John Smiths!
+
 # 26 - Finale
 
 - Meanwhile, a bedraggled figure is washed up on the shore of Nudii Bay
@@ -2138,4 +2069,3 @@ Crump, plot a course due west we're going to catch those blasted pirates. When I
 **_Dorothy_** : Lovely to meet you Jean. I'm Dorothy and this is... oh where is he? Ken? Ken? He'll be in his shed... Anyway... Let's get you out of these wet clothes.
 
 THE END
-

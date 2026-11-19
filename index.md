@@ -1,7 +1,7 @@
 <h1>Panto 2027 - Yarrr!</h1>
 
 <p>
-    Current version is v0.26
+    Current version is v0.27
 </p>
 <p>
 Read script <a href="draft">online</a>
@@ -10,13 +10,13 @@ Read script <a href="draft">online</a>
 <p>
 Download PDF Format (Suitable for printing)
     <ul>
-<li><a href="Yarrr_v0.26_SMALL.pdf">Small Font (12pt)</a></li>
-<li><a href="Yarrr_v0.26_MEDIUM.pdf">Medium Font (18pt)</a></li>
-<li><a href="Yarrr_v0.26_LARGE.pdf">Large Font (24pt)</a></li>
+<li><a href="Yarrr_v0.27_SMALL.pdf">Small Font (12pt)</a></li>
+<li><a href="Yarrr_v0.27_MEDIUM.pdf">Medium Font (18pt)</a></li>
+<li><a href="Yarrr_v0.27_LARGE.pdf">Large Font (24pt)</a></li>
     </ul>
 </p>
 <p>
-    Download <a href="Yarrr_v0.26.epub">EPub Format (Phone, iPad, Kindle etc)</a>
+    Download <a href="Yarrr_v0.27.epub">EPub Format (Phone, iPad, Kindle etc)</a>
 </p>
 <hr />
 <p>Suitable mobile app for reading if you don't already have one <a href="https://readera.org/">ReadEra</a></p>
