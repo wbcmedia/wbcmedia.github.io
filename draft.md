@@ -1,4 +1,61 @@
+# 0 - Ken and Dorothy Introduction
+
+<p class='summary'>
+Intro to get audience warmed up and let them know about fire exits, toilets etc
+</p>
+
+- Lights out - no health and safety announcements
+- Ken and Dorothy walk up the aisle.
+
+**_Dorothy_** : Hurry up Ken - we're going to be late. There might not be any seats left
+
+**_Ken_** : I'm going as fast as I can Dorothy. Anyway, it'll be rubbish, these local pantomimes always are
+
+**_Dorothy_** : Ken! Don't be so rude - It's nice to get out and about, do things, meet people. Hello, I don't think we've met, what's your name. Well it's lovely to meet you. I'm Dorothy, and this is Ken... Ken... what are you doing
+
+**_Ken_** : I'm seeing if this hearing-aid loop's working... Ohhh, it is! Right, if they start singing, I'm turning this off. Last year there were that fool, prancing around pretending to be Freddie Mercury. He couldn't hold a note to save his life.
+
+- Ken walks back up the aisle
+
+**_Dorothy_** : I thought he were really good Ken. He had a lovely moustache. Ken? Ken? What are you doing now?
+
+**_Ken_** : I'm just checking the fire exit. If this place goes up, I'm not getting stuck behind some idiot in a giant cow costume.
+
+**_Dorothy_** : Oh, stop fretting Ken, I'm sure there won't be a fire alarm, 
+
+**_Ken_** :  But if there is, we all need to go out of here.
+
+**_Dorothy_** : These people all know that, don't you?
+
+**_Ken_** : Well I'm just checking, you can never be too careful.
+
+**_Dorothy_** : Oh give it a rest Ken. Now have you bought some raffle tickets?
+
+**_Ken_** : Raffle tickets? No, of course I haven't.
+
+**_Dorothy_** : Well we'll buy some in the interval then, just before they do the draw. Find Linda, ask her for ten pound's worth.
+
+**_Ken_** : Ten pounds!!! We're on a pension Dorothy. We can't be spending money like water. Oooh, why did you make me say that? I need the toilet now.
+
+**_Dorothy_** : Oh Ken - why didn't you go before we left.
+
+**_Ken_** : I did... I need to go again... I have a very efficient bladder.
+
+**_Dorothy_** : Well I know for a fact that the toilets are out there in car park. You'll just have to cross your legs, wait til the interval. Oh, and then we can get a drink from the bar.
+
+**_Ken_** : Hmmph, the bar! They don't have proper beer! Last time they only had Carling and John Smiths. I'd have loved a Bishop's Finger. Oooooh, I can't wait for the interval, I'm going now...
+
+- Ken leaves through the curtains
+
+**_Dorothy_** : Oh Ken... Enjoy the show everyone.
+
+- Dorothy leaves through the curtains
+
 # 1 - Introduction
+
+<p class='summary'>
+Tell the audience what they need to know about the legend of Bigbeard, The Silent Bell, The Kraken, Stella, Graham and Jean
+</p>
 
 - Many years ago, The Pirate King, Bigbeard, would drink grog and make merry in a small tavern called Graham's Bar.
 - As King Of The Pirates, Bigbeard was, the keeper of "The Kraken Bell", an ancient artefact which could summon the world's most powerful sea-monster.
@@ -21,6 +78,10 @@
 MUSIC: Jean's Theme
 
 # 2 - Pirate Raid on Audience
+
+<p class='summary'>
+We meet the pirate characters who, after finding a bit of rubbish booty, and singing a Spicy Girls Song, find Bigbeard's Big Beard.
+</p>
 
 - The pirates appear through the curtains
 
@@ -80,6 +141,10 @@ SONG: Wannabe by The Spicy Girls
 **_Nobeard_** : Right girls, back to the ship, to see who shall be the new Pirate King.
 
 # 3 - The Mermaid's Chest Tavern
+
+<p class='summary'>
+We meet Flynn, Prawns and Graham. Flynn and Prawns take Graham's "Silent Bell" while he's asleep and inadvertently wake The Kraken. Graham is furious and scared - he explains the story of the bell and we establish that the clanger needs to be found. Flynn and Prawns set off on their quest to find Stella the mermaid.
+</p>
 
 - The Mermaid's Chest Tavern just after last orders
 - Boy is sweeping in the background
@@ -185,7 +250,7 @@ SONG: Wannabe by The Spicy Girls
 
 **_Prawns_** : Just this bell, and a note
 
-**_Flynn_** : What does it say?
+**_Flynn_** :  What does it say?
 
 **_Prawns_** : It says... "Graham, keep this safe. Don't let it out of your sight. And don't ever go near Mermaid Cove. Yarrrr!" What's all THAT mean?
 
@@ -195,7 +260,7 @@ SONG: Wannabe by The Spicy Girls
 
 **_Prawns_** : See, I've not woken him. It didn't even make a noise.
 
-**_Flynn_** : Why would anyone keep a bell that doesn't ring?
+**_Flynn_** : Why would anyone keep a bell that doesn't ring? 
 
 - There is an ominous rumbling followed by a terrifying screeching sound heard from a distance
 - Graham stirs, splutters a little and then wakes. He looks at the bell and then looks horrified.
@@ -208,7 +273,7 @@ SONG: Wannabe by The Spicy Girls
 
 **_Graham_** : Did you ring Bigbeard's "Silent Bell"?
 
-**_Flynn_** : Bigbeard? He's the most famous pirate of ALL. I've read every story about him. He's my hero! Did you know him? What was he like?
+**_Flynn_** : Bigbeard?  He's the most famous pirate of ALL.  I've read every story about him. He's my hero!  Did you know him?  What was he like? 
 
 **_Graham_** : Big Beard was the King of the Pirates. Pirates bring nothing but trouble. This bell brings nothing but trouble. I ask you again... Did you ring The Silent Bell.
 
@@ -335,6 +400,10 @@ SONG: Wannabe by The Spicy Girls
 
 # 4 - FOC Royal Navy
 
+<p class='summary'>
+We meet "The Royal Navy", who demand that the audience tells them where The Pirates are. Once the next scene is ready, they set off in pursuit...
+</p>
+
 **_Captain Biggleswade_** : Stop all this uproar, or I shall be forced to begin flogging some of you. Now as I expect you already know, I am Captain Biggleswade of His Majesty's Navy. THIS... is Lieutenant Crump.
 
 - Crump salutes so hard he hits himself in the face
@@ -361,7 +430,7 @@ SONG: Wannabe by The Spicy Girls
 
 - Once the scene is ready, a seagull "flies" out between the curtains with a message attached to its foot
 
-**_Captain Biggleswade_** : Lieutenant... This is a message from Naval Intelligence. A pirate ship has been sighted off the coast, close to our current position. We must set off in pursuit.
+**_Captain Biggleswade_** : Lieutenant... This is a message from Naval Intelligence. A pirate ship has been sighted off the coast, close to our current position. We must set off in pursuit. 
 
 **_Lieutenant Crump_** : Aye aye Captain Biggleswade
 
@@ -374,6 +443,10 @@ SONG: Wannabe by The Spicy Girls
 - They leave
 
 # 5 - On The Pirate Ship
+
+<p class='summary'>
+We are introduced to each of The Pirates and learn a little about their characters. They all try on Bigbeard's Big Beard, eager to become the new Pirate King, but it doesn't fit any of them. To make things worse, it appears that their recent treasure hauls have been rubbish. Norah tells them they should look for mermaids as they have the best treasure. We see Ginger sending another message to her long-distance "love".
+</p>
 
 - The moon is a crescent
 - Nobeard addresses the audience
@@ -505,7 +578,20 @@ SONG: Wannabe by The Spicy Girls
 - The rest look angrily at her
 - Curtains
 
+# 6 - Ken Finds The Bottle
+
+
+**_Dorothy_** : Ken, what are you doing now? They're about to start the next scene.
+
+**_Ken_** : I've just been backstage, it's an absolute disgrace, stuff strewn all over the place. It's a fire hazard. Honestly, the state of things these days, kids on e-bikes, the internet, fly tipping. I've complained to the council but they don't do anything... They didn't empty our bins for months last year... Look, look at this. This is exactly the sort of thing I'm talking about. In my day, we didn't leave bottles lying around. We'd take 'em to the bottle bank. It's got a bit of paper in it... it's got a message written on it... what possesses people to do this sort of thing? Why would anyone put a message in a bottle? And what's this? A perfectly good ukulele thrown out... I'm going to write another complaint...
+
+- SONG: MESSAGE TO THE COUNCIL
+
 # 7 - Oz's Ship Shop
+
+<p class='summary'>
+Flynn and Prawns meet Oz. Oz explains the map, even though he probably doesn't actually know anything about maps at all. Tim arrives and Flynn spots the opportunity to get hold of a boat. Unwittingly, Oz and Tim have joined "The Band of Heroes".
+</p>
 
 **_Oz_** : Right then, let's have a look at this map of yours. I see, interesting, yes, the names seem to be in some kind of code, or perhaps a foreign language, no, no I think it must be a code, now then how to decipher it...
 
@@ -552,7 +638,7 @@ SONG: Wannabe by The Spicy Girls
 
 **_Oz_** : I was just helping these two gentlemen with a technical enquiry if you don't mind waiting your turn Tim.
 
-**_Tim_** : Of course, there's no rush, I've just nipped in for tin of boat polish. Daddy wants the yacht looking spick and span for the weekend.
+**_Tim_** :  Of course, there's no rush, I've just nipped in for tin of boat polish. Daddy wants the yacht looking spick and span for the weekend.
 
 **_Flynn_** : You've got a boat?
 
@@ -601,21 +687,36 @@ SONG: Wannabe by The Spicy Girls
 
 # 8 - Jean Does Something Evil
 
+<p class='summary'>
+We see Jean bobbing around in the Ocean, chained to a buoy. She sings something, makes reference to the moon and The Kraken, then bites the head off a seagull?
+</p>
+
 - The moon is a crescent
 - Siren song
 - Reference the moon?
 
-JEAN DOES SOME EVIL STUFF
-
-SINGS AN EVIL SONG?
-
-EATS A SEAGULL?
+Come down brave sailors from your wooden deck
+Forget the cold spray and the looming wreck
+Forget the high winds and the stormy skies
+And rest your weary salt crusted eyes
+Come closer bold pirates, don't fear the deep
+The ocean is singing to rock you to sleep
+Step right to the edge, let the anchor drop down
+Where all of your worries and memories drown
+Now look in my eyes, let your senses erase
+You're trapped in the spell of my watery embrace
+No thoughts in your mind and no breath in your chest
+The sea witch commands you, now sink to your rest
 
 **_Jean_** : Come to me my pretty, Jean is feeling peckish
 
 - Bites head off seagull
 
 # 9 - The Pirates visit The Mermaid's Chest
+
+<p class='summary'>
+The Pirates come looking for mermaids and treasure at The Mermaid's Chest. Graham is intimidated by the Spicy Girls as they try to get him to reveal the wherabouts of his mermaid and more importantly, her treasure. Eventually they decide to take him by force back to their ship. As soon as the Pirates leave, The Navy arrive and find the Tavern empty except for Boy. After questioning him about Graham and The Pirates they pressgang him into The Navy.
+</p>
 
 **_Nobeard_** : Right then girls, this be the tavern. Let's see if we can find these here mermaids.
 
@@ -769,6 +870,10 @@ SONG: IN THE NAVY (FOC)
 
 # 10 - Sailing Tim's Dad's Yacht
 
+<p class='summary'>
+The heroes have set sail in Tim's Dad's Yacht, in spite of Tim's reservations. A storm begins to develop, presumably caused by The Kraken. Flynn begins to come over a bit piratey, takes command and steers the Yacht towards a small island for safety.
+</p>
+
 - The moon is a bigger crescent
 - Flynn is steering Tim's Dad's yacht
 
@@ -808,6 +913,10 @@ SONG: IN THE NAVY (FOC)
 - Curtains Close
 
 # 11 - Seasick
+
+<p class='summary'>
+The Navy continue to pursue Pirates while also insulting the audience. Boy is struggling to find his sea-legs and eventually succumbs to a heavy bout of vomiting. The full bucket of vomit is thrown overboard, there may be some collateral damage to the audience.
+</p>
 
 **_Captain Biggleswade_** : Sail on - those blasted pirates will be just over the horizon. We'll catch them for certain and then I'll be made Commodore. Can you smell the crisp salt air Crump?
 
@@ -871,6 +980,10 @@ SONG: IN THE NAVY (FOC)
 - some sort of falling over each other choreography and eventually the bucket of pretend vomit gets launched at the audience or it's more deliberate and they go to throw it one side - no not that side, that's the windward side
 
 # 12 - Elvis Island
+
+<p class='summary'>
+The Heroes take refuge from the storm on a small island where they meet Elvis and his "family" of coconuts. Elvis has obviously gone mad having been marooned for many years.
+</p>
 
 - The moon is a half-moon
 
@@ -956,6 +1069,10 @@ SONG: ALL SHOOK UP
 - Curtains close
 
 # 13 - Jean is Rescued
+
+<p class='summary'>
+The Heroes find Jean chained to a Buoy and release her. They think she's going to help them find Stella, but Jean makes it clear to the audience that she is the evil one.
+</p>
 
 - The moon is a half-moon
 
@@ -1089,6 +1206,10 @@ SONG: ALL SHOOK UP
 
 # 14 - Ken and Dorothy Win The Raffle
 
+<p class='summary'>
+At the end of the interval, Ken wins the last raffle prize, a holiday at the tropical Nudii Bay. Dorothy is excited, Ken is not, until he realises he doesn't have to sit through the second half of this panto.
+</p>
+
 - During interval and Ken gets the last prize in the raffle which is a big golden ticket
 - Linda draws "one last ticket"
 
@@ -1113,6 +1234,10 @@ SONG: ALL SHOOK UP
 - They disappear through the curtains?
 
 # 15 - Arrival at Thomas Cook Island
+
+<p class='summary'>
+We meet Vernon and Jess, holiday reps at "The Last Resort" on Thomas Cook Island. The Band of Heroes arrive, looking for Mermaid Cove. Vernon sees an opportunity to fleece the only guests they've had for months.
+</p>
 
 FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
@@ -1188,6 +1313,10 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 # 16 - Navy Guys Deploy The Seagull
 
+<p class='summary'>
+The Navy send their seagull spy on a mission to find The Pirates. Just an excuse for some bad bird-puns!
+</p>
+
 **_Lieutenant Crump_** : Still no sign of the pirates sir.
 
 **_Captain Biggleswade_** : Hmmm. Time to deploy our secret weapon Crump
@@ -1214,7 +1343,12 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 **_Captain Biggleswade_** : He was never the same after he had that funny Tern
 
+
 # 17 - Bad Luck on The Iron Lady
+
+<p class='summary'>
+The weather is getting bad and "bad things" are happening on the pirate ship. The Pirates blame Graham, because it's bad luck to have a man onboard their ship. They make him dress as a lady, hoping this will solve the problem. Ginger receives a message from her "love" Flynn - he tells her about their quest, and Jean. Graham realises The Heroes have met Jean and fearing they've messed up the quest, demands The Pirates help him to get to Stella before Jean does.
+</p>
 
 - The beard is hanging from the rigging
 - Nobeard takes it in order to have another go at trying it on
@@ -1237,17 +1371,17 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 **_Posh_** : That horrible bird. It attacked me. Like in that film, with all the birds and they attacked that woman. The film, what was it called?
 
 **_Norah_** : The Birds?
-**_Scary_** : The Birds?
-**_Sporty_** : The Birds?
-**_Ginger_** : The Birds?
+**_Scary_** : The Birds? 
+**_Sporty_** : The Birds? 
+**_Ginger_** : The Birds? 
 **_Nobeard_** : The Birds?
 
 **_Posh_** : Exactly, with all the birds. What was the film called?
 
-**_Norah_** : The Birds!
-**_Scary_** : The Birds!
-**_Sporty_** : The Birds!
-**_Ginger_** : The Birds!
+**_Norah_** : The Birds! 
+**_Scary_** : The Birds! 
+**_Sporty_** : The Birds! 
+**_Ginger_** : The Birds! 
 **_Nobeard_** : The Birds!
 
 **_Posh_** : No, I can't remember either. Anyway, they've ruined my new jacket, yahhhh.
@@ -1311,7 +1445,7 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 **_Scary_** : I says we hoists him from the crows nest... by his neck.
 
-**_Sporty_** : But we needs him to find the mermaid's treasure?
+**_Sporty_** : But we needs him to find the mermaid's treasure? 
 
 - Nobeard returns carrying a dress and wig
 
@@ -1420,6 +1554,10 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 **_Scary_** : I'll cut off both your legs. And THEN make you walk the plank!
 
 # 18 - Trip to Mermaid Cove
+
+<p class='summary'>
+The Heroes meet Stella, the mermaid. Jean has hypnotised them and ordered them to kidnap Stella. After a song and dance, and a bit of dame-banter, Stella is distracted by Tim and Oz, while Flynn and Prawns trap her in a large net.
+</p>
 
 - The moon is at 3/4
 - FOC, Jess and Vernon are addressing the coach party
@@ -1539,6 +1677,10 @@ Anyway, I can't be standing here talking to you all night, I haven't had time to
 
 # 19 - Navy Guys Interview Vernon and Jess
 
+<p class='summary'>
+The Navy are interviewing Vernon and Jess after they reported four missing guests. Biggleswade is keen to find out if these are the pirates he's obsessed about. Jess mentions that Stella has also disappeared.
+</p>
+
 - They've reported 4 missing guests
 - Navy are keen to establish if they are the pirates
 
@@ -1591,6 +1733,10 @@ Anyway, I can't be standing here talking to you all night, I haven't had time to
 
 # 20 - Jean and Stella
 
+<p class='summary'>
+The Heroes have taken Stella back to the yacht and handed her over to Jean. Jean has then stolen the yacht, and has taken Stella's "Clanger Necklace". She taunts Stella with her evil plans to put the clanger back in the bell, sail to Nudii Bay, and take control of The Kraken.
+</p>
+
 - The moon is 3/4
 
 **_Jean_** : Oh Stella, what a delight to see you again. I hope you don't mind if I keep you in the net, but I don't want you wriggling your way out of this.
@@ -1626,6 +1772,10 @@ Anyway, I can't be standing here talking to you all night, I haven't had time to
 
 # 21 - The Navy Spot The Pirates
 
+<p class='summary'>
+The Navy finally spot the pirate ship on the horizon and head on in pursuit
+</p>
+
 **_Captain Biggleswade_** : So to recap we're looking for Stella, Annette and some Pirates.
 
 - Crump is scanning with his telescope
@@ -1641,6 +1791,10 @@ Anyway, I can't be standing here talking to you all night, I haven't had time to
 Crump, plot a course due west we're going to catch those blasted pirates. When I get hold of them, they won't have a leg to stand on!
 
 # 22 - The Morning After Stella's Kidnap
+
+<p class='summary'>
+The Heroes, groggy after being hypnotised, try to recall what happened. Graham arrives, still in his dress, and demands they tell him what they've done. They all realise that they've lost the bell, the clanger, Stella and Tim's yacht. The Pirates arrive and Norah spots Flynn's shark-tooth necklace, which she recognises as belonging to Bigbeard. They bring out the Big Beard and it fits Flynn perfectly - he is Bigbeard's son, and the new Pirate King.
+</p>
 
 **_Prawns_** : My head hurts, I can't remember what happened last night.
 
@@ -1803,10 +1957,10 @@ Crump, plot a course due west we're going to catch those blasted pirates. When I
 
 **_Flynn_** : Well take heed me hearties. Jean has stolen my father's bell. Jean has stolen Graham's mermaid. And Jean has stolen Tim's Dad's Yacht! I say we show Jean what happens when you mess with pirates... who's with me?
 
-**_Norah_** : Yarrr!
-**_Scary_** : Yarrr!
-**_Sporty_** : Yarrr!
-**_Ginger_** : Yarrr!
+**_Norah_** : Yarrr! 
+**_Scary_** : Yarrr! 
+**_Sporty_** : Yarrr! 
+**_Ginger_** : Yarrr! 
 **_Nobeard_** : Yarrr!
 
 **_Posh_** : Yah!
@@ -1887,12 +2041,15 @@ Crump, plot a course due west we're going to catch those blasted pirates. When I
 **_Captain Biggleswade_** : Only if you get my best angle. Now, to Nudii Bay! Boy, bring the artillery!
 
 - Everyone leaves, except Boy
-- Boy struggles to pick up the cannonball
+- Boy struggles to pick up the cannonball 
 
 **_Boy_** : Why couldn't I have been press-ganged into a bakery?
 
 # 23 - Ken and Dorothy arrive on Nudii Bay
 
+<p class='summary'>
+We hear Ken and Dorothy's flight land at Nudii Bay. It becomes clear that this is a nudist resort. Ken is not happy!
+</p>
 - Curtains closed, all pre-recorded
 - Tannoy announcement - "Welcome to Nudii Bay, your tropical paradise destination. Passengers are reminded that clothing is strictly forbidden. Please leave any items you are still wearing in the bins provided, and have your passports ready for inspection."
 
@@ -1913,6 +2070,10 @@ Crump, plot a course due west we're going to catch those blasted pirates. When I
 **_Ken_** : Well, I'm keeping my tie on. THAT's non-negotiable.
 
 # 24 - The Kraken is summoned in Nudii Bay
+
+<p class='summary'>
+Jean's yacht arrives in Nudii Bay. After some last minute sniping with Stella, she attaches the clanger and rings the bell and takes control of The Kraken. She orders it to use its fire-breath as a test of its power. Ken and Dorothy are alarmed to be under attack from a fire-ball breathing octopus thing.
+</p>
 
 **_Jean_** : This is it, we're here, in Nudii Bay. The bell and the clanger are together again. All I need to do now is ring the bell, and I shall control the awesome power of The Kraken.
 
@@ -1959,6 +2120,10 @@ Crump, plot a course due west we're going to catch those blasted pirates. When I
 - Curtains
 
 # 25 - Pirate Battle Plan
+
+<p class='summary'>
+The Pirates and The Heroes begin handing out cannonballs to the audience and prepare to do battle with Jean in Nudii Bay. Flynn and Nobeard give orders to the audience to fire at will. The yacht is damaged and begins to sink. Graham is concerned for Stella and Flynn realises that the bell will be lost and his quest has ended in failure. Norah, knowing about the legend of the Big Beard tells him that he can command the Kraken without the bell. He sends the Kraken back to the depths. Stella escapes unharmed but shows little interest in Graham's affection, preferring instead to seek out Posh Tim to whom she's taken quite a shine.
+</p>
 
 - Nobeard and Flynn enter from the back and walk up the aisle
 
@@ -2057,9 +2222,11 @@ Crump, plot a course due west we're going to catch those blasted pirates. When I
 
 **_Vernon_** : We've only got Carling or John Smiths!
 **_Jess_** : We've only got Carling or John Smiths!
-
 # 26 - Finale
 
+<p class='summary'>
+During the walkdown we wrap up the story. Flynn and Ginger become Pirate King and Queen. Tim's upset about his yacht sinking - he's going to be in trouble with Daddy but Penelope reassures him that he needn't worry about what Daddy thinks. Etc etc etc!
+</p>
 - Meanwhile, a bedraggled figure is washed up on the shore of Nudii Bay
 
 **_Dorothy_** : Oh, hello, you're new here aren't you. What's YOUR name?
@@ -2069,3 +2236,4 @@ Crump, plot a course due west we're going to catch those blasted pirates. When I
 **_Dorothy_** : Lovely to meet you Jean. I'm Dorothy and this is... oh where is he? Ken? Ken? He'll be in his shed... Anyway... Let's get you out of these wet clothes.
 
 THE END
+
