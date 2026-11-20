@@ -1,6 +1,6 @@
 # 0 - Ken and Dorothy Introduction
 
-<p class='summary'>
+<p class='scene-summary'>
 Intro to get audience warmed up and let them know about fire exits, toilets etc
 </p>
 
@@ -53,7 +53,7 @@ Intro to get audience warmed up and let them know about fire exits, toilets etc
 
 # 1 - Introduction
 
-<p class='summary'>
+<p class='scene-summary'>
 Tell the audience what they need to know about the legend of Bigbeard, The Silent Bell, The Kraken, Stella, Graham and Jean
 </p>
 
@@ -79,7 +79,7 @@ MUSIC: Jean's Theme
 
 # 2 - Pirate Raid on Audience
 
-<p class='summary'>
+<p class='scene-summary'>
 We meet the pirate characters who, after finding a bit of rubbish booty, and singing a Spicy Girls Song, find Bigbeard's Big Beard.
 </p>
 
@@ -142,7 +142,7 @@ SONG: Wannabe by The Spicy Girls
 
 # 3 - The Mermaid's Chest Tavern
 
-<p class='summary'>
+<p class='scene-summary'>
 We meet Flynn, Prawns and Graham. Flynn and Prawns take Graham's "Silent Bell" while he's asleep and inadvertently wake The Kraken. Graham is furious and scared - he explains the story of the bell and we establish that the clanger needs to be found. Flynn and Prawns set off on their quest to find Stella the mermaid.
 </p>
 
@@ -400,7 +400,7 @@ We meet Flynn, Prawns and Graham. Flynn and Prawns take Graham's "Silent Bell" w
 
 # 4 - FOC Royal Navy
 
-<p class='summary'>
+<p class='scene-summary'>
 We meet "The Royal Navy", who demand that the audience tells them where The Pirates are. Once the next scene is ready, they set off in pursuit...
 </p>
 
@@ -444,7 +444,7 @@ We meet "The Royal Navy", who demand that the audience tells them where The Pira
 
 # 5 - On The Pirate Ship
 
-<p class='summary'>
+<p class='scene-summary'>
 We are introduced to each of The Pirates and learn a little about their characters. They all try on Bigbeard's Big Beard, eager to become the new Pirate King, but it doesn't fit any of them. To make things worse, it appears that their recent treasure hauls have been rubbish. Norah tells them they should look for mermaids as they have the best treasure. We see Ginger sending another message to her long-distance "love".
 </p>
 
@@ -589,7 +589,7 @@ We are introduced to each of The Pirates and learn a little about their characte
 
 # 7 - Oz's Ship Shop
 
-<p class='summary'>
+<p class='scene-summary'>
 Flynn and Prawns meet Oz. Oz explains the map, even though he probably doesn't actually know anything about maps at all. Tim arrives and Flynn spots the opportunity to get hold of a boat. Unwittingly, Oz and Tim have joined "The Band of Heroes".
 </p>
 
@@ -687,7 +687,7 @@ Flynn and Prawns meet Oz. Oz explains the map, even though he probably doesn't a
 
 # 8 - Jean Does Something Evil
 
-<p class='summary'>
+<p class='scene-summary'>
 We see Jean bobbing around in the Ocean, chained to a buoy. She sings something, makes reference to the moon and The Kraken, then bites the head off a seagull?
 </p>
 
@@ -714,7 +714,7 @@ The sea witch commands you, now sink to your rest
 
 # 9 - The Pirates visit The Mermaid's Chest
 
-<p class='summary'>
+<p class='scene-summary'>
 The Pirates come looking for mermaids and treasure at The Mermaid's Chest. Graham is intimidated by the Spicy Girls as they try to get him to reveal the wherabouts of his mermaid and more importantly, her treasure. Eventually they decide to take him by force back to their ship. As soon as the Pirates leave, The Navy arrive and find the Tavern empty except for Boy. After questioning him about Graham and The Pirates they pressgang him into The Navy.
 </p>
 
@@ -870,7 +870,7 @@ SONG: IN THE NAVY (FOC)
 
 # 10 - Sailing Tim's Dad's Yacht
 
-<p class='summary'>
+<p class='scene-summary'>
 The heroes have set sail in Tim's Dad's Yacht, in spite of Tim's reservations. A storm begins to develop, presumably caused by The Kraken. Flynn begins to come over a bit piratey, takes command and steers the Yacht towards a small island for safety.
 </p>
 
@@ -914,7 +914,7 @@ The heroes have set sail in Tim's Dad's Yacht, in spite of Tim's reservations. A
 
 # 11 - Seasick
 
-<p class='summary'>
+<p class='scene-summary'>
 The Navy continue to pursue Pirates while also insulting the audience. Boy is struggling to find his sea-legs and eventually succumbs to a heavy bout of vomiting. The full bucket of vomit is thrown overboard, there may be some collateral damage to the audience.
 </p>
 
@@ -981,7 +981,7 @@ The Navy continue to pursue Pirates while also insulting the audience. Boy is st
 
 # 12 - Elvis Island
 
-<p class='summary'>
+<p class='scene-summary'>
 The Heroes take refuge from the storm on a small island where they meet Elvis and his "family" of coconuts. Elvis has obviously gone mad having been marooned for many years.
 </p>
 
@@ -1070,7 +1070,7 @@ SONG: ALL SHOOK UP
 
 # 13 - Jean is Rescued
 
-<p class='summary'>
+<p class='scene-summary'>
 The Heroes find Jean chained to a Buoy and release her. They think she's going to help them find Stella, but Jean makes it clear to the audience that she is the evil one.
 </p>
 
@@ -1206,7 +1206,7 @@ The Heroes find Jean chained to a Buoy and release her. They think she's going t
 
 # 14 - Ken and Dorothy Win The Raffle
 
-<p class='summary'>
+<p class='scene-summary'>
 At the end of the interval, Ken wins the last raffle prize, a holiday at the tropical Nudii Bay. Dorothy is excited, Ken is not, until he realises he doesn't have to sit through the second half of this panto.
 </p>
 
@@ -1235,7 +1235,7 @@ At the end of the interval, Ken wins the last raffle prize, a holiday at the tro
 
 # 15 - Arrival at Thomas Cook Island
 
-<p class='summary'>
+<p class='scene-summary'>
 We meet Vernon and Jess, holiday reps at "The Last Resort" on Thomas Cook Island. The Band of Heroes arrive, looking for Mermaid Cove. Vernon sees an opportunity to fleece the only guests they've had for months.
 </p>
 
@@ -1313,7 +1313,7 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 # 16 - Navy Guys Deploy The Seagull
 
-<p class='summary'>
+<p class='scene-summary'>
 The Navy send their seagull spy on a mission to find The Pirates. Just an excuse for some bad bird-puns!
 </p>
 
@@ -1346,7 +1346,7 @@ The Navy send their seagull spy on a mission to find The Pirates. Just an excuse
 
 # 17 - Bad Luck on The Iron Lady
 
-<p class='summary'>
+<p class='scene-summary'>
 The weather is getting bad and "bad things" are happening on the pirate ship. The Pirates blame Graham, because it's bad luck to have a man onboard their ship. They make him dress as a lady, hoping this will solve the problem. Ginger receives a message from her "love" Flynn - he tells her about their quest, and Jean. Graham realises The Heroes have met Jean and fearing they've messed up the quest, demands The Pirates help him to get to Stella before Jean does.
 </p>
 
@@ -1555,7 +1555,7 @@ The weather is getting bad and "bad things" are happening on the pirate ship. Th
 
 # 18 - Trip to Mermaid Cove
 
-<p class='summary'>
+<p class='scene-summary'>
 The Heroes meet Stella, the mermaid. Jean has hypnotised them and ordered them to kidnap Stella. After a song and dance, and a bit of dame-banter, Stella is distracted by Tim and Oz, while Flynn and Prawns trap her in a large net.
 </p>
 
@@ -1677,7 +1677,7 @@ Anyway, I can't be standing here talking to you all night, I haven't had time to
 
 # 19 - Navy Guys Interview Vernon and Jess
 
-<p class='summary'>
+<p class='scene-summary'>
 The Navy are interviewing Vernon and Jess after they reported four missing guests. Biggleswade is keen to find out if these are the pirates he's obsessed about. Jess mentions that Stella has also disappeared.
 </p>
 
@@ -1733,7 +1733,7 @@ The Navy are interviewing Vernon and Jess after they reported four missing guest
 
 # 20 - Jean and Stella
 
-<p class='summary'>
+<p class='scene-summary'>
 The Heroes have taken Stella back to the yacht and handed her over to Jean. Jean has then stolen the yacht, and has taken Stella's "Clanger Necklace". She taunts Stella with her evil plans to put the clanger back in the bell, sail to Nudii Bay, and take control of The Kraken.
 </p>
 
@@ -1772,7 +1772,7 @@ The Heroes have taken Stella back to the yacht and handed her over to Jean. Jean
 
 # 21 - The Navy Spot The Pirates
 
-<p class='summary'>
+<p class='scene-summary'>
 The Navy finally spot the pirate ship on the horizon and head on in pursuit
 </p>
 
@@ -1792,7 +1792,7 @@ Crump, plot a course due west we're going to catch those blasted pirates. When I
 
 # 22 - The Morning After Stella's Kidnap
 
-<p class='summary'>
+<p class='scene-summary'>
 The Heroes, groggy after being hypnotised, try to recall what happened. Graham arrives, still in his dress, and demands they tell him what they've done. They all realise that they've lost the bell, the clanger, Stella and Tim's yacht. The Pirates arrive and Norah spots Flynn's shark-tooth necklace, which she recognises as belonging to Bigbeard. They bring out the Big Beard and it fits Flynn perfectly - he is Bigbeard's son, and the new Pirate King.
 </p>
 
@@ -2047,7 +2047,7 @@ The Heroes, groggy after being hypnotised, try to recall what happened. Graham a
 
 # 23 - Ken and Dorothy arrive on Nudii Bay
 
-<p class='summary'>
+<p class='scene-summary'>
 We hear Ken and Dorothy's flight land at Nudii Bay. It becomes clear that this is a nudist resort. Ken is not happy!
 </p>
 - Curtains closed, all pre-recorded
@@ -2071,7 +2071,7 @@ We hear Ken and Dorothy's flight land at Nudii Bay. It becomes clear that this i
 
 # 24 - The Kraken is summoned in Nudii Bay
 
-<p class='summary'>
+<p class='scene-summary'>
 Jean's yacht arrives in Nudii Bay. After some last minute sniping with Stella, she attaches the clanger and rings the bell and takes control of The Kraken. She orders it to use its fire-breath as a test of its power. Ken and Dorothy are alarmed to be under attack from a fire-ball breathing octopus thing.
 </p>
 
@@ -2121,7 +2121,7 @@ Jean's yacht arrives in Nudii Bay. After some last minute sniping with Stella, s
 
 # 25 - Pirate Battle Plan
 
-<p class='summary'>
+<p class='scene-summary'>
 The Pirates and The Heroes begin handing out cannonballs to the audience and prepare to do battle with Jean in Nudii Bay. Flynn and Nobeard give orders to the audience to fire at will. The yacht is damaged and begins to sink. Graham is concerned for Stella and Flynn realises that the bell will be lost and his quest has ended in failure. Norah, knowing about the legend of the Big Beard tells him that he can command the Kraken without the bell. He sends the Kraken back to the depths. Stella escapes unharmed but shows little interest in Graham's affection, preferring instead to seek out Posh Tim to whom she's taken quite a shine.
 </p>
 
@@ -2224,7 +2224,7 @@ The Pirates and The Heroes begin handing out cannonballs to the audience and pre
 **_Jess_** : We've only got Carling or John Smiths!
 # 26 - Finale
 
-<p class='summary'>
+<p class='scene-summary'>
 During the walkdown we wrap up the story. Flynn and Ginger become Pirate King and Queen. Tim's upset about his yacht sinking - he's going to be in trouble with Daddy but Penelope reassures him that he needn't worry about what Daddy thinks. Etc etc etc!
 </p>
 - Meanwhile, a bedraggled figure is washed up on the shore of Nudii Bay
