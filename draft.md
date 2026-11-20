@@ -1,4 +1,4 @@
-# 0 - Ken and Dorothy Introduction
+# 0 - Ken and Dorothy's Introduction
 
 <p class='scene-summary'>
 Intro to get audience warmed up and let them know about fire exits, toilets etc
@@ -398,7 +398,7 @@ We meet Flynn, Prawns and Graham. Flynn and Prawns take Graham's "Silent Bell" w
 
 - Curtains close
 
-# 4 - FOC Royal Navy
+# 4 - The Royal Navy
 
 <p class='scene-summary'>
 We meet "The Royal Navy", who demand that the audience tells them where The Pirates are. Once the next scene is ready, they set off in pursuit...
@@ -578,8 +578,11 @@ We are introduced to each of The Pirates and learn a little about their characte
 - The rest look angrily at her
 - Curtains
 
-# 6 - Ken Finds The Bottle
+# 6 - Ken Finds A Message In A Bottle
 
+<p class='scene-summary'>
+An excuse for Ken to sing!
+</p>
 
 **_Dorothy_** : Ken, what are you doing now? They're about to start the next scene.
 
@@ -685,37 +688,24 @@ Flynn and Prawns meet Oz. Oz explains the map, even though he probably doesn't a
 
 - Curtains
 
-# 8 - Jean Does Something Evil
+# 8 - Jean Has Become an Evil Siren
 
 <p class='scene-summary'>
 We see Jean bobbing around in the Ocean, chained to a buoy. She sings something, makes reference to the moon and The Kraken, then bites the head off a seagull?
 </p>
 
 - The moon is a crescent
-- Siren song
-- Reference the moon?
-
-Come down brave sailors from your wooden deck
-Forget the cold spray and the looming wreck
-Forget the high winds and the stormy skies
-And rest your weary salt crusted eyes
-Come closer bold pirates, don't fear the deep
-The ocean is singing to rock you to sleep
-Step right to the edge, let the anchor drop down
-Where all of your worries and memories drown
-Now look in my eyes, let your senses erase
-You're trapped in the spell of my watery embrace
-No thoughts in your mind and no breath in your chest
-The sea witch commands you, now sink to your rest
+- Siren song?
+- More dialogue?
 
 **_Jean_** : Come to me my pretty, Jean is feeling peckish
 
 - Bites head off seagull
 
-# 9 - The Pirates visit The Mermaid's Chest
+# 9 - The Pirates Visit The Mermaid's Chest
 
 <p class='scene-summary'>
-The Pirates come looking for mermaids and treasure at The Mermaid's Chest. Graham is intimidated by the Spicy Girls as they try to get him to reveal the wherabouts of his mermaid and more importantly, her treasure. Eventually they decide to take him by force back to their ship. As soon as the Pirates leave, The Navy arrive and find the Tavern empty except for Boy. After questioning him about Graham and The Pirates they pressgang him into The Navy.
+The Pirates come looking for mermaids and treasure at The Mermaid's Chest. Graham is intimidated by the Spicy Girls as they try to get him to reveal the whereabouts of his mermaid and more importantly, her treasure. Eventually they decide to take him by force back to their ship. As soon as the Pirates leave, The Navy arrive and find the Tavern empty except for Boy. After questioning him about Graham and The Pirates they pressgang him into The Navy.
 </p>
 
 **_Nobeard_** : Right then girls, this be the tavern. Let's see if we can find these here mermaids.
@@ -912,7 +902,7 @@ The heroes have set sail in Tim's Dad's Yacht, in spite of Tim's reservations. A
 - Lights out
 - Curtains Close
 
-# 11 - Seasick
+# 11 - Boy Is Seasick
 
 <p class='scene-summary'>
 The Navy continue to pursue Pirates while also insulting the audience. Boy is struggling to find his sea-legs and eventually succumbs to a heavy bout of vomiting. The full bucket of vomit is thrown overboard, there may be some collateral damage to the audience.
@@ -1068,7 +1058,7 @@ SONG: ALL SHOOK UP
 
 - Curtains close
 
-# 13 - Jean is Rescued
+# 13 - Jean Is Rescued
 
 <p class='scene-summary'>
 The Heroes find Jean chained to a Buoy and release her. They think she's going to help them find Stella, but Jean makes it clear to the audience that she is the evil one.
@@ -1311,7 +1301,7 @@ FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 **_Vernon_** : Is there? I mean, yes, of course there is....Jess, Jess, fetch the book. Now, are you enjoying your Sellafield Sunrises? You can really taste the white spirit can't you?
 
-# 16 - Navy Guys Deploy The Seagull
+# 16 - The Navy Chaps Deploy The Seagull
 
 <p class='scene-summary'>
 The Navy send their seagull spy on a mission to find The Pirates. Just an excuse for some bad bird-puns!
@@ -1675,7 +1665,7 @@ Anyway, I can't be standing here talking to you all night, I haven't had time to
 
 - Lights and Curtains
 
-# 19 - Navy Guys Interview Vernon and Jess
+# 19 - The Navy Chaps Interview Vernon and Jess
 
 <p class='scene-summary'>
 The Navy are interviewing Vernon and Jess after they reported four missing guests. Biggleswade is keen to find out if these are the pirates he's obsessed about. Jess mentions that Stella has also disappeared.
@@ -2045,7 +2035,7 @@ The Heroes, groggy after being hypnotised, try to recall what happened. Graham a
 
 **_Boy_** : Why couldn't I have been press-ganged into a bakery?
 
-# 23 - Ken and Dorothy arrive on Nudii Bay
+# 23 - Ken and Dorothy Arrive at Nudii Bay
 
 <p class='scene-summary'>
 We hear Ken and Dorothy's flight land at Nudii Bay. It becomes clear that this is a nudist resort. Ken is not happy!
@@ -2069,7 +2059,7 @@ We hear Ken and Dorothy's flight land at Nudii Bay. It becomes clear that this i
 
 **_Ken_** : Well, I'm keeping my tie on. THAT's non-negotiable.
 
-# 24 - The Kraken is summoned in Nudii Bay
+# 24 - The Kraken is Summoned in Nudii Bay
 
 <p class='scene-summary'>
 Jean's yacht arrives in Nudii Bay. After some last minute sniping with Stella, she attaches the clanger and rings the bell and takes control of The Kraken. She orders it to use its fire-breath as a test of its power. Ken and Dorothy are alarmed to be under attack from a fire-ball breathing octopus thing.
@@ -2227,7 +2217,7 @@ The Pirates and The Heroes begin handing out cannonballs to the audience and pre
 <p class='scene-summary'>
 During the walkdown we wrap up the story. Flynn and Ginger become Pirate King and Queen. Tim's upset about his yacht sinking - he's going to be in trouble with Daddy but Penelope reassures him that he needn't worry about what Daddy thinks. Etc etc etc!
 </p>
-- Meanwhile, a bedraggled figure is washed up on the shore of Nudii Bay
+- VOICEOVER: Meanwhile, a bedraggled figure is washed up on the shore of Nudii Bay
 
 **_Dorothy_** : Oh, hello, you're new here aren't you. What's YOUR name?
 
