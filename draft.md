@@ -593,7 +593,7 @@ An excuse for Ken to sing!
 # 7 - Oz's Ship Shop
 
 <p class='scene-summary'>
-Flynn and Prawns meet Oz. Oz explains the map, even though he probably doesn't actually know anything about maps at all. Tim arrives and Flynn spots the opportunity to get hold of a boat. Unwittingly, Oz and Tim have joined "The Band of Heroes".
+Flynn and Prawns meet Oz. Oz explains the map, even though he probably doesn't actually know anything about maps at all. Tim arrives and Flynn spots the opportunity to get hold of a boat. Unwittingly, Oz and Tim join "The Band of Heroes".
 </p>
 
 **_Oz_** : Right then, let's have a look at this map of yours. I see, interesting, yes, the names seem to be in some kind of code, or perhaps a foreign language, no, no I think it must be a code, now then how to decipher it...
@@ -1229,7 +1229,7 @@ At the end of the interval, Ken wins the last raffle prize, a holiday at the tro
 We meet Vernon and Jess, holiday reps at "The Last Resort" on Thomas Cook Island. The Band of Heroes arrive, looking for Mermaid Cove. Vernon sees an opportunity to fleece the only guests they've had for months.
 </p>
 
-FX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
+- SFX : Cheesy 70s 80s Holiday Advert for TCI (30 seconds approx)
 
 **_Vernon_** : Right Jess, welcome to the dream team. Who did you work for previously?
 
@@ -1535,7 +1535,7 @@ The weather is getting bad and "bad things" are happening on the pirate ship. Th
 
 **_Norah_** : Well... it was a long time ago, but I've seen things...
 
-**_Ginger_** : I agree, we must act, there is danger ahead! Without my dear Flynn, I'd rather be dead! If I lose my 'dearest', my heart breaks in two— Oh, please tell me quickly, what should we do?
+**_Ginger_** : I agree, we must act, there is danger ahead! Without my dear Flynn, I'd rather be dead! If I lose my 'dearest', my heart breaks in two, oh, please tell me quickly, what should we do?
 
 **_Graham_** : Captain, I urge you. We're all in danger unless we stop Jean, and deal with The Kraken. Every ship will be smashed to pieces. All treasure will be lost.
 
@@ -1591,27 +1591,27 @@ SONG: Copa Cabana
 
 **_Stella_** : My name's Stella... I'm Queen of the Mermaids and it's my pleasure to perform for you this evening.
 
-Now then, let's have a look at you. Oh, we've got a lovely audience in tonight. Look at you all, packed in like sardines! I think some of you have been in the ocean a bit too long. Lots of wrinkly faces out there aren't there?
+**_Stella_** : Now then, let's have a look at you. Oh, we've got a lovely audience in tonight. Look at you all, packed in like sardines! I think some of you have been in the ocean a bit too long. Lots of wrinkly faces out there aren't there?
 
-Oh, and who have we got here? Ahh, bless him. Spent two hours doing his hair... and then came here without it.
+**_Stella_** : Oh, and who have we got here? Ahh, bless him. Spent two hours doing his hair... and then came here without it.
 
-Anyway, never mind bald... that's a rather BOLD ensemble we're wearing sir. I think you're right about that top you know. I think it WILL come back in... one day.
+**_Stella_** : Anyway, never mind bald... that's a rather BOLD ensemble we're wearing sir. I think you're right about that top you know. I think it WILL come back in... one day.
 
-What do you think of MY outfit? Do you like my bikini? The other mermaids wear bikinis made of "SEA-shells"... They had to make MINE out of "Double-D Shells"!
+**_Stella_** : What do you think of MY outfit? Do you like my bikini? The other mermaids wear bikinis made of "SEA-shells"... They had to make MINE out of "Double-D Shells"!
 
 - She stares provocatively, squeezes her chest
 
-Hello Boys!
+**_Stella_** : Hello Boys!
 
-Oh now, what's your name? Any idea?
+**_Stella_** : Oh now, what's your name? Any idea?
 
 - The audience member tells her his name
 
-Well David, you know I haven't picked on you at random don't you? I think the audience have noticed. Ever since I shimmied out onto this stage David, you've been undressing me with your eyes... and who can blame you, you are but a man. I know all about men, they can be beastly. Between you and me, David, I've got a stalker. You probably can't tell in this outfit but if you play your cards right, you can help me look for the root of the problem.
+**_Stella_** : Well David, you know I haven't picked on you at random don't you? I think the audience have noticed. Ever since I shimmied out onto this stage David, you've been undressing me with your eyes... and who can blame you, you are but a man. I know all about men, they can be beastly. Between you and me, David, I've got a stalker. You probably can't tell in this outfit but if you play your cards right, you can help me look for the root of the problem.
 
-Anyway, I can't be standing here talking to you all night, I haven't had time to do my hair... it's chaos back there... I've been chasing my tail all evening.
+**_Stella_** : Anyway, I can't be standing here talking to you all night, I haven't had time to do my hair... it's chaos back there... I've been chasing my tail all evening.
 
-- Starts brushing hair
+- She starts brushing her hair
 
 **_Prawns_** : It's Stella, the one we're looking for. This is Stella!!!
 
@@ -1619,7 +1619,7 @@ Anyway, I can't be standing here talking to you all night, I haven't had time to
 
 **_Flynn_** : I thought Graham said she was the most beautiful woman in the world?
 
-**_Tim_** : She seems delightful.
+**_Tim_** : He was right, she's gorgeous, and I've always had a thing for blondes.
 
 - Oz and Flynn look quizzically at Tim
 - Tim begins to approach Stella, smartening himself up
@@ -1661,7 +1661,7 @@ Anyway, I can't be standing here talking to you all night, I haven't had time to
 
 - Prawns throws the net over Stella and she begins flapping wildly
 
-**_Stella_** : Oi, what are you doing you scumbags. Let me go. What's going on. Why am I in this net. You can't do this. I'm Queen Of The Mermaids!!!
+**_Stella_** : Oi, what are you doing you scumbags? Let me go. What's going on? Why am I in this net? You can't do this. I'm Queen Of The Mermaids!!!
 
 - Lights and Curtains
 
@@ -2045,7 +2045,7 @@ We hear Ken and Dorothy's flight land at Nudii Bay. It becomes clear that this i
 
 **_Ken_** : You and your flipping raffle tickets Dorothy!
 
-**_Dorothy_** : Oh, stop grumbling, Ken! The weather's lovely. And look on the bright side—it's going to save a fortune on laundry bills!
+**_Dorothy_** : Oh, stop grumbling, Ken! The weather's lovely. And look on the bright side... it's going to save a fortune on laundry bills!
 
 **_Ken_** : I am NOT removing my trousers Dorothy.
 
