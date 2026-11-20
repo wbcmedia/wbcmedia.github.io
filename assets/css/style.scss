@@ -3,7 +3,9 @@
 @import "{{ site.theme }}";
 
 .scene-summary {
-  color: "red";
+  color: grey;
+  font-style: italic;
+  font-size: 1.4em;
 }
 
 .markdown-body p {
