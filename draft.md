@@ -156,7 +156,6 @@ We meet Flynn, Prawns and Graham. Flynn and Prawns take Graham's "Silent Bell" w
 
 - The Mermaid's Chest Tavern just after last orders
 - Boy is sweeping in the background
-- Prawns is collecting glasses
 - Flynn is reading a note which he's removed from a bottle
 
 **_Prawns_** : What you got there Flynn? Another letter from your girlfriend? Are you in lurrrrve?
@@ -377,13 +376,7 @@ We meet Flynn, Prawns and Graham. Flynn and Prawns take Graham's "Silent Bell" w
 
 **_Flynn_** : We promise. Right we're off to save the world from destruction.
 
-- Flynn rolls up the map and starts to leave
-- Prawns picks up the bell and follows him
-
 **_Prawns_** : Don't worry, we won't let you down.
-
-- They leave
-- Graham shakes his head sadly
 
 **_Graham_** : You already have my boys, you already have.
 
@@ -628,7 +621,7 @@ Flynn and Prawns meet Oz. Oz explains the map, even though he probably doesn't a
 
 **_Oz_** : Well of COURSE it's important. Red crosses on maps are always important. Well that's decided then. YOU need to go THERE. Now, let me do some calculations... that will be at least 3 days sailing. You'll need supplies for, let's say a week, to be safe? Now... which ship did you say was yours?
 
-- He's looking out across the harbour with a telescope?
+- He's looking out across the harbour 
 
 **_Flynn_** : Oh, we don't have a ship. We, erm, we hadn't really got that far...
 
@@ -762,7 +755,7 @@ The Pirates come looking for mermaids and treasure at The Mermaid's Chest. Graha
 
 **_Graham_** : I have no TREASURE.
 
-**_Scary_** : Sign outside says "The Mermaid's Chest". So where's the mermaid, and where's her chest?
+**_Scary_** : Sign says "The Mermaid's Chest". So where's the mermaid, and where's her chest?
 
 **_Graham_** : It's a long story. She is the love of my life. Her hair is like strands of gold, and her chest would...
 
@@ -1240,7 +1233,6 @@ The Heroes find Jean chained to a Buoy and release her. They think she's going t
 At the end of the interval, Ken wins the last raffle prize, a holiday at the tropical Nudii Bay. Dorothy is excited, Ken is not, until he realises he doesn't have to sit through the second half of this panto.
 </p>
 
-- During interval and Ken gets the last prize in the raffle which is a big golden ticket
 - Linda draws "one last ticket"
 
 **_Dorothy_** : That's us, that's our ticket... Oh I don't believe it!
@@ -1322,20 +1314,20 @@ We meet Vernon and Jess, holiday reps at "The Last Resort" on Thomas Cook Island
 
 **_Vernon_** : No there's no William here either. Did you book through a travel agency? Was it LastMinute, cos they're rubbish. Always leaving things until the la... well, you know...
 
+- Tim is getting a little too close to Jess
+- Jess is then trying to distance herself from him
+
 **_Flynn_** : We haven't "booked" at all. We're on a quest.
 
 **_Vernon_** : Oh, I see, no booking... well, let me think... Oooh, well you might be in luck, we've had a late cancellation. We may just be able to squeeze you in.
 
 **_Jess_** : I thought you said we hadn't had any guests in weeks?
 
-**_Vernon_** : Shut up Jess... I'm sorry, she's new. We've had lots of guests, we're almost fully booked... But, I CAN offer you a room for four in our "presidential suite".
+**_Vernon_** : Shut up Jess... I'm sorry, she's new. We've had LOTS of guests, we're almost fully booked... But, I CAN offer you a room for four in our "presidential suite".
 
 **_Jess_** : Do we have a presidential suite Vernon? It's not on my...
 
-- Tim is getting a little too close to Jess
-- Jess is then trying to distance herself from him
-
-**_Vernon_** : Be quiet Jess, of course we do. Now you're "all inclusive" which means you can eat as much egg and chips as you like, and all your local drinks are free, that's your Carling, your John Smiths and your B&Q White Spirit. Now are any of you interested in watersports? No? Well would you like to visit our "porcupine sanctuary"?
+**_Vernon_** : Be quiet Jess, of course we do. Now you're "all inclusive" which means you can eat as much egg and chips as you like, and all your local drinks are free, that's your Carling, your John Smiths and your B&Q White Spirit. Now, are any of you interested in watersports? No? Well would you like to visit our "porcupine sanctuary"?
 
 **_Flynn_** : We just want to go to Mermaid Cove.
 
@@ -1788,7 +1780,7 @@ The Heroes have taken Stella back to the yacht and handed her over to Jean. Jean
 
 **_Stella_** : No... if the Kraken rises, it'll destroy everything
 
-**_Jean_** : That is the whole point! You and Graham thought you were so clever. I will KILL YOU ALL... but I don't want to do it now or the pantomime will be too short. And we all want to get our money's worth, don't we? Besides, I have a reputation to uphold. I prefer my vengeance served cold and thoroughly wicked, ha ha ha! Now, what's this you're wearing round your neck.
+**_Jean_** : That is the whole point! You and Graham thought you were so clever. I will DESTROY YOU BOTH... but I don't want to do it now or the pantomime will be too short. And we all want to get our money's worth, don't we? Besides, I have a reputation to uphold. I prefer my vengeance served cold and thoroughly wicked, ha ha ha! Now, what's this you're wearing round your neck.
 
 - She pulls at the cord round Stella's neck
 - The clanger falls to the deck
@@ -1836,7 +1828,7 @@ Crump, plot a course due west we're going to catch those blasted pirates. When I
 
 (Thomas Cook Island)
 <p class='scene-summary'>
-The Heroes, groggy after being hypnotised, try to recall what happened. Graham arrives, still in his dress, and demands they tell him what they've done. They all realise that they've lost the bell, the clanger, Stella and Tim's yacht. The Pirates arrive and Norah spots Flynn's shark-tooth necklace, which she recognises as belonging to Bigbeard. They bring out the Big Beard and it fits Flynn perfectly - he is Bigbeard's son, and the new Pirate King.
+The Heroes, groggy after being hypnotised, try to recall what happened. Graham arrives, still in his dress, and demands they tell him what they've done. They all realise that they've lost the bell, the clanger, Stella and Tim's yacht. The Pirates arrive and Norah spots Flynn's pendant, which she recognises as belonging to Bigbeard. They bring out the Big Beard and it fits Flynn perfectly - he is Bigbeard's son, and the new Pirate King.
 </p>
 
 **_Prawns_** : My head hurts, I can't remember what happened last night.
@@ -1924,7 +1916,7 @@ The Heroes, groggy after being hypnotised, try to recall what happened. Graham a
 **_Scary_** : Yarrrr, show me where this Jean is and I'll slit her throat.
 
 - Scary turns her attention to Flynn who is looking a little too closely at her
-- She holds her cutlass to his neck and reveals Flynn's necklace
+- She holds her cutlass to his neck and reveals Flynn's pendant
 
 **_Scary_** : Or maybe I'll slit yours! Who be you?
 
@@ -1947,7 +1939,7 @@ The Heroes, groggy after being hypnotised, try to recall what happened. Graham a
 
 **_Ginger_** : I am! We ship stolen goods and logistically outrun the Navy!
 
-- Norah takes a really close look at Flynn's necklace
+- Norah takes a really close look at Flynn's pendant
 - Then she walks over to Nobeard and whispers urgently into her ear
 
 **_Nobeard_** : Arrrrrr ya sure?
@@ -2187,14 +2179,14 @@ The Pirates and The Heroes begin handing out cannonballs to the audience and pre
 **_Nobeard_** : Which of you can fire a canonball from the Iron Lady's broadsides?
 
 - Posh has been walking in and now steps on stage centre, taking selfies
-- Sporty and Norah enter carrying a crate of cannonballs
+- Sporty and Norah enter carrying a container of cannonballs
 - Ginger and Scary are taking cannonballs and passing them to members of the audience
 
 **_Ginger_** : Careful not to shoot backwards
 
 **_Scary_** : You look a likely lad. Think you can hit a ship from 50 yards?
 
-**_Ginger_** : There you go sir, ooooh, not the first time you've handled heavy balls.
+**_Ginger_** : There you go sir. Oooh... not the first time you've handled heavy balls.
 
 **_Scary_** : Aim right between their eyes
 
