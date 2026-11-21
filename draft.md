@@ -59,21 +59,7 @@ Intro to get audience warmed up and let them know about fire exits, toilets etc
 Tell the audience what they need to know about the legend of Bigbeard, The Silent Bell, The Kraken, Stella, Graham and Jean
 </p>
 
-- Many years ago, The Pirate King, Bigbeard, would drink grog and make merry in a small tavern run by Graham.
-- As King Of The Pirates, Bigbeard was, the keeper of "The Kraken Bell", an ancient artefact which could summon the world's most powerful sea-monster.
-- Bigbeard never had cause to use the Kraken Bell, but its existence meant that other pirates respected him and order was maintained.
-- Then there was Jean, who spent most of her time at the bar trying to catch Graham's eye.
-- But Graham had no interest in Jean - HE couldn't stop talking about his holiday romance with a cabaret singer named Stella.
-- They say that "Hell hath no fury, like a woman scorned". Jean had been scorned and in a jealous rage, vowed to harm Stella
-- Jean stowed away on Bigbeard's ship, then, during the night, emerged and stole Bigbeard's Kraken Bell
-- She rang the bell and ordered the Kraken to find Stella... and kill her
-- Bigbeard, was angry, the Kraken Bell was the property of the Pirate King and no-one else had the right to use it.
-- He confronted Jean, and wrestled the bell back, but in the struggle, Jean tore off Bigbeard's Big Beard and tossed it overboard
-- Bigbeard ordered the Kraken to return to the depths, but he'd been humiliated. He knew that without his magnificent Big Beard, he would lose the respect of his fellow pirates and could no longer be the guardian of the Kraken Bell.
-- Knowing that others would come looking for it, he removed the clanger from the bell and hatched a plan to keep the two parts apart
-- He sent the clanger East, with orders for Stella, to hide it.
-- He sent the now "Silent Bell" West, for Graham to hide
-- Finally, he sailed to the middle of the ocean where he chained Jean to a buoy. That was the last anyone saw of him.
+Many years ago, The Pirate King, Bigbeard, would drink grog and make merry in a small tavern run by Graham. As King Of The Pirates, Bigbeard was, the keeper of "The Kraken Bell", an ancient artefact which could summon the world's most powerful sea-monster. Bigbeard never had cause to use the Kraken Bell, but its existence meant that other pirates respected him and order was maintained. Then there was Jean, who spent most of her time at the bar trying to catch Graham's eye. But Graham had no interest in Jean - HE couldn't stop talking about his holiday romance with a cabaret singer named Stella. They say that "Hell hath no fury, like a woman scorned". Jean had been scorned and in a jealous rage, vowed to harm Stella. Jean stowed away on Bigbeard's ship, then, during the night, emerged and stole Bigbeard's Kraken Bell. She rang the bell and ordered the Kraken to find Stella... and kill her. Bigbeard, was angry, the Kraken Bell was the property of the Pirate King and no-one else had the right to use it. He confronted Jean, and wrestled the bell back, but in the struggle, Jean tore off Bigbeard's Big Beard and tossed it overboard. Bigbeard ordered the Kraken to return to the depths, but he'd been humiliated. He knew that without his magnificent Big Beard, he would lose the respect of his fellow pirates and could no longer be the guardian of the Kraken Bell. Knowing that others would come looking for it, he removed the clanger from the bell and hatched a plan to keep the two parts apart. He sent the clanger East, with orders for Stella, to hide it. He sent the now "Silent Bell" West, for Graham to hide. Finally, he sailed to the middle of the ocean where he chained Jean to a buoy. That was the last anyone saw of him.
 
 **_Jean_** : A curse upon Bigbeard, Graham and Stella. I will have my revenge. They will rue the day they crossed "Jean".
 
@@ -712,11 +698,11 @@ We see Jean bobbing around in the Ocean, chained to a buoy. She sings something,
 
 - Bites head off seagull
 
-# 9 - The Pirates Visit The Mermaid's Chest
+# 9a - The Pirates Visit The Mermaid's Chest
 
-(The Tavern/FOC)
+(The Tavern)
 <p class='scene-summary'>
-The Pirates come looking for mermaids and treasure at The Mermaid's Chest. Graham is intimidated by the Spicy Girls as they try to get him to reveal the whereabouts of his mermaid and more importantly, her treasure. Eventually they decide to take him by force back to their ship. As soon as the Pirates leave, The Navy arrive and find the Tavern empty except for Boy. After questioning him about Graham and The Pirates they pressgang him into The Navy.
+The Pirates come looking for mermaids and treasure at The Mermaid's Chest. Graham is intimidated by the Spicy Girls as they try to get him to reveal the whereabouts of his mermaid and more importantly, her treasure. Eventually they decide to take him by force back to their ship.
 </p>
 
 **_Nobeard_** : Right then girls, this be the tavern. Let's see if we can find these here mermaids.
@@ -797,6 +783,15 @@ The Pirates come looking for mermaids and treasure at The Mermaid's Chest. Graha
 **_Graham_** : Unhand me... I'm too old for this sort of thing... I can't go to sea... Who's going to look after the tavern? PUT ME DOWN!!!
 
 - They carry him off
+
+
+# 9b - The Navy Visit The Mermaid's Chest
+
+(The Tavern/FOC)
+<p class='scene-summary'>
+As soon as the Pirates leave, The Navy arrive and find the Tavern empty except for Boy. After questioning him about Graham and The Pirates they pressgang him into The Navy.
+</p>
+
 - The Navy arrive
 
 **_Captain Biggleswade_** : So this is The Mermaid's Chest?
@@ -1824,7 +1819,7 @@ The Navy finally spot the pirate ship on the horizon and head on in pursuit
 **_Captain Biggleswade_** : By Jupiter! Avert your eyes boy. You're too young to see this sort of thing.
 Crump, plot a course due west we're going to catch those blasted pirates. When I get hold of them, they won't have a leg to stand on!
 
-# 22 - The Morning After Stella's Kidnap
+# 22a - The Morning After Stella's Kidnap
 
 (Thomas Cook Island)
 <p class='scene-summary'>
@@ -2003,6 +1998,14 @@ The Heroes, groggy after being hypnotised, try to recall what happened. Graham a
 **_Nobeard_** : Ready the ship girls!
 
 - Ginger, Sporty, Scary, Norah and Posh leave, dragging Graham and Tim with them
+
+# 22b - The Morning After Stella's Kidnap (Navy Arrive)
+
+(Thomas Cook Island)
+<p class='scene-summary'>
+The Navy arrive and threaten to arrest Nobeard. We learn that Posh is Biggleswade's runaway daughter. Flynn convinces everyone to work together to stop Jean and The Kraken
+</p>
+
 - Navy arrive up the aisle
 - Boy is carrying a cannonball
 
@@ -2079,6 +2082,8 @@ The Heroes, groggy after being hypnotised, try to recall what happened. Graham a
 - Boy struggles to pick up the cannonball 
 
 **_Boy_** : Why couldn't I have been press-ganged into a bakery?
+
+- Curtains
 
 # 23 - Ken and Dorothy Arrive at Nudii Bay
 
@@ -2260,6 +2265,7 @@ The Pirates and The Heroes begin handing out cannonballs to the audience and pre
 
 **_Vernon_** : We've only got Carling or John Smiths!
 **_Jess_** : We've only got Carling or John Smiths!
+
 # 26 - Finale
 
 <p class='scene-summary'>
